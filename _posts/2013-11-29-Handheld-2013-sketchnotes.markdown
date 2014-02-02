@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Handheld 2013 Sketchnotes
-date:   2013-11-29
-image:  handheld2013/syd-lawrence-jeremy-keith-handheld2013.jpg
-image-alt: Handheld 2013 Skethcnotes
+layout:    post
+title:     Handheld 2013 Sketchnotes
+date:      2013-11-29
+image:     handheld2013/syd-lawrence-jeremy-keith-handheld2013.jpg
+image-alt: Handheld 2013 Sketchnotes
 ---
 
 ## Syd Lawrence _Who misses playing “Guess Who?”_
