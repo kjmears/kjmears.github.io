@@ -1,2 +1,4 @@
-kjmears.github.io
-=================
+mearso
+======
+
+Static Jekyll based website

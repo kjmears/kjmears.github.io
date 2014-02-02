@@ -1,0 +1,21 @@
+@import "bootstrap";
+
+body { padding-top: 70px; }
+
+.main{
+	.container;
+}
+
+.content{
+	.make-row;
+	img{
+		.img-responsive;
+	}
+}
+
+// mixins for different viewport sizes
+
+article, .posts{
+	.make-sm-column(12);
+	.make-md-column(12);
+	}
