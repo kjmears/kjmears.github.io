@@ -1,0 +1,17 @@
+---
+layout: post
+status: pending
+published: false
+title: Abercynon
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+wordpress_id: 605
+wordpress_url: http://mearso.co.uk/2004/06/abercynon-2/
+date: 2004-06-22 10:18:00.000000000 +01:00
+---
+Just a little jaunt up to Abercynon this morning to wake me up nicely before the forecast rain comes this afternoon.
+
+Trip Distance 16.01 km
+Average Speed 22.07 km/h
+Time 43.34

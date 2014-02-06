@@ -1,0 +1,13 @@
+---
+layout: post
+status: pending
+published: false
+title: Blueprint
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+wordpress_id: 738
+wordpress_url: http://mearso.co.uk/2007/05/blueprint-2/
+date: 2007-05-03 14:11:01.000000000 +01:00
+---
+One of my ideas for the England themed idea of the site is a rugby machine, and to that end I've chosen to do things on a technical drawing/blueprint background, but still keep things pretty loose.

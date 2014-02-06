@@ -1,0 +1,14 @@
+---
+layout: post
+status: pending
+published: false
+title: Heads Up
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+excerpt: <txp:thumbnail id="31" />
+wordpress_id: 593
+wordpress_url: http://mearso.co.uk/2004/05/heads-up-2/
+date: 2004-05-18 16:49:00.000000000 +01:00
+---
+!/images/31.jpg!

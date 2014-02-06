@@ -1,0 +1,28 @@
+---
+layout: post
+status: pending
+published: false
+title: The Graig
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+wordpress_id: 612
+wordpress_url: http://mearso.co.uk/2004/07/the-graig-2/
+date: 2004-07-07 09:23:00.000000000 +01:00
+---
+"Map":http://www.multimap.com/map/browse.cgi?client=public&X=307000.80809805&Y=189000.494661869&scale=25000&width=700&height=410&gride=307289.80809805&gridn=190012.494661869&lang=&db=freegaz
+
+Well that's that out of the way for another summer.
+Every year I ride up this hill at least once. I reckon it's about 1.5km from bottom to top and about 120m up.
+
+!/images/51t.jpg!:/images/51.jpg
+This is the view back down from very near the top. Round the corner down the hill is the nasty steep bit , where I didn't want to stop and take a picture in case I couldn't get going again!
+
+!/images/52t.jpg!:/images/52.jpg
+
+This is on the road on the way down. A nice fast reward for all the previous work.
+
+Average Speed 20.95 km/h
+Trip 52:08
+Max 158!
+Distance 18.20 km

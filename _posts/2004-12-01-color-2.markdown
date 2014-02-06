@@ -1,0 +1,14 @@
+---
+layout: post
+status: pending
+published: false
+title: Color
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+excerpt: ! '!(thumb)/images/92t.jpg (Drawing)!'
+wordpress_id: 644
+wordpress_url: http://mearso.co.uk/2004/12/color-2/
+date: 2004-12-01 09:37:00.000000000 +00:00
+---
+Done whilst listening to lecture on color. 

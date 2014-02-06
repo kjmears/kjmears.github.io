@@ -1,0 +1,12 @@
+---
+layout: post
+status: pending
+published: false
+title: Blank
+date: 2013-10-25 08:01:10.000000000 +01:00
+
+image: blanker.jpg
+image-thumb: blanker-thumb.jpg
+
+---
+If you're not blanking, then you're not a blanker

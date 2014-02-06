@@ -1,0 +1,16 @@
+---
+layout: post
+status: pending
+published: false
+title: Web Menu
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+excerpt: ! '!(thumb)/images/116t.gif (thumbnail of web menu)!'
+wordpress_id: 669
+wordpress_url: http://mearso.co.uk/2005/05/web-menu-2/
+date: 2005-05-07 23:04:00.000000000 +01:00
+---
+Menu that was used by the Academic Services Department as the friendly front page for their student pages.It was very popular as an antidote to the mock machine interface prevalent at the time. Done about 2000 - 2001
+
+

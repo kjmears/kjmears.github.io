@@ -5,3 +5,5 @@ exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Grunt
 pygments: true
 baseurl:  
 url:      http://localhost:4000
+paginate: 5
+paginate_path: "/page:num"

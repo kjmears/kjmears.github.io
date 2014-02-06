@@ -1,0 +1,15 @@
+---
+layout: post
+status: pending
+published: false
+title: Intro
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+wordpress_id: 767
+wordpress_url: http://mearso.co.uk/2008/02/intro/
+date: 2008-02-27 23:24:26.000000000 +00:00
+---
+You've reached the homepage of South Wales based designer-developer-illustrator, Kev Mears. For your browsing pleasure I've organised the site into words, pictures, and a combination of the two on my section of the site devoted to following my progress studying at the "University of Glamorgan":http://www.glam.ac.uk , where I also work. 
+
+In common with many other people I'm finding that I'm writing more in "Twitter":http://www.twitter.com/mearso and "Tumblr":http://mearso.tumblr.com/ at the moment.

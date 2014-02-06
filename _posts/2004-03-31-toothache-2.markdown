@@ -1,0 +1,15 @@
+---
+layout: post
+status: pending
+published: false
+title: Toothache
+author: mearso
+author_login: mearso
+author_email: mearso@mearso.com
+wordpress_id: 550
+wordpress_url: http://mearso.co.uk/2004/03/toothache-2/
+date: 2004-03-31 14:46:00.000000000 +01:00
+---
+<img src="/images/23.jpg"  />
+
+My tooth hurts. I've had to have a filling in one of my wisdom teeth, which is hard to get to. Obviously it didn't hurt when it was made numb. But now it does.
