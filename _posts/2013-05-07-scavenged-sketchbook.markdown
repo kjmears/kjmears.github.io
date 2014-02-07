@@ -1,9 +1,10 @@
 ---
 layout: post
-status: pending
-published: false
+published: true
 title: Scavenged sketchbook
 image: scavenged-sketchbook.jpg
+image-thumb: scavenged-sketchbook-thumb.jpg
+
 date: 2013-05-07 21:38:16.000000000 +01:00
 ---
 

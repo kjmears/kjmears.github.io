@@ -6027,7 +6027,10 @@ body {
   border-bottom: 1px solid #eeeeee;
 }
 .panel {
-  min-height: 16em;
+  min-height: 14em;
+}
+.panel a {
+  display: block;
 }
 .panel-body {
   color: white;
