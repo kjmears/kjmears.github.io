@@ -7,15 +7,43 @@ body { padding-top: 70px; }
 	.container;
 }
 
+.extra{
+	background-color: @gray-dark;
+	border: 1px solid @gray-dark;
+}
+
 .content{
-	.make-row;
 	img{
 		.img-responsive;
 	}
 }
 
-.posts{
-	.list-unstyled;
+/*.navbar-brand{
+	.text-hide();
+	background-image: url("/img/mearso-pen.gif");
+	background-repeat: no-repeat;
+	height: 90px; 
+	width: 500px;
+	.center-block();
+
+}*/
+
+body{
+background-image: url("/img/pattern-white-grey.gif"); 
+}
+
+
+section{
+	.make-xs-column(6);
+	.make-sm-column(4);
+	.make-md-column(3);
+}
+// mixins for different viewport sizes
+
+
+article,{
+	.make-xs-column(12);
+	background-color: white;
 }
 
 .media{
@@ -24,29 +52,34 @@ body { padding-top: 70px; }
 }
 
 
-
 @panel-yellow-text:#333;
 @panel-yellow-heading-bg: #F0D343;
 @panel-yellow-border: #F0D343;
 
-.panel{min-height: 14em;
-	a{
+.panel{
+	min-height: 14em;
+	.box-shadow(2px 2px 4px rgba(0,0,0,0.8));
+	position: relative;
+	h2	{
+		position: absolute;
+		bottom:0;
+		a{	
+		line-height: @line-height-base;
 		display: block;
+		color:inherit;
+		padding: 0.5em;
+		&:hover{
+			color: @brand-primary;
+			}
+		}
 	}
 }
 
-.panel-body{
-	color:white;
-}
 
-  .panel-yellow{
-	background-color: @gray-dark;
-	.panel-variant(
-		@gray-dark;
-		white;
-		@gray-dark;
-		@gray-dark);
-	}
+.panel-title{
+	font-size:@font-size-base * 1.4;
+	font-weight: 300;
+}
 
 .tagline{
 	.text-warning;
@@ -56,14 +89,4 @@ body { padding-top: 70px; }
 .img-circle{
 	border:2px solid grey;
 }
-section{
-	.make-xs-column(6);
-	.make-sm-column(4);
-	.make-md-column(3);
-}
-// mixins for different viewport sizes
 
-article, .posts{
-	.make-sm-column(11);
-	.make-md-column(10);
-	}
