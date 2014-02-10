@@ -24,7 +24,7 @@ I've seen Jeremy speak twice before and each time was a wide ranging and interes
 
 Long been fan of Jon Hicks lovely icon work and bought the Icon Handbook. This talk was great for getting the tons of information contained in the book. Not quite so sure it worked quite so well as a talk. I've heard Jon on podcasts and would have liked him to digress and talk around the subject a little more, like I'm sure he can. Some of the examples of odd icons he gave, showed a glimpse of how entertaining and informative he can be when going 'off piste'.
 
-<a href="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013-1024x676.jpg" alt="mark-boulton-handheld2013" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013.jpg" alt="mark-boulton-handheld2013" /></a>
 
 <h2>Mark Boulton - <em>The Business of Responsive Design</em></h2>
 
