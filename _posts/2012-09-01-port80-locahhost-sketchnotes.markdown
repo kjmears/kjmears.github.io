@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Port80 Localhost sketchnotes
-image: localhost-2012-08.png
+image: localhost-2012-08.jpg
 image-thumb: localhost-2012-08-thumb.gif
 date: 2012-09-01 23:05:21.000000000 +01:00
 

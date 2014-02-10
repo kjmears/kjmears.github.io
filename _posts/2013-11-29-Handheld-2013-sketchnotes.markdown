@@ -18,13 +18,13 @@ Syd did a brave thing - trying a fun interactive code game, and I thought it wen
 
 I've seen Jeremy speak twice before and each time was a wide ranging and interesting snapshot of a topic, so I was expecting more of what had worked well in the past. This felt different - the same overview and context of a wider web was still there but he talked through the redesign and refactoring of <a href="http://thesession.org/">The Session</a>. Nicely relating everyday development of a site to the principle of preservation and the future friendly web.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/jon-hicks-handheld2013.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/jon-hicks-handheld2013-1024x672.jpg" alt="jon-hicks-handheld2013" width="584" height="383" class="aligncenter size-large wp-image-1664" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/jon-hicks-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/jon-hicks-handheld2013.jpg" alt="jon-hicks-handheld2013"/></a>
 
 <h2>Jon Hicks - <em>Icon Design Process</em></h2>
 
 Long been fan of Jon Hicks lovely icon work and bought the Icon Handbook. This talk was great for getting the tons of information contained in the book. Not quite so sure it worked quite so well as a talk. I've heard Jon on podcasts and would have liked him to digress and talk around the subject a little more, like I'm sure he can. Some of the examples of odd icons he gave, showed a glimpse of how entertaining and informative he can be when going 'off piste'.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/mark-boulton-handheld2013.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/mark-boulton-handheld2013-1024x676.jpg" alt="mark-boulton-handheld2013" width="584" height="385" class="aligncenter size-large wp-image-1672" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/mark-boulton-handheld2013-1024x676.jpg" alt="mark-boulton-handheld2013" /></a>
 
 <h2>Mark Boulton - <em>The Business of Responsive Design</em></h2>
 
@@ -34,13 +34,13 @@ Looking back through my sketchnotes I realise that he did a great job of summari
 
 I also liked the 'rope a dope' analogy that he used where you let the client hammer away in a relentless way to thrash out the content until it's in it's best condition to be used and relayed. The idea that 'everything is difficult' right now might not sound like the most inspiration clarion call, but I found it a pretty good reminder not to beat yourself up about not fixing every design and content issue all in one go.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/brendan-dawes-handheld2013.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/brendan-dawes-handheld2013-1024x732.jpg" alt="brendan-dawes-handheld2013" width="584" height="417" class="aligncenter size-large wp-image-1657" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/brendan-dawes-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/brendan-dawes-handheld2013.jpg" alt="brendan-dawes-handheld2013" /></a>
 
 <h2>Brendan Dawes - <em>Carefully Everywhere</em></h2>
 
 Brendan's talk was a nice change of style with him talking very fluidly about the very fluid and exploratory work that he keeps in his 'cupboard of experiments' ready to be used in more commercial work. I especially like the quote from Paul Rand that a designers' job is <bq>To symbolise and summarise</bq>. A concept that I also liked was the idea of 'surfacing' information out of data; the idea of creating poetry around and out of data. His joy in doing this work really came across, and the enthusiasm was infectious.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/ling-valentine-eddie-machado-handheld20131.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/ling-valentine-eddie-machado-handheld20131-1024x679.jpg" alt="ling-valentine-eddie-machado-handheld2013" width="584" height="387" class="aligncenter size-large wp-image-1666" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld20131.jpg"><img src="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld20131-1024x679.jpg" alt="ling-valentine-eddie-machado-handheld2013" /></a>
 
 <h2>Ling Valentine - <em>When responsive sites work as well as a chocolate iPhone</em></h2>
 
@@ -50,7 +50,7 @@ For Ling and Eddie's talks I was stuck in the dark seats and so my notes are spa
 
 Eddie did an interesting roundup of the the techniques he used to create the handheld site. It was notable not only for a very in depth explanation of the process, but also for his honesty when confessing things that he'd done that he wasn't entirely happy with. Detailing the compromises in that way made it better for me, and talking about them in front of a huge audience must have been daunting.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/andy-clarke-handheld2013.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/andy-clarke-handheld2013-1024x712.jpg" alt="andy-clarke-handheld2013" width="584" height="406" class="aligncenter size-large wp-image-1662" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/andy-clarke-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/andy-clarke-handheld2013.jpg" alt="andy-clarke-handheld2013"/></a>
 
 <h2>Andy Clarke - <em>How to call your client an idiot without getting fired</em></h2>
 
@@ -60,7 +60,7 @@ He advocated a better way of getting feedback - by asking the right questions an
 
 <blockquote>Design for the medium by using the medium</blockquote>
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/jeffrey-zeldman-handheld2013.jpg"><img src="http://mearso.com/wp-content/uploads/2013/11/jeffrey-zeldman-handheld2013-1024x726.jpg" alt="jeffrey-zeldman-handheld2013" width="584" height="414" class="aligncenter size-large wp-image-1660" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/jeffrey-zeldman-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/jeffrey-zeldman-handheld2013.jpg" alt="jeffrey-zeldman-handheld2013" /></a>
 
 <h2>Jeffrey Zeldman -<em>Ten Commandments of Modern Web Design</em></h2>
 
