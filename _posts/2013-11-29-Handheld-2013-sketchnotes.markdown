@@ -40,7 +40,7 @@ I also liked the 'rope a dope' analogy that he used where you let the client ham
 
 Brendan's talk was a nice change of style with him talking very fluidly about the very fluid and exploratory work that he keeps in his 'cupboard of experiments' ready to be used in more commercial work. I especially like the quote from Paul Rand that a designers' job is <bq>To symbolise and summarise</bq>. A concept that I also liked was the idea of 'surfacing' information out of data; the idea of creating poetry around and out of data. His joy in doing this work really came across, and the enthusiasm was infectious.
 
-<a href="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld20131.jpg"><img src="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld20131-1024x679.jpg" alt="ling-valentine-eddie-machado-handheld2013" /></a>
+<a href="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld2013.jpg"><img src="{{ site.baseurl }}/images/handheld2013/ling-valentine-eddie-machado-handheld2013.jpg" alt="ling-valentine-eddie-machado-handheld2013" /></a>
 
 <h2>Ling Valentine - <em>When responsive sites work as well as a chocolate iPhone</em></h2>
 
