@@ -5994,6 +5994,17 @@ body {
     width: 1170px;
   }
 }
+span.me {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+  background-image: url("/images/about/break-glass.gif");
+  background-repeat: no-repeat;
+  height: 150px;
+  display: block;
+}
 .extra {
   background-color: #333333;
   border: 1px solid #333333;
