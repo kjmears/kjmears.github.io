@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Sketchbook again
-date: 2013-11-04 21:11:41.000000000 +00:00
+date: 2013-11-04 21:11:41
 image: multiple-mearso.jpg
 image-thumb: multiple-mearso-thumb.jpg
 
