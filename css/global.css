@@ -6063,6 +6063,7 @@ article {
   -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   position: relative;
+  background-color: #333333;
 }
 .panel h2 {
   position: absolute;
@@ -6071,7 +6072,7 @@ article {
 .panel h2 a {
   line-height: 1.428571429;
   display: block;
-  color: inherit;
+  color: white;
   padding: 0.5em;
 }
 .panel h2 a:hover {
@@ -6080,6 +6081,7 @@ article {
 .panel-title {
   font-size: 21px;
   font-weight: 300;
+  background-color: #333333;
 }
 .tagline {
   color: #e99002;
@@ -6089,5 +6091,5 @@ article {
   color: #b67102;
 }
 .img-circle {
-  border: 2px solid grey;
+  border: 2px solid #333333;
 }
