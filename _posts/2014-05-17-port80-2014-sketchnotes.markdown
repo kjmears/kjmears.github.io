@@ -52,7 +52,7 @@ Collected sketchnotes from the [Port80 2014](http://port80events.co.uk/event/por
 <section>
   	<div class="panel">
 		<a href="{{ site.baseurl }}/images/port80/2014/port80-2014-05-16-kimberley-tew.gif"><img src="{{ site.baseurl }}/images/port80/2014/port80-2014-05-16-kimberley-tew-thumb.gif" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/port80/2014/port80-2014-05-16-kimberley-tew.gif">Roy Tomeij : Make them click.</a></h2>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/port80/2014/port80-2014-05-16-kimberley-tew.gif">Kimberley Tew : Accessibility for Humans.</a></h2>
 	</div>
 </section>
 
