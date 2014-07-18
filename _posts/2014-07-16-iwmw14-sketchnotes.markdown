@@ -36,22 +36,36 @@ Collected sketchnotes from the [IWMW14](http://iwmw.org/iwmw2014/programme/) con
 
 <section>
   	<div class="panel">
-		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-sharif-salah.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-sharif-salah-thumb.jpg" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-sharif-salah.jpg">Sharif Salah</a></h2>
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-sharif-salah.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-sharif-salah-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-sharif-salah.jpg">Sharif Salah</a></h2>
 	</div>
 </section>
 
 <section>
   	<div class="panel">
-		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-ross-ferguson.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-ross-ferguson-thumb.jpg" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-ross-ferguson.jpg">Ross Ferguson</a></h2>
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ross-ferguson.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ross-ferguson-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ross-ferguson.jpg">Ross Ferguson</a></h2>
 	</div>
 </section>
 
 <section>
   	<div class="panel">
-		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-neil-allison.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-neil-allison-thumb.jpg" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-16-neil-allison.jpg">Neil Allison</a></h2>
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-neil-allison.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-neil-allison-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-neil-allison.jpg">Neil Allison</a></h2>
+	</div>
+</section>
+
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ranjit-sidhu.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-ranjit-sidhu.jpg">Ranjit Sidhu</a></h2>
+	</div>
+</section>
+
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-chris-gutteridge.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-17-chris-gutteridge.jpg">Chris Gutteridge </a></h2>
 	</div>
 </section>
 
