@@ -69,3 +69,23 @@ Collected sketchnotes from the [IWMW14](http://iwmw.org/iwmw2014/programme/) con
 	</div>
 </section>
 
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-martin-morrey.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-martin-morrey.jpg">Martin Morrey</a></h2>
+	</div>
+</section>
+
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-hiten-vaghmaria.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-2014-07-18-hiten-vaghmaria.jpg">Hiten Vaghmaria</a></h2>
+	</div>
+</section>
+
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/images/iwmw14/iwmw14-vision-panel.jpg"><img src="{{ site.baseurl }}/images/iwmw14/iwmw14-vision-panel-thumb.jpg" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/images/iwmw14/iwmw14-vision-panel.jpg">Panel Session</a></h2>
+	</div>
+</section>
