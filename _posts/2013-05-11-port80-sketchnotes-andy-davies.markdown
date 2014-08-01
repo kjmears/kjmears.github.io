@@ -5,6 +5,8 @@ published: true
 title: Port 80 Sketchnotes - Andy Davies
 image: /port80/port80-2013-05-10-andy-davies.gif
 image-thumb: /port80/port80-2013-05-10-andy-davies-thumb.gif
+invisible: 1
+categories: sketchnote
 
 date: 2013-05-11 12:20:03.000000000 +01:00
 

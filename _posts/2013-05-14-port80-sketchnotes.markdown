@@ -9,20 +9,64 @@ image-thumb: /port80/port80-2013-05-10-sketchnotes-thumb.gif
 categories: sketchnote
 
 ---
+
 Collected sketchnotes from the [Port80](http://port80events.co.uk/event/port80-2013/) conference.
 
-[Jack Franklin]({{ site.baseurl }}/2013/05/13/port80-sketchnotes-jack-franklin.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-jack-franklin.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-jack-franklin-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-jack-franklin.html">Jack Franklin</a></h2>
+	</div>
+</section>
 
-[Sophie Dennis]({{ site.baseurl }}/2013/05/13/port80-sketchnotes-sophie-dennis.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-sophie-dennis.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-sophie-dennis-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-sophie-dennis.html">Sophie Dennis</a></h2>
+	</div>
+</section>
 
-[Robin Christopherson]({{ site.baseurl }}/2013/05/13/port80-sketchnotes-robin-christopherson.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-robin-christopherson.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-robin-christopherson-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-robin-christopherson.html">Robin Christopherson</a></h2>
+	</div>
+</section>
 
-[Paul Robert Lloyd]({{ site.baseurl }}/2013/05/13/port80-sketchnotes-paul-robert-lloyd.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-paul-robert-lloyd.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-paul-lloyd-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/13/port80-sketchnotes-paul-robert-lloyd.html">Paul Robert Lloyd</a></h2>
+	</div>
+</section>
 
-[Benjy Stanton]({{ site.baseurl }}/2013/05/12/port80-sketchnotes-benjy-stanton.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/12/port80-sketchnotes-benjy-stanton.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-benjy-stanton-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/12/port80-sketchnotes-benjy-stanton.html">Benjy Stanton</a></h2>
+	</div>
+</section>
 
-[Andy Davies]({{ site.baseurl }}/2013/05/11/port80-sketchnotes-andy-davies.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/11/port80-sketchnotes-andy-davies.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-andy-davies-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/11/port80-sketchnotes-andy-davies.html">Andy Davies</a></h2>
+	</div>
+</section>
 
-[Rachel Shillcock]({{ site.baseurl }}/2013/05/10/port80-sketchnotes-rachel-shillcock.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/10/port80-sketchnotes-rachel-shillcock.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-rachel-shillcock-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/10/port80-sketchnotes-rachel-shillcock.html">Rachel Shillcock</a></h2>
+	</div>
+</section>
 
-[Matt Andrews]({{ site.baseurl }}/2013/05/10/port80-sketchnotes-matt-andrews.html)
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/sketchnote/2013/05/10/port80-sketchnotes-matt-andrews.html"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-matt-andrews-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnote/2013/05/10/port80-sketchnotes-matt-andrews.html">Matt Andrews</a></h2>
+	</div>
+</section>
+
+
+
