@@ -4,8 +4,12 @@ published: true
 title: Scavenged sketchbook
 image: scavenged-sketchbook.jpg
 image-thumb: scavenged-sketchbook-thumb.jpg
+category: sketchbook
+invisible: 1
+
 
 date: 2013-05-07 21:38:16.000000000 +01:00
+
 ---
 
 It's always enjoyable when I get to the end of a sketchbook, and this one was no exception. This book  lasted from the 3 Jan 2013 until the 3rd May 2013. I know this because some time ago I got into the habit of writing the dates when I drew something next to it - something that I'd recommend for anyone starting to keep a sketchbook.
@@ -20,10 +24,26 @@ One downside of the glossy paper is the drying time, which made turning over and
 
 Some highlights from this one
 
-<ul>
-	<li><a href="http://mearso.com/2013/04/the-trap-part-1-fuck-you-buddy/" title="The Trap – Part 1 “Fuck you, buddy”">'My Fuck You Buddy'sketch notes</a>.</li>
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/2013/04/08/the-trap-sketchnotes.html"><img src="{{ site.baseurl }}/images/the-trap-pt1-thumb.png" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/04/08/the-trap-sketchnotes.html">The Trap - Documentary Sketchnotes</a></h2>
 
-	<li><a href="http://mearso.com/2013/02/the-living-dead-sketchnotes/" title="The Living Dead Sketchnotes">The Living Dead Sketchnotes</a></li>
-	<li><a href="http://mearso.com/2013/04/cutting-the-mustard-sketchnote/" title="Cutting the Mustard Sketchnote">Cutting the Mustard Sketchnotes</a></li>
-</ul>
+	</div>
+</section>
 
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/2013/02/15/the-living-dead-sketchnotes.html"><img src="{{ site.baseurl }}/images/living-dead-sketchnotes-thumb.png" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/02/15/the-living-dead-sketchnotes.html">The Living Dead Sketchnotes</a></h2>
+
+	</div>
+</section>
+
+<section>
+  	<div class="panel">
+		<a href="{{ site.baseurl }}/2013/04/25/cutting-the-mustard-sketchnote.html"><img src="{{ site.baseurl }}/images/cutting-the-mustard-thumb.gif" class="img-responsive"></a>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/04/25/cutting-the-mustard-sketchnote.html">Cutting the Mustard Sketchnote</a></h2>
+
+	</div>
+</section>

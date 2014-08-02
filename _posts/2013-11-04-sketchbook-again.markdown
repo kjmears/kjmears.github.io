@@ -6,6 +6,8 @@ title: Sketchbook again
 date: 2013-11-04 21:11:41
 image: multiple-mearso.jpg
 image-thumb: multiple-mearso-thumb.jpg
+category: sketchbook
+invisible: 1
 
 ---
 This sketchbook is three months worth of scribbles, sketchnotes and doodles. It seemed to fill up pretty quick - which has the added advantage of not falling apart before I get to the end. One of the fun things I've started doing is a daily drawing (of variable quality) of myself and then water colouring it. I've collected the ones I did from the book, and they're pretty fun all collected together.

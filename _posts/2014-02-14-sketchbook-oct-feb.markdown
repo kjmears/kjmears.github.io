@@ -1,10 +1,12 @@
 ---
 
 layout: post
-published: false
+published: true
 title: Sketchbook Oct - Feb
-image: sketchbook-feb.jpg
-image-thumb: sketchbook-feb-thumb.jpg
+image: sketchbook-oct-feb.jpg
+image-thumb: sketchbook-oct-feb-thumb.jpg
+category: sketchbook
+invisible: 1
 
 ---
 

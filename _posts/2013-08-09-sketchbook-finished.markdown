@@ -6,6 +6,8 @@ title: Sketchbook finished
 
 image-thumb: spine-thumb.jpg
 date: 2013-08-09 12:32:12.000000000 +01:00
+category: sketchbook
+invisible: 1
 
 ---
 
@@ -21,11 +23,11 @@ The three months it's taken me to fill this one covered a pretty busy period -
 
 I went to a jam-packed<a href="http://port80events.co.uk/event/port80-2013/" title="Port80 in Newport">Port80 Event</a> and you can see the rest of [my sketchnotes]({% post_url 2013-05-14-port80-sketchnotes %})
 
-<a href="http://www.flickr.com/photos/mearso/sets/72157634398512614/"><img src="http://mearso.com/wp-content/uploads/2013/08/iwmw13-poster-a3.gif" alt="iwmw13-poster-a3" width="600" height="849" class="aligncenter size-full wp-image-1605" /></a>
+<a href="http://www.flickr.com/photos/mearso/sets/72157634398512614/"><img src="{{ site.baseurl }}/images/iwmw13-poster-a3.gif" alt="iwmw13-poster-a3" width="600" height="849" class="aligncenter size-full wp-image-1605" /></a>
 
 I went to the always excellent<a href="http://iwmw.ukoln.ac.uk/iwmw2013/" title="IWMW2013"> IWMW2013</a>
 
-<a href="http://www.flickr.com/photos/mearso/sets/72157634852961354/"><img src="http://mearso.com/wp-content/uploads/2013/08/holiday.jpg" alt="man-on-beach" width="1240" height="714" class="aligncenter size-full wp-image-1607" /></a>
+<a href="http://www.flickr.com/photos/mearso/sets/72157634852961354/"><img src="{{ site.baseurl }}/images/holiday.jpg" alt="man-on-beach"/></a>
 
 and did sketches on holiday in addition to the usual notes, practices and doodles.
 
