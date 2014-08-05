@@ -6,7 +6,7 @@ title: Sketchbooks
 date: 2014-02-14
 image: 
 image-thumb: /multiple-mearso-thumb.jpg
-categories: sketchnote
+categories: sketchbook
 
 ---
 
