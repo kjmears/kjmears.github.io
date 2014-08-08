@@ -7,7 +7,7 @@ image: /port80/port80-2013-05-10-robin-christopherson.gif
 image-thumb: /port80/port80-2013-05-10-robin-christopherson-thumb.gif
 invisible: 1
 date: 2013-05-13 11:33:21.000000000 +01:00
-categories: sketchnote
+categories: sketchnotes
 
 ---
 

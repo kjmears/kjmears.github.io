@@ -7,7 +7,7 @@ image: /port80/port80-2013-05-10-matt-andrews.gif
 image-thumb: /port80/port80-2013-05-10-matt-andrews-thumb.gif
 
 date: 2013-05-10 22:22:01.000000000 +01:00
-categories: sketchnote
+categories: sketchnotes
 invisible: 1
 
 ---

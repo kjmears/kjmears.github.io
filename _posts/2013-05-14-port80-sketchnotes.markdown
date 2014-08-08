@@ -6,7 +6,7 @@ title: Port80 Collected Sketchnotes
 date: 2013-05-14
 image: /port80/port80-2013-05-10-sketchnotes.gif
 image-thumb: /port80/port80-2013-05-10-sketchnotes-thumb.gif
-categories: sketchnote
+categories: sketchnotes
 
 ---
 

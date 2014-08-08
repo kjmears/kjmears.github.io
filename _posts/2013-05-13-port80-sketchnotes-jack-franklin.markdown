@@ -9,7 +9,7 @@ image-thumb: /port80/port80-2013-05-10-jack-franklin-thumb.gif
 invisible: 1
 
 image-alt: 
-categories: sketchnote
+categories: sketchnotes
 
 ---
 

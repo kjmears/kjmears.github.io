@@ -6,7 +6,7 @@ title: IWMW13 Sketchnotes
 date: 2013-07-02
 image: /iwmw13/iwmw13-sketchnotes.gif
 image-thumb: /iwmw13/iwmw13-thumb.gif
-categories: sketchnote
+categories: sketchnotes
 
 ---
 

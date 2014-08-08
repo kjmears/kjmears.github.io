@@ -6,7 +6,7 @@ title: Port80 2014 Sketchnotes
 date: 2014-05-17
 image: 
 image-thumb: /port80/2014/port80-2014-thumb.gif
-categories: sketchnote
+categories: sketchnotes
 redirect_from: "/sketchnote/2014/05/17/port80-2015-sketchnotes.html"
 
 ---
