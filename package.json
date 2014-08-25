@@ -12,7 +12,8 @@
     "grunt-contrib-less": "~0.8.3",
     "grunt-contrib-compass": "~0.5.0",
     "grunt-push-release": "~0.1.1",
-    "grunt-shell": "~0.6.1"
+    "grunt-shell": "~0.6.1",
+    "grunt-newer": "~0.7.0"
   },
   "dependencies": {
     "load-grunt-tasks": "~0.2.0"
