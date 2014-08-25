@@ -83,16 +83,6 @@ module.exports = function(grunt) {
         tasks: 'shell:jekyll',
       },
 
-      livereload: {
-        // Here we watch the files the sass task will compile to
-        // These files are sent to the live reload server after sass compiles to them
-        options: { livereload: true },
-        files: ['_site/**/*'],
-      },
-
-      // Add the following script to your HTML for livereload.
-      // <script src="http://localhost:35729/livereload.js"></script>
-
       scripts: {
         files: ['js/*.js'],
         tasks: ['concat', 'uglify', 'jshint'],
