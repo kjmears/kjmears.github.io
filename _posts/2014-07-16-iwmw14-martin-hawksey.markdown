@@ -6,7 +6,9 @@ title: Martin Hawksey - IWMW14
 date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-martin-hawksey.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-martin-hawksey-thumb.jpg
-categories: sketchnote
+categories: sketchnotes
+redirect_from: "/sketchnote/2014/07/16/iwmw14-martin-hawksey.html"
+
 invisible: 1
 
 ---

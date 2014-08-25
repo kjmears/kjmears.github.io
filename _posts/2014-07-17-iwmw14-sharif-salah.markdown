@@ -6,7 +6,9 @@ title: IWMW2014 Sketchnotes
 date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-sharif-salah.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-sharif-salah-thumb.jpg
-categories: sketchnote
+categories: sketchnotes
+redirect_from: "/sketchnote/2014/07/17/iwmw14-sharif-salah.html"
+
 invisible: 1
 
 ---
