@@ -15,6 +15,10 @@
     "grunt-shell": "~0.6.1",
     "grunt-newer": "~0.7.0"
   },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/kjmears/kjmears.github.io"
+ },
   "dependencies": {
     "load-grunt-tasks": "~0.2.0"
   }
