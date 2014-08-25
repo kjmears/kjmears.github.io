@@ -6,7 +6,7 @@ title: IWMW2014 Sketchnotes
 date: 2014-07-16
 image: 
 image-thumb: /iwmw14/iwmw14-thumb.jpg
-categories: sketchnotess
+categories: sketchnote
 
 ---
 
