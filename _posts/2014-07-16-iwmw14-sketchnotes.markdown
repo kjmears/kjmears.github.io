@@ -7,6 +7,8 @@ date: 2014-07-16
 image: 
 image-thumb: /iwmw14/iwmw14-thumb.jpg
 categories: sketchnote
+redirect_from: "/sketchnotes/2014/07/16/iwmw14-sketchnotes.html"
+
 
 ---
 
