@@ -1,36 +1,38 @@
 module.exports = function(grunt) {
-  grunt.loadNpmTasks('grunt-contrib-less');
-  grunt.loadNpmTasks('grunt-contrib-compass');
-  grunt.loadNpmTasks('grunt-push-release');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-shell');
+
+	//Project config
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-    less: {
-      options: {
-          paths: ["bower_components/bootstrap/less", "less"],
-      },
+    sass: {
       development: {
-        // where the files go in development
-        files: {
-          "css/global.css": "less/global.less"
-        }
-      },//development
-
-      // production
-      production: {
         options: {
-          paths: ["bower_components/bootstrap/less", "less"],
-          cleancss: true
+          style: 'expanded',
+          loadPath: [
+            "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
+            "bower_components/components-font-awesome/scss"
+            ],
+          banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },
         files: {
-          "css/dist/global.min.css": "less/global.less"
-        }
-      } // production
-    }, // less
-
-
+           "css/dist/global.min.css": "sass/global.scss"
+         }
+      },
+      production: {
+        options: {
+          style: 'compressed',
+          loadPath: [
+            "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
+            "bower_components/components-font-awesome/scss"
+            ],
+          banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
+        },				
+        files: {
+           "css/dist/global.min.css": "sass/global.sass"
+         }
+      }
+    },
+		
     jshint: {
       beforeconcat: ['js/*.js']
     }, // jshint
@@ -50,7 +52,10 @@ module.exports = function(grunt) {
       build: {
         src: 'js/dist/scripts.js',
         dest: 'js/dist/scripts.min.js' // for some reason this places scripts.js before jquery
-      }
+      },
+  	  options: {
+  	    banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
+  	  }
     },
 
     imagemin: {
@@ -119,11 +124,19 @@ module.exports = function(grunt) {
     }
 
   });
+	
+  // Loading tasks.
+  grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-contrib-compass');
+  grunt.loadNpmTasks('grunt-push-release');
+  grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-shell');
 
   require('load-grunt-tasks')(grunt);
 
   // Default Task is basically a rebuild
-  grunt.registerTask('default', ['concat', 'uglify', 'less', 'imagemin', 'shell', 'watch']);
+  grunt.registerTask('default', ['concat', 'uglify', 'sass', 'imagemin', 'shell', 'watch']);
 
   grunt.registerTask('dev', ['connect', 'watch']);  
 
