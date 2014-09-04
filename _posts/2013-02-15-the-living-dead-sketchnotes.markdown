@@ -6,6 +6,7 @@ author: mearso
 image: living-dead-sketchnotes.png
 image-thumb: living-dead-sketchnotes-thumb.png
 date: 2013-02-15 23:22:37.000000000 +00:00
+categories: sketchnotes
 
 ---
 

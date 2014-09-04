@@ -15,7 +15,7 @@ module.exports = function(grunt) {
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },
         files: {
-           "css/dist/global.min.css": "sass/global.scss"
+           "css/dist/global.min.css": "_sass/global.scss"
          }
       },
       production: {
@@ -28,7 +28,7 @@ module.exports = function(grunt) {
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },				
         files: {
-           "css/dist/global.min.css": "sass/global.scss"
+           "css/dist/global.min.css": "_sass/global.scss"
          }
       }
     },

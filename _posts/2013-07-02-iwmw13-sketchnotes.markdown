@@ -7,6 +7,8 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-sketchnotes.gif
 image-thumb: /iwmw13/iwmw13-thumb.gif
 categories: sketchnotes
+redirect_from: "/sketchnotes/2013/07/02/iwmw13-sketchnotes.html"
+
 
 ---
 
