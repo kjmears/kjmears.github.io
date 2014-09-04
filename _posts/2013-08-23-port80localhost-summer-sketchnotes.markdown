@@ -4,6 +4,8 @@ title: Port80 Localhost Summer Sketchnotes
 date: 2013-08-23
 image: /port80localhost/tomwbond.gif
 image-thumb: /port80localhost/port80localhost-summer-2013-thumb.gif
+category: sketchnotes
+
 
 ---
 

@@ -4,6 +4,8 @@ published: true
 title: Cutting the Mustard Sketchnote
 image: cutting-the-mustard.gif
 image-thumb: cutting-the-mustard-thumb.gif
+category: sketchnotes
+
 ---
 
 Sketchnote from Tom Maslen talk at Responsive Day Out - on besquare

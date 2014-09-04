@@ -4,6 +4,8 @@ title: Open Knowledge Booksprint Sketchnotes
 date: 2013-09-03
 image: /OKFBooksprint/intro.gif
 image-thumb: /OKFBooksprint/thumb.gif
+category: sketchnotes
+
 
 ---
 

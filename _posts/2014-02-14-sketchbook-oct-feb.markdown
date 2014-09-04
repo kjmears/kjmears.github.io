@@ -6,7 +6,7 @@ title: Sketchbook Oct - Feb
 image: sketchbook-oct-feb.jpg
 image-thumb: sketchbook-oct-feb-thumb.jpg
 category: sketchbook
-invisible: 1
+invisible: 0
 
 ---
 

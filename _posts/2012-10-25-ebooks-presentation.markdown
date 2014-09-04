@@ -4,6 +4,7 @@ published: true
 title: Ebooks Presentation Sketchnotes
 image: ebooks.png
 image-thumb: ebooks-thumb.gif
+category: sketchnotes
 
 date: 2012-10-25 23:13:17.000000000 +01:00
 

@@ -4,6 +4,8 @@ layout: post
 title: Apple Presentation Slides
 image: /apple-slides/apple.gif
 image-thumb: /apple-slides/apple-thumb.gif
+category: slides
+
 
 ---
 

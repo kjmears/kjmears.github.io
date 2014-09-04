@@ -10,6 +10,8 @@ image-alt: Sketchnotes from documentary - the trap
 image-thumb: the-trap-pt1-thumb.png
 
 date: 2013-04-08 21:41:52.000000000 +01:00
+category: sketchnotes
+
 
 ---
 

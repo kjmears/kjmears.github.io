@@ -5,6 +5,7 @@ date: 2013-11-29 21:55:07.000000000 +00:00
 image: /handheld2013/syd-lawrence-jeremy-keith-handheld2013.jpg
 image-alt: Sketchnotes from one of the Handheld 2013 talks
 image-thumb: /handheld2013/syd-lawrence-jeremy-keith-handheld2013-thumb.jpg
+category: sketchnotes
 
 
 ---

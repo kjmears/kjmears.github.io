@@ -6,6 +6,8 @@ title: DISAG Day presentation sketchnotes
 image: disag.gif
 image-thumb: disag-thumb.gif
 date: 2011-12-05
+category: sketchnotes
+
 
 ---
 

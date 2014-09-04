@@ -6,6 +6,8 @@ author: mearso
 image: /iwmw12/iwmw12.png
 image-thumb: /iwmw12/iwmw12-thumb.gif
 date: 2012-07-05 11:50:19.000000000 +01:00
+category: sketchnotes
+
 
 ---
 I recently attended the IWMW12 conference in the University of Edinburgh and had a great time. As usual the talks were interesting and varied but all based around the particular concerns of university web teams. 

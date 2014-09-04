@@ -4,6 +4,7 @@ title: Sketchnote challenge
 date: 2013-03-11
 image: kevin-slavin-sketchnote-challenge.gif
 image-thumb: kevin-slavin-sketchnote-challenge-thumb.gif
+category: sketchnotes
 
 ---
 

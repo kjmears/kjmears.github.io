@@ -1,11 +1,13 @@
 ---
-layout: default
-title: Kevin Mears - I like to draw.
+layout: page
+title: Sketchnotes
 
 ---
 
+
+
 <div class="row">
-	{% for post in site.posts %}
+	{% for post in site.categories.sketchnotes %}
 		{% if post.invisible != 1  %}
 		<section>
 		  	<div class="panel">
@@ -18,9 +20,6 @@ title: Kevin Mears - I like to draw.
 	{% endfor %}
 		
 </div>
-
-
-
 
 
 
