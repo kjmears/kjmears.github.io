@@ -1,7 +1,14 @@
+$font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+@import "variables";
 @import "bootstrap";
+
 
 body { padding-top: 70px; }
 
+body{
+background-image: url("/img/pattern-white-grey.gif"); 
+}
 
 
 //about me page
@@ -20,6 +27,7 @@ span.me{
 }
 
 .content{
+	@extend .container;
 	img{
 		@include img-responsive;
 	}

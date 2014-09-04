@@ -777,6 +777,13 @@ $pre-color:                   $gray-dark;
 $pre-border-color:            #ccc;
 $pre-scrollable-max-height:   340px;
 
+//== Miscellaneous
+//
+//##
+
+//** Horizontal line color.
+$hr-border:                   #ddd;
+
 
 //== Type
 //
@@ -796,12 +803,7 @@ $blockquote-border-color:     $hr-border;
 $page-header-border-color:    $hr-border;
 
 
-//== Miscellaneous
-//
-//##
 
-//** Horizontal line color.
-$hr-border:                   #ddd;
 
 //** Horizontal offset for forms and lists.
 $component-offset-horizontal: 180px;

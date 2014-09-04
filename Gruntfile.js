@@ -28,7 +28,7 @@ module.exports = function(grunt) {
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },				
         files: {
-           "css/dist/global.min.css": "sass/global.sass"
+           "css/dist/global.min.css": "sass/global.scss"
          }
       }
     },
@@ -41,7 +41,7 @@ module.exports = function(grunt) {
       dist: {
         src: [
           'js/libs/*.js',
-          'bower_components/bootstrap/js/*.js',
+          'bower_components/bootstrap-sass-official/js/*.js',
           'js/scripts.js'
         ],
         dest: 'js/dist/scripts.js',
