@@ -1,0 +1,20 @@
+---
+layout: post
+title: "weeknote 12"
+date: 2014-06-01 18:03:40 +0100
+comments: false
+categories: weeknotes
+
+---
+
+Mainly working on the thorny issue of a how to design a course page. We have lots of detailed information about a course. As you'd expect for a product that people are paying lots of money for they need lots of information to be happy about the decision they make. (prevent buyers remorse)
+
+In addition to offering the information in a clear, concise way (which is much underrated) there is also the need to Engage with people and make the idea of studying that course with us a real prospect. 
+
+How to strike that balance of visually rich, inspirational and aspirational content, with things like profiles of lecturers, real student stories and ideas of careers paths, and the more mundane but essential info has been what I've been working on.
+
+One concrete example is in the case of a student story -  the full story is on a separate page, so to read the full story someone would immediately be taken away from the important page. This is obviously not good so loading the content in place as and when it's requested would be better. It's not something I've done much of before, so it's been good to do some learning.
+
+Another thing I did this week was a little crowdsourced logo for [@GovCampCymru](https://twitter.com/GovCampCymru). I've done a few free little logos from twitter requests - this one was just a developing a variation on the basic BarCamp logo and was fun to do.
+
+Now to gird my loins for the task of defining content types for some CMS work next week.

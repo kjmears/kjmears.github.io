@@ -5,9 +5,7 @@ layout: default
 
 <div class="row">
 <article>
-	<h1>{{ page.title }}</h1>
-	<h2><a href="/{{ page.category }}">{{ page.category }}</a></h2>
-	
+	<h1>{{ page.title }}</h1>	
 	<p class="meta">{{ page.date | date_to_string }}</p>
 	{% if page.image %}
 		<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
@@ -17,10 +15,25 @@ layout: default
 	{{ content }}
 	
 </article>
-
-
 </div>
 
+<div class="row">
+	<nav class="extra">
+		<ul class="pager">
+			<li class="previous"> 
+				{% if page.next_in_category != nil %} 
+					<a href="{{page.next_in_category.url}}" class="next-link">{{ page.next_in_category.title}}</a>
+				{% endif %}
+				</li> 
+		 
+				<li class="next">
+				{% if page.previous_in_category != nil %}
+					<a href="{{page.previous_in_category.url}}" class="previous-link">{{ page.previous_in_category.title }}</a>
+				{% endif %}
+			</li> 
+		</ul>
+	</nav>
+</div>
 
 
 

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Weeknote 1"
+date: 2014-03-14 12:10:56 +0000
+comments: false
+categories: weeknotes
+published: true
+
+---
+
+
+Based on looking at various people's weeknotes [Zak Mensah](http://www.zakmensah.co.uk), [Matt Jukes](http://digitalbydefault.com), [Dafydd Vaughan](http://dafyddvaughan.co.uk/), as well as a team examples at [Bath](http://blogs.bath.ac.uk/webservices/) and [Clearleft](http://www.clearleft.com/thinks/weeknotes37/) I decided to try to write up what I've been working on in an attempt to:
+
+1. Be less anxious
+2. Be more productive
+3. Be more accountable
+
+So this week has felt quite disjointed, with a days leave in the middle, bookended by the minor sniffles of a cold. I managed to print - no mean feat from my Mac to the heavily PC centric print queue system we have in work. I've tried out a simple 'menu' item instead of the ubiquitous 'hamburger' responsive nav on a new website that's recently launched. Been working on tidying templates for News and Events on the self same site.
+
+Been working on [UHOVI](http://www.uhovi.ac.uk) tidying up various django templates. Also coincided with me looking at the interesting static site generator [Cactus](http://cactusformac.com/docs/). Created an early static page as a testbed for some new ideas about how we present our courses and subject at the university. The idea is that us designers here at the university might be able to get signed off designs that work well as functional deliverables for our developers to work on.
+
+As part of looking at other work I needed to be able to switch django versions and that took more time than I would have liked.
+
+Spent way too long working out how to us octopress properly
+
+Produced some variations of a pretty simple logo for our new intranet.
+
+Had an interesting meeting with John and Ceri from Cardiff University, where we exchanged ideas about the systems we have, approaches the respective teams are taking and how to make things better in the future. It was very good to compare and contrast our organisations - I found it really helpful to get another perspective.

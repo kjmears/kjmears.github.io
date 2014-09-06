@@ -2,12 +2,12 @@
 
 layout: post
 published: true
-title: Sketchbook
+title: Sketchbook Feb14-July14
 date: 2014-07-16
-image:
-image-thumb: 
-categories: sketchbook
-invisible: 1
+image: sketchbook-oct-feb.jpg
+image-thumb: sketchbook-oct-feb-thumb.jpg
+categories: sketchbooks
+
 
 ---
 

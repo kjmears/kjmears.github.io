@@ -6,7 +6,7 @@ title: Sketchbook finished
 
 image-thumb: spine-thumb.jpg
 date: 2013-08-09 12:32:12.000000000 +01:00
-category: sketchbook
+category: sketchbooks
 invisible: 1
 
 ---
@@ -21,7 +21,7 @@ The three months it's taken me to fill this one covered a pretty busy period -
 
 <a href="{{ site.baseurl }}/images/port80/port80-2013-5-10-sketchnotes.gif"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-sketchnotes.gif" alt="port80-compilation" /></a>
 
-I went to a jam-packed<a href="http://port80events.co.uk/event/port80-2013/" title="Port80 in Newport">Port80 Event</a> and you can see the rest of [my sketchnotes]({% post_url 2013-05-14-port80-sketchnotes %})
+
 
 <a href="http://www.flickr.com/photos/mearso/sets/72157634398512614/"><img src="{{ site.baseurl }}/images/iwmw13-poster-a3.gif" alt="iwmw13-poster-a3" width="600" height="849" class="aligncenter size-full wp-image-1605" /></a>
 
