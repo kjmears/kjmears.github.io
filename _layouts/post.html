@@ -6,36 +6,21 @@ layout: default
 <div class="row">
 <article>
 	<h1>{{ page.title }}</h1>
+	<h2><a href="/{{ page.category }}">{{ page.category }}</a></h2>
+	
 	<p class="meta">{{ page.date | date_to_string }}</p>
 	{% if page.image %}
-	<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
-	{% else %}
+		<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
 	
 	{% endif %}
 	
-    {{ content }}
-
+	{{ content }}
+	
 </article>
+
+
 </div>
-<div class="row">
-<nav class="extra">
-	<ul class="pager">
-		    <li class="previous"> 
-	    {% if page.previous.url %} 
-	       <a href="{{page.previous.url}}" title="Previous Post: 
-	{{page.previous.title}}">Previous:  {{page.previous.title}}</a> 
-	    {% endif %} 
-	    </li>  
-	    <li class="next"> 
-	    {% if page.next.url %}
-	            <a href="{{page.next.url}}" title="next Post: 
-	{{page.next.title}}"> Next: {{page.next.title}}</a> 
-	    {% endif %} 
-	    </li> 
 
-
-	</ul>
-</nav>
 
 
 
