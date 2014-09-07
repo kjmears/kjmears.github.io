@@ -22,27 +22,19 @@ layout: default
 	</article>
 </div>
 
-<div class="row">
-<nav class="extra">
-	<ul class="pager">
-		<li class="previous"> 
-	    {% if page.previous.url %} 
-	       <a href="{{page.previous.url}}" title="Previous Post: 
-	{{page.previous.title}}">Previous:  {{page.previous.title}}</a> 
-	    {% endif %} 
-	    </li>  
-	    <li class="next"> 
-	    {% if page.next.url %}
-	            <a href="{{page.next.url}}" title="next Post: 
-	{{page.next.title}}"> Next: {{page.next.title}}</a> 
-	    {% endif %} 
-	    </li> 
+	<div class="row">
+		<article class="related">
+			{% for category_name in page.categories limit:1 %}
+	    <h2>Other articles in <a href="/{{ category_name }}/">{{ category_name | capitalize }}</a></h2>
+		 {% for post in site.categories[category_name] limit:4 %}
+			<section class="related">
+		  	<div class="panel">
+				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
+				<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+			</div>
+		</section>
+	{% endfor %}
 
-
-	</ul>
-</nav>
+		{% endfor %}
+		</article>
 </div>
-
-
-
-
