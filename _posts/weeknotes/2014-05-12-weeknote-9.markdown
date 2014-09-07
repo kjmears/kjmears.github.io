@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: weeknotes
 title: "weeknote 9"
 date: 2014-05-12 20:47:31 +0100
 comments: false

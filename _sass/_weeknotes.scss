@@ -1,0 +1,29 @@
+.weeknotes-wrapper {
+	background-color:white;
+	@include make-row();
+ 	h1 a{
+		@extend .col-md-12;
+ 		//font-size: floor(($font-size-base * 2));
+ 		padding-left:$font-size-base;
+ 		padding-bottom:$font-size-base;
+		
+		color:deeppink;
+		border-bottom:1px solid $gray-lighter;
+ 	}
+	article {
+		@extend .col-md-8;
+	}
+	aside{
+		@extend .col-md-4;
+		ul{
+			@extend .nav;
+			@extend .nav-tabs;
+			@extend .nav-stacked;
+			margin-top:$font-size-base;
+			li {
+				border-bottom:1px solid $gray-lighter;
+			}
+			
+		}
+	}
+}

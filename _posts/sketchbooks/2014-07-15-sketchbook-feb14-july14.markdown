@@ -4,9 +4,10 @@ layout: post
 published: true
 title: Sketchbook Feb14-July14
 date: 2014-07-16
-image: sketchbook-oct-feb.jpg
-image-thumb: sketchbook-oct-feb-thumb.jpg
+image:
+image-thumb: /creative-morning-jun2014-thumb.png
 categories: sketchbooks
+invisible: 1
 
 
 ---

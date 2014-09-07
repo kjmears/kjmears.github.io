@@ -13,9 +13,9 @@ layout: default
 		{% endif %}
 		
 		{% if page.image %}
-			<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
+				<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
 	
-		{% endif %}
+			{% endif %}
 	
 		{{ content }}
 	
@@ -25,7 +25,7 @@ layout: default
 <div class="row">
 <nav class="extra">
 	<ul class="pager">
-		    <li class="previous"> 
+		<li class="previous"> 
 	    {% if page.previous.url %} 
 	       <a href="{{page.previous.url}}" title="Previous Post: 
 	{{page.previous.title}}">Previous:  {{page.previous.title}}</a> 
@@ -41,6 +41,7 @@ layout: default
 
 	</ul>
 </nav>
+</div>
 
 
 

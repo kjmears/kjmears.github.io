@@ -4,14 +4,18 @@ title: Weeknotes
 
 ---
 
-<div class="row">
-	{% for post in site.categories.weeknotes reversed %}
-		<ul>
-				<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		</ul>
+<div class="weeknotes-wrapper">
+	{% for post in site.categories.weeknotes  %}
+		<div class="weeknotes">
+			<article>
+				
+				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+				<p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
+			
+			<p>{{ post.content | strip_html | truncate:200 }}<a href="{{ site.baseurl }}{{ post.url }}"> Read more</a></p>
+
+			</article>
+		</div>
 	{% endfor %}
 		
 </div>
-
-
-

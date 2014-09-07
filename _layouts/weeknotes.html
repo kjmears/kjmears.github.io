@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="weeknotes-wrapper">
+	<h1><a href="/weeknotes">Weeknotes</a></h1>	
+
+<article>
+	<h2>{{ page.title | capitalize }}</h2>
+	<p class="meta">{{ page.date | date_to_string }}</p>
+		{% if page.category %} 
+			<p><a href="{{ site_url }}/{{ page.category }}">{{ page.category }}</a></p>	
+		{% endif %}
+
+    {{ content }}
+
+</article>
+
+<aside>
+
+		<div class="weeknotes">
+				<ul>
+					{% for post in site.categories.weeknotes limit:10  %}
+					<li>
+						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | capitalize }}</a>
+					</li>
+					{% endfor %}
+					<li><a href="/weeknotes">All weeknotes</a></li>
+				</ul>
+		</div>
+	
+</aside>
+
+</div>

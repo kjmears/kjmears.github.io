@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: weeknotes
 title: "Weeknote 1"
 date: 2014-03-14 12:10:56 +0000
 comments: false
@@ -10,7 +10,7 @@ invisible: 1
 ---
 
 
-Based on looking at various people's weeknotes [Zak Mensah](http://www.zakmensah.co.uk), [Matt Jukes](http://digitalbydefault.com), [Dafydd Vaughan](http://dafyddvaughan.co.uk/), as well as a team examples at [Bath](http://blogs.bath.ac.uk/webservices/) and [Clearleft](http://www.clearleft.com/thinks/weeknotes37/) I decided to try to write up what I've been working on in an attempt to:
+Based on looking at various people's weeknotes [Zak Mensah](http://www.zakmensah.co.uk), [Matt Jukes](http://digitalbydefault.com), [Dafydd Vaughan](http://dafyddvaughan.co.uk/), as well as team examples at [Bath](http://blogs.bath.ac.uk/webservices/) and [Clearleft](http://www.clearleft.com/thinks/weeknotes37/) I decided to try to write up what I've been working on in an attempt to:
 
 1. Be less anxious
 2. Be more productive

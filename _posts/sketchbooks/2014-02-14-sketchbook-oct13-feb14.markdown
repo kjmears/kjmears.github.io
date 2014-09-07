@@ -2,7 +2,7 @@
 
 layout: post
 published: true
-title: Sketchbook Oct-Feb14
+title: Sketchbook Oct13-Feb14
 image: sketchbook-oct-feb.jpg
 image-thumb: sketchbook-oct-feb-thumb.jpg
 category: sketchbooks

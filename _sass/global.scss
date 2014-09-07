@@ -1,9 +1,13 @@
 $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 @import "variables";
+@import "font-awesome";
+
 @import "bootstrap";
 
 @import "cards";
+@import "weeknotes";
+
 
 body { padding-top: 70px; }
 
