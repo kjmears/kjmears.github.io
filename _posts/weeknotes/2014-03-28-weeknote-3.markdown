@@ -10,8 +10,6 @@ invisible: 1
 
 This week was much less hacking around in local development and much more hacking around in django templates. Created a new template to better show off newly created content which was simple enough, but more gratifying that the person who requested it was happy and I was able to help.
 
-<!--more-->
-
 Was pondering how on earth our stylesheets get so complicated whilst updating some styles that are one server, but not another. We've changed our approach quite a few times in the last few years, using Sass, Less, and plain old CSS, as well as GIT submodules. We're still not there yet with a controlled and organised system, but hopefully we're getting there. If we ever get to a state that we are happy with, that would make a nice blog post.
 
 Heard a little more about some of nice content strategy work that is about to happen in work, and looking forward to getting involved in new designs and ways of approaching how we help Marketing with their ideas and needs - should be fun and useful.

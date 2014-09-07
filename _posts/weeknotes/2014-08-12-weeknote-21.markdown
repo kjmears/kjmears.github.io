@@ -1,21 +1,18 @@
 ---
 layout: weeknotes
-title: Weeknote 21
-date: 2014-08-12 06:55:23 +0100
+title: Weeknote 22
+date: 2014-09-07
 comments: false
 categories: weeknotes 
 invisible: 1
 
 ---
 
-Wow - I missed a week and didn't even notice.
+I forgot. Is the answer to why I haven't done a weeknote for over a month. That and the fact that I find writing quite hard. Worthwhile and satisfying, but hard.
 
-Styles and more styles
+So thanks to my trusty todo list (which I've managed to use in a meaningful way for the first time over the last few months) I can see how occupied I've been.
 
-Biggest change is working away from my desk and with our markeing team in their office where they've kindly made a space and have a nice big screen. We've talked for a while about trying it out, but it's taken some determined work on ther part to jump through the hopps to make it happen.
+The final push is on at the moment for the but piece of work we have commited to deliever by next week, and setting aside the extremely optimistic schedule, I've been working hard to plough through tons of CSS and Javascript issue, and often revisting design solutions that have to be rethought in the face of changes, additions or rethink to the content.
 
-I'm not planning on working there all the time, but I have found it really useful to be on hand to discuss the work that I'm doing and get ideas about what they have in mind for different parts of the pages I'm designing. It's certainly better than independently working on things and then coming together, which can mean we've misunderstood each other and have to retrace out steps. It also means that marketing can be a little reassured by seeing progress happening instead of waiting for meetings, though we are doing daily standups now, and slowly getting better at those too.
+It's been frustrating at times to be back in the position of designing empty containers for undefined 'content', but one good thing about the approach to a launch deadline is that even though it's pressured and stressful, you do get through a lot of work. Already I have one eye on how we can iterate on the work we are about to release into the wild, which will also no doubt be informed by the reception and evaluation that is to come.
 
-As for the work itself it's still interesting though a bit intimidating how much we still have left to do. I'm still trying to update our pattern library as an ongoing design resource and as a reference point, though it can be hard then to think of a method for other developers to access the finished work.
-
-This workflow stuff is tricky
