@@ -5,6 +5,7 @@ date: 2013-10-17
 image: ODI-lunchtime-lecture-13-10-17.gif
 image-thumb: ODI-lunchtime-lecture-13-10-17-thumb.gif
 category: sketchnotes
+homepage: true
 
 ---
 

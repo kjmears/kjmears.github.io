@@ -6,7 +6,7 @@ image: /handheld2013/syd-lawrence-jeremy-keith-handheld2013.jpg
 image-alt: Sketchnotes from one of the Handheld 2013 talks
 image-thumb: /handheld2013/syd-lawrence-jeremy-keith-handheld2013-thumb.jpg
 category: sketchnotes
-
+homepage: true
 
 ---
 

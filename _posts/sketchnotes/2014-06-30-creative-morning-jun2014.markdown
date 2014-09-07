@@ -7,6 +7,7 @@ date: 2014-06-30
 image: /creative-morning-jun2014.png
 image-thumb: /creative-morning-jun2014-thumb.png
 categories: sketchnotes
+homepage: true
 
 ---
 

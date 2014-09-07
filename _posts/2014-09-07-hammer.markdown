@@ -1,0 +1,12 @@
+---
+
+layout: post
+published: true
+title: Tools
+date: 2014-09-07
+image: /doodles/hammer.jpg
+image-thumb: /doodles/hammer-thumb.jpg
+categories: doodles
+
+---
+
