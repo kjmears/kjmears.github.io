@@ -3,7 +3,9 @@ layout: post
 title: "weeknote-5"
 date: 2014-04-13 17:18:33 +0100
 comments: false
-categories: weeknotes 
+categories: weeknotes
+invisible: 1
+
 ---
 
 A belated post this week, since a Friday off messed with my routine.

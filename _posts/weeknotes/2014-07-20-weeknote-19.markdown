@@ -4,6 +4,7 @@ title: "weeknote 19"
 date: 2014-07-20 22:26:46 +0100
 comments: false
 categories: weeknotes 
+invisible: 1
 
 ---
 

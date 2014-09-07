@@ -5,6 +5,7 @@ date: 2014-03-14 12:10:56 +0000
 comments: false
 categories: weeknotes
 published: true
+invisible: 1
 
 ---
 

@@ -6,24 +6,19 @@ title: Kevin Mears - I like to draw.
 
 <div class="row">
 	{% for post in site.posts %}
-		{% if post.category != weeknotes  %}
-			{% if post.invisible != 0  %}
-				<section>
+			{% if post.invisible != 1 %}
+					<section>
 				  	<div class="panel">
 						<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
-						<div class="panel-body">
-							<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+							<div class="panel-body">
+								<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+								<p><a href="{{ site.post.category[1] }}">{{ site.post.category[1] }}</a></p>
+							</div>
 						</div>
-					</div>
-				</section>
+					</section>
+					
 			{% endif %}
-		{% endif %}
 	{% endfor %}
-		
 </div>
-
-
-
-
 
 

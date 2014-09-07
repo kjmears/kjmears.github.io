@@ -3,7 +3,9 @@ layout: post
 title: "Weeknote 7"
 date: 2014-04-27 20:49:53 +0100
 comments: false
-categories: weeknotes 
+categories: weeknotes
+invisible: 1
+
 ---
 
 Looking back through my done tasks for yet another 3 day week, It's good to remind myself just how much I got done - even if I wasn't as organised enough to put everything in the list on account of being so busy. I'm starting to get the hang of this TODO list lark. The thing that has helped me was the discovery of [http://todotxt.com/](http://todotxt.com/) - the simplicity has been the killer feature for me, not having to worry about the latest and greatest list app, and where my data is or whether the service will be around next week.

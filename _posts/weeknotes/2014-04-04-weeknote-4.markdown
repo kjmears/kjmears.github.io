@@ -3,7 +3,9 @@ layout: post
 title: "weeknote-4"
 date: 2014-04-04 21:04:49 +0100
 comments: false
-categories: weeknotes 
+categories: weeknotes
+invisible: 1
+
 ---
 
 

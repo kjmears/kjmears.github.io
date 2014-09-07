@@ -4,6 +4,8 @@ title: "weeknote 13"
 date: 2014-06-08 19:19:25 +0100
 comments: false
 categories: weeknotes
+invisible: 1
+
 ---
 
 Wrestling with content for a course page still, but pleased that I managed to meet the initial deadline for the most recent stage of the design. I presented my work which I thought was a reasonable response to some of the ideas about what to do with the various challenges of an extensive page of information. It's an ogoing process of seeing what content types there are across over 600 courses, and designing some templates that can cope with the inevitable variations.

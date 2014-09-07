@@ -5,7 +5,9 @@ layout: default
 <article>
 	<h1>{{ page.title }}</h1>
 	<p class="meta">{{ page.date | date_to_string }}</p>
-	
+		{% if page.category %} 
+			<p><a href="{{ site_url }}/{{ page.category }}">{{ page.category }}</a></p>	
+		{% endif %}
 	<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
 
     {{ content }}

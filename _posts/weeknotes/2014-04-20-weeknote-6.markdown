@@ -3,7 +3,9 @@ layout: post
 title: "weeknote 6"
 date: 2014-04-20 17:57:40 +0100
 comments: false
-categories: weeknotes 
+categories: weeknotes
+invisible: 1
+
 ---
 
 Short week this week with the Easter holidays.
