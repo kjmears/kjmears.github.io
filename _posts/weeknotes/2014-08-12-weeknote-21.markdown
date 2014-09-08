@@ -1,6 +1,6 @@
 ---
 layout: weeknotes
-title: Weeknote 22
+title: Weeknote 21
 date: 2014-09-07
 comments: false
 categories: weeknotes 
