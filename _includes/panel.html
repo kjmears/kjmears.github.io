@@ -1,0 +1,8 @@
+<div class="panel">
+	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
+	
+	<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncate:30 }}</a></h2>
+
+	<p>{{ post.excerpt | strip_html | truncatewords:9 }}<a href="{{ site.baseurl }}{{ post.url }}"> Read more</a></p>
+
+</div>

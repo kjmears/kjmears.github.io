@@ -6,6 +6,9 @@ image: 2013-01-07-wilsonminer-build2011.png
 image-thumb: 2013-01-07-wilsonminer-build2011-thumb.gif
 date: 2013-01-07 22:44:09.000000000 +00:00
 category: sketchnotes
+tags: 
+- video
+- homepage
 
 ---
 

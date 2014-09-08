@@ -1,22 +1,25 @@
 .panel{
-	min-height: 15em;
+	min-height: 23em;
 	@include box-shadow(2px 2px 4px rgba(0,0,0,0.8));
 	position: relative;
 	background-color: $gray-lighter;
-	.panel-body{
-		padding:0;
-	}
-	p{
+	border:none;	
+	
+	p {
 		color:$gray-dark;
-	}
-	h2	{
-
+		padding:1em;
+		//background-color:deeppink;
 		a{
-			color:white;
-		line-height: $line-height-base;
-		display: block;
-		padding: 0.5em;
-		&:hover{
+			display:block;
+			}
+		}
+	h2 {
+		a {
+			line-height: $line-height-base;
+			display: block;
+			padding: 0.5em;
+			border-bottom:1px solid $gray-light;
+		&:hover {
 			color: $brand-primary;
 			}
 		}

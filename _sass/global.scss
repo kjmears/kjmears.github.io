@@ -9,14 +9,10 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 @import "weeknotes";
 @import "related";
 
-
-
-body { padding-top: 70px; }
-
-body{
-background-image: url("/img/pattern-white-grey.gif"); 
-}
-
+body {
+	padding-top: 70px;
+	background-image: url("/img/pattern-white-grey.gif"); 
+	}
 
 //about me page
 
@@ -40,28 +36,12 @@ span.me{
 	}
 }
 
-/*.navbar-brand{
-	.text-hide();
-	background-image: url("/img/mearso-pen.gif");
-	background-repeat: no-repeat;
-	height: 90px; 
-	width: 500px;
-	.center-block();
-
-}*/
-
-body{
-background-image: url("/img/pattern-white-grey.gif"); 
-}
-
-
 section{
 	@include make-xs-column(6);
 	@include make-sm-column(4);
 	@include make-md-column(3);
 }
 // mixins for different viewport sizes
-
 
 article,{
 	@include make-xs-column(12);
@@ -70,19 +50,13 @@ article,{
 
 .media{
 	border-bottom: 1px solid $gray-lighter;
-
 }
-
 
 $panel-yellow-text:#333;
 $panel-yellow-heading-bg: #F0D343;
 $panel-yellow-border: #F0D343;
 
 
-
-
 .img-circle{
 	border:2px solid $gray-dark;
 }
-
-

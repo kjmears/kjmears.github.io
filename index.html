@@ -4,22 +4,14 @@ title: Kevin Mears - I like to draw.
 
 ---
 
+
+
+
 <div class="row">
-	{% for post in site.posts | sort: title %}
-			{% if post.homepage == true %}
-					<section>
-				  	<div class="panel">
-						<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
-							<div class="panel-body">
-								<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-								
-											<p>{{ post.content | strip_html | truncate:200 }}<a href="{{ site.baseurl }}{{ post.url }}"> Read more</a></p>
-							</div>
-						</div>
-					</section>
-					
-			{% endif %}
+	{% for post in site.tags.homepage %}
+		<section>
+			{% include panel.html %}
+		</section>
 	{% endfor %}
+		
 </div>
-
-

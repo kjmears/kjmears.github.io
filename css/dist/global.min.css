@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site 07-09-2014 */
+/*! mearso-jekyll-site 08-09-2014 */
 
 /*!
  *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
@@ -8742,23 +8742,25 @@ button.close {
   }
 }
 .panel {
-  min-height: 15em;
+  min-height: 23em;
   -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   position: relative;
   background-color: #eeeeee;
-}
-.panel .panel-body {
-  padding: 0;
+  border: none;
 }
 .panel p {
   color: #333333;
+  padding: 1em;
+}
+.panel p a {
+  display: block;
 }
 .panel h2 a {
-  color: white;
   line-height: 1.42857;
   display: block;
   padding: 0.5em;
+  border-bottom: 1px solid #999999;
 }
 .panel h2 a:hover {
   color: #008cba;
@@ -8805,9 +8807,6 @@ button.close {
 
 body {
   padding-top: 70px;
-}
-
-body {
   background-image: url("/img/pattern-white-grey.gif");
 }
 
@@ -8833,19 +8832,6 @@ span.me {
   width: 100% \9;
   max-width: 100%;
   height: auto;
-}
-
-/*.navbar-brand{
-	.text-hide();
-	background-image: url("/img/mearso-pen.gif");
-	background-repeat: no-repeat;
-	height: 90px; 
-	width: 500px;
-	.center-block();
-
-}*/
-body {
-  background-image: url("/img/pattern-white-grey.gif");
 }
 
 section {

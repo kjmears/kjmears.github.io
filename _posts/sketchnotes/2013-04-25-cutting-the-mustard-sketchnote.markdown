@@ -5,7 +5,9 @@ title: Cutting the Mustard Sketchnote
 image: cutting-the-mustard.gif
 image-thumb: cutting-the-mustard-thumb.gif
 category: sketchnotes
-homepage: true
+tags:
+- video
+- homepage
 
 ---
 

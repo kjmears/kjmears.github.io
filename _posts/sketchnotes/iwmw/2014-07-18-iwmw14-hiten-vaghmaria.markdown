@@ -7,6 +7,10 @@ date: 2014-07-18
 image: /iwmw14/iwmw14-2014-07-18-hiten-vaghmaria.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
 categories: sketchnotes
+tags: 
+- iwmw14
+- homepage
+
 redirect_from:
 - "/sketchnote/2014/07/18/iwmw14-hiten-vaghmaria.html"
 - "/sketchnotes/2014/07/18/iwmw14-hiten-vaghmaria.html"
@@ -14,5 +18,7 @@ redirect_from:
 invisible: 1
 
 ---
+
+Into the nitty gritty of a big project and new approach.
 
 [http://iwmw.org/iwmw2014/talks/allocating-work-providing-tools-for-academics/](http://iwmw.org/iwmw2014/talks/allocating-work-providing-tools-for-academics/)

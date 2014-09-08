@@ -5,6 +5,9 @@ date: 2013-02-19
 image: romulusandremus.gif
 image-thumb: romulusandremus-thumb.gif
 category: sketchnotes
+tags: 
+- audio
+- homepage
 
 
 ---

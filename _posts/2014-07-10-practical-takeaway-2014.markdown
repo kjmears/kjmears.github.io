@@ -7,6 +7,8 @@ date: 2014-07-10
 image: /practical-takeaway_2014.jpg
 image-thumb: /practical-takeaway_2014-thumb.jpg
 categories: doodles
+tags: 
+- homepage
 
 ---
 

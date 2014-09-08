@@ -7,6 +7,9 @@ date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-chris-gutteridge.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg
 categories: sketchnotes
+tags: 
+- iwmw14
+- homepage
 
 invisible: 1
 
@@ -16,5 +19,7 @@ redirect_from:
 
 
 ---
+
+Enjoyable root around university websites and look at the tools to do it.
 
 [http://iwmw.org/iwmw2014/talks/what-does-the-data-tell-us-about-uk-university-web-sites/](http://iwmw.org/iwmw2014/talks/what-does-the-data-tell-us-about-uk-university-web-sites/)

@@ -5,7 +5,7 @@ layout: default
 
 <div class="row">
 	<article>
-		<h1>{{ page.title }}</h1>	
+		<h1>{{ page.title }} 	{{ page.tags }}</h1>	
 		<p class="meta">{{ page.date | date_to_string }}</p>
 
 		{% if page.category %} 
@@ -16,6 +16,8 @@ layout: default
 				<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
 	
 			{% endif %}
+			
+		
 	
 		{{ content }}
 	
@@ -28,10 +30,7 @@ layout: default
 	    <h2>Other articles in <a href="/{{ category_name }}/">{{ category_name | capitalize }}</a></h2>
 		 {% for post in site.categories[category_name] limit:4 %}
 			<section class="related">
-		  	<div class="panel">
-				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
-				<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-			</div>
+				{% include panel.html %}
 		</section>
 	{% endfor %}
 
