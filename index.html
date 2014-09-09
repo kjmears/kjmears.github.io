@@ -4,10 +4,21 @@ title: Kevin Mears - I like to draw.
 
 ---
 
-
-
-
 <div class="row">
+	{% for promo in site.data.promos %}
+		<section>
+			<div class="panel">
+				<a href="{{ promo.url }}"><img src="images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
+	
+				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
+
+				<p>{{ promo.text }}
+				<a href="{{ promo.url }}"> Read more</a></p>
+
+			</div>
+		</section>	
+		{% endfor %}	
+
 	{% for post in site.tags.homepage %}
 		<section>
 			{% include panel.html %}

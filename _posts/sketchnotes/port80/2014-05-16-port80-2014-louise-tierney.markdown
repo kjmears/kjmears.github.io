@@ -8,6 +8,9 @@ image: /port80/2014/port80-2014-05-16-louise-tierney.gif
 image-thumb: port80/2014/port80-2014-05-16-louise-tierney-thumb.gif
 categories: sketchnotes
 invisible: 1
+tags:
+- port80-2014
+- homepage
 
 ---
 
