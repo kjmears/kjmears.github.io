@@ -2,7 +2,7 @@
 
 layout: post
 published: true
-title: Martin Morrey - IWMW14
+title: Martin Morrey - IWMW2014
 date: 2014-07-18
 image: /iwmw14/iwmw14-2014-07-18-martin-morrey.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg

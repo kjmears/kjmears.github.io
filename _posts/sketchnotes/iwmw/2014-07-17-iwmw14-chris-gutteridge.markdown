@@ -2,7 +2,7 @@
 
 layout: post
 published: true
-title: Chris Gutteridge - IWMW14
+title: Chris Gutteridge - IWMW2014
 date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-chris-gutteridge.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg

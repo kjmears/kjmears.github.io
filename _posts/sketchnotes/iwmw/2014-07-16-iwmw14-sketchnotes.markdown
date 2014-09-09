@@ -19,7 +19,7 @@ tags:
 ---
 
 
-Collected sketchnotes from the [IWMW14](http://iwmw.org/iwmw2014/programme/) conference.
+Collected sketchnotes from the [IWMW2014](http://iwmw.org/iwmw2014/programme/) conference.
 
 <section>
   	<div class="panel">

@@ -5,12 +5,15 @@ layout: default
 
 <div class="row">
 	<article>
-		<h1>{{ page.title }} 	{{ page.tags }}</h1>	
-		<p class="meta">{{ page.date | date_to_string }}</p>
+		<h1>{{ page.title }} </h1>
 
+		<p class="meta">{{ page.date | date_to_string }}</p>
+		
+		<p>Tagged: <a href="{{ page.tags[0] }}">{{ page.tags[0] | capitalize }}</a>
 		{% if page.category %} 
-			<p><a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>	
+			in <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>	
 		{% endif %}
+		</p>
 		
 		{% if page.image %}
 				<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>

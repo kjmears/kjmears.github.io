@@ -2,7 +2,7 @@
 
 layout: post
 published: true
-title: Tracy Playle - IWMW14
+title: Tracy Playle - IWMW2014
 date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-tracy-playle.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg

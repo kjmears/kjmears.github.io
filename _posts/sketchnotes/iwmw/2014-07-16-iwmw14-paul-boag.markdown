@@ -2,7 +2,7 @@
 
 layout: post
 published: true
-title: Paul Boag - IWMW14
+title: Paul Boag - IWMW2014
 date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-paul-boag.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg
