@@ -14,17 +14,25 @@ layout: default
 			in <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>	
 		{% endif %}
 		</p>
+	
 		
 		{% if page.image %}
 				<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
 	
 			{% endif %}
 			
-		
-	
+				
 		{{ content }}
+		
+		<p><a href="{{ page.reference }}">More Info</a></p>
+		{% if page.bio-twitter %}
+		<p><a href="https://twitter.com/{{ page.bio-witter }}">@{{ page.bio-twitter }}</a></p>
+		{% endif %}
 	
 	</article>
+	
+
+	
 </div>
 
 	<div class="row">

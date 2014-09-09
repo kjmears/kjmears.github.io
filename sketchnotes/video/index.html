@@ -1,0 +1,17 @@
+---
+layout: page
+title: Video Sketchnotes
+
+---
+
+<p>Collection of sketchnotes done watching videos of various descriptions</p>
+
+<div class="row">
+	{% for post in site.tags.video %}
+		<section>
+			{% include panel.html %}
+		</section>
+	{% endfor %}
+		
+</div>
+

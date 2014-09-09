@@ -9,9 +9,7 @@ image-thumb: /handheld2013/brendan-dawes-handheld2013-thumb.gif
 categories: sketchnotes
 tags: 
 - handheld13
-- homepage
 
-invisible: 1
 
 ---
 

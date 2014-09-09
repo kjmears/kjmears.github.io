@@ -9,9 +9,6 @@ image-thumb: /handheld2013/andrew-clarke-handheld2013-thumb.gif
 categories: sketchnotes
 tags: 
 - handheld13
-- homepage
-
-invisible: 1
 
 ---
 

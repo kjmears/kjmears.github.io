@@ -10,9 +10,7 @@ categories:
 - sketchnotes
 tags: 
 - handheld13
-- homepage
 
-invisible: 1
 
 ---
 

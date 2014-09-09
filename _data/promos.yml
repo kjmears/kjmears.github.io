@@ -1,5 +1,5 @@
 - date: '2014-07-18'
-  title: IWMW14 Sketchnotes
+  title: IWMW 2014 Sketchnotes
   text: "Collected sketchnotes from IWMW2014"
   image: /iwmw14/iwmw14-vision-panel-thumb.jpg
   url: /sketchnotes/iwmw14/
@@ -7,5 +7,17 @@
 - date: 2014-05-16
   title: Port80 2014 Sketchnotes
   text: Collected sketchnotes from Port80 2014
-  image: /iwmw14/iwmw14-vision-panel-thumb.jpg
+  image: /port80/2014/port80-2014-thumb.gif
   url: /sketchnotes/port80-2014/
+
+- date: 29-11-05
+  title: Handheld 2013 Sketchnotes
+  text: Collected sketchnotes from Handheld 2013
+  image: /handheld2013/syd-lawrence-handheld2013-thumb.gif
+  url: /sketchnotes/handheld13/
+  
+- date: 2013-06-26
+  title: IWMW 2013 Sketchnotes
+  text: Collected sketchnotes from Port80 2014
+  image: /iwmw13/iwmw13-sketchnotes-thumb.gif
+  url: /sketchnotes/iwmw13/	

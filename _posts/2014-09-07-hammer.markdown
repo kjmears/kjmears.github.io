@@ -8,7 +8,6 @@ image: /doodles/hammer.jpg
 image-thumb: /doodles/hammer-thumb.jpg
 categories: doodles
 tags: 
-- homepage
 
 ---
 
