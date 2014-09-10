@@ -10,12 +10,15 @@ title: Speakers
   {% for bio in site.data.speakers %}
   <section>
     <article>
-      <p>{{ bio.name }}</p>
-      {% for talks in bio.talks  %}
-      <p><a href="{{ talks.url }}">{{ talks.title}}</a></p>
-      {% endfor %}
-      <p><a href="{{ bio.twitter }}">Twitter</a></p>
-      <p><a href="{{ bio.url }}">Website</a></p>
+			<div class="panel">
+      
+        <p>{{ bio.name }}</p>
+        {% for talks in bio.talks  %}
+        <p><a href="{{ talks.url }}">{{ talks.title}}</a></p>
+        {% endfor %}
+        <p><a href="{{ bio.twitter }}">Twitter</a></p>
+        <p><a href="{{ bio.url }}">Website</a></p>
+      </div>
     </article>
   </section>
 

@@ -9,7 +9,6 @@ image-thumb: /iwmw13/iwmw13-thumb.gif
 categories: sketchnotes
 tags: 
 - iwmw13
-- homepage
 
 ---
 

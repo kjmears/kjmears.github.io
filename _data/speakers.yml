@@ -8,7 +8,7 @@
 
 - id: k-anagnostopoulou
   name: Kyriaki Anagnostopoulou
-  url: http://www.bath.ac.uk/learningandteaching/about/staff/k-anagnostopoulou.html
+  url: "http://www.bath.ac.uk/learningandteaching/about/staff/k-anagnostopoulou.html"
   talks:
     - title: "Et tu MOOC? Massive Online Considerations"
       url: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
@@ -26,9 +26,9 @@
   twitter: boagworld
   url: http://boagworld.com/
   talks:
-    - title: IWMW 2014
+    - title: "Digital Adaptation: Time to Untie Your Hands"
       url: /sketchnotes/iwmw14-paul-boag.html
-    - title: IWMW 2013
+    - title: "Institutional Culture Is Crippling Your Web Strategy!"
       url: /sketchnotes/iwmw13-paul-boag.html
 
 - id: markboulton
@@ -36,7 +36,7 @@
   twitter: markboulton
   url: https://markboulton.co.uk.com
   talks:
-    - title: Handheld talks
+    - title: The Business of Responsive Design
       url: /sketchnotes/handheld2013-mark-boulton.html
     - title: Creative Mornings cardiff
       url: /sketchnotes/creative-morning-jun2014.html
@@ -46,7 +46,8 @@
   twitter: Malarkey
   url: http://stuffandnonsense.co.uk/
   talks:
-  - /sketchnotes/handheld2013-andrew-clarke.html
+    - title: How to call your client an idiot without getting fired
+      url: /sketchnotes/handheld2013-andrew-clarke.html
 
 - id: dc86
   name: David Cornforth
@@ -61,7 +62,8 @@
   twitter: brendandawes
   url: http://brendandawes.com/
   talks:
-  - /sketchnotes/handheld2013-brendan-dawes.html
+    - title: Carefully Everywhere
+      url: /sketchnotes/handheld2013-brendan-dawes.html
 
 - id: NeilDenny
   name: Neil Denny
@@ -91,7 +93,7 @@
   twitter: rossferg
   url: http://rossferguson.com
   talks:
-    - title: IWMW 2014
+    - title: "Using the Start-up Playbook to Reboot a big University Website"
       url: /sketchnotes/iwmw14-ross-ferguson.html
 
 - id: nathan_ford
@@ -105,7 +107,9 @@
 - id: cgreen
   name: Cable Green
   twitter: cgreen
-  url: http://creativecommons.org/
+  talks:
+    - title: "Open Education: The Business & Policy Case for OER"
+      url: http://creativecommons.org/
 
 - id: daigriffiths
   name: Dai Griffiths
@@ -135,7 +139,8 @@
   twitter: Hicksdesign
   url: http://hicksdesign.co.uk/
   talks:
-  - /sketchnotes/handheld2013-jon-hicks.html
+    - title: Icon Design Process
+      url: /sketchnotes/handheld2013-jon-hicks.html
 
 - id: martin_hamilton
   name: Martin Hamilton
@@ -174,14 +179,16 @@
   twitter: adactio
   url: https://adactio.com/
   talks:
-  - /sketchnotes/handheld2013-jeremy-keith.html
+   - title: The Long Web
+     url: /sketchnotes/handheld2013-jeremy-keith.html
 
 - id: eddiemachado
   name: Eddie Machado
   twitter: eddiemachado
   url: http://themble.com/
   talks:
-  - /sketchnotes/handheld2013-eddie-machado.html
+    - title: Crafting your Toolset
+      url: /sketchnotes/handheld2013-eddie-machado.html
   
 - id: tracyplayle
   name: Tracy Playle
@@ -262,7 +269,8 @@
   twitter: LINGsCARS
   url: https://lingscars.com
   talks:
-  - /sketchnotes/handheld2013-ling-valentine.html
+    - title: When responsive sites work as well as a chocolate iPhone
+      url: /sketchnotes/handheld2013-ling-valentine.html
 
 - id: paulwalk
   name: Paul Walk
@@ -283,4 +291,5 @@
   twitter: zeldman
   url: http://zeldman.com/
   talks:
-  - /sketchnotes/handheld2013-jeffrey-zeldman.html
+    - title: Ten Commandments of Modern Web Design
+      url: /sketchnotes/handheld2013-jeffrey-zeldman.html
