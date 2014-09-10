@@ -9,9 +9,7 @@ image-thumb: /iwmw13/iwmw13-content-strategist-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
 bio: http://contentbear.co.uk/
-tags: 
-- iwmw13
-- homepage
+
 
 ---
 

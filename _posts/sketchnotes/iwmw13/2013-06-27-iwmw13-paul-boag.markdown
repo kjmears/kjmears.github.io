@@ -9,9 +9,7 @@ image-thumb: /iwmw13/iwmw13-culture-crippling-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
 bio: http://boagworld.com/
-tags: 
-- iwmw13
-- homepage
+
 
 ---
 

@@ -7,13 +7,19 @@ title: IWMW13 Sketchnotes
 <img src="../../images/iwmw13/iwmw13-sketchnotes.gif" width="1600" height="2325" alt="Iwmw13 Sketchnotes">
 
 <div class="row">
-	{% for post in site.tags.iwmw13 %}
+	{% for promo in site.data.iwmw13 %}
 		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
-		
-</div>
+			<div class="panel">
+				<a href="{{ promo.url }}"><img src="/images{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
+	
+				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
 
+				<p>{{ promo.text }}
+				<a href="{{ promo.url }}"> Read more</a></p>
+
+			</div>
+		</section>	
+		{% endfor %}	
+</div>
 
 

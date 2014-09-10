@@ -9,9 +9,7 @@ image-thumb: /iwmw13/iwmw13-wtf-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
 bio-twitter: rssidhu
-tags: 
-- iwmw13
-- homepage
+
 
 ---
 

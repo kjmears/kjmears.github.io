@@ -8,9 +8,7 @@ image: /iwmw13/iwmw13-adapting-to-rwd.gif
 image-thumb: /iwmw13/iwmw13-adapting-to-rwd-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
-tags: 
-- iwmw13
-- homepage
+
 
 ---
 

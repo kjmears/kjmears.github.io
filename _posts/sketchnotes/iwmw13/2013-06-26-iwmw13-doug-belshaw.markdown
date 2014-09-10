@@ -8,9 +8,7 @@ image: /iwmw13/iwmw13-mozilla-open-badges.gif
 image-thumb: /iwmw13/iwmw13-mozilla-open-badges-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
-tags: 
-- iwmw13
-- homepage
+
 
 ---
 

@@ -9,11 +9,10 @@ layout: default
 
 		<p class="meta">{{ page.date | date_to_string }}</p>
 		
-		<p>Tagged: <a href="{{ page.tags[0] }}">{{ page.tags[0] | capitalize }}</a>
 		{% if page.category %} 
-			in <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>	
+			<p><a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>
+			</p>
 		{% endif %}
-		</p>
 	
 		
 		{% if page.image %}
