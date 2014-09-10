@@ -27,7 +27,30 @@
       url: /sketchnotes/iwmw14-ranjit-sidhu.html
     - title: IWMW 2013
       url: /sketchnotes/iwmw13-ranjit-sidhu.html
-
+      
+- id: dajbelshaw
+  name: Doug Belshaw
+  twitter: dajbelshaw
+  url: http://dougbelshaw.com/
+  talks:
+    - title: "Mozilla, Open Badges and a Learning Standard for Web Literacy"
+      url: /sketchnotes/iwmw13-doug-belshaw.html
+      
+- id: dajbelshaw
+  name: Kyriaki Anagnostopoulou
+  url: http://www.bath.ac.uk/learningandteaching/about/staff/k-anagnostopoulou.html
+  talks:
+    - title: "Et tu MOOC? Massive Online Considerations"
+      url: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
+      
+- id: ambrouk
+  name: Amber Thomas
+  twitter: ambrouk
+  url: http://fragmentsofamber.wordpress.com/
+  talks:
+    - title: Turning Our Attention to Supporting Research Projects
+      url: /sketchnotes/iwmw13-amber-thomas.html
+      
 - id: kwevans
   name: Kevin Evans
   twitter: kwevans
