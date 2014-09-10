@@ -6,22 +6,37 @@ title: Speakers
 
 <div class="row">
   
-
   {% for bio in site.data.speakers %}
-  <section>
-    <article>
-			<div class="panel">
-      
-        <p>{{ bio.name }}</p>
-        {% for talks in bio.talks  %}
-        <p><a href="{{ talks.url }}">{{ talks.title}}</a></p>
+    <article class="biogs">
+           
+        <div class="meta">
+          <h2 class="bio-name">{{ bio.name }}</h2>
+          
+          {% if bio.twitter %}
+            <p><a href="{{ bio.twitter }}">Twitter</a></p>
+          {% endif %}
+          {% if bio.url %}
+            <p><a href="{{ bio.url }}">Website</a></p>
+          {% endif %}
+          
+        </div>
+        
+        {% for talk in bio.talks  %}
+          {% if bio.talks %}
+          <ul class="bio-talks">
+            <li>
+              <a href="{{ talk.url }}">{{ talk.title}}</a>
+            </li>
+          </ul>
+          {% endif %}
+          
         {% endfor %}
-        <p><a href="{{ bio.twitter }}">Twitter</a></p>
-        <p><a href="{{ bio.url }}">Website</a></p>
-      </div>
     </article>
-  </section>
 
   {% endfor %}	
 
 </div>
+
+
+
+

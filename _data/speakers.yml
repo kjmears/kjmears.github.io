@@ -5,6 +5,8 @@
   talks:
     - title: 'Marketing is Dead, Long Live Ux'
       url: /sketchnotes/iwmw14-neil-allison.html
+    - title: Experiences in user centred design at the University of Edinburgh
+      url: /sketchnoting-at-iwmw12.html
 
 - id: k-anagnostopoulou
   name: Kyriaki Anagnostopoulou
@@ -133,7 +135,9 @@
   talks:
     - title: "Hyper-Connected: Filling the Vacuum by Switching from Blow to Suck"
       url: /sketchnotes/iwmw14-martin-hawksey.html
-  
+    - title: "Data Visualisation: A Taster"
+      url: /sketchnoting-at-iwmw12.html
+
 - id: Hicksdesign
   name: Jon Hicks
   twitter: Hicksdesign
@@ -219,9 +223,9 @@
   twitter: rssidhu
   url: http://sidspace.info/
   talks:
-    - title: IWMW 2014
+    - title: '“You are all so Weird!” University Sector Analysis and Trends'
       url: /sketchnotes/iwmw14-ranjit-sidhu.html
-    - title: IWMW 2013
+    - title: "What the fcuk just happened then?"
       url: /sketchnotes/iwmw13-ranjit-sidhu.html
 
 - id: kimberleytew
