@@ -23,8 +23,11 @@ layout: default
 			
 				
 		{{ content }}
-		
+    
+		{% if page.reference %}
 		<p><a href="{{ page.reference }}">More Info</a></p>
+		{% endif %}
+    
 		{% if page.bio-twitter %}
 		<p><a href="https://twitter.com/{{ page.bio-witter }}">@{{ page.bio-twitter }}</a></p>
 		{% endif %}
