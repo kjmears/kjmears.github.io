@@ -14,4 +14,4 @@ tags:
 
 ---
 
-A welcome to the conference
+Adapting to Responsive Web Design
