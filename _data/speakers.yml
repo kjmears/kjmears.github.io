@@ -1,0 +1,195 @@
+- id: paulboag
+  name: Paul Boag
+  twitter: boagworld
+  url: http://boagworld.com/
+  talks:
+    - title: IWMW 2014
+      url: /sketchnotes/iwmw14-paul-boag.html
+    - title: IWMW 2013
+      url: /sketchnotes/iwmw13-paul-boag.html
+
+- id: markboulton
+  name: Mark Boulton
+  twitter: markboulton
+  url: https://markboulton.co.uk.com
+  talks:
+    - title: Handheld talks
+      url: /sketchnotes/handheld2013-mark-boulton.html
+    - title: Creative Mornings cardiff
+      url: /sketchnotes/creative-morning-jun2014.html
+  
+- id: rssidhu
+  name: Ranjit Sidhu
+  twitter: rssidhu
+  url: http://sidspace.info/
+  talks:
+    - title: IWMW 2014
+      url: /sketchnotes/iwmw14-ranjit-sidhu.html
+    - title: IWMW 2013
+      url: /sketchnotes/iwmw13-ranjit-sidhu.html
+
+- id: kwevans
+  name: Kevin Evans
+  twitter: kwevans
+  talks:
+    - title: These are not the droids you're looking for
+      url: /sketchnotes/port80-2014-kevin.evans.html
+      
+- id: jukesie
+  name: Matt Jukes
+  twitter: jukesie
+  url: https://medium.com/@jukesie
+  talks:
+    - title: 'Lies, Damned lies and Statistics'
+      url: /sketchnotes/port80-2014-matt-jukes.html
+      
+- id: nathan_ford
+  name: Nathan Ford
+  twitter: nathan_ford
+  url: http://artequalswork.com/
+  talks:
+    - title: 'Mastering the dark art of fluid layout'
+      url: /sketchnotes/port80-2014-nathan-ford.html
+      
+- id: hereinthehive
+  name: Dan Donald
+  twitter: hereinthehive
+  url: http://hereinthehive.com/
+  talks:
+    - title: 'Designing Evolution'
+      url: /sketchnotes/port80-2014-dan-donald.html
+      
+- id: denisejacobs
+  name: Denise Jacobs
+  twitter: denisejacobs
+  url: http://denisejacobs.com/
+  talks:
+    - title: 'Banish your inner critic'
+      url: /sketchnotes/port80-2014-denise-jacobs.html
+      
+- id: supertastycake
+  name: Louise Tierney
+  twitter: supertastycake
+  url: http://zengenti.com/en-gb/index.aspx
+  talks:
+    - title: Put yourself in their shoes
+      url: /sketchnotes/port80-2014-louise-tierney.html
+      
+- id: roy
+  name: Roy Tomeij
+  twitter: roy
+  url: http://roytomeij.com/
+  talks:
+    - title: Make them click
+      url: /sketchnotes/port80-2014-roy-tomeij.html
+
+- id: kimberleytew
+  name: Kimberley Tew
+  twitter: kimberleytew
+  url: http://kimberleytew.com/
+  talks:
+    - title: Accessibility for Humans
+      url: /sketchnotes/port80-2014-kimberley-tew.html
+      
+- id: mhawksey
+  name: Martin Hawksey
+  twitter: mhawksey
+  url: http://mashe.hawksey.info/
+  talks:
+    - title: "Hyper-Connected: Filling the Vacuum by Switching from Blow to Suck"
+      url: /sketchnotes/iwmw14-martin-hawksey.html
+      
+- id: tracyplayle
+  name: Tracy Playle
+  twitter: tracyplayle
+  url: http://www.picklejarcommunications.com/
+  talks:
+    - title: Why you don’t Need a Social Media Plan and how to Create one Anyway
+      url: /sketchnotes/iwmw14-tracy-playle.html
+
+- id: cgutteridge
+  name: Chris Gutteridge
+  twitter: cgutteridge
+  url: http://users.ecs.soton.ac.uk/cjg/
+  talks:
+    - title: What Does the Data Tell us About uk University web Sites?
+      url: /sketchnotes/iwmw14-chris-gutteridge.html
+      
+- id: usabilityed
+  name: Neil Allison
+  twitter: usabilityed
+  url: http://usability-ed.blogspot.co.uk/
+  talks:
+    - title: 'Marketing is Dead, Long Live Ux'
+      url: /sketchnotes/iwmw14-neil-allison.html
+      
+- id: sharif_salah
+  name: Sharif Salah
+  twitter: sharif_salah
+  url: https://plus.google.com/103057053147910473099/about
+  talks:
+    - title: 'Building Cost-Effective, Flexible and Scalable Education Resources Using Google Cloud Platform'
+      url: /sketchnotes/iwmw14-sharif-salah.html
+      
+- id: rossferg
+  name: Ross Ferguson
+  twitter: rossferg
+  url: http://rossferguson.com
+  talks:
+    - title: IWMW 2014
+      url: /sketchnotes/iwmw14-ross-ferguson.html
+  
+- id: cgreen
+  name: Cable Green
+  twitter: cgreen
+  url: http://creativecommons.org/
+  
+- id: aclarke
+  name: Andrew Clarke
+  twitter: Malarkey
+  url: http://stuffandnonsense.co.uk/
+  talks:
+  - /sketchnotes/handheld2013-andrew-clarke.html
+  
+- id: brendandawes
+  name: Brendan Dawes
+  twitter: brendandawes
+  url: http://brendandawes.com/
+  talks:
+  - /sketchnotes/handheld2013-brendan-dawes.html
+  
+- id: eddiemachado
+  name: Eddie Machado
+  twitter: eddiemachado
+  url: http://themble.com/
+  talks:
+  - /sketchnotes/handheld2013-eddie-machado.html
+  
+- id: zeldman
+  name: Jeffrey Zeldman
+  twitter: zeldman
+  url: http://zeldman.com/
+  talks:
+  - /sketchnotes/handheld2013-jeffrey-zeldman.html
+  
+- id: Hicksdesign
+  name: Jon Hicks
+  twitter: Hicksdesign
+  url: http://hicksdesign.co.uk/
+  talks:
+  - /sketchnotes/handheld2013-jon-hicks.html
+
+- id: adactio
+  name: Jeremy Keith
+  twitter: adactio
+  url: https://adactio.com/
+  talks:
+  - /sketchnotes/handheld2013-jeremy-keith.html
+  
+- id: LINGsCARS
+  name: Ling Valentine
+  twitter: LINGsCARS
+  url: https://lingscars.com
+  talks:
+  - /sketchnotes/handheld2013-ling-valentine.html
+  
