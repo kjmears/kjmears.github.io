@@ -8,7 +8,7 @@ image: /iwmw13/iwmw13-supporting-research.gif
 image-thumb: /iwmw13/iwmw13-supporting-research-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
-
+speaker: ambrouk
 
 
 ---

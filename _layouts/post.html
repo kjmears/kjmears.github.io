@@ -23,24 +23,19 @@ layout: default
 				
 		{{ content }}
     
-    {% for bio in site.data.speakers limit %}
-      {% if bio.twitter == page.speaker %}
+    {% for bio in site.data.speakers %}
+      {% if page.speaker %}
+        {% if bio.twitter == page.speaker %}
       
-        {{ bio.twitter }}
-        <a href="{{ bio.url }}">Website</a>
-        <a href="{{ bio.twitter }}">@{{ bio.twitter }}</a>
+          {{ bio.twitter }}
+          <a href="{{ bio.url }}">{{ bio.url }}</a>
+          <a href="{{ bio.twitter }}">@{{ bio.twitter }}</a>
       
-      {% endif %}
+        {% endif %}
+       {% endif %} 
+      
     {% endfor %}
     
-		{% if page.reference %}
-		<p><a href="{{ page.reference }}">More Info</a></p>
-		{% endif %}
-    
-		{% if page.bio-twitter %}
-		<p><a href="https://twitter.com/{{ page.bio-witter }}">@{{ page.bio-twitter }}</a></p>
-		{% endif %}
-	
 	</article>
 	
 

@@ -10,7 +10,7 @@ title: Speakers
     <article class="biogs">
            
         <div class="meta">
-          <h2 class="bio-name">{{ bio.name }}</h2>
+          <h2>{{ bio.name }}</h2>
           
           {% if bio.twitter %}
             <p><a href="{{ bio.twitter }}">Twitter</a></p>
@@ -25,9 +25,13 @@ title: Speakers
           {% if bio.id == talk.speaker %}
           <h3>{{ talk.title }}</h3>
           <ul>
-            <li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
+            <li>Talk Info <a href="http://{{ talk.info}}">{{ talk.info }}</a></li>
             <li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
-            <li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
+            
+            {% if talk.resources %}
+            <li>Talk Resources <a href="http://{{ talk.resources }}">{{ talk.resources }}</a></li>
+            {% endif %}
+            
           </ul>
           {% endif %}
         {% endfor %}
