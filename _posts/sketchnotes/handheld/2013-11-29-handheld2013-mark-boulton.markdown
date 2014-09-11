@@ -1,5 +1,6 @@
 ---
 
+code: han13-04
 layout: post
 published: true
 title: Mark Boulton - The Business of Responsive Design
@@ -9,8 +10,7 @@ image-thumb: /handheld2013/mark-boulton-handheld2013-thumb.gif
 speaker: markboulton
 categories: 
 - sketchnotes
-tags: 
-- handheld13
+
 
 
 ---

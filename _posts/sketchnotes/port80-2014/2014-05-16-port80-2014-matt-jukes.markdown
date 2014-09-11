@@ -7,6 +7,8 @@ date: 2014-05-16
 image: /port80/2014/port80-2014-05-16-matt-jukes.gif
 image-thumb: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
 categories: sketchnotes
+code: port80-08
+speaker: juksie
 tags:
 - port80-2014
 

@@ -1,5 +1,5 @@
 ---
-
+code: iwmw14-01
 layout: post
 published: true
 title: Tracy Playle - IWMW2014
@@ -7,6 +7,7 @@ date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-tracy-playle.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
 categories: sketchnotes
+speaker: tracyplayle
 
 
 redirect_from:
@@ -17,5 +18,3 @@ redirect_from:
 ---
 
 So what? as a useful tool.
-
-[http://iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/](http://iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/)

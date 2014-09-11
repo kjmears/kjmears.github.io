@@ -1,5 +1,6 @@
 ---
 
+code: iwmw14-11
 layout: post
 published: true
 title: IWMW2014 Vision Panel
@@ -18,4 +19,3 @@ redirect_from:
 
 Good question and answer session at the end of the conference.
 
-[http://iwmw.org/iwmw2014/talks/what-is-our-vision-for-the-institutional-web-and-can-we-implement-that-vision/](http://iwmw.org/iwmw2014/talks/what-is-our-vision-for-the-institutional-web-and-can-we-implement-that-vision/)

@@ -23,18 +23,34 @@ layout: default
 				
 		{{ content }}
     
+    {% if page.code %}
+      {% for info in site.data.events %}
+ 
+        {% if info.code == page.code %}
+          <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
+          {% if info.info %}
+          <li>Event Info <a href="http://{{ info.info }}">{{ info.info }}</a></li>
+          {% endif %}      
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    
+    
     {% for bio in site.data.speakers %}
       {% if page.speaker %}
-        {% if bio.twitter == page.speaker %}
-      
-          {{ bio.twitter }}
-          <a href="{{ bio.url }}">{{ bio.url }}</a>
-          <a href="{{ bio.twitter }}">@{{ bio.twitter }}</a>
-      
+        {% if bio.id == page.speaker %}
+          {% if bio.url %}
+            <li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
+          {% endif %}
+          {% if bio.twitter %}
+            <li>Twitter <a href="{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
+          {% endif %}      
         {% endif %}
        {% endif %} 
       
     {% endfor %}
+    
+    
     
 	</article>
 	
@@ -42,8 +58,8 @@ layout: default
 	
 </div>
 
-	<div class="row">
-		<article class="related">
+<div class="row">
+	<article class="related">
 			{% for category_name in page.categories limit:1 %}
 	    <h2>Other articles in <a href="/{{ category_name }}/">{{ category_name | capitalize }}</a></h2>
 		 {% for post in site.categories[category_name] limit:4 %}
@@ -53,5 +69,6 @@ layout: default
 	{% endfor %}
 
 		{% endfor %}
-		</article>
+	</article>
 </div>
+
