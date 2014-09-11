@@ -7,8 +7,6 @@ date: 2014-07-18
 image: /iwmw14/iwmw14-2014-07-18-hiten-vaghmaria.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
 categories: sketchnotes
-tags: 
-- iwmw14
 
 redirect_from:
 - "/sketchnote/2014/07/18/iwmw14-hiten-vaghmaria.html"

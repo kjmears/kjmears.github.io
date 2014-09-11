@@ -23,33 +23,20 @@
     - title: "Mozilla, Open Badges and a Learning Standard for Web Literacy"
       url: /sketchnotes/iwmw13-doug-belshaw.html
 
-- id: paulboag
+- id: boagworld
   name: Paul Boag
   twitter: boagworld
   url: http://boagworld.com/
-  talks:
-    - title: "Digital Adaptation: Time to Untie Your Hands"
-      url: /sketchnotes/iwmw14-paul-boag.html
-    - title: "Institutional Culture Is Crippling Your Web Strategy!"
-      url: /sketchnotes/iwmw13-paul-boag.html
 
 - id: markboulton
   name: Mark Boulton
   twitter: markboulton
-  url: https://markboulton.co.uk.com
-  talks:
-    - title: The Business of Responsive Design
-      url: /sketchnotes/handheld2013-mark-boulton.html
-    - title: Creative Mornings cardiff
-      url: /sketchnotes/creative-morning-jun2014.html
+  url: https://markboulton.co.uk
 
-- id: aclarke
+- id: Malarkey
   name: Andrew Clarke
   twitter: Malarkey
   url: http://stuffandnonsense.co.uk/
-  talks:
-    - title: How to call your client an idiot without getting fired
-      url: /sketchnotes/handheld2013-andrew-clarke.html
 
 - id: dc86
   name: David Cornforth
@@ -82,7 +69,7 @@
   talks:
     - title: 'Designing Evolution'
       url: /sketchnotes/port80-2014-dan-donald.html
-      
+
 - id: kwevans
   name: Kevin Evans
   twitter: kwevans
@@ -193,7 +180,7 @@
   talks:
     - title: Crafting your Toolset
       url: /sketchnotes/handheld2013-eddie-machado.html
-  
+
 - id: tracyplayle
   name: Tracy Playle
   twitter: tracyplayle
@@ -209,7 +196,7 @@
   talks:
     - title: IWMW and the birth of a Content Strategist
       url: /sketchnotes/iwmw14-richard-prowse.html
-      
+
 - id: sharif_salah
   name: Sharif Salah
   twitter: sharif_salah

@@ -7,8 +7,7 @@ date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-ranjit-sidhu.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg
 categories: sketchnotes
-tags: 
-- iwmw14
+
 
 redirect_from:
 - "/sketchnote/2014/07/17/iwmw14-ranjit-sidhu.html"

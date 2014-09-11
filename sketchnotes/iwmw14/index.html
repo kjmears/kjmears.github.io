@@ -5,15 +5,18 @@ title: IWMW14 Sketchnotes
 ---
 
 
-
 <div class="row">
-	{% for post in site.tags.iwmw14 %}
+	{% for promo in site.data.iwmw14 %}
 		<section>
-			{% include panel.html %}
+			<div class="panel">
+				<a href="{{ promo.url }}"><img src="/images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
+
+				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
+
+				<p>{{ promo.text }}
+				<a href="{{ promo.url }}"> Read more</a></p>
+
+			</div>
 		</section>
-	{% endfor %}
-		
+		{% endfor %}
 </div>
-
-
-

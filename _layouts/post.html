@@ -23,6 +23,16 @@ layout: default
 				
 		{{ content }}
     
+    {% for bio in site.data.speakers limit %}
+      {% if bio.twitter == page.speaker %}
+      
+        {{ bio.twitter }}
+        <a href="{{ bio.url }}">Website</a>
+        <a href="{{ bio.twitter }}">@{{ bio.twitter }}</a>
+      
+      {% endif %}
+    {% endfor %}
+    
 		{% if page.reference %}
 		<p><a href="{{ page.reference }}">More Info</a></p>
 		{% endif %}
