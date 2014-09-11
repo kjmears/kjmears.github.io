@@ -1,18 +1,18 @@
 - title: The Business of Responsive Web Design
   speaker: markboulton
   sketchnotes: /sketchnotes/handheld2013-mark-boulton.html
-  sketchnotes:  http://handheldconf.com/
+  url:  http://handheldconf.com/
   reference: http://markboulton.co.uk/journal/thebusinessofrwd
   event: http://handheldconf.com/
   
 - title: Creative Mornings Cardiff 2014
   speaker: markboulton
-  sketchnotes: /sketchnotes/creative-morning-jun2014.html
+  url: /sketchnotes/creative-morning-jun2014.html
   sketchnotes:  http://creativemornings.com/talks/mark-boulton/1
   event: http://creativemornings.com/cities/cdf
 
 - title: "Digital Adaptation: Time to Untie Your Hands"
-  speaker:boagworld
+  speaker: boagworld
   sketchnotes: /sketchnotes/iwmw14-paul-boag.html
  
 - title: "Institutional Culture Is Crippling Your Web Strategy!"
@@ -45,6 +45,8 @@
 - title: Carefully Everywhere
   sketchnotes: /sketchnotes/handheld2013-brendan-dawes.html
   speaker: brendandawes
+  event: http://handheldconf.com/
+  url:  http://handheldconf.com/
 
 - title: "The Delicious Discomfort Of Not Knowing: How to Lead Effectively Through Uncertainty"
   sketchnotes:  /sketchnotes/iwmw14-dai-griffiths.html

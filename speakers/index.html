@@ -23,10 +23,12 @@ title: Speakers
         
         {% for talk in site.data.events %}
           {% if bio.id == talk.speaker %}
-          {{ talk.title }}
-          {{ talk.url }}
-          {{ talk.sketchnotes }}
-          {{ talk.reference}}
+          <h3>{{ talk.title }}</h3>
+          <ul>
+            <li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
+            <li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
+            <li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
+          </ul>
           {% endif %}
         {% endfor %}
         
