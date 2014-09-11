@@ -4,6 +4,7 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-01
+  image: handheld2013/syd-lawrence-handheld2013-thumb.gif
 
 - title: The Long Web
   sketchnotes: /sketchnotes/handheld2013-jeremy-keith.html
@@ -11,6 +12,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-02
+  image: handheld2013/jeremy-keith-handheld2013-thumb.gif
+  
 
 - title: Icon Design Process
   sketchnotes: /sketchnotes/handheld2013-jon-hicks.html
@@ -18,6 +21,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-03
+  image: handheld2013/jon-hicks-handheld2013-thumb.gif
+  
 
 - title: The Business of Responsive Web Design
   speaker: markboulton
@@ -26,6 +31,8 @@
   resources: markboulton.co.uk/journal/thebusinessofrwd
   event: handheldconf.com/
   code: han13-04
+  image: handheld2013/mark-boulton-handheld2013-thumb.gif
+  
   
 - title: Carefully Everywhere
   sketchnotes: /sketchnotes/handheld2013-brendan-dawes.html
@@ -33,6 +40,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-05
+  image: handheld2013/brendan-dawes-handheld2013-thumb.gif
+  
   
 - title: When responsive sites work as well as a chocolate iPhone
   sketchnotes: /sketchnotes/handheld2013-ling-valentine.html
@@ -40,6 +49,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-06
+  image: handheld2013/ling-valentine-handheld2013-thumb.gif
+  
 
 - title: Crafting your Toolset
   sketchnotes: /sketchnotes/handheld2013-eddie-machado.html
@@ -47,6 +58,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-07
+  image: handheld2013/eddie-machado-handheld2013-thumb.gif
+  
   
 - title: How to call your client an idiot without getting fired
   speaker: Malarkey
@@ -54,6 +67,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-08
+  image: handheld2013/andrew-clarke-handheld2013-thumb.gif
+  
 
 - title: Ten Commandments of Modern Web Design
   sketchnotes: /sketchnotes/handheld2013-jeffrey-zeldman.html
@@ -61,6 +76,8 @@
   event: handheldconf.com/
   info: handheldconf.com/
   code: han13-09
+  image: handheld2013/jeffrey-zeldman-handheld2013-thumb.gif
+  
   
 
 
@@ -73,6 +90,7 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/
   code: iwmw14-01
+  image: iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
   
 - title: "Digital Adaptation: Time to Untie Your Hands"
   speaker: boagworld
@@ -80,20 +98,23 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/
   code: iwmw14-02
-    
+  image: iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg 
+  
 - title: "Hyper-Connected: Filling the Vacuum by Switching from Blow to Suck"
   sketchnotes: /sketchnotes/iwmw14-martin-hawksey.html
   speaker: mhawksey
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/hyper-connected-filling-the-vacuum-by-switching-from-blow-to-suck/
   code: iwmw14-03
-  
+  image: iwmw14/iwmw14-2014-07-16-martin-hawksey-thumb.jpg
+
 - title: 'Building Cost-Effective, Flexible and Scalable Education Resources Using Google Cloud Platform'
   sketchnotes: /sketchnotes/iwmw14-sharif-salah.html
   speaker: sharif_salah
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/building-cost-effective-flexible-and-scalable-education-resources-using-google-cloud-platform/
   code: iwmw14-04
+  image: iwmw14-2014-07-17-sharif-salah-thumb.jpg
   
 - title: "Using the Start-up Playbook to Reboot a big University Website"
   sketchnotes: /sketchnotes/iwmw14-ross-ferguson.html
@@ -101,13 +122,15 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/using-the-start-up-playbook-to-reboot-a-big-university-website/
   code: iwmw14-05
+  image: iwmw14/iwmw14-2014-07-17-ross-ferguson-thumb.jpg
   
-- title: 'Marketing is Dead, Long Live Ux'
+- title: 'Marketing is Dead, Long Live UX'
   sketchnotes: /sketchnotes/iwmw14-neil-allison.html
   speaker: usabilityed
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/marketing-is-dead-long-live-ux/
   code: iwmw14-06
+  image: iwmw14/iwmw14-2014-07-17-neil-allison-thumb.jpg
   
 - title: '“You are all so Weird!” University Sector Analysis and Trends'
   sketchnotes: /sketchnotes/iwmw14-ranjit-sidhu.html
@@ -115,20 +138,22 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/you-are-all-so-weird-university-sector-analysis-and-trends/
   code: iwmw14-07
-  
+  image: iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg
 - title: What Does the Data Tell us About uk University web Sites?
   sketchnotes: /sketchnotes/iwmw14-chris-gutteridge.html
   speaker: cgutteridge
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/what-does-the-data-tell-us-about-uk-university-web-sites/
   code: iwmw14-08
-    
+  image: iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg
+  
 - title: "Rebooting myed :Making the portal relevant again"
   sketchnotes: /sketchnotes/iwmw14-martin-morrey.html
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/rebooting-myed-making-the-portal-relevant-again/
   code: iwmw14-09
   speaker: martinmorrey
+  image: iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg
   
 - title: "Allocating Work: Providing Tools for Academicss"
   sketchnotes: /sketchnotes/iwmw14-hiten-vaghmaria.html
@@ -136,13 +161,14 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/allocating-work-providing-tools-for-academics/
   code: iwmw14-10
-    
+  image: iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
+  
 - title: "What is our vision for the institutional web and can we implement that vision?"
   sketchnotes: /sketchnotes/iwmw14-vision-panel.html
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/what-is-our-vision-for-the-institutional-web-and-can-we-implement-that-vision/
   code: iwmw14-11
-
+  image: iwmw14/iwmw14-vision-panel-thumb.jpg
 
 
 - title: 'Banish your inner critic'
@@ -150,138 +176,155 @@
   speaker: denisejacobs
   event: port80events.co.uk/event/port80-2014/
   code: port80-01
-
+  image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
 - title: 'Designing Evolution'
   sketchnotes: /sketchnotes/port80-2014-dan-donald.html
   speaker: hereinthehive
   event: port80events.co.uk/event/port80-2014/
   code: port80-02
-  
+  image: port80/2014/port80-2014-05-16-dan-donald-thumb.gif
 - title: 'Mastering the dark art of fluid layout'
   sketchnotes: /sketchnotes/port80-2014-nathan-ford.html
   speaker: nathan_ford
   event: port80events.co.uk/event/port80-2014/
   code: port80-03
-  
+  image: port80/2014/port80-2014-05-16-nathan-ford-thumb.gif
 - title: Put yourself in their shoes
   sketchnotes: /sketchnotes/port80-2014-louise-tierney.html
   speaker: supertastycake
   event: port80events.co.uk/event/port80-2014/
   code: port80-04
-  
+  image: port80/2014/port80-2014-05-16-louise-tierney-thumb.gif
 - title: Make them click
   sketchnotes: /sketchnotes/port80-2014-roy-tomeij.html
   speaker: roy
   event: port80events.co.uk/event/port80-2014/
   code: port80-05
-
+  image: port80/2014/port80-2014-05-16-roy-tomeij-thumb.gif
 - title: Accessibility for Humans
   sketchnotes: /sketchnotes/port80-2014-kimberley-tew.html
   speaker: kimberleytew
   event: port80events.co.uk/event/port80-2014/
   code: port80-06
-
+  image: port80/2014/port80-2014-05-16-kimberley-tew-thumb.gif
 - title: These are not the droids you're looking for
   sketchnotes: /sketchnotes/port80-2014-kevin-evans.html
   speaker: kwevans 
   event: port80events.co.uk/event/port80-2014/
   code: port80-07
-
+  image: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
 - title: 'Lies, Damned lies and Statistics'
   sketchnotes: /sketchnotes/port80-2014-matt-jukes.html
   speaker: jukesie
   event: port80events.co.uk/event/port80-2014/
   code: port80-08  
-  
-  
+  image: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
+
+
+
+
 - title: "Open Education: The Business & Policy Case for OER"
   sketchnotes: creativecommons.org/
   speaker: cgreen
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
-  
+  image: iwmw13/iwmw13-open-education-thumb.gif
+
 - title: "Mozilla, Open Badges and a Learning Standard for Web Literacy"
   sketchnotes: /sketchnotes/iwmw13-doug-belshaw.html
   speaker: dajbelshaw
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
+  image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
 
 - title: "Et tu MOOC? Massive Online Considerations"
   sketchnotes: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
   speaker: k-anagnostopoulou
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/kyriaki/index.html
+  image: iwmw13/iwmw13-et-tu-mooc-thumb.gif
 
 - title: Turning Our Attention to Supporting Research Projects
   sketchnotes: /sketchnotes/iwmw13-amber-thomas.html
   speaker: ambrouk
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
-  
+  image: iwmw13/iwmw13-supporting-research-thumb.gif
+
 - title: Digital Storytelling
   sketchnotes: /sketchnotes/iwmw13-digital-storytelling.html
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
   speaker: sboneham
+  image: iwmw13/iwmw13-digital-storytelling-thumb.gif
 
 - title: "Stop Trying to Avoid Losing and Start Winning: How BS 8878 Reframes the Accessibility Question"
   sketchnotes: /sketchnotes/iwmw13-jonathan-hassell.html
   speaker: jonhassell
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hassell/index.html
+  image: iwmw13/iwmw13-BS8878-thumb.gif
 
 - title: Adapting to Responsive Web Design
   sketchnotes: /sketchnotes/iwmw13-david-cornforth.html
   speaker: dc86
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
+  image: iwmw13/iwmw13-adapting-to-rwd-thumb.gif
 
 - title: The Inside-Out University
   sketchnotes: /sketchnotes/iwmw13-martin-hamilton.html
   speaker: martin_hamilton
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
-  
+  image: iwmw13/iwmw13-inside-out-thumb.gif
+
 - title: Working With Developers
   sketchnotes: /sketchnotes/iwmw13-paul-walk.html
   speaker: paulwalk
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/walk/index.html
-  
+  image: iwmw13/iwmw13-working-with-developers-thumb.gif
+
 - title: "What the fcuk just happened then?"
   sketchnotes: /sketchnotes/iwmw13-ranjit-sidhu.html
   speaker: rssidhu
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
-  
+  image: iwmw13/iwmw13-wtf-thumb.gif
+
 - title: "Institutional Culture Is Crippling Your Web Strategy!"
   sketchnotes: /sketchnotes/iwmw13-paul-boag.html
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
-  
+  image: iwmw13/iwmw13-culture-crippling-thumb.gif
+
 - title: "Open Up: Open Data in the Public Sector"
   sketchnotes: /sketchnotes/iwmw13-open-data.html
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
+  image: iwmw13/iwmw13-open-data-thumb.gif
 
 - title: IWMW and the birth of a Content Strategist
   sketchnotes: /sketchnotes/iwmw13-richard-prowse.html
   speaker: richprowse
   event: iwmw.org/iwmw2014/
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
+  image: iwmw13/iwmw13-content-strategist-thumb.gif
 
 - title: "The Delicious Discomfort Of Not Knowing: How to Lead Effectively Through Uncertainty"
   sketchnotes: /sketchnotes/iwmw13-neil-denny.html
   speaker: NeilDenny
   event: iwmw.ukoln.ac.uk/iwmw2013 
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
+  image: iwmw13/iwmw13-delicious-discomfort-thumb.gif
 
 - title: The University in a Bind
   sketchnotes: /sketchnotes/iwmw13-dai-griffiths.html
   speaker: daigriffiths
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
-    
+  image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif 
     
 
 
@@ -290,12 +333,13 @@
   sketchnotes: /sketchnoting-at-iwmw12.html
   speaker: usabilityed
   event: iwmw.ukoln.ac.uk/iwmw2013
-  
+  image: iwmw12/iwmw12-thumb.gif
   
 - title: "Data Visualisation: A Taster"
   sketchnotes: /sketchnoting-at-iwmw12.html
   speaker: mhawksey
-  
+  event: iwmw.ukoln.ac.uk/iwmw2013
+  image: iwmw12/iwmw12-thumb.gif
 
   
   
@@ -305,4 +349,4 @@
   info: /sketchnotes/creative-morning-jun2014.html
   sketchnotes: creativemornings.com/talks/mark-boulton/1
   event: creativemornings.com/cities/cdf
-
+  image: creative-morning-jun2014-thumb.png

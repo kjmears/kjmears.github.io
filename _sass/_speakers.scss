@@ -1,0 +1,45 @@
+.speaker{
+  h2{
+    border-bottom:1px solid $gray-light;
+    font-weight:400;
+  }
+  .meta p{
+    display:inline;
+  }
+  a{
+    text-decoration:none;
+    &:hover {
+      color:$gray-dark;
+    };
+  }
+  
+  .twitter{
+      &:before {
+            content: $fa-var-twitter;
+            font-family: FontAwesome;
+            color:$gray-light;
+            font-size:1.3em;
+            margin-right:0.3em;
+          }
+        }
+        
+  .website{
+      &:before {
+            content: $fa-var-external-link;
+            font-family: FontAwesome;
+            color:$gray-light;
+            font-size:1.3em;
+            margin-right:0.3em;
+            margin-left:0.3em;
+          }
+        }
+  ul{
+    @extend .list-unstyled;
+  }
+  
+  .talk-wrap{
+    img{
+  		@extend .col-md-3;
+    }
+  }
+}

@@ -7,34 +7,39 @@ title: Speakers
 <div class="row">
   
   {% for bio in site.data.speakers %}
-    <article class="biogs">
+    <article class="speaker">
            
-        <div class="meta">
           <h2 class="bio-name">{{ bio.name }}</h2>
           
-          {% if bio.twitter %}
-            <p><a href="{{ bio.twitter }}">Twitter</a></p>
-          {% endif %}
-          {% if bio.url %}
-            <p><a href="{{ bio.url }}">Website</a></p>
-          {% endif %}
+          <div class="meta">
+            {% if bio.twitter %}
+              <p class="twitter"><a href="{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
+            {% endif %}
+            {% if bio.url %}
+              <p class="website"><a href="{{ bio.url }}">Website</a></p>
+            {% endif %}
           
-        </div>
+          </div>
+        
+        
         
         {% for talk in site.data.events %}
           {% if bio.id == talk.speaker %}
           
-        <ul>
-          <li>{{ talk.title }}</li>
-          <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
-          <li><a href="..{{ talk.sketchnotes }}">{{ talk.sketchnotes }}</a></li>
-          {% if talk.info %}
-          <li><a href="http://{{ talk.info }}">{{ talk.info}}</a></li>
-          {% endif %}
-          {% if talk.resources %}
-          <li><a href="http://{{ talk.resources }}">{{ talk.resources}}</a></li>
-          {% endif %}
-        </ul>
+          <div class="talk-wrap">
+            <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
+            <h3>{{ talk.title }}</h3>
+            <ul>
+              <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
+              <li><a href="..{{ talk.sketchnotes }}">{{ talk.sketchnotes }}</a></li>
+              {% if talk.info %}
+              <li><a href="http://{{ talk.info }}">{{ talk.info}}</a></li>
+              {% endif %}
+              {% if talk.resources %}
+              <li><a href="http://{{ talk.resources }}">{{ talk.resources}}</a></li>
+              {% endif %}
+            </ul>
+          </div>
 
           {% endif %}
         {% endfor %}
