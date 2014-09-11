@@ -127,6 +127,11 @@
 - id: martinmorrey
   name: Martin Morrey
   twitter: martinmorrey
+  
+- id: wilsonminer
+  twitter: wilsonminer
+  name: Wilson Miner
+  url: wilsonminer.com
 
 - id: tracyplayle
   name: Tracy Playle

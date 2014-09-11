@@ -22,6 +22,7 @@
   info: handheldconf.com/
   code: han13-03
   image: handheld2013/jon-hicks-handheld2013-thumb.gif
+  video: http://www.besquare.me/session/icon-design-process/
   
 
 - title: The Business of Responsive Web Design
@@ -41,6 +42,7 @@
   info: handheldconf.com/
   code: han13-05
   image: handheld2013/brendan-dawes-handheld2013-thumb.gif
+  video: http://www.besquare.me/session/carefully-everywhere/
   
   
 - title: When responsive sites work as well as a chocolate iPhone
@@ -50,6 +52,7 @@
   info: handheldconf.com/
   code: han13-06
   image: handheld2013/ling-valentine-handheld2013-thumb.gif
+  video: http://www.besquare.me/session/when-responsive-sites-work-as-well-as-a-chocolate-iphone/
   
 
 - title: Crafting your Toolset
@@ -68,6 +71,7 @@
   info: handheldconf.com/
   code: han13-08
   image: handheld2013/andrew-clarke-handheld2013-thumb.gif
+  video: http://www.besquare.me/session/how-to-call-your-client-an-idiot-without-getting-fired/
   
 
 - title: Ten Commandments of Modern Web Design
@@ -342,11 +346,17 @@
   image: iwmw12/iwmw12-thumb.gif
 
   
-  
-  
 - title: Creative Mornings Cardiff 2014
   speaker: markboulton
   info: /sketchnotes/creative-morning-jun2014.html
   sketchnotes: creativemornings.com/talks/mark-boulton/1
   event: creativemornings.com/cities/cdf
   image: creative-morning-jun2014-thumb.png
+  
+- title: When we build
+  speaker: wilsonminer
+  video: http://www.besquare.me/session/when-we-build/
+  event: 2011.buildconf.com
+  image: 2013-01-07-wilsonminer-build2011-thumb.gif
+  sketchnotes: /sketchnotes/when-we-build-sketch-notes.html
+  code: build
