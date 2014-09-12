@@ -1,7 +1,12 @@
 - id: usabilityed
   name: Neil Allison
   twitter: usabilityed
-  url: usability-ed.blogspot.co.uk/
+  url: usability-ed.blogspot.co.uk
+  
+- id: mattpointblank
+  name: Matt Andrews
+  twitter: mattpointblank
+  url: mattandrews.info
 
 - id: k-anagnostopoulou
   name: Kyriaki Anagnostopoulou
@@ -27,6 +32,11 @@
   twitter: markboulton
   url: markboulton.co.uk
 
+- id: USA2DAY
+  name: Robin Christopherson
+  twitter: USA2DAY
+  url: www.abilitynet.org.uk/robinchristopherson
+
 - id: Malarkey
   name: Andrew Clarke
   twitter: Malarkey
@@ -35,13 +45,23 @@
 - id: dc86
   name: David Cornforth
   twitter: dc86
-  url: dc86.co.uk/
+  url: dc86.co.uk
+  
+- id: andydavies
+  name: Andy Davies
+  twitter: andydavies
+  url: andydavies.me
 
 - id: brendandawes
   name: Brendan Dawes
   twitter: brendandawes
-  url: brendandawes.com/
-
+  url: brendandawes.com
+  
+- id: sophiedennis
+  name: Sophie Dennis
+  twitter: sophiedennis
+  url: www.cayenne.co.uk
+  
 - id: NeilDenny
   name: Neil Denny
   twitter: NeilDenny
@@ -54,7 +74,7 @@
 
 - id: kwevans
   name: Kevin Evans
-  twitter: kwevans
+  twitter: kwe
 
 - id: rossferg
   name: Ross Ferguson
@@ -66,6 +86,11 @@
   twitter: nathan_ford
   url: artequalswork.com/
 
+- id: Jack_Franklin
+  name: Jack Franklin
+  twitter: Jack_Franklin
+  url: jackfranklin.co.uk
+  
 - id: cgreen
   name: Cable Green
   twitter: cgreen
@@ -119,6 +144,16 @@
   twitter: sydlawrence
   url: sydlawrence.com/
 
+- id: paulrobertlloyd
+  name: Paul Lloyd
+  twitter: paulrobertlloyd
+  url: paulrobertlloyd.com
+
+- id: tmaslen
+  name: Tom Maslen
+  twitter: tmaslen
+  url: tmaslen.com/
+  
 - id: eddiemachado
   name: Eddie Machado
   twitter: eddiemachado
@@ -148,10 +183,20 @@
   twitter: sharif_salah
   url: https://plus.google.com/103057053147910473099/about
 
+- id: missrachilli
+  name: Rachel Shillcock
+  twitter: missrachilli
+  url: www.rachil.li
+
 - id: rssidhu
   name: Ranjit Sidhu
   twitter: rssidhu
   url: sidspace.info/
+
+- id: benjystanton
+  name: Benjy Stanton
+  twitter: benjystanton
+  url: benjystanton.co.uk
 
 - id: kimberleytew
   name: Kimberley Tew

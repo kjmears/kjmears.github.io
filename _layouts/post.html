@@ -9,23 +9,26 @@ layout: default
 
 		<p class="meta">{{ page.date | date_to_string }}</p>
 
-{% if page.tags[0] contains 'homepage' %}
+    {% if page.tags %}
+    
+        <p>
+          Tagged: 
+          {% for tag in page.tags %}<a href="{{ tag }}">{{ tag | capitalize }}</a> {% endfor %}
+        </p>
 
-{% else %}
-    <p>Tagged: <a href="{{ page.tags[0] }}">{{ page.tags[0] | capitalize }}</a>
-    		{% if page.category %} 
-    			in {% endif %}
-		
-<a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>	
-    		{% endif %}
-    		</p>
+    {% endif %}
+
+
+
+		{% if page.category %} 
+			 <p>Category: <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>	
+		{% endif %}
+
 	
+    {% if page.image %}
+    	<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
+    {% endif %}
 		
-		{% if page.image %}
-				<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}"></a>
-	
-			{% endif %}
-			
 				
 		{{ content }}
     
@@ -33,10 +36,16 @@ layout: default
       {% for info in site.data.events %}
  
         {% if info.code == page.code %}
-          <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
+            <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
           {% if info.info %}
-          <li>Event Info <a href="http://{{ info.info }}">{{ info.info }}</a></li>
-          {% endif %}      
+            <li>Event Info <a href="http://{{ info.info }}">{{ info.info }}</a></li>
+          {% endif %}
+          {% if info.video %}
+            <li>Event Video <a href="http://{{ info.video }}">{{ info.video }}</a></li>
+          {% endif %}  
+          {% if info.slides %}
+            <li>Slides<a href="http://{{ info.slides }}">{{ info.slides }}</a></li>
+          {% endif %}   
         {% endif %}
       {% endfor %}
     {% endif %}
@@ -55,8 +64,6 @@ layout: default
        {% endif %} 
       
     {% endfor %}
-    
-    
     
 	</article>
 	

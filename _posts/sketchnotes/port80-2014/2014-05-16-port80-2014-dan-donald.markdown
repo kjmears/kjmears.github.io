@@ -9,6 +9,7 @@ image-thumb: port80/2014/port80-2014-05-16-dan-donald-thumb.gif
 categories: sketchnotes
 tags:
 - port80-2014
+- live
 speaker: hereinthehive
 code: port80-02
 

@@ -1,0 +1,17 @@
+---
+layout: page
+title: Live Sketchnotes
+
+---
+
+<p>Sketchnotes done live - usually at conferences.</p>
+
+<div class="row">
+	{% for post in site.tags.live %}
+		<section>
+			{% include panel.html %}
+		</section>
+	{% endfor %}
+		
+</div>
+

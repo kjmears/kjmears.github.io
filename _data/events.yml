@@ -225,6 +225,63 @@
   image: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
 
 
+- title: Practical JavaScripting
+  sketchnotes: /sketchnotes/port80-2013-jack-franklin.html
+  speaker: Jack_Franklin
+  event: port80events.co.uk/event/port80-2013
+  code: port80-2013-Jack_Franklin  
+  image: port80/2013/port80-2013-05-10-jack-franklin-thumb.gif
+  
+- title: Making Mobile Sites Faster
+  sketchnotes: /sketchnotes/port80-sketchnotes-andy-davies.html
+  code: port80-2013-andydavies
+  speaker: andydavies
+  event: port80events.co.uk/event/port80-2013
+  image: port80/2013/port80-2013-05-10-andy-davies-thumb.gif
+  
+- title: Crafting Animation on the Web
+  sketchnotes: /sketchnotes/port80-2013-benjy-stanton.html
+  speaker: benjystanton
+  event: port80events.co.uk/event/port80-2013
+  code: port80-2013-benjystanton  
+  image: port80/2013/port80-2013-05-10-benjy-stanton-thumb.gif
+  
+- title: How to discover your inner superhero
+  sketchnotes: /sketchnotes/port80-sketchnotes-rachel-shillcock.html
+  code: port80-2013-missrachilli
+  speaker: missrachilli
+  event: port80events.co.uk/event/port80-2013
+  image: port80/2013/port80-2013-05-10-rachel-shillcock-thumb.gif
+  
+- title: Responsive design at the Guardian
+  sketchnotes: /sketchnotes/port80-2013-matt-andrews.html
+  speaker: mattpointblank
+  event: port80events.co.uk/event/port80-2013
+  code: port80-2013-mattpointblank  
+  image: port80/2013/port80-2013-05-10-matt-andrews-thumb.gif
+  slides: http://mattandrews.info/talks/port80-2013/#/
+  
+- title: This is for Everyone
+  sketchnotes: /sketchnotes/port80-sketchnotes-paul-robert-lloyd.html
+  code: port80-2013-paulrobertlloyd
+  speaker: paulrobertlloyd
+  event: port80events.co.uk/event/port80-2013
+  image: port80/2013/port80-2013-05-10-paul-lloyd-thumb.gif
+  
+- title: Everybody Technology - The Power and the Promise
+  sketchnotes: /sketchnotes/port80-2013-robin-christopherson.html
+  speaker: USA2DAY
+  event: port80events.co.uk/event/port80-2013
+  code: port80-2013-USA2DAY  
+  image: port80/2013/port80-2013-05-10-robin-christopherson-thumb.gif
+
+- title: Working in Harmony
+  sketchnotes: /sketchnotes/port80-sketchnotes-sophie-dennis.html
+  code: port80-2013-sophiedennis
+  speaker: sophiedennis
+  event: port80events.co.uk/event/port80-2013
+  image: port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
+  
 
 
 - title: "Open Education: The Business & Policy Case for OER"
@@ -355,8 +412,17 @@
   
 - title: When we build
   speaker: wilsonminer
-  video: http://www.besquare.me/session/when-we-build/
+  video: www.besquare.me/session/when-we-build/
   event: 2011.buildconf.com
   image: 2013-01-07-wilsonminer-build2011-thumb.gif
   sketchnotes: /sketchnotes/when-we-build-sketch-notes.html
   code: build
+  
+- title: Cutting the Mustard
+  speaker: tmaslen
+  video: www.besquare.me/session/cutting-the-mustard/
+  event: responsiveconf.com/2013/
+  image: cutting-the-mustard-thumb.gif
+  sketchnotes: /sketchnotes/cutting-the-mustard-sketchnote.html
+  code: mustard
+  slides: speakerdeck.com/tmaslen/cutting-the-mustard-future-friendly-browser-support

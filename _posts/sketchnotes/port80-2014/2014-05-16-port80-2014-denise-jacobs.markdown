@@ -9,6 +9,7 @@ image-thumb: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
 categories: sketchnotes
 tags:
 - port80-2014
+- live
 code: port80-01
 speaker: denisejacobs
 

@@ -2,11 +2,14 @@
 layout: post
 status: publish
 published: true
-title: Port80 Sketchnotes - Sophie Dennis
-image: /port80/port80-2013-05-10-sophie-dennis.gif
-image-thumb: /port80/port80-2013-05-10-sophie-dennis-thumb.gif
+title: Port80 Sketchnotes  tags:
+- port80-2013
+- live - Sophie Dennis
+image: /port80/2013/port80-2013-05-10-sophie-dennis.gif
+image-thumb: /port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
 date: 2013-05-13 17:11:58.000000000 +01:00
 categories: sketchnotes
+code: port80-2013-sophiedennis
 
 ---
 

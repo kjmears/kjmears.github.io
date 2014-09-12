@@ -2,12 +2,15 @@
 layout: post
 status: publish
 published: true
-title: Port80 Sketchnotes - Robin Christopherson
-image: /port80/port80-2013-05-10-robin-christopherson.gif
-image-thumb: /port80/port80-2013-05-10-robin-christopherson-thumb.gif
+title: Port80 Sketchnotes  tags:
+- port80-2013
+- live - Robin Christopherson
+image: /port80/2013/port80-2013-05-10-robin-christopherson.gif
+image-thumb: /port80/2013/port80-2013-05-10-robin-christopherson-thumb.gif
 invisible: 1
 date: 2013-05-13 11:33:21.000000000 +01:00
 categories: sketchnotes
+code: port80-2013-USA2DAY
 
 ---
 
