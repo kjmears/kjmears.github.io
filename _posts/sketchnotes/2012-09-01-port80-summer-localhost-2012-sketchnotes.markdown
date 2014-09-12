@@ -1,11 +1,12 @@
 ---
 layout: post
 published: true
-title: Port80 Localhost sketchnotes
-image: localhost-2012-08.jpg
-image-thumb: localhost-2012-08-thumb.gif
+title: Port80 Summer Localhost 2012 Sketchnotes
+image: port80localhost/localhost-2012-08.jpg
+image-thumb: port80localhost/localhost-2012-08-thumb.gif
 date: 2012-09-01 23:05:21.000000000 +01:00
 category: sketchnotes
+code: localhost_summer_2012
 
 ---
 

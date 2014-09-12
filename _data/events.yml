@@ -426,3 +426,17 @@
   sketchnotes: /sketchnotes/cutting-the-mustard-sketchnote.html
   code: mustard
   slides: speakerdeck.com/tmaslen/cutting-the-mustard-future-friendly-browser-support
+  
+- title: Ebooks Presentation
+  speaker: sueburnett
+  image: ebooks-thumb.gif
+  sketchnotes: /sketchnotes/ebooks-presentation.html
+  code: ebooks
+  
+- title: Port80 Summer Localhost 2012
+  speaker: RobertMills
+
+  sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
+  event: http://port80events.co.uk/localhost-events/
+  image: port80localhost/localhost-2012-08-thumb.gif
+  code: localhost_summer_2012

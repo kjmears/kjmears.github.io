@@ -32,6 +32,11 @@
   twitter: markboulton
   url: markboulton.co.uk
 
+- id: sueburnett
+  name: Sue Burnett
+  twitter: sueburnett
+  url: about.me/sueburnett
+
 - id: USA2DAY
   name: Robin Christopherson
   twitter: USA2DAY
@@ -129,6 +134,11 @@
   twitter: denisejacobs
   url: denisejacobs.com/
 
+- id: rumyra
+  name: Ruth John
+  twitter: rumyra
+  url: rumyrashead.com
+
 - id: jukesie
   name: Matt Jukes
   twitter: jukesie
@@ -162,7 +172,12 @@
 - id: martinmorrey
   name: Martin Morrey
   twitter: martinmorrey
-  
+
+- id: RobertMills
+  name: Robert Mills
+  twitter: RobertMills
+  url: www.robertmills.me/book
+
 - id: wilsonminer
   twitter: wilsonminer
   name: Wilson Miner
@@ -177,6 +192,16 @@
   name: Richard Prowse
   twitter: richprowse
   url: contentbear.co.uk/
+
+- id: BenjaminReid
+  name: Benjamin Reid
+  twitter: BenjaminReid
+  url: benjaminreid.me
+
+- id: sturobson
+  name: Stuart Robson
+  twitter: sturobson
+  url: www.alwaystwisted.com
 
 - id: sharif_salah
   name: Sharif Salah
@@ -197,6 +222,11 @@
   name: Benjy Stanton
   twitter: benjystanton
   url: benjystanton.co.uk
+
+- id: garethstrange
+  name: Gareth Strange
+  twitter: garethstrange
+  url: strangelove.me
 
 - id: kimberleytew
   name: Kimberley Tew

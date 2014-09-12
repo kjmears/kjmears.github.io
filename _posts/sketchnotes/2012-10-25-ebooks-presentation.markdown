@@ -6,6 +6,9 @@ image: ebooks.png
 image-thumb: ebooks-thumb.gif
 category: sketchnotes
 homepage: true
+tags:
+- live
+code: ebooks
 
 date: 2012-10-25 23:13:17.000000000 +01:00
 
