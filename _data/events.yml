@@ -435,7 +435,20 @@
   
 - title: Port80 Summer Localhost 2012
   speaker: RobertMills
-
+  sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
+  event: http://port80events.co.uk/localhost-events/
+  image: port80localhost/localhost-2012-08-thumb.gif
+  code: localhost_summer_2012
+  
+- title: Port80 Summer Localhost 2012
+  speaker: BenjaminReid
+  sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
+  event: http://port80events.co.uk/localhost-events/
+  image: port80localhost/localhost-2012-08-thumb.gif
+  code: localhost_summer_2012
+  
+- title: Port80 Summer Localhost 2012
+  speaker: olliewells
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
   event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2012-08-thumb.gif

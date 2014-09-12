@@ -23,8 +23,12 @@ title: Speakers
         
         
         
-        {% for talk in site.data.events %}
+
+        
+        {% for talk in site.data.events %}          
+          
           {% if bio.id == talk.speaker %}
+          
           
           <div class="talk-wrap">
             <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
@@ -41,6 +45,7 @@ title: Speakers
             </ul>
           </div>
 
+          
           {% endif %}
         {% endfor %}
         

@@ -22,6 +22,11 @@
   twitter: boagworld
   url: boagworld.com/
 
+- id: tomwbond
+  name: Tom Bond
+  twitter: tomwbond
+  url: tombond.co.uk
+
 - id: sboneham
   twitter: sboneham
   url: sboneham.com/blog/
@@ -31,6 +36,11 @@
   name: Mark Boulton
   twitter: markboulton
   url: markboulton.co.uk
+
+- id: brandnatter
+  name: Russell Britton
+  twitter: brandnatter
+  url: russell-britton.com
 
 - id: sueburnett
   name: Sue Burnett
@@ -51,7 +61,12 @@
   name: David Cornforth
   twitter: dc86
   url: dc86.co.uk
-  
+
+- id: jrcryer
+  name: James Cryer
+  twitter: jrcryer
+  url: www.jamescryer.com
+
 - id: andydavies
   name: Andy Davies
   twitter: andydavies
@@ -257,6 +272,11 @@
   name: Paul Walk
   twitter: paulwalk
   url: blog.paulwalk.net/
+  
+- id: olliewells
+  name: Ollie Wells
+  twitter: olliewells
+  url: www.linkedin.com/in/olliewells
 
 - id: hiten-vaghmaria
   name: Hiten Vaghmaria

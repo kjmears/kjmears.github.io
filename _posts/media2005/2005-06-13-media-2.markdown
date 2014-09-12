@@ -1,0 +1,31 @@
+---
+layout: post
+published: true
+title: ! '@media2005 Sketchnotes'
+image: media2005/@media2005-sketchnotes.jpg
+image-thumb: media2005/@media2005-sketchnotes-thumb.jpg
+author: mearso
+author_email: mearso@mearso.com
+homepage: true
+category: sketchnotes
+tag: live
+
+date: 2005-06-13 08:02:00.000000000 +01:00
+---
+
+Looking back, through some very old things on the site I found some drawings from @meda2005 - my first conference, and as I see now the start of me drawing during talks. This it what I wrote at the time.
+
+>Well, so many things and so little space in my head.
+>
+>Managed to speak to <a href="http://www.molly.com">Molly</a> and thank her for my chapter in CSS Zen Garden book. Which Kev Evans managed to mention at almost every opportunity. I can see now where she gets the energy to write all those books!
+>
+>Managed to rather embarass myself by asking [Joe Clark](http://www.joeclark.org) a stupid question about captions/subtitles whilst drunk, I can only hope his pointed explanation of the difference between them the next day, wasn't just for my benefit. He also rather threw me by asking for a shoe phone - presumably not some kind of Bulgarian secret police gadget, but a slighty larger than usual feature laden phone.
+>
+>Very pleased to speak to [Mark](http://www.markboulton.co.uk) and [Simon](http://www.simonrooney.com) from the BBC, and get into a discussion about typefaces. 
+>
+>
+>"Ed":http://www.ebcomley.co.uk played spot the "Threadless":http://www.threadless.com t-shirt with amongst others, [Jon](http://www.hicksdesign.co.uk)
+>
+>Would've liked to talk more with [Denis](http://www.38one.com/) who must be delighted that his lovely logo looked great on the orange bags.
+>
+>One particular pleasure was the drawings I did as a memory aid of each presentation. The best of these was this one of [Andy Budd](http://www.andybudd.co.uk)
