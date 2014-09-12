@@ -3,6 +3,24 @@
   text: A welcome to the conference
   url: /sketchnotes/iwmw13-welcome.html
   image: /iwmw13/iwmw13-welcome-thumb.gif
+  
+- date: 2013-06-26
+  title: IWMW2013 Cable Green
+  text: Cable Green talking about open education 
+  url: /sketchnotes/iwmw13-cable-green.html
+  image: /iwmw13/iwmw13-open-education-thumb.gif
+  
+- date: 2013-06-26
+  title: IWMW2013 Doug Belshaw
+  text: Really enjoyed this talk about open badges.
+  url: /sketchnotes/iwmw13-doug-belshaw.html
+  image: /iwmw13/iwmw13-mozilla-open-badges-thumb.gif
+  
+- date: 2013-06-26
+  title: IWMW2013 Kyriaki Agnostopoulou
+  text: Kyriaki talking all about MOOCs.
+  url: /sketchnotes/iwmw13-kyriaki-agnostopoulou.html
+  image: /iwmw13/iwmw13-et-tu-mooc-thumb.gif
 
 - date: 2013-06-26
   title: IWMW2013 Richard Prowse
@@ -34,11 +52,7 @@
   url: /sketchnotes/iwmw13-open-data.html
   image: /iwmw13/iwmw13-open-education-thumb.gif
 
-- date: 2013-06-26
-  title: IWMW2013 Neil Denny
-  text: A wide ranging talk about how to get better 
-  url: /sketchnotes/iwmw13-neil-denny.html
-  image: /iwmw13/iwmw13-delicious-discomfort-thumb.gif
+
 
 - date: 2013-06-26
   title: IWMW2013 Martin Hamilton
@@ -47,22 +61,12 @@
   image: /iwmw13/iwmw13-inside-out-thumb.gif
 
 - date: 2013-06-26
-  title: IWMW2013 Kyriaki Agnostopoulou
-  text: Kyriaki talking all about MOOCs.
-  url: /sketchnotes/iwmw13-kyriaki-agnostopoulou.html
-  image: /iwmw13/iwmw13-et-tu-mooc-thumb.gif
-
-- date: 2013-06-26
   title: IWMW2013 Jonathan Hassell
   text: Pretty dry talk about Accessibility and the British Standard.... 
   url: /sketchnotes/iwmw13-jonathan-hassell.html
   image: /iwmw13/iwmw13-BS8878-thumb.gif
 
-- date: 2013-06-26
-  title: IWMW2013 Doug Belshaw
-  text: Really enjoyed this talk about open badges.
-  url: /sketchnotes/iwmw13-doug-belshaw.html
-  image: /iwmw13/iwmw13-mozilla-open-badges-thumb.gif
+
 
 - date: 2013-06-26
   title: IWMW2013 Digital Storytelling
@@ -81,12 +85,15 @@
   text: All about the contradictaory challenges unis face.
   url: /sketchnotes/iwmw13-dai-griffiths.html
   image: /iwmw13/iwmw13-uni-in-a-bind-thumb.gif
-
+  
+  
 - date: 2013-06-26
-  title: IWMW2013 Cable Green
-  text: Cable Green talking about open education 
-  url: /sketchnotes/iwmw13-cable-green.html
-  image: /iwmw13/iwmw13-open-education-thumb.gif
+  title: IWMW2013 Neil Denny
+  text: A wide ranging talk about how to get better 
+  url: /sketchnotes/iwmw13-neil-denny.html
+  image: /iwmw13/iwmw13-delicious-discomfort-thumb.gif
+
+
 
 - date: 2013-06-26
   title: IWMW2013 Amber Thomas

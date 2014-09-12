@@ -7,8 +7,7 @@ date: 2004-10-27 11:33:00
 image: post-modernist-graphics-mindmap.jpg
 image-thumb: post-modernist-graphics-mindmap-thumb.jpg
 category: mindmaps
-tags:
-- homepage
+homepage: true
 
 ---
 

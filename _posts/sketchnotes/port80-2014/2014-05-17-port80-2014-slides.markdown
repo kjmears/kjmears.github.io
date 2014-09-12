@@ -8,7 +8,7 @@ image:
 image-thumb: /port80slides/thumb.gif
 categories: slides
 tags: 
-- homepage
+homepage: true
 
 ---
 

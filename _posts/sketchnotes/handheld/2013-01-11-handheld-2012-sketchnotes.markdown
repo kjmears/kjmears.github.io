@@ -9,7 +9,7 @@ image-thumb: handheld2012-collected-sketchnotes-thumb.png
 category: sketchnotes
 tags:
 - handheld
-- homepage
+homepage: true
 
 
 ---

@@ -7,7 +7,7 @@ image-thumb: /OKFBooksprint/thumb.gif
 category: sketchnotes
 tags: 
 - scribing
-- homepage
+homepage: true
 
 
 ---

@@ -9,7 +9,7 @@ date: 2012-07-05 11:50:19.000000000 +01:00
 category: sketchnotes
 tags: 
 - iwmw12
-- homepage
+homepage: true
 
 
 ---

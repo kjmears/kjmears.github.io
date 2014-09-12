@@ -8,6 +8,7 @@ image: /iwmw14/iwmw14-2014-07-16-tracy-playle.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
 categories: sketchnotes
 speaker: tracyplayle
+tag: iwmw14
 
 
 redirect_from:

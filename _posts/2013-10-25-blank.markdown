@@ -8,7 +8,7 @@ image: blanker.jpg
 image-thumb: blanker-thumb.jpg
 categories: lettering
 tags: 
-- homepage
+homepage: true
 ---
 
 If you're not blanking, then you're not a blanker

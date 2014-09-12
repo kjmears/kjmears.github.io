@@ -7,7 +7,7 @@ image-thumb: romulusandremus-thumb.gif
 category: sketchnotes
 tags: 
 - audio
-- homepage
+homepage: true
 
 
 ---

@@ -7,7 +7,7 @@ image-thumb: kevin-slavin-sketchnote-challenge-thumb.gif
 category: sketchnotes
 tags: 
 - video
-- homepage
+homepage: true
 
 ---
 

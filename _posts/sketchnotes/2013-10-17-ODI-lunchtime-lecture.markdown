@@ -7,7 +7,7 @@ image-thumb: ODI-lunchtime-lecture-13-10-17-thumb.gif
 category: sketchnotes
 tags: 
 - audio
-- homepage
+homepage: true
 
 ---
 

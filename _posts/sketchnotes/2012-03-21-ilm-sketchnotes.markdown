@@ -8,7 +8,7 @@ image-thumb: /ilm/ilm.gif
 date: 2012-03-21 13:51:59.000000000 +00:00
 category: sketchnotes
 tags: 
-- homepage
+homepage: true
 
 ---
 A selection of sketchnotes from a series of ILM sessions I did in work.

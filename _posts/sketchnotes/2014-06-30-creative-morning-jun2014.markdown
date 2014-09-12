@@ -8,7 +8,7 @@ image: /creative-morning-jun2014.png
 image-thumb: /creative-morning-jun2014-thumb.png
 categories: sketchnotes
 tags: 
-- homepage
+homepage: true
 
 ---
 

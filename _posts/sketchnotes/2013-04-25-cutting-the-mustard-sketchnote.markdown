@@ -7,7 +7,7 @@ image-thumb: cutting-the-mustard-thumb.gif
 category: sketchnotes
 tags:
 - video
-- homepage
+homepage: true
 
 ---
 

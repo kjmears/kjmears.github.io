@@ -8,7 +8,7 @@ image-thumb: disag-thumb.gif
 date: 2011-12-05
 category: sketchnotes
 tags: 
-- homepage
+homepage: true
 
 
 ---
