@@ -7,7 +7,7 @@ image: /ilm/managing-performance.gif
 image-thumb: /ilm/ilm.gif
 date: 2012-03-21 13:51:59.000000000 +00:00
 category: sketchnotes
-tags: 
+tags: lectures
 homepage: true
 
 ---
