@@ -16,6 +16,11 @@ body {
 	background-image: url("/img/pattern-white-grey.gif"); 
 	}
 
+
+.row{
+  padding-left:1em;
+  padding-right:1em;
+}
 //about me page
 
 span.me{
@@ -48,7 +53,14 @@ section{
 article,{
 	@include make-xs-column(12);
 	background-color: white;
+  margin-bottom: 4em;
+  padding-bottom: 5em;
+  ul{
+    @extend .list-unstyled;
+  }
 }
+
+
 
 .media{
 	border-bottom: 1px solid $gray-lighter;

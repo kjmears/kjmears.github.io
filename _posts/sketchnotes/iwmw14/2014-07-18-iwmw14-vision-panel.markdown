@@ -8,7 +8,9 @@ date: 2014-07-18
 image: /iwmw14/iwmw14-vision-panel.jpg
 image-thumb: /iwmw14/iwmw14-vision-panel-thumb.jpg
 categories: sketchnotes
-
+tags:
+  - IWMW14
+  - live
 
 redirect_from: 
 - "/sketchnote/2014/07/18/iwmw14-vision-panel.html"

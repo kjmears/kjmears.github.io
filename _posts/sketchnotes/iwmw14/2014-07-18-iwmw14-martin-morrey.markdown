@@ -8,7 +8,9 @@ image: /iwmw14/iwmw14-2014-07-18-martin-morrey.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg
 categories: sketchnotes
 speaker: martinmorrey
-
+tags:
+  - IWMW14
+  - live
 redirect_from:
 - "/sketchnote/2014/07/18/iwmw14-martin-morrey.html"
 - "/sketchnotes/2014/07/18/iwmw14-martin-morrey.html"

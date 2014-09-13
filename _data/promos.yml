@@ -1,3 +1,9 @@
+- date: 2014-09-13
+  title: Sketchnotes by speaker
+  text: I've organised all the sketchnotes by speaker. It's a long list.
+  image: /iwmw13/iwmw13-sketchnotes-thumb.gif
+  url: /speakers
+
 - date: '2014-07-18'
   title: IWMW 2014 Sketchnotes
   text: "Collected sketchnotes from IWMW2014"
@@ -20,4 +26,5 @@
   title: IWMW 2013 Sketchnotes
   text: Collected sketchnotes from Port80 2014
   image: /iwmw13/iwmw13-sketchnotes-thumb.gif
-  url: /sketchnotes/iwmw13/	
+  url: /sketchnotes/iwmw13/
+  

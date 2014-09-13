@@ -8,7 +8,9 @@ image: /iwmw13/iwmw13-delicious-discomfort.gif
 image-thumb: /iwmw13/iwmw13-delicious-discomfort-thumb.gif
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
 categories: sketchnotes
-
+tags:
+  - IWMW13
+  - live
 
 ---
 

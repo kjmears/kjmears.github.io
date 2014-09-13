@@ -10,11 +10,7 @@ title: Slides
 	{% for post in site.categories.slides %}
 		{% if post.invisible != 1  %}
 		<section>
-		  	<div class="panel">
-				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image-thumb }}" class="img-responsive"></a>
-				<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-			</div>
+			{% include panel.html %}
 		</section>
 		{% endif %}
 	{% endfor %}

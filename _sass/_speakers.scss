@@ -1,9 +1,14 @@
 .speaker{
+  @include make-xs-column(12);
+
   h2{
-    border-bottom:1px solid $gray-light;
     font-weight:400;
   }
-  .meta p{
+  .meta {
+    border-top:1px solid $gray-light;
+  }
+        
+  p{
     display:inline;
   }
   a{
@@ -38,8 +43,10 @@
   }
   
   .talk-wrap{
+    
     img{
   		@extend .col-md-3;
+      @extend .clearfix;
     }
   }
 }

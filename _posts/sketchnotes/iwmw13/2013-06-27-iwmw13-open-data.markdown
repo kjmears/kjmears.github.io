@@ -8,7 +8,9 @@ image: /iwmw13/iwmw13-open-data.gif
 image-thumb: /iwmw13/iwmw13-open-data-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
-
+tags:
+  - IWMW13
+  - live
 
 ---
 

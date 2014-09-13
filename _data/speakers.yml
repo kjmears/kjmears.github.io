@@ -90,6 +90,11 @@
   name: James Cryer
   twitter: jrcryer
   url: www.jamescryer.com
+  
+- id: AdamCurtisBlog
+  name: Adam Curtis
+  twitter: AdamCurtisBlog
+  url: www.bbc.co.uk/blogs/adamcurtis
 
 - id: andydavies
   name: Andy Davies

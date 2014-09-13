@@ -313,7 +313,9 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
   image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
-
+  code: IWMW13
+  
+  
 - title: "Et tu MOOC? Massive Online Considerations"
   sketchnotes: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
   speaker: k-anagnostopoulou
@@ -402,7 +404,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
   image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif 
-    
+  
 
 
 
@@ -427,7 +429,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/hirst-hawksey/index.html
-  code: iwmw12-03
+  code: iwmw12
   speaker:
     - psychemedia
     - mhawksey
@@ -437,7 +439,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/oakley/index.html
-  code: iwmw12-04
+  code: iwmw12
   speaker: aroakley
 
 - title: "Beyond WCAG: Experiences in Implementing BS 8878"
@@ -445,7 +447,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/draffan/index.html
-  code: iwmw12-05
+  code: iwmw12
   speaker: eadraffan
 
 - title: "Going Online - Do Universities Really Understand the Internet?"
@@ -453,7 +455,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/prondzynski/index.html
   image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12-06
+  code: iwmw12
   speaker: vonprond
 
 - title: "Do I Need an App for That?"
@@ -560,4 +562,17 @@
   image: ODI-lunchtime-lecture-13-10-17-thumb.gif
   info: theodi.org/lunchtime-lectures/friday-lunchtime-lecture-which-university-finding-an-answer-via-open-data
   code: odi13-10-17
+
+- title: The Trap - Documentary by Adam Curtis
+  speaker: AdamCurtisBlog
+  sketchnotes: /sketchnotes/the-trap-sketchnotes.html
+  image: the-trap-pt1-thumb.png
+  video: thoughtmaybe.com/the-trap
+  
+- title: The Living Dead - Documentary by Adam Curtis
+  speaker: AdamCurtisBlog
+  sketchnotes: /sketchnotes/the-living-dead.html
+  image: living-dead-sketchnotes-thumb.png
+  video: thoughtmaybe.com/the-living-dead/
+  
   

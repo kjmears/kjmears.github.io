@@ -1,13 +1,19 @@
 ---
 layout: page
-title: DATA - TEST
+title: Speakers
 
 ---
 
 <div class="row">
+  <p>I've collected a (long) list of speakers whose talks, videos, audio , lectures and presentations that I've done skecthnotes for over the years.</p>
+  
+</div>
+
+
+<div class="row">
   
   {% for bio in site.data.speakers %}
-    <article class="speaker">
+    <div class="speaker">
            
           <h2 class="bio-name">{{ bio.name }}</h2>
           
@@ -28,8 +34,6 @@ title: DATA - TEST
             {% for multiple in talk.speaker[] %}
             
               {% if bio.id == multiple %}
-
-                <strong>{{ talk.speaker }}</strong>
 
                 <div class="talk-wrap">
                 <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
@@ -57,7 +61,7 @@ title: DATA - TEST
           
         {% endfor %}
 
-    </article>
+    </div>
 
   {% endfor %}
   

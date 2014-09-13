@@ -10,6 +10,9 @@ image-thumb: /iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg
 categories: 
 - sketchnotes
 speaker: boagworld
+tags:
+  - IWMW14
+  - live
 
 reference: http://iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/
 redirect_from:

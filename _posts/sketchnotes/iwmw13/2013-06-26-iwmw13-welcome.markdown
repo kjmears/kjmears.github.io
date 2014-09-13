@@ -7,7 +7,9 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-welcome.gif
 image-thumb: /iwmw13/iwmw13-thumb.gif
 categories: sketchnotes
-
+tags:
+  - IWMW13
+  - live
 
 ---
 
