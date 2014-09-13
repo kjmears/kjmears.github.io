@@ -3,6 +3,10 @@
   twitter: daveaddey
   url: daveaddey.com
 
+- id: jenniallen
+  name: Jenni Allen
+  url: uk.linkedin.com/pub/jenni-allen/27/533/610
+
 - id: usabilityed
   name: Neil Allison
   twitter: usabilityed
@@ -56,6 +60,11 @@
   name: Russell Britton
   twitter: brandnatter
   url: russell-britton.com
+
+- id: andybudd
+  name: Andy Budd
+  twitter: andybudd
+  url: andybudd.com
 
 - id: sueburnett
   name: Sue Burnett
@@ -117,6 +126,11 @@
   name: Kevin Evans
   twitter: kwe
 
+- id: feather
+  name: Derek Featherstone
+  twitter: feather
+  url: simplyaccessible.com
+
 - id: rossferg
   name: Ross Ferguson
   twitter: rossferg
@@ -170,6 +184,11 @@
   twitter: psychemedia
   url: blog.ouseful.info
 
+- id: mollydotcom
+  name: Molly E. Holzschlag
+  twitter: mollydotcom
+  url: molly.com
+
 - id: denisejacobs
   name: Denise Jacobs
   twitter: denisejacobs
@@ -199,6 +218,11 @@
   id: sydlawrence
   twitter: sydlawrence
   url: sydlawrence.com/
+  
+- id: lloydi
+  name: Ian Lloyd
+  twitter: lloydi
+  
 
 - id: paulrobertlloyd
   name: Paul Lloyd

@@ -89,9 +89,18 @@
   code: handheld2013
   image: handheld2012-collected-sketchnotes-thumb.png
   speaker:
+    - aral
     - daveaddey
     - laurakalbag
+    - keirwhitaker
+    - amberweinberg
     - andspo
+    - sicross
+    - gauntface
+    - RobertMills
+    - olliewells
+    - lesmond
+    - roblobue
 
 
 
@@ -400,6 +409,7 @@
 - title: Experiences in user centred design at the University of Edinburgh
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   speaker: usabilityed
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/sessions/allison/index.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12
@@ -407,6 +417,7 @@
 - title: Data and the Web Manager
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ashley/index.html
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12
   speaker: kevingashley
@@ -415,13 +426,17 @@
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/hirst-hawksey/index.html
   code: iwmw12-03
-  spaeker: psychemedia
+  speaker:
+    - psychemedia
+    - mhawksey
 
 - title: Key Information Set Data
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/oakley/index.html
   code: iwmw12-04
   speaker: aroakley
 
@@ -429,12 +444,14 @@
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/draffan/index.html
   code: iwmw12-05
   speaker: eadraffan
 
 - title: "Going Online - Do Universities Really Understand the Internet?"
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/prondzynski/index.html
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12-06
   speaker: vonprond
@@ -442,16 +459,24 @@
 - title: "Do I Need an App for That?"
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/borley/index.html
   image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12-07
   speaker: bobscape
 
 - title: "What Do You Really Want?"
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   event: iwmw.ukoln.ac.uk/iwmw2012
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ellis/index.html
   image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12-08
   speaker: dawnellis
+  
+- title: "The Good, the Bad and the Ugly: Two Years of Running a Content Management Service"
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/sargan/index.html
+  image: iwmw12/iwmw12-helen-sargan-thumb.gif
+  code: iwmw12
+  speaker: helensargan
 
 
 
@@ -486,9 +511,6 @@
   sketchnotes: /sketchnotes/ebooks-presentation.html
   code: ebooks
   
-
-
-
   
 - title: Port80 Summer Localhost 2012
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
@@ -499,29 +521,43 @@
     - BenjaminReid
     - RobertMills
   
-
-  
+- title: Port80 Summer Localhost 2013
+  sketchnotes: /sketchnotes/port80-summer-localhost-2013-sketchnotes.html
+  image: port80localhost/localhost-2012-08-thumb.gif
+  code: localhost_summer_2012
+  speaker:
+    - jrcryer
+    - brandnatter
+    - tomwbond
+    
 - title: Port80 Spring Localhost 2014
   speaker: rumyra
   sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
   event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2014-02-thumb.gif
   code: localhost_spring_2014
-  
-- title: Port80 Spring Localhost 2014
-  speaker: sturobson
-  sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
-  image: port80localhost/localhost-2014-02-thumb.gif
-  code: localhost_spring_2014
-  
-- title: Port80 Spring Localhost 2014
-  speaker: garethstrange 
-  sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
-  image: port80localhost/localhost-2014-02-thumb.gif
-  code: localhost_spring_2014
+  speaker:
+    - rumyra
+    - sturobson
+    - garethstrange
   
 - title: "@Media 2005"
   speaker: Malarkey
   sketchnotes: /sketchnotes/media2005.html
   image: media2005/media2005-sketchnotes-thumb.jpg
   code: media2005
+  speaker:
+    - Malarkey
+    - adactio
+    - andybudd
+    - lloydi
+    - feather
+    - mollydotcom
+
+- title: ODI Lunchtime lecture
+  speaker: jenniallen
+  sketchnotes: /sketchnotes/ODI-lunchtime-lecture.html
+  image: ODI-lunchtime-lecture-13-10-17-thumb.gif
+  info: theodi.org/lunchtime-lectures/friday-lunchtime-lecture-which-university-finding-an-answer-via-open-data
+  code: odi13-10-17
+  

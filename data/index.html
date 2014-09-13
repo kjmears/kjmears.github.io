@@ -21,50 +21,41 @@ title: DATA - TEST
           
           </div>
         
-
-
-        
-        {% for talk in site.data.events %}
-        
+        {% for talk in site.data.events %} 
         
           {% if talk.speaker[] %}
-            {% for multiple in talk.speaker[] %}
-         
-            
-            {% if bio.id == multiple %}
-
-            
-              <strong>{{ talk.speaker }}</strong>
-
           
-              <div class="talk-wrap">
+            {% for multiple in talk.speaker[] %}
+            
+              {% if bio.id == multiple %}
+
+                <strong>{{ talk.speaker }}</strong>
+
+                <div class="talk-wrap">
                 <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
                 <h3>{{ talk.title }}</h3>
                 <ul>
                   <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
-                  <li><a href="..{{ talk.sketchnotes }}">{{ talk.sketchnotes }}</a></li>
                   {% if talk.info %}
-                  <li><a href="http://{{ talk.info }}">{{ talk.info}}</a></li>
+                  <li><a href="http://{{ talk.info }}">Talk Info</a></li>
                   {% endif %}
                   {% if talk.slides %}
-                  <li><a href="http://{{ talk.slides}}">{{ talk.slides}}</a></li>
+                  <li><a href="http://{{ talk.slides}}">Slides</a></li>
                   {% endif %}
+                  {% if talk.video %}
+                  <li><a href="http://{{ talk.video}}">Video</a></li>
+                  {% endif %}
+                  <li><a href="..{{ talk.sketchnotes }}">Sketchnotes</a></li>
                 </ul>
               </div>
-            {% endif %}
+              
+              {% endif %}
             
             {% endfor %}
             
-     
-            
           {% endif %}
           
-
-
-          
         {% endfor %}
-        
-      
 
     </article>
 
