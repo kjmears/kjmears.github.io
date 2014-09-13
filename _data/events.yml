@@ -82,9 +82,16 @@
   code: han13-09
   image: handheld2013/jeffrey-zeldman-handheld2013-thumb.gif
   
-  
-
-
+- title: Handheld 2012
+  sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
+  event: www.handheldconf.com/2012
+  info: www.besquare.me/conferences/handheld
+  code: handheld2013
+  image: handheld2012-collected-sketchnotes-thumb.png
+  speaker:
+    - daveaddey
+    - laurakalbag
+    - andspo
 
 
 
@@ -159,7 +166,7 @@
   speaker: martinmorrey
   image: iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg
   
-- title: "Allocating Work: Providing Tools for Academicss"
+- title: "Allocating Work: Providing Tools for Academics"
   sketchnotes: /sketchnotes/iwmw14-hiten-vaghmaria.html
   speaker: hiten-vaghmaria
   event: iwmw.org/iwmw2014/
@@ -393,14 +400,60 @@
 - title: Experiences in user centred design at the University of Edinburgh
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   speaker: usabilityed
-  event: iwmw.ukoln.ac.uk/iwmw2013
+  event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
-  
+  code: iwmw12
+
+- title: Data and the Web Manager
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12
+  speaker: kevingashley
+
 - title: "Data Visualisation: A Taster"
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
-  speaker: mhawksey
-  event: iwmw.ukoln.ac.uk/iwmw2013
+  event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-03
+  spaeker: psychemedia
+
+- title: Key Information Set Data
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-04
+  speaker: aroakley
+
+- title: "Beyond WCAG: Experiences in Implementing BS 8878"
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-05
+  speaker: eadraffan
+
+- title: "Going Online - Do Universities Really Understand the Internet?"
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-06
+  speaker: vonprond
+
+- title: "Do I Need an App for That?"
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-07
+  speaker: bobscape
+
+- title: "What Do You Really Want?"
+  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  event: iwmw.ukoln.ac.uk/iwmw2012
+  image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12-08
+  speaker: dawnellis
+
+
 
   
 - title: Creative Mornings Cardiff 2014
@@ -433,23 +486,42 @@
   sketchnotes: /sketchnotes/ebooks-presentation.html
   code: ebooks
   
-- title: Port80 Summer Localhost 2012
-  speaker: RobertMills
-  sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
-  event: http://port80events.co.uk/localhost-events/
-  image: port80localhost/localhost-2012-08-thumb.gif
-  code: localhost_summer_2012
+
+
+
   
 - title: Port80 Summer Localhost 2012
-  speaker: BenjaminReid
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
-  event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2012-08-thumb.gif
   code: localhost_summer_2012
+  speaker:
+    - olliewells
+    - BenjaminReid
+    - RobertMills
   
-- title: Port80 Summer Localhost 2012
-  speaker: olliewells
-  sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
+
+  
+- title: Port80 Spring Localhost 2014
+  speaker: rumyra
+  sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
   event: http://port80events.co.uk/localhost-events/
-  image: port80localhost/localhost-2012-08-thumb.gif
-  code: localhost_summer_2012
+  image: port80localhost/localhost-2014-02-thumb.gif
+  code: localhost_spring_2014
+  
+- title: Port80 Spring Localhost 2014
+  speaker: sturobson
+  sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
+  image: port80localhost/localhost-2014-02-thumb.gif
+  code: localhost_spring_2014
+  
+- title: Port80 Spring Localhost 2014
+  speaker: garethstrange 
+  sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
+  image: port80localhost/localhost-2014-02-thumb.gif
+  code: localhost_spring_2014
+  
+- title: "@Media 2005"
+  speaker: Malarkey
+  sketchnotes: /sketchnotes/media2005.html
+  image: media2005/media2005-sketchnotes-thumb.jpg
+  code: media2005

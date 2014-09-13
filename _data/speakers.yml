@@ -1,3 +1,8 @@
+- id: daveaddey
+  name: Dave Addey
+  twitter: daveaddey
+  url: daveaddey.com
+
 - id: usabilityed
   name: Neil Allison
   twitter: usabilityed
@@ -12,15 +17,20 @@
   name: Kyriaki Anagnostopoulou
   url: "www.bath.ac.uk/learningandteaching/about/staff/k-anagnostopoulou.html"
 
+- id: kevingashley
+  name: Kevin Ashley
+  twitter: kevingashley
+  url: www.dcc.ac.uk
+
 - id: dajbelshaw
   name: Doug Belshaw
   twitter: dajbelshaw
-  url: dougbelshaw.com/
+  url: dougbelshaw.com
 
 - id: boagworld
   name: Paul Boag
   twitter: boagworld
-  url: boagworld.com/
+  url: boagworld.com
 
 - id: tomwbond
   name: Tom Bond
@@ -29,8 +39,13 @@
 
 - id: sboneham
   twitter: sboneham
-  url: sboneham.com/blog/
+  url: sboneham.com/blog
   name: Steve Boneham
+  
+- id: bobscape
+  name: Rob Borley
+  twitter: bobscape
+  url: www.robborley.com
 
 - id: markboulton
   name: Mark Boulton
@@ -92,6 +107,12 @@
   twitter: hereinthehive
   url: hereinthehive.com/
 
+- id: eadraffan
+  name: E A Draffan
+  
+- id: dawnellis
+  name: Dawn Ellis
+
 - id: kwevans
   name: Kevin Evans
   twitter: kwe
@@ -143,6 +164,11 @@
   name: Jonathan Hassell
   twitter: jonhassell
   url: www.hassellinclusion.com/
+  
+- id: psychemedia
+  name: Tony Hirst
+  twitter: psychemedia
+  url: blog.ouseful.info
 
 - id: denisejacobs
   name: Denise Jacobs
@@ -158,6 +184,11 @@
   name: Matt Jukes
   twitter: jukesie
   url: https://medium.com/@jukesie
+  
+- id: laurakalbag
+  name: Laura Kalbag
+  twitter: laurakalbag
+  url: laurakalbag.com
 
 - id: adactio
   name: Jeremy Keith
@@ -198,6 +229,11 @@
   name: Wilson Miner
   url: wilsonminer.com
 
+- id: aroakley
+  name: Andrew Oakley
+  twitter: aroakley
+  url: aroakley.com
+
 - id: tracyplayle
   name: Tracy Playle
   twitter: tracyplayle
@@ -223,6 +259,9 @@
   twitter: sharif_salah
   url: https://plus.google.com/103057053147910473099/about
 
+- id: helensargan
+  name: Helen Sargan
+
 - id: missrachilli
   name: Rachel Shillcock
   twitter: missrachilli
@@ -231,7 +270,12 @@
 - id: rssidhu
   name: Ranjit Sidhu
   twitter: rssidhu
-  url: sidspace.info/
+  url: sidspace.info
+
+- id: andspo
+  name: Andrew Spooner
+  twitter: laurakalbag
+  url: andrewspooner.com
 
 - id: benjystanton
   name: Benjy Stanton
@@ -246,7 +290,7 @@
 - id: kimberleytew
   name: Kimberley Tew
   twitter: kimberleytew
-  url: kimberleytew.com/
+  url: kimberleytew.com
 
 - id: ambrouk
   name: Amber Thomas
@@ -256,7 +300,7 @@
 - id: supertastycake
   name: Louise Tierney
   twitter: supertastycake
-  url: zengenti.com/en-gb/index.aspx
+  url: zengenti.com
 
 - id: roy
   name: Roy Tomeij
@@ -266,12 +310,12 @@
 - id: LINGsCARS
   name: Ling Valentine
   twitter: LINGsCARS
-  url: https://lingscars.com
+  url: lingscars.com
 
 - id: paulwalk
   name: Paul Walk
   twitter: paulwalk
-  url: blog.paulwalk.net/
+  url: blog.paulwalk.net
   
 - id: olliewells
   name: Ollie Wells
@@ -280,6 +324,11 @@
 
 - id: hiten-vaghmaria
   name: Hiten Vaghmaria
+  
+- id: vonprond
+  name: Professor Ferdinand von Prondzynski
+  twitter: vonprond
+  url: universitydiary.wordpress.com
 
 - id: zeldman
   name: Jeffrey Zeldman

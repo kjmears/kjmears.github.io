@@ -4,7 +4,6 @@ title: Speakers
 
 ---
 
-
 <div class="row">
   
   {% for bio in site.data.speakers %}
@@ -16,12 +15,15 @@ title: Speakers
             {% if bio.twitter %}
               <p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
             {% endif %}
-            
             {% if bio.url %}
               <p class="website"><a href="{{ bio.url }}">Website</a></p>
             {% endif %}
           
           </div>
+        
+        
+        
+
         
         {% for talk in site.data.events %}          
           
@@ -43,9 +45,11 @@ title: Speakers
             </ul>
           </div>
 
+          
           {% endif %}
         {% endfor %}
         
+
     </article>
 
   {% endfor %}	

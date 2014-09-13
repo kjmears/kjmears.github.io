@@ -1,0 +1,78 @@
+---
+layout: page
+title: DATA - TEST
+
+---
+
+<div class="row">
+  
+  {% for bio in site.data.speakers %}
+    <article class="speaker">
+           
+          <h2 class="bio-name">{{ bio.name }}</h2>
+          
+          <div class="meta">
+            {% if bio.twitter %}
+              <p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
+            {% endif %}
+            {% if bio.url %}
+              <p class="website"><a href="{{ bio.url }}">Website</a></p>
+            {% endif %}
+          
+          </div>
+        
+
+
+        
+        {% for talk in site.data.events %}
+        
+        
+          {% if talk.speaker[] %}
+            {% for multiple in talk.speaker[] %}
+         
+            
+            {% if bio.id == multiple %}
+
+            
+              <strong>{{ talk.speaker }}</strong>
+
+          
+              <div class="talk-wrap">
+                <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
+                <h3>{{ talk.title }}</h3>
+                <ul>
+                  <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
+                  <li><a href="..{{ talk.sketchnotes }}">{{ talk.sketchnotes }}</a></li>
+                  {% if talk.info %}
+                  <li><a href="http://{{ talk.info }}">{{ talk.info}}</a></li>
+                  {% endif %}
+                  {% if talk.slides %}
+                  <li><a href="http://{{ talk.slides}}">{{ talk.slides}}</a></li>
+                  {% endif %}
+                </ul>
+              </div>
+            {% endif %}
+            
+            {% endfor %}
+            
+     
+            
+          {% endif %}
+          
+
+
+          
+        {% endfor %}
+        
+      
+
+    </article>
+
+  {% endfor %}
+  
+
+</div>
+
+
+
+
