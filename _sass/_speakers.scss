@@ -43,10 +43,13 @@
   }
   
   .talk-wrap{
-    height:8em;
     img{
   		@extend .col-md-3;
       display:block;
+    }
+    .talk-info{
+  		@extend .col-md-9;
+      
     }
 
   }
