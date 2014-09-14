@@ -1,0 +1,21 @@
+---
+layout: page
+title: Mindmaps
+
+---
+
+
+
+<div class="row">
+	{% for post in site.categories.mindmaps %}
+		{% if post.invisible != 1  %}
+		<section>
+			{% include panel.html %}
+		</section>
+		{% endif %}
+	{% endfor %}
+		
+</div>
+
+
+

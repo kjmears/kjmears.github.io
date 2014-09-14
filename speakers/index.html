@@ -36,21 +36,24 @@ title: Speakers
               {% if bio.id == multiple %}
 
                 <div class="talk-wrap">
+                
                 <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
-                <h3>{{ talk.title }}</h3>
-                <ul>
-                  <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
-                  {% if talk.info %}
-                  <li><a href="http://{{ talk.info }}">Talk Info</a></li>
-                  {% endif %}
-                  {% if talk.slides %}
-                  <li><a href="http://{{ talk.slides}}">Slides</a></li>
-                  {% endif %}
-                  {% if talk.video %}
-                  <li><a href="http://{{ talk.video}}">Video</a></li>
-                  {% endif %}
-                  <li><a href="..{{ talk.sketchnotes }}">Sketchnotes</a></li>
-                </ul>
+                <div class="talk-info">
+                  <h3>{{ talk.title }}</h3>
+                  <ul>
+                    <li><a href="http://{{ talk.event }}">{{ talk.event }}</a></li>
+                    {% if talk.info %}
+                    <li><a href="http://{{ talk.info }}">Talk Info</a></li>
+                    {% endif %}
+                    {% if talk.slides %}
+                    <li><a href="http://{{ talk.slides}}">Slides</a></li>
+                    {% endif %}
+                    {% if talk.video %}
+                    <li><a href="http://{{ talk.video}}">Video</a></li>
+                    {% endif %}
+                    <li><a href="..{{ talk.sketchnotes }}">Sketchnotes</a></li>
+                  </ul>
+                </div>
               </div>
               
               {% endif %}

@@ -43,10 +43,11 @@
   }
   
   .talk-wrap{
-    
+    height:8em;
     img{
   		@extend .col-md-3;
-      @extend .clearfix;
+      display:block;
     }
+
   }
 }
