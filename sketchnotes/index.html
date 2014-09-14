@@ -4,18 +4,14 @@ title: Sketchnotes
 
 ---
 
-
+<p>Full list of sketchnotes</p>
 
 <div class="row">
 	{% for post in site.categories.sketchnotes %}
-		{% if post.invisible != 1  %}
 		<section>
 			{% include panel.html %}
 		</section>
-		{% endif %}
 	{% endfor %}
 		
 </div>
-
-
 

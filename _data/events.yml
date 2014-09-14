@@ -242,7 +242,7 @@
 
 
 - title: Practical JavaScripting
-  sketchnotes: /sketchnotes/port80-2013-jack-franklin.html
+  sketchnotes: /sketchnotes/port80-sketchnotes-jack-franklin.html
   speaker: Jack_Franklin
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-Jack_Franklin  
@@ -256,7 +256,7 @@
   image: port80/2013/port80-2013-05-10-andy-davies-thumb.gif
   
 - title: Crafting Animation on the Web
-  sketchnotes: /sketchnotes/port80-2013-benjy-stanton.html
+  sketchnotes: /sketchnotes/port80-sketchnotes-benjy-stanton.html
   speaker: benjystanton
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-benjystanton  
@@ -270,7 +270,7 @@
   image: port80/2013/port80-2013-05-10-rachel-shillcock-thumb.gif
   
 - title: Responsive design at the Guardian
-  sketchnotes: /sketchnotes/port80-2013-matt-andrews.html
+  sketchnotes: /sketchnotes/port80-sketchnotes-matt-andrews.html
   speaker: mattpointblank
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-mattpointblank  
@@ -285,7 +285,7 @@
   image: port80/2013/port80-2013-05-10-paul-lloyd-thumb.gif
   
 - title: Everybody Technology - The Power and the Promise
-  sketchnotes: /sketchnotes/port80-2013-robin-christopherson.html
+  sketchnotes: /sketchnotes/port80-sketchnotes-robin-christopherson.html
   speaker: USA2DAY
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-USA2DAY  
@@ -371,6 +371,8 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
   image: iwmw13/iwmw13-wtf-thumb.gif
+  slides: www.slideshare.net/iwmw/9am-16th-august-2012-what-the-fcuk-just-happened-then
+  video: uniofbath.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6394fac-d4f6-40c3-a5ca-b1720f541b0b
 
 - title: "Institutional Culture Is Crippling Your Web Strategy!"
   sketchnotes: /sketchnotes/iwmw13-paul-boag.html
