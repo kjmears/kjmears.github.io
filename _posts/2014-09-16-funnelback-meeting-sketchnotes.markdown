@@ -5,7 +5,6 @@ date: "2014-09-16"
 published: true
 categories: sketchnotes
 tags: meeting
-homepage: true
 image: /meetings/funnelback-meeting-14-09-16.gif
 image-thumb: /meetings/funnelback-meeting-14-09-16-thumb.gif
 
