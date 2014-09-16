@@ -379,12 +379,16 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
   image: iwmw13/iwmw13-culture-crippling-thumb.gif
+  speaker: boagworld
 
 - title: "Open Up: Open Data in the Public Sector"
   sketchnotes: /sketchnotes/iwmw13-open-data.html
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
   image: iwmw13/iwmw13-open-data-thumb.gif
+  speaker:
+    - psychemedia
+    - mhawksey
 
 - title: IWMW and the birth of a Content Strategist
   sketchnotes: /sketchnotes/iwmw13-richard-prowse.html
