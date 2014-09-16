@@ -1,0 +1,16 @@
+---
+layout: page
+title: Meetings Sketchnotes
+
+---
+
+<p>Sketchnotes done in meetings - ocassionally I can share them</p>
+
+<div class="row">
+	{% for post in site.tags.meetings %}
+		<section>
+			{% include panel.html %}
+		</section>
+	{% endfor %}
+		
+</div>
