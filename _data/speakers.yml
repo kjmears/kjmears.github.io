@@ -227,7 +227,6 @@
 - id: lloydi
   name: Ian Lloyd
   twitter: lloydi
-  
 
 - id: paulrobertlloyd
   name: Paul Lloyd
@@ -244,10 +243,6 @@
   twitter: eddiemachado
   url: themble.com/
 
-- id: martinmorrey
-  name: Martin Morrey
-  twitter: martinmorrey
-
 - id: RobertMills
   name: Robert Mills
   twitter: RobertMills
@@ -257,11 +252,25 @@
   twitter: wilsonminer
   name: Wilson Miner
   url: wilsonminer.com
+  
+- id: martinmorrey
+  name: Martin Morrey
+  twitter: martinmorrey
+  
+- id: digitalst
+  name: Gareth Morlais
+  twitter: digitalst
+  url: www.einiog.com
 
 - id: aroakley
   name: Andrew Oakley
   twitter: aroakley
   url: aroakley.com
+  
+- id: phoenixlily
+  name: Helia Phoenix
+  twitter: phoenixlily
+  url: heliaphoenix.wordpress.com
 
 - id: tracyplayle
   name: Tracy Playle
@@ -340,6 +349,11 @@
   name: Ling Valentine
   twitter: LINGsCARS
   url: lingscars.com
+  
+- id: dafyddbach
+  name: Dafydd Vaughan
+  twitter: dafyddbach
+  url: dafyddvaughan.uk
 
 - id: paulwalk
   name: Paul Walk
