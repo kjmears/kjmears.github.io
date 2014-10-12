@@ -10,7 +10,7 @@ categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
 bio: http://boagworld.com/
 tags:
-  - IWMW13
+  - iwmw13
   - live
 
 ---

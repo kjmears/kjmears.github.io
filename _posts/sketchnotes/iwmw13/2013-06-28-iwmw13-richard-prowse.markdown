@@ -10,7 +10,7 @@ categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
 bio: http://contentbear.co.uk/
 tags:
-  - IWMW13
+  - iwmw13
   - live
 
 ---

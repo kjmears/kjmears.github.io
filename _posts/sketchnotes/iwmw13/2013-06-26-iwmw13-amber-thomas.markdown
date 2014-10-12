@@ -10,7 +10,7 @@ categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
 speaker: ambrouk
 tags:
-  - IWMW13
+  - iwmw13
   - live
 
 

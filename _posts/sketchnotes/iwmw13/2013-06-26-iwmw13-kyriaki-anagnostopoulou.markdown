@@ -9,7 +9,7 @@ image-thumb: /iwmw13/iwmw13-et-tu-mooc-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/kyriaki/index.html
 tags:
-  - IWMW13
+  - iwmw13
   - live
 
 ---

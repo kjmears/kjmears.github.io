@@ -9,7 +9,7 @@ image-thumb: /iwmw13/iwmw13-inside-out-thumb.gif
 categories: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
 tags:
-  - IWMW13
+  - iwmw13
   - live
 
 ---
