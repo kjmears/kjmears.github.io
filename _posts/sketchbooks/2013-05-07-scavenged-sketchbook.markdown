@@ -25,7 +25,7 @@ Some highlights from this one
 <section>
   	<div class="panel">
 		<a href="{{ site.baseurl }}/sketchnotes/the-trap-sketchnotes.html"><img src="{{ site.baseurl }}/images/the-trap-pt1-thumb.png" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/04/08/the-trap-sketchnotes.html">The Trap - Documentary Sketchnotes</a></h2>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnotes/the-trap-sketchnotes.html">The Trap - Documentary Sketchnotes</a></h2>
 
 	</div>
 </section>
@@ -33,7 +33,7 @@ Some highlights from this one
 <section>
   	<div class="panel">
 		<a href="{{ site.baseurl }}/sketchnotes/the-living-dead-sketchnotes.html"><img src="{{ site.baseurl }}/images/living-dead-sketchnotes-thumb.png" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/02/15/the-living-dead-sketchnotes.html">The Living Dead Sketchnotes</a></h2>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnotes/the-living-dead-sketchnotes.html">The Living Dead Sketchnotes</a></h2>
 
 	</div>
 </section>
@@ -41,7 +41,7 @@ Some highlights from this one
 <section>
   	<div class="panel">
 		<a href="{{ site.baseurl }}/sketchnotes/cutting-the-mustard-sketchnote.html"><img src="{{ site.baseurl }}/images/cutting-the-mustard-thumb.gif" class="img-responsive"></a>
-		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/2013/04/25/cutting-the-mustard-sketchnote.html">Cutting the Mustard Sketchnote</a></h2>
+		<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnotes/cutting-the-mustard-sketchnote.html">Cutting the Mustard Sketchnote</a></h2>
 
 	</div>
 </section>
