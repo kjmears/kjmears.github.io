@@ -9,7 +9,7 @@ image-thumb: /iwmw14/iwmw14-2014-07-16-martin-hawksey-thumb.jpg
 categories: sketchnotes
 speaker: mhawksey
 tags:
-  - IWMW14
+  - iwmw14
   - live
 
 redirect_from:

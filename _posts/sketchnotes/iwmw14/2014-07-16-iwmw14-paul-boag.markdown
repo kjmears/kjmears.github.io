@@ -11,7 +11,7 @@ categories:
 - sketchnotes
 speaker: boagworld
 tags:
-  - IWMW14
+  - iwmw14
   - live
 
 reference: http://iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/

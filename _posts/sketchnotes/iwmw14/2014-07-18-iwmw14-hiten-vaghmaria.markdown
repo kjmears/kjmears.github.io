@@ -9,7 +9,7 @@ image-thumb: /iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
 categories: sketchnotes
 speaker: hiten-vaghmaria
 tags:
-  - IWMW14
+  - iwmw14
   - live
 redirect_from:
 - "/sketchnote/2014/07/18/iwmw14-hiten-vaghmaria.html"

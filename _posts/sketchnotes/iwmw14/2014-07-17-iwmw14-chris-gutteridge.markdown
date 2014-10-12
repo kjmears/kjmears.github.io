@@ -9,7 +9,7 @@ image-thumb: /iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg
 categories: sketchnotes
 speaker: cgutteridge
 tags:
-  - IWMW14
+  - iwmw14
   - live
   
 redirect_from:

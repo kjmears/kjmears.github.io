@@ -9,7 +9,7 @@ image: /iwmw14/iwmw14-vision-panel.jpg
 image-thumb: /iwmw14/iwmw14-vision-panel-thumb.jpg
 categories: sketchnotes
 tags:
-  - IWMW14
+  - iwmw14
   - live
 
 redirect_from: 

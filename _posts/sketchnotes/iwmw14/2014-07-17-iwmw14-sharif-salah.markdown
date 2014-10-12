@@ -10,7 +10,7 @@ image-thumb: /iwmw14/iwmw14-2014-07-17-sharif-salah-thumb.jpg
 categories: sketchnotes
 speaker: sharif_salah
 tags:
-  - IWMW14
+  - iwmw14
   - live
 
 redirect_from:
