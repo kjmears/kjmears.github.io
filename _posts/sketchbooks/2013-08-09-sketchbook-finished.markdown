@@ -19,7 +19,7 @@ For this sketchbook I experimented with stabilising the binding by replacing the
 
 The three months it's taken me to fill this one covered a pretty busy period - 
 
-<a href="{{ site.baseurl }}/images/port80/port80-2013-5-10-sketchnotes.gif"><img src="{{ site.baseurl }}/images/port80/port80-2013-05-10-sketchnotes.gif" alt="port80-compilation" /></a>
+<a href="{{ site.baseurl }}/sketchnotes/port80-2013"><img src="{{ site.baseurl }}/images/port80/2013/port80-2013-05-10-sketchnotes.gif" alt="port80-compilation" /></a>
 
 
 

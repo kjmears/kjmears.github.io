@@ -1,17 +1,15 @@
 ---
 layout: weeknotes
-title: Weeknote 22
-date: 2014-09-07
+title: Weeknote 23
+date: 2014-10-14
 comments: false
 categories: weeknotes 
 invisible: 1
 
 ---
 
-I forgot. Is the answer to why I haven't done a weeknote for over a month. That and the fact that I find writing quite hard. Worthwhile and satisfying, but hard.
+I feel off the horse.
 
-So thanks to my trusty todo list (which I've managed to use in a meaningful way for the first time over the last few months) I can see how occupied I've been.
+Thanks to the example of plenty of GDS and GovCampCyrmu people I'm getting back on the writing horse.
 
-The final push is on at the moment for the but piece of work we have commited to deliever by next week, and setting aside the extremely optimistic schedule, I've been working hard to plough through tons of CSS and Javascript issue, and often revisting design solutions that have to be rethought in the face of changes, additions or rethink to the content.
-
-It's been frustrating at times to be back in the position of designing empty containers for undefined 'content', but one good thing about the approach to a launch deadline is that even though it's pressured and stressful, you do get through a lot of work. Already I have one eye on how we can iterate on the work we are about to release into the wild, which will also no doubt be informed by the reception and evaluation that is to come.
+Today I wrote something in my sketchbook (in big markers - part of my plan to be bolder in some of my thinking and writing) 'Things that are fast should be slow and vice versa'. I know, nonsense. What I was thinking at the time was that some of my frustrations around design/development workflows stem from us taking too long with some things that should be relatively straightforward, and not spending nearly enough time on other things. Things like user research to explore user needs and then a thorough translation of them into actionable user stories.

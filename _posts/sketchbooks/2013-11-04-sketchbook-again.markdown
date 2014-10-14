@@ -13,11 +13,10 @@ This sketchbook is three months worth of scribbles, sketchnotes and doodles. It 
 
 Other highlights from this were some sketchnotes from the very enjoyable and interesting Booksprint - covered in depth by <a href="http://remoteworker.wordpress.com/2013/09/09/booksprinting/">Marieke</a> on her blog.
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/okf-booksprint-intro.png"><img src="{{ site.baseurl }}/images/OKFBooksprint/intro.gif" alt="OKF booksprint"></a>
+<a href="{{site.baseurl }}/sketchnotes/open-knowledge-booksprint-sketchnotes.html"><img src="{{ site.baseurl }}/images/OKFBooksprint/intro.gif" alt="OKF booksprint"></a>
 
 
 
-Did my ususal thing of sketchnoting at a<a href="http://port80events.co.uk/event/summer-localhost/">
+Did my ususal thing of sketchnoting at a<a href="{{ baseurl }}/sketchnotes/port80-summer-localhost-2013-sketchnotes.html">
 Port80 Summer event.</a>
 
-<a href="http://mearso.com/wp-content/uploads/2013/11/port80-summer-2013-3.jpg"><img src="{{ site.baseurl }}/images/port80localhost/brandnatter.gif" alt="port80 sketchnotes"></a>
