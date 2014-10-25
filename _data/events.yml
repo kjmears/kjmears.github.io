@@ -1,3 +1,174 @@
+- date: 2014-10-30
+  title: The Web is knowledge
+  text: The Web is knowledge
+  speaker: fehler
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis01
+  
+- date: 2014-10-30
+  title: The Web is constant
+  text: The Web is constant
+  speaker: nathan_ford
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis02
+  
+- date: 2014-10-30
+  title: The Web is everywhere
+  text: The Web is everywhere
+  speaker: anna_debenham
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis03
+
+- date: 2014-10-30
+  title: The Web is a great big playground
+  text: The Web is a great big playground
+  speaker: seb_ly
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis04
+
+- date: 2014-10-30
+  title:  The Web is in the hands of the 97ers
+  text: The Web is in the hands of the 97ers
+  speaker: hubmum
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis05
+  
+- date: 2014-10-30
+  title: The Web is all consuming
+  text: The Web is all consuming
+  speaker: keirwhitaker
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis06
+  
+- date: 2014-10-30
+  title: The Web is made of links
+  text: The Web is made of links
+  speaker: philhawksworth
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis07
+  
+- date: 2014-10-30
+  title: The Web is a discussion
+  text: The Web is a discussion
+  speaker: Malarkey
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis08
+
+- date: 2014-10-31
+  title: A Creative Mornings session
+  text: A Creative Mornings session
+  speaker: davidhieatt
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis09
+
+- date: 2014-10-31
+  title: The Web is like water
+  text: The Web is like water
+  speaker: scottjenson
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis10
+
+- date: 2014-10-31
+  title: The Web is still young
+  text: The Web is still young
+  speaker: BenjaminHollway
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis11
+  
+- date: 2014-10-31
+  title: "The Web is too slow, but we can fix that"
+  text: "The Web is too slow, but we can fix that"
+  speaker: andydavies
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis12
+  
+- date: 2014-10-31
+  title: The Web is turning difficulties into opportunities
+  text: The Web is turning difficulties into opportunities
+  speaker: USA2DAY
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis13
+  
+- date: 2014-10-31
+  title: The Web is our responsibility
+  text: The Web is our responsibility
+  speaker: sjenkinson
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis14
+
+- date: 2014-10-31
+  title: "The Web is read/write"
+  text: "The Web is read/write"
+  speaker: fullcreammilk
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis15
+
+- date: 2014-10-31
+  title: The Web is taking itself far too seriously
+  text: The Web is taking itself far too seriously
+  speaker: mr_bingo
+  image:
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis16
+
+- date: 2014-10-31
+  title: The Web is progress
+  text: The Web is progress
+  speaker: brad_frost
+  image: thewebis/bradfrost-thumb.gif
+  event: www.theweb.is/
+  info: www.theweb.is/
+  lanyrd: /2014/thewebis/
+  code: thewebis17
+  
+
 - title: 'Who misses playing “Guess Who?”'
   sketchnotes: /sketchnotes/handheld2013-syd-lawrence.html
   speaker: sydlawrence
@@ -671,8 +842,4 @@
   code: gccy-04
   image: govcampcymru2014/govcampcymru2014-bill-thumb.gif
   lanyrd: /2014/govcampcymru/
-  
-  
-  
-  
   

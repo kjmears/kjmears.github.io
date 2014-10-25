@@ -106,6 +106,16 @@
   twitter: brendandawes
   url: brendandawes.com
   
+- id: anna_debenham
+  name: Anna Debenham
+  twitter: anna_debenham
+  url:  maban.co.uk
+  
+- id: seb_ly
+  name: Seb Lee-Delisle
+  twitter: seb_ly
+  url: seb.ly
+  
 - id: sophiedennis
   name: Sophie Dennis
   twitter: sophiedennis
@@ -150,6 +160,11 @@
   name: Jack Franklin
   twitter: Jack_Franklin
   url: jackfranklin.co.uk
+
+- id: brad_frost
+  name: Brad Frost
+  twitter: brad_frost
+  url: bradfrostweb.com
   
 - id: cgreen
   name: Cable Green
@@ -158,6 +173,11 @@
 - id: daigriffiths
   name: Dai Griffiths
   url: www.bolton.ac.uk/IEC
+  
+- id: fullcreammmilk
+  name: Owen Gregory
+  twitter: fullcreammilk
+  url: fullcreammilk.co.uk
 
 - id: cgutteridge
   name: Chris Gutteridge
@@ -168,6 +188,11 @@
   name: Martin Hawksey
   twitter: mhawksey
   url: mashe.hawksey.info/
+  
+- id: philhawksworth
+  name: Phil Hawksworth
+  twitter: philhawksworth
+  url: hawksworx.com
 
 - id: Hicksdesign
   name: Jon Hicks
@@ -184,10 +209,20 @@
   twitter: jonhassell
   url: www.hassellinclusion.com/
   
+- id: davidhieatt
+  name: David Hieatt
+  twitter:  davidhieatt
+  url: davidhieatt.typepad.com
+  
 - id: psychemedia
   name: Tony Hirst
   twitter: psychemedia
   url: blog.ouseful.info
+  
+- id: BenjaminHollway
+  name: Benjamin Hollway
+  twitter: BenjaminHollway
+  url: nothingrandom.com
 
 - id: mollydotcom
   name: Molly E. Holzschlag
@@ -197,7 +232,12 @@
 - id: denisejacobs
   name: Denise Jacobs
   twitter: denisejacobs
-  url: denisejacobs.com/
+  url: denisejacobs.com
+  
+- id: sjenkinson
+  name: Sally Jenkinson
+  twitter: sjenkinson
+  url: sallyjenkinson.co.uk
 
 - id: rumyra
   name: Ruth John
@@ -261,6 +301,16 @@
   name: Gareth Morlais
   twitter: digitalst
   url: www.einiog.com
+  
+- id: hubmum
+  name: Emma Mulqueeny
+  twitter: hudmum
+  url: mulqueeny.wordpress.com
+  
+- id: fehler
+  name: Chris Murphy
+  twitter: fehler
+  url: monographic.org
 
 - id: aroakley
   name: Andrew Oakley
