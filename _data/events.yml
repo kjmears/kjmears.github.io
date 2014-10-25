@@ -343,6 +343,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
   image: iwmw13/iwmw13-open-education-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: "Mozilla, Open Badges and a Learning Standard for Web Literacy"
   sketchnotes: /sketchnotes/iwmw13-doug-belshaw.html
@@ -350,6 +351,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
   image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
+  lanyrd: /2013/iwmw13/
   code: IWMW13
   
   
@@ -359,6 +361,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/kyriaki/index.html
   image: iwmw13/iwmw13-et-tu-mooc-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: Turning Our Attention to Supporting Research Projects
   sketchnotes: /sketchnotes/iwmw13-amber-thomas.html
@@ -366,6 +369,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
   image: iwmw13/iwmw13-supporting-research-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: Digital Storytelling
   sketchnotes: /sketchnotes/iwmw13-digital-storytelling.html
@@ -373,6 +377,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
   speaker: sboneham
   image: iwmw13/iwmw13-digital-storytelling-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: "Stop Trying to Avoid Losing and Start Winning: How BS 8878 Reframes the Accessibility Question"
   sketchnotes: /sketchnotes/iwmw13-jonathan-hassell.html
@@ -380,6 +385,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hassell/index.html
   image: iwmw13/iwmw13-BS8878-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: Adapting to Responsive Web Design
   sketchnotes: /sketchnotes/iwmw13-david-cornforth.html
@@ -387,6 +393,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
   image: iwmw13/iwmw13-adapting-to-rwd-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: The Inside-Out University
   sketchnotes: /sketchnotes/iwmw13-martin-hamilton.html
@@ -394,6 +401,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
   image: iwmw13/iwmw13-inside-out-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: Working With Developers
   sketchnotes: /sketchnotes/iwmw13-paul-walk.html
@@ -401,6 +409,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/walk/index.html
   image: iwmw13/iwmw13-working-with-developers-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: "What the fcuk just happened then?"
   sketchnotes: /sketchnotes/iwmw13-ranjit-sidhu.html
@@ -408,6 +417,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
   image: iwmw13/iwmw13-wtf-thumb.gif
+  lanyrd: /2013/iwmw13/
   slides: www.slideshare.net/iwmw/9am-16th-august-2012-what-the-fcuk-just-happened-then
   video: uniofbath.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6394fac-d4f6-40c3-a5ca-b1720f541b0b
 
@@ -416,6 +426,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
   image: iwmw13/iwmw13-culture-crippling-thumb.gif
+  lanyrd: /2013/iwmw13/
   speaker: boagworld
 
 - title: "Open Up: Open Data in the Public Sector"
@@ -423,6 +434,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
   image: iwmw13/iwmw13-open-data-thumb.gif
+  lanyrd: /2013/iwmw13/
   speaker:
     - psychemedia
     - mhawksey
@@ -430,9 +442,10 @@
 - title: IWMW and the birth of a Content Strategist
   sketchnotes: /sketchnotes/iwmw13-richard-prowse.html
   speaker: richprowse
-  event: iwmw.org/iwmw2014/
+  event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
   image: iwmw13/iwmw13-content-strategist-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: "The Delicious Discomfort Of Not Knowing: How to Lead Effectively Through Uncertainty"
   sketchnotes: /sketchnotes/iwmw13-neil-denny.html
@@ -440,15 +453,15 @@
   event: iwmw.ukoln.ac.uk/iwmw2013 
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
   image: iwmw13/iwmw13-delicious-discomfort-thumb.gif
+  lanyrd: /2013/iwmw13/
 
 - title: The University in a Bind
   sketchnotes: /sketchnotes/iwmw13-dai-griffiths.html
   speaker: daigriffiths
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
-  image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif 
-  
-
+  image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif
+  lanyrd: /2013/iwmw13/ 
 
 
 - title: Experiences in user centred design at the University of Edinburgh
@@ -458,6 +471,7 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12
+  lanyrd: /2012/iwmw12/
 
 - title: Data and the Web Manager
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
@@ -465,6 +479,7 @@
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ashley/index.html
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: kevingashley
 
 - title: "Data Visualisation: A Taster"
@@ -473,6 +488,7 @@
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/hirst-hawksey/index.html
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker:
     - psychemedia
     - mhawksey
@@ -483,6 +499,7 @@
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/oakley/index.html
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: aroakley
 
 - title: "Beyond WCAG: Experiences in Implementing BS 8878"
@@ -491,6 +508,7 @@
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/draffan/index.html
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: eadraffan
 
 - title: "Going Online - Do Universities Really Understand the Internet?"
@@ -499,6 +517,7 @@
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/prondzynski/index.html
   image: iwmw12/iwmw12-thumb.gif
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: vonprond
 
 - title: "Do I Need an App for That?"
@@ -506,6 +525,8 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/borley/index.html
   image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: bobscape
 
 - title: "What Do You Really Want?"
@@ -513,6 +534,8 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ellis/index.html
   image: iwmw12/iwmw12-thumb.gif
+  code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: dawnellis
   
 - title: "The Good, the Bad and the Ugly: Two Years of Running a Content Management Service"
@@ -521,9 +544,8 @@
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/sargan/index.html
   image: iwmw12/iwmw12-helen-sargan-thumb.gif
   code: iwmw12
+  lanyrd: /2012/iwmw12/
   speaker: helensargan
-
-
 
   
 - title: Creative Mornings Cardiff 2014
@@ -555,7 +577,6 @@
   image: ebooks-thumb.gif
   sketchnotes: /sketchnotes/ebooks-presentation.html
   code: ebooks
-  
   
 - title: Port80 Summer Localhost 2012
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
@@ -591,6 +612,7 @@
   sketchnotes: /sketchnotes/media2005.html
   image: media2005/media2005-sketchnotes-thumb.jpg
   code: media2005
+  lanyrd: /2005/atmedia/
   speaker:
     - Malarkey
     - adactio
@@ -624,6 +646,7 @@
   event: govcampcymru.org
   code: gccy-01
   image: govcampcymru2014/govcampcymru2014-dafydd-vaughan-thumb.gif
+  lanyrd: /2014/govcampcymru/
   
 - title: Helia Phoenix - GovCampCymru 2014
   sketchnotes: /sketchnotes/govcampcymru-helia-phoenix.html
@@ -631,6 +654,7 @@
   event: govcampcymru.org
   code: gccy-02
   image: govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
+  lanyrd: /2014/govcampcymru/
   
 - title: Gareth Morlais - GovCampCymru 2014
   sketchnotes: /sketchnotes/govcampcymru-gareth-morlais.html
@@ -638,6 +662,7 @@
   event: govcampcymru.org
   code: gccy-03
   image: govcampcymru2014/govcampcymru2014-gareth-morlais-thumb.gif
+  lanyrd: /2014/govcampcymru/
   
 - title: Bill Oates - GovCampCymru 2014
   sketchnotes: /sketchnotes/govcampcymru-bill-oates.html
@@ -645,6 +670,7 @@
   event: govcampcymru.org
   code: gccy-04
   image: govcampcymru2014/govcampcymru2014-bill-thumb.gif
+  lanyrd: /2014/govcampcymru/
   
   
   

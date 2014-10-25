@@ -13,10 +13,6 @@ tags:
 
 code: port80-2013-paulrobertlloyd
 
-redirect_from:
-- "http://mearso.com/2013/05/port80-sketchnotes-paul-robert-lloyd/"
-
-
 image-alt: Port80 Sketchnotes - Paul Robert Lloyd
 date: 2013-05-13 11:41:15.000000000 +01:00
 
