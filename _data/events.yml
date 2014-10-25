@@ -5,6 +5,7 @@
   info: handheldconf.com/
   code: han13-01
   image: handheld2013/syd-lawrence-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
 
 - title: The Long Web
   sketchnotes: /sketchnotes/handheld2013-jeremy-keith.html
@@ -13,6 +14,7 @@
   info: handheldconf.com/
   code: han13-02
   image: handheld2013/jeremy-keith-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   
 
 - title: Icon Design Process
@@ -22,6 +24,7 @@
   info: handheldconf.com/
   code: han13-03
   image: handheld2013/jon-hicks-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/icon-design-process/
   
 
@@ -33,6 +36,7 @@
   event: handheldconf.com/
   code: han13-04
   image: handheld2013/mark-boulton-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   
   
 - title: Carefully Everywhere
@@ -42,6 +46,7 @@
   info: handheldconf.com/
   code: han13-05
   image: handheld2013/brendan-dawes-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/carefully-everywhere/
   
   
@@ -52,6 +57,7 @@
   info: handheldconf.com/
   code: han13-06
   image: handheld2013/ling-valentine-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/when-responsive-sites-work-as-well-as-a-chocolate-iphone/
   
 
@@ -62,6 +68,7 @@
   info: handheldconf.com/
   code: han13-07
   image: handheld2013/eddie-machado-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   
   
 - title: How to call your client an idiot without getting fired
@@ -71,6 +78,7 @@
   info: handheldconf.com/
   code: han13-08
   image: handheld2013/andrew-clarke-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/how-to-call-your-client-an-idiot-without-getting-fired/
   
 
@@ -81,6 +89,7 @@
   info: handheldconf.com/
   code: han13-09
   image: handheld2013/jeffrey-zeldman-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
   
 - title: Handheld 2012
   sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
@@ -88,6 +97,7 @@
   info: www.besquare.me/conferences/handheld
   code: handheld2013
   image: handheld2012-collected-sketchnotes-thumb.png
+  lanyrd: /2012/handheldconf/
   speaker:
     - aral
     - daveaddey
@@ -111,6 +121,7 @@
   info: iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/
   code: iwmw14-01
   image: iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: "Digital Adaptation: Time to Untie Your Hands"
   speaker: boagworld
@@ -118,7 +129,8 @@
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/
   code: iwmw14-02
-  image: iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg 
+  image: iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg
+  lanyrd: /2014/iwmw14/ 
   
 - title: "Hyper-Connected: Filling the Vacuum by Switching from Blow to Suck"
   sketchnotes: /sketchnotes/iwmw14-martin-hawksey.html
@@ -127,6 +139,7 @@
   info: iwmw.org/iwmw2014/talks/hyper-connected-filling-the-vacuum-by-switching-from-blow-to-suck/
   code: iwmw14-03
   image: iwmw14/iwmw14-2014-07-16-martin-hawksey-thumb.jpg
+  lanyrd: /2014/iwmw14/
 
 - title: 'Building Cost-Effective, Flexible and Scalable Education Resources Using Google Cloud Platform'
   sketchnotes: /sketchnotes/iwmw14-sharif-salah.html
@@ -135,6 +148,7 @@
   info: iwmw.org/iwmw2014/talks/building-cost-effective-flexible-and-scalable-education-resources-using-google-cloud-platform/
   code: iwmw14-04
   image: iwmw14/iwmw14-2014-07-17-sharif-salah-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: "Using the Start-up Playbook to Reboot a big University Website"
   sketchnotes: /sketchnotes/iwmw14-ross-ferguson.html
@@ -143,6 +157,7 @@
   info: iwmw.org/iwmw2014/talks/using-the-start-up-playbook-to-reboot-a-big-university-website/
   code: iwmw14-05
   image: iwmw14/iwmw14-2014-07-17-ross-ferguson-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: 'Marketing is Dead, Long Live UX'
   sketchnotes: /sketchnotes/iwmw14-neil-allison.html
@@ -151,6 +166,7 @@
   info: iwmw.org/iwmw2014/talks/marketing-is-dead-long-live-ux/
   code: iwmw14-06
   image: iwmw14/iwmw14-2014-07-17-neil-allison-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: '“You are all so Weird!” University Sector Analysis and Trends'
   sketchnotes: /sketchnotes/iwmw14-ranjit-sidhu.html
@@ -159,6 +175,7 @@
   info: iwmw.org/iwmw2014/talks/you-are-all-so-weird-university-sector-analysis-and-trends/
   code: iwmw14-07
   image: iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg
+  lanyrd: /2014/iwmw14/
 - title: What Does the Data Tell us About uk University web Sites?
   sketchnotes: /sketchnotes/iwmw14-chris-gutteridge.html
   speaker: cgutteridge
@@ -166,6 +183,7 @@
   info: iwmw.org/iwmw2014/talks/what-does-the-data-tell-us-about-uk-university-web-sites/
   code: iwmw14-08
   image: iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: "Rebooting myed :Making the portal relevant again"
   sketchnotes: /sketchnotes/iwmw14-martin-morrey.html
@@ -174,6 +192,7 @@
   code: iwmw14-09
   speaker: martinmorrey
   image: iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: "Allocating Work: Providing Tools for Academics"
   sketchnotes: /sketchnotes/iwmw14-hiten-vaghmaria.html
@@ -182,6 +201,7 @@
   info: iwmw.org/iwmw2014/talks/allocating-work-providing-tools-for-academics/
   code: iwmw14-10
   image: iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
+  lanyrd: /2014/iwmw14/
   
 - title: "What is our vision for the institutional web and can we implement that vision?"
   sketchnotes: /sketchnotes/iwmw14-vision-panel.html
@@ -189,6 +209,7 @@
   info: iwmw.org/iwmw2014/talks/what-is-our-vision-for-the-institutional-web-and-can-we-implement-that-vision/
   code: iwmw14-11
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
+  lanyrd: /2014/iwmw14/
 
 
 - title: 'Banish your inner critic'
@@ -197,48 +218,56 @@
   event: port80events.co.uk/event/port80-2014/
   code: port80-01
   image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
+  lanyrd: /2014/port80events/
 - title: 'Designing Evolution'
   sketchnotes: /sketchnotes/port80-2014-dan-donald.html
   speaker: hereinthehive
   event: port80events.co.uk/event/port80-2014/
   code: port80-02
   image: port80/2014/port80-2014-05-16-dan-donald-thumb.gif
+  lanyrd: /2014/port80events/
 - title: 'Mastering the dark art of fluid layout'
   sketchnotes: /sketchnotes/port80-2014-nathan-ford.html
   speaker: nathan_ford
   event: port80events.co.uk/event/port80-2014/
   code: port80-03
   image: port80/2014/port80-2014-05-16-nathan-ford-thumb.gif
+  lanyrd: /2014/port80events/
 - title: Put yourself in their shoes
   sketchnotes: /sketchnotes/port80-2014-louise-tierney.html
   speaker: supertastycake
   event: port80events.co.uk/event/port80-2014/
   code: port80-04
   image: port80/2014/port80-2014-05-16-louise-tierney-thumb.gif
+  lanyrd: /2014/port80events/
 - title: Make them click
   sketchnotes: /sketchnotes/port80-2014-roy-tomeij.html
   speaker: roy
   event: port80events.co.uk/event/port80-2014/
   code: port80-05
   image: port80/2014/port80-2014-05-16-roy-tomeij-thumb.gif
+  lanyrd: /2014/port80events/
 - title: Accessibility for Humans
   sketchnotes: /sketchnotes/port80-2014-kimberley-tew.html
   speaker: kimberleytew
   event: port80events.co.uk/event/port80-2014/
   code: port80-06
   image: port80/2014/port80-2014-05-16-kimberley-tew-thumb.gif
+  lanyrd: /2014/port80events/
 - title: These are not the droids you're looking for
   sketchnotes: /sketchnotes/port80-2014-kevin-evans.html
   speaker: kwevans 
   event: port80events.co.uk/event/port80-2014/
   code: port80-07
   image: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
+  lanyrd: /2014/port80events/
 - title: 'Lies, Damned lies and Statistics'
   sketchnotes: /sketchnotes/port80-2014-matt-jukes.html
   speaker: jukesie
   event: port80events.co.uk/event/port80-2014/
   code: port80-08  
   image: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
+  lanyrd: /2014/port80events/
 
 
 - title: Practical JavaScripting
@@ -247,6 +276,7 @@
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-Jack_Franklin  
   image: port80/2013/port80-2013-05-10-jack-franklin-thumb.gif
+  lanyrd: /2013/port80/
   
 - title: Making Mobile Sites Faster
   sketchnotes: /sketchnotes/port80-sketchnotes-andy-davies.html
@@ -254,6 +284,7 @@
   speaker: andydavies
   event: port80events.co.uk/event/port80-2013
   image: port80/2013/port80-2013-05-10-andy-davies-thumb.gif
+  lanyrd: /2013/port80/
   
 - title: Crafting Animation on the Web
   sketchnotes: /sketchnotes/port80-sketchnotes-benjy-stanton.html
@@ -261,6 +292,7 @@
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-benjystanton  
   image: port80/2013/port80-2013-05-10-benjy-stanton-thumb.gif
+  lanyrd: /2013/port80/
   
 - title: How to discover your inner superhero
   sketchnotes: /sketchnotes/port80-sketchnotes-rachel-shillcock.html
@@ -268,6 +300,7 @@
   speaker: missrachilli
   event: port80events.co.uk/event/port80-2013
   image: port80/2013/port80-2013-05-10-rachel-shillcock-thumb.gif
+  lanyrd: /2013/port80/
   
 - title: Responsive design at the Guardian
   sketchnotes: /sketchnotes/port80-sketchnotes-matt-andrews.html
@@ -275,6 +308,7 @@
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-mattpointblank  
   image: port80/2013/port80-2013-05-10-matt-andrews-thumb.gif
+  lanyrd: /2013/port80/
   slides: http://mattandrews.info/talks/port80-2013/#/
   
 - title: This is for Everyone
@@ -283,6 +317,7 @@
   speaker: paulrobertlloyd
   event: port80events.co.uk/event/port80-2013
   image: port80/2013/port80-2013-05-10-paul-lloyd-thumb.gif
+  lanyrd: /2013/port80/
   
 - title: Everybody Technology - The Power and the Promise
   sketchnotes: /sketchnotes/port80-sketchnotes-robin-christopherson.html
@@ -290,6 +325,7 @@
   event: port80events.co.uk/event/port80-2013
   code: port80-2013-USA2DAY  
   image: port80/2013/port80-2013-05-10-robin-christopherson-thumb.gif
+  lanyrd: /2013/port80/
 
 - title: Working in Harmony
   sketchnotes: /sketchnotes/port80-sketchnotes-sophie-dennis.html
@@ -297,6 +333,7 @@
   speaker: sophiedennis
   event: port80events.co.uk/event/port80-2013
   image: port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
+  lanyrd: /2013/port80/
   
 
 
