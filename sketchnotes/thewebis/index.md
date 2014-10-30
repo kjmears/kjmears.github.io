@@ -5,7 +5,6 @@ title: The Web is Sketchnotes
 ---
 
 
-<p>Sketchnotes to come</p>
 
 <div class="row">
 	{% for post in site.tags.thewebis %}
@@ -15,5 +14,8 @@ title: The Web is Sketchnotes
 	{% endfor %}
 		
 </div>
+
+Collected sketchnotes - first drafts.
+
 
 
