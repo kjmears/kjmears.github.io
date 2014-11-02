@@ -56,12 +56,12 @@
 - date: 2014-10-30
   title: The Web is all consuming
   text: The Web is all consuming
-  speaker: keirwhitaker
+  speaker: kier
   image: /thewebis/kier-whitaker-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
-  code: thewebis20
+  code: thewebis06
   sketchnotes: /sketchnotes/the-web-is-kier-whitaker.html
   
 - date: 2014-10-30
@@ -153,9 +153,9 @@
   sketchnotes: /sketchnotes/the-web-is-sally-jenkinson.html
 
 - date: 2014-10-31
-  title: "The Web is read-write"
-  text: "The Web is read-write"
-  speaker: fullcreammilk
+  title: "The Web is readwrite"
+  text: "The Web is readwrite"
+  speaker: owen
   image: /thewebis/owen-gregory-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/

@@ -174,11 +174,11 @@
   name: Dai Griffiths
   url: www.bolton.ac.uk/IEC
   
-- id: fullcreammmilk
+- id: owen
   name: Owen Gregory
   twitter: fullcreammilk
   url: fullcreammilk.co.uk
-
+  
 - id: cgutteridge
   name: Chris Gutteridge
   twitter: cgutteridge
@@ -238,6 +238,11 @@
   name: Sally Jenkinson
   twitter: sjenkinson
   url: sallyjenkinson.co.uk
+  
+  id: scottjenson
+  name: Scott Jenson
+  twitter: scottjenson
+  url : jenson.org
 
 - id: rumyra
   name: Ruth John
@@ -432,7 +437,7 @@
   twitter: vonprond
   url: universitydiary.wordpress.com
   
-- id: kierwhitaker
+- id: kier
   name: Kier Whitaker
   twitter: kierwhitaker
   url: kierwhitaker.com
