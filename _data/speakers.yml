@@ -116,11 +116,6 @@
   twitter: anna_debenham
   url:  maban.co.uk
   
-- id: seb_ly
-  name: Seb Lee-Delisle
-  twitter: seb_ly
-  url: seb.ly
-  
 - id: sophiedennis
   name: Sophie Dennis
   twitter: sophiedennis
@@ -268,6 +263,11 @@
   id: sydlawrence
   twitter: sydlawrence
   url: sydlawrence.com/
+  
+- id: seb_ly
+  name: Seb Lee-Delisle
+  twitter: seb_ly
+  url: seb.ly
   
 - id: lloydi
   name: Ian Lloyd
@@ -431,6 +431,11 @@
   name: Professor Ferdinand von Prondzynski
   twitter: vonprond
   url: universitydiary.wordpress.com
+  
+- id: kierwhitaker
+  name: Kier Whitaker
+  twitter: kierwhitaker
+  url: kierwhitaker.com
 
 - id: zeldman
   name: Jeffrey Zeldman

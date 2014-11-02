@@ -2,7 +2,7 @@
   title: The Web is knowledge
   text: The Web is knowledge
   speaker: fehler
-  image:
+  image: /thewebis/chris-murphy-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -13,7 +13,7 @@
   title: The Web is constant
   text: The Web is constant
   speaker: nathan_ford
-  image:
+  image: /thewebis/nathan-ford-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -24,7 +24,7 @@
   title: The Web is everywhere
   text: The Web is everywhere
   speaker: anna_debenham
-  image:
+  image: /thewebis/anna-debenham-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -35,7 +35,7 @@
   title: The Web is a great big playground
   text: The Web is a great big playground
   speaker: seb_ly
-  image:
+  image: /thewebis/seb-lee-delisle-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -46,7 +46,7 @@
   title:  The Web is in the hands of the 97ers
   text: The Web is in the hands of the 97ers
   speaker: hubmum
-  image:
+  image: /thewebis/emma-mulqueeny-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -57,18 +57,18 @@
   title: The Web is all consuming
   text: The Web is all consuming
   speaker: keirwhitaker
-  image:
+  image: /thewebis/kier-whitaker-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
-  code: thewebis06
+  code: thewebis20
   sketchnotes: /sketchnotes/the-web-is-kier-whitaker.html
   
 - date: 2014-10-30
   title: The Web is made of links
   text: The Web is made of links
   speaker: philhawksworth
-  image:
+  image: /thewebis/phil-hawksworth-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -79,7 +79,7 @@
   title: The Web is a discussion
   text: The Web is a discussion
   speaker: Malarkey
-  image:
+  image: /thewebis/andy-clarke-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -90,7 +90,7 @@
   title: A Creative Mornings session
   text: A Creative Mornings session
   speaker: davidhieatt
-  image:
+  image: /thewebis/david-hieatt-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -101,7 +101,7 @@
   title: The Web is like water
   text: The Web is like water
   speaker: scottjenson
-  image:
+  image: /thewebis/scott-jenson-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -112,7 +112,7 @@
   title: The Web is still young
   text: The Web is still young
   speaker: BenjaminHollway
-  image:
+  image: /thewebis/benjamin-hollway-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -123,7 +123,7 @@
   title: "The Web is too slow, but we can fix that"
   text: "The Web is too slow, but we can fix that"
   speaker: andydavies
-  image:
+  image: /thewebis/andy-davies-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -134,7 +134,7 @@
   title: The Web is turning difficulties into opportunities
   text: The Web is turning difficulties into opportunities
   speaker: USA2DAY
-  image:
+  image: /thewebis/robin-christopherson-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -145,7 +145,7 @@
   title: The Web is our responsibility
   text: The Web is our responsibility
   speaker: sjenkinson
-  image:
+  image: /thewebis/sally-jenkinson-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -153,10 +153,10 @@
   sketchnotes: /sketchnotes/the-web-is-sally-jenkinson.html
 
 - date: 2014-10-31
-  title: "The Web is read/write"
-  text: "The Web is read/write"
+  title: "The Web is read-write"
+  text: "The Web is read-write"
   speaker: fullcreammilk
-  image:
+  image: /thewebis/owen-gregory-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -167,7 +167,7 @@
   title: The Web is taking itself far too seriously
   text: The Web is taking itself far too seriously
   speaker: mr_bingo
-  image:
+  image: /thewebis/mr-bingo-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
@@ -178,7 +178,7 @@
   title: The Web is progress
   text: The Web is progress
   speaker: brad_frost
-  image: thewebis/bradfrost-thumb.gif
+  image: thewebis/brad-frost-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/

@@ -16,4 +16,4 @@ tags:
 
 Kier Whitaker set the context for the second half of his talk but doing a lightening quick round of up of his personal history on the web, which had more than a few members of the audience reminscing about far we've come, and maybe gone backwards in some areas.
 
-The second part was a rumnination on ways that we might get a different perpective on the web in our live and reformulate a way of working that doesn't demand burn out.  
+The second part was a rumination on ways that we might get a different perpective on the web in our live and reformulate a way of working that doesn't demand burn out.  
