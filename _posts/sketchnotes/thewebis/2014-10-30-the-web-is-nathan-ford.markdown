@@ -14,4 +14,4 @@ tags:
 
 ---
 
-Chris Murphy
+Nathan Ford did a nice job of reminding us that everything changes - which can be very stressful in an industry that depends so much on keeping up with a fast changing landscape - but also gave some pointers on how we might manage to keep on top of things.

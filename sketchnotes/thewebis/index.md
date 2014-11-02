@@ -4,7 +4,7 @@ title: The Web is Sketchnotes
 
 ---
 
-
+![Thewebis](../../images/thewebis/thewebis.png)
 
 <div class="row">
 	{% for post in site.tags.thewebis %}
