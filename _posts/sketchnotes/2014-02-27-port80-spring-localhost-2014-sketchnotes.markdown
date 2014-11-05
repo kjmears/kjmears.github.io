@@ -7,7 +7,6 @@ image: /port80localhost/localhost-2014-02.gif
 image-thumb: /port80localhost/localhost-2014-02-thumb.gif
 category: sketchnotes
 tags:
-- port80-2013
 - live
 homepage: true
 code: localhost_spring_2014

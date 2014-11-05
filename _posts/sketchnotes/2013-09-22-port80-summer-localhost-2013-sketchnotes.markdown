@@ -12,7 +12,8 @@ speaker:
   - jrcryer
   - tomwbond
   - brandnatter
- 
+tags:
+  - live
 ---
 
 I drew some sketchnotes at the <a href="http://port80events.co.uk/summer-localhost-slides/">Port80 Summer Localhost</a> 

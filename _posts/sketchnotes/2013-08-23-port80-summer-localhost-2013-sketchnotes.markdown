@@ -6,7 +6,6 @@ image: /port80localhost/tomwbond.gif
 image-thumb: /port80localhost/port80localhost-summer-2013-thumb.gif
 category: sketchnotes
 tags:
-- port80-2013
 - live
 
 

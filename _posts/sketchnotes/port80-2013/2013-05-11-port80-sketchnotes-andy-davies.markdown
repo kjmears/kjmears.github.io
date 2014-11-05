@@ -12,6 +12,7 @@ tags:
 - live
 
 code: port80-2013-andydavies
+speaker: andydavies
 
 date: 2013-05-11 12:20:03.000000000 +01:00
 

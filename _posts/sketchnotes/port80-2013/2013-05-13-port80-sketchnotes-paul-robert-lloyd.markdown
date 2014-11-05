@@ -12,7 +12,7 @@ tags:
 - live
 
 code: port80-2013-paulrobertlloyd
-
+speaker: paulrobertlloyd
 image-alt: Port80 Sketchnotes - Paul Robert Lloyd
 date: 2013-05-13 11:41:15.000000000 +01:00
 
