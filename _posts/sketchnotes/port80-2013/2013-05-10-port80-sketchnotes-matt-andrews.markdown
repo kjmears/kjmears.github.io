@@ -14,6 +14,9 @@ tags:
 
 code: port80-2013-mattpointblank  
 speaker: mattpointblank
+redirect_from:
+- "/sketchnotes/2013/05/10/port80-sketchnotes-matt-andrews.html"
+
 
 ---
 
