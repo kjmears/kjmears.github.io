@@ -105,6 +105,11 @@
   name: Andy Davies
   twitter: andydavies
   url: andydavies.me
+  
+- id: gavD_UK
+  name: Gavin Davies
+  twitter: gavD_UK
+  url: gavd.co.uk/
 
 - id: brendandawes
   name: Brendan Dawes
@@ -282,6 +287,11 @@
   name: Paul Lloyd
   twitter: paulrobertlloyd
   url: paulrobertlloyd.com
+  
+- id: craigmarvelley
+  twitter: craigmarvelley
+  name: Craig Marvelly
+  url: marvelley.com/
 
 - id: tmaslen
   name: Tom Maslen
@@ -437,6 +447,11 @@
   twitter: vonprond
   url: universitydiary.wordpress.com
   
+- id: AustinWaltersUK
+  name: Austin Walters
+  twitter: AustinWaltersUK
+  url: www.austinwalters.co.uk
+
 - id: kier
   name: Kier Whitaker
   twitter: kierwhitaker
