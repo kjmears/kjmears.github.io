@@ -5,7 +5,7 @@ published: true
 title: Austin Walters - Finding your web design Niche and Generating Leads there
 date: 2014-11-11
 image: /winterlocalhost2014/austin-walters.png
-image-thum: /winterlocalhost2014/austin-walters-thumb.png
+image-thumb: /winterlocalhost2014/austin-walters-thumb.png
 categories: sketchnotes
 speaker: AustinWaltersUK
 tags:
@@ -13,3 +13,5 @@ tags:
   - live
 
 ---
+
+Enjoyed Austin's storytelling approach, and the little discussed (for me at least) nitty gritty of the business of web design. Surely, [someone is talking about this](http://thebusinessofwebdesign.co.uk/)

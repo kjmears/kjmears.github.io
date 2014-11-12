@@ -13,4 +13,4 @@ title: Winter Localhost 2014 Sketchnotes
 		
 </div>
 
-Collected sketchnotes
+Collected sketchnotes from the last localhost of 2014.

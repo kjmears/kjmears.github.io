@@ -26,7 +26,7 @@ layout: default
     	<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.title }}"></a>
     {% endif %}
 					
-		{{ content }}
+
     
     {% if page.code %}
       {% for info in site.data.events %}
@@ -62,6 +62,8 @@ layout: default
        {% endif %} 
       
     {% endfor %}
+    
+    		{{ content }}
     
 	</article>
 	
