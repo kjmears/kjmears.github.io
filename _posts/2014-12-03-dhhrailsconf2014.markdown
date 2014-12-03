@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "dhh-railsconf2014"
 date: "2014-12-03"
@@ -6,7 +7,9 @@ categories: sketchnotes
 tags: video
 image: /dhh-railsconf2014.gif
 image-thumb: /dhh-railsconf2014-thumb.gif
+code: railsconf
 
 ---
 
-We all got some homework to watch this keynote on writing good software. It was enjoyable.
+We all got some homework to watch this keynote on writing good software. It was enjoyable and thought provoking.
+Been a while since I've done a youtube video - the opportunity to pause (but not too often) makes it a little more relaxing.

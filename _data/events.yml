@@ -1,3 +1,12 @@
+- date: 2014-12-03
+  title: "David Heinemeier Hansson's keynote at Railsconf 2014"
+  text: "David Heinemeier Hansson's keynote at Railsconf 2014"
+  speaker: dhh
+  image: /dhh-railsconf2014-thumb.gif
+  event: www.railsconf.com
+  code: railsconf
+  sketchnotes: /sketchnotes/dhhrailsconf2014.html
+
 - date: 2014-11-11
   title: Gene Simmons and the path to good product design
   text: Gene Simmons and the path to good product design
