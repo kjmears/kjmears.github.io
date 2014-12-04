@@ -4,7 +4,7 @@ exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Grunt
 
 pygments: true
 baseurl:  
-url:      http://mearso.co.uk
+url:      http://www.mearso.co.uk
 
 permalink:     none
 
