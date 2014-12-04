@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: "Using Jekyll data files"
-date: "2014-09-14"
+date: 2014-09-14
 category: weeknotes
 
 ---
@@ -13,7 +13,7 @@ It took me a while to work out how to do it using Jekyll data files so I thought
 
 The sketchnotes I do are using (but not always) in the format of a post with the following YAML front matter.
 
-    ---
+ `   ---
 
     layout: post
     published: true
@@ -32,6 +32,8 @@ The sketchnotes I do are using (but not always) in the format of a post with the
     ---
 
     Kevin Evans : These ARE the Droids you’re looking for.
+  `
+
 
 All pretty straighforward Jekyll post information the only unusual code (more on that later). 
 
@@ -43,11 +45,11 @@ I thought about using categories and tags to organise things, but wasn't to sure
 
 I remembered that I'd used data.yml files when first trying out Jekyll, and thought it might help. I set about creating a `speakers.yml` file with following format.
 
-    - id: kwe
+  ` - id: kwe
       name: Kevin Evans
       twitter: kwe
       url: daveaddey.com
-
+  `
 I used an id figuring that I'd probably need a uniquie way to refer to speakers. I've stuck with pretty basic info, but the cool thing is that I can easily add more info to a speaker in this file, without having to add to all, and can then use them when I want.
 
 This file is pretty easy to manage, but YAML files are fussy about the whitespace, so make sure you set up your text editor to use spaces instead of tabs.
