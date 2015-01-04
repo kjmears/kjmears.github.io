@@ -7,7 +7,9 @@ categories: sketchnotes
 tags: video
 image: /jeannel-king-hangout-01-04-2015.jpg
 image-thumb: /jeannel-king-hangout-01-04-2015-thumb.jpg
-code: jeannelking
+code: hangout
+speaker: jeannelking
+
 
 ---
 
