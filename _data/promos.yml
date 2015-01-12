@@ -15,18 +15,18 @@
   text: Collected Sketchnotes from 'the Web is' conference held in Cardiff 2014.
   image: /thewebis/thewebis-thumb.png
   url: /sketchnotes/thewebis
+  
+- date: 2014-09-13
+  title: Sketchnotes by speaker
+  text: I've organised all the sketchnotes by speaker. It's a long list.
+  image: speaker-thumb.gif
+  url: /speakers
 
 - date: 2014-09-13
   title: Gov Camp Cymru 
   text: The sketchnotes I did from the first Gov Camp in Wales
   image: /govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
   url: /sketchnotes/govcampcymru
-
-- date: 2014-09-13
-  title: Sketchnotes by speaker
-  text: I've organised all the sketchnotes by speaker. It's a long list.
-  image: speaker-thumb.gif
-  url: /speakers
 
 - date: '2014-07-18'
   title: IWMW 2014 Sketchnotes
