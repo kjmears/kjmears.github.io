@@ -631,7 +631,9 @@
   sketchnotes: /sketchnotes/iwmw13-digital-storytelling.html
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
-  speaker: sboneham
+  speaker: 
+    - sboneham
+    - HannaMiet
   image: iwmw13/iwmw13-digital-storytelling-thumb.gif
   lanyrd: /2013/iwmw13/
 
