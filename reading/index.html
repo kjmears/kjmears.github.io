@@ -1,0 +1,18 @@
+---
+layout: page
+title: Reading
+
+---
+
+
+<div class="row">
+	{% for book in site.data.reading %}
+
+
+				<h2>{{ book.title }}</h2>
+        <p>{{ book.author }}</p>
+        <a href="{{ book.amazon }}&tag=mearso-21">Amazon</a>
+
+
+		{% endfor %}
+</div>
