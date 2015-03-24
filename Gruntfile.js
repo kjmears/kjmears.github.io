@@ -10,12 +10,13 @@ module.exports = function(grunt) {
           style: 'expanded',
           loadPath: [
             "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
-            "bower_components/components-font-awesome/scss"
+            "bower_components/components-font-awesome/scss",
+            "_sass"
             ],
-          banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
+          banner: '/*! <%= pkg.name %> dev <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },
         files: {
-           "css/dist/global.min.css": "_sass/global.scss"
+           "css/global.css": "_sass/global.scss"
          }
       },
       production: {
@@ -23,7 +24,8 @@ module.exports = function(grunt) {
           style: 'compressed',
           loadPath: [
             "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
-            "bower_components/components-font-awesome/scss"
+            "bower_components/components-font-awesome/scss",
+            "_sass"
             ],
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
         },				
@@ -107,12 +109,15 @@ module.exports = function(grunt) {
       }, //images
     }, //watch
 
-    shell: {
-      jekyll: {
-        command: 'rm -rf _site/*; jekyll build',
-        stdout: true
-      }
+    shell : {
+     jekyllBuild : {
+         command : 'jekyll build'
+     },
+     jekyllServe : {
+         command : 'jekyll serve'
+     }
     },
+    
 
     connect: {
       server: {

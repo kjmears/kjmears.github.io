@@ -3,10 +3,10 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 @import "variables";
 @import "font-awesome";
 
-@import "bootstrap";
+@import "custom-bootstrap";
 
 @import "cards";
-@import "weeknotes";
+//@import "weeknotes";
 @import "related";
 @import "speakers";
 
