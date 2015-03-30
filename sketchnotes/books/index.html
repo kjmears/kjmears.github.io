@@ -1,0 +1,16 @@
+---
+layout: page
+title: Books Sketchnotes
+
+---
+
+<p>Sketchnotes from books</p>
+
+<div class="row">
+	{% for post in site.tags.books %}
+		<section>
+			{% include panel.html %}
+		</section>
+	{% endfor %}
+
+</div>
