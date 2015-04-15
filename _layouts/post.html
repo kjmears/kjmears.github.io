@@ -5,32 +5,33 @@ layout: default
 
 <div class="row">
 	<article>
-		<h1>{{ page.title }} </h1>
+		<h1>{{ page.title }}</h1>
 
 		<p class="meta">{{ page.date | date_to_string }}</p>
 
     {% if page.tags %}
-    
+
         <p>
-          Tagged: 
+          Tagged:
           {% for tag in page.tags %}<a href="{{ tag }}"> {{ tag | capitalize }} </a> {% endfor %}
         </p>
 
     {% endif %}
 
-		{% if page.category %} 
-			 <p>Category: <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>	
+		{% if page.category %}
+			 <p>Category: <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>
 		{% endif %}
 
     {% if page.image %}
     	<a href="{{ site.baseurl }}/images/{{ page.image }}"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.title }}"></a>
     {% endif %}
-					
 
-    
+
+
     {% if page.code %}
+		<ul>
       {% for info in site.data.events %}
-        <ul>
+
           {% if info.code == page.code %}
             <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
           {% if info.info %}
@@ -38,15 +39,16 @@ layout: default
           {% endif %}
           {% if info.video %}
             <li>Event Video <a href="http://{{ info.video }}">{{ info.video }}</a></li>
-          {% endif %}  
+          {% endif %}
           {% if info.slides %}
             <li>Slides<a href="http://{{ info.slides }}">{{ info.slides }}</a></li>
-          {% endif %}   
+          {% endif %}
         {% endif %}
-        </ul>
+
       {% endfor %}
+		</ul>
     {% endif %}
-    
+
     {% for bio in site.data.speakers %}
       {% if page.speaker %}
         {% if bio.id == page.speaker %}
@@ -56,24 +58,30 @@ layout: default
           {% endif %}
             {% if bio.twitter %}
             <li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
-          {% endif %} 
-          </ul>     
+          {% endif %}
+          </ul>
         {% endif %}
-       {% endif %} 
-      
+       {% endif %}
+
     {% endfor %}
-    
+
     		{{ content }}
-    
+
+				{% if page.cc %}
+					{% include CC_BY-SA.html %}
+				{% else %}
+					{% include CC_BY-NC-SA.html %}
+				{% endif %}
+
 	</article>
-	
+
 </div>
 
 <div class="row">
-  
+
 	<article class="related">
 			{% for category_name in page.categories limit:1 %}
-      
+
 	    <h2>Other articles in <a href="/{{ category_name }}/">{{ category_name | capitalize }}</a></h2>
       {% for post in site.categories[category_name] limit:4 %}
         <section class="related">
@@ -83,6 +91,5 @@ layout: default
 
 		{% endfor %}
 	</article>
-  
-</div>
 
+</div>
