@@ -11,7 +11,9 @@ categories: sketchnotes
 tags:
   - iwmw13
   - live
+cc: BY-SA
+
 
 ---
 
-Cable Green talking about open education 
+Cable Green talking about open education
