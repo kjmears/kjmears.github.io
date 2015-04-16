@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teresa Mackinnon - OER15"
-date: "2015-04-16"
+date: 2015-04-16 23:30:20
 code: oer15-03
 categories: sketchnotes
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paul Bacsich - OER15"
-date: "2015-04-16"
+date: 2015-04-16 23:30:18
 code: oer15-04
 categories: sketchnotes
 tags:

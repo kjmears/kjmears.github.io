@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sheila MacNeill OER15"
-date: "2015-04-16"
+date: 2015-04-16 23:30:10
 categories: sketchnotes
 tags:
   - oer15

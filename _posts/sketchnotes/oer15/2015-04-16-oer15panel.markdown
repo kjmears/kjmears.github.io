@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Panel Session - OER15"
-date: "2015-04-16"
+date: 2015-04-16 23:30:25
 code: oer15-02
 categories: sketchnotes
 tags:

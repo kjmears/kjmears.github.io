@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightning Talks - OER15"
-date: "2015-04-16"
+date: 2015-04-16 23:30:04
 categories: sketchnotes
 tags:
   - oer15
