@@ -28,13 +28,13 @@ module.exports = function(grunt) {
             "_sass"
             ],
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
-        },				
+        },
         files: {
            "css/dist/global.min.css": "_sass/global.scss"
          }
       }
     },
-		
+
     jshint: {
       beforeconcat: ['js/*.js']
     }, // jshint
@@ -72,7 +72,7 @@ module.exports = function(grunt) {
     },
 
     watch: {
-      
+
       options: {
         livereload: true,
       }, //options
@@ -117,7 +117,6 @@ module.exports = function(grunt) {
          command : 'jekyll serve'
      }
     },
-    
 
     connect: {
       server: {
@@ -129,7 +128,7 @@ module.exports = function(grunt) {
     }
 
   });
-	
+
   // Loading tasks.
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-uglify');
@@ -143,6 +142,6 @@ module.exports = function(grunt) {
   // Default Task is basically a rebuild
   grunt.registerTask('default', ['concat', 'uglify', 'sass', 'imagemin', 'shell', 'watch']);
 
-  grunt.registerTask('dev', ['connect', 'watch']);  
+  grunt.registerTask('dev', ['connect', 'watch']);
 
 };

@@ -1,5 +1,17 @@
 ---
 layout: post
-title: "oer15-766"
+title: "The Cost of Not Going Open - OER15"
 date: "2015-04-16"
+categories: sketchnotes
+tags:
+  - oer15
+  - live
+cc: BY-SA
+code: oer15-08
+
+image: /oer15/oer15-2015-04-15-766.jpg
+image-thumb: /oer15/oer15-2015-04-15-766-thumb.jpg
+original: /oer15/original/oer15-2015-04-15-766-original.jpg
+
 ---
+The cost of not going open! - public session

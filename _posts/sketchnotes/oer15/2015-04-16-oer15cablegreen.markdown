@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "oer15-cable-green"
+title: "Cable Green - OER15 Keynote"
 date: "2015-04-16"
-code: oer15
-image: /oer15/iwmw14-vision-panel.jpg
-image-thumb: /iwmw14/iwmw14-vision-panel-thumb.jpg
+code: oer15-01
 categories: sketchnotes
 tags:
   - oer15
   - live
-
 cc: BY-SA
+
+image: /oer15/oer15-2015-04-14-cable-green.jpg
+image-thumb: /oer15/oer15-2015-04-14-cable-green-thumb.jpg
+original: /oer15/original/oer15-2015-04-14-cable-green-original.jpg
+
 ---
+
+Cable talked about how to move from policy to implementation for Open Education.
+
+Clue - have a plan, and be ready.

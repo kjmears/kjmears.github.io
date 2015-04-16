@@ -1,5 +1,20 @@
 ---
 layout: post
-title: "oer15-726-759"
+title: "Lightning talks - OER15"
 date: "2015-04-16"
+categories: sketchnotes
+tags:
+  - oer15
+  - live
+cc: BY-SA
+code: oer15-09
+
+image: /oer15/oer15-2015-04-15-726-759.jpg
+image-thumb: /oer15/oer15-2015-04-15-726-759-thumb.jpg
+original: /oer15/original/oer15-2015-04-15-726-759-original.jpg
 ---
+Two short papers - OER in schools and FE/skills
+
+Open Science Happens Somewhere: Exploring the use of Science OER in Schools
+
+Opening up in the FE and Skills Sector [759]

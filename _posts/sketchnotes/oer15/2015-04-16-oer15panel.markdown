@@ -1,5 +1,18 @@
 ---
 layout: post
-title: "oer15-panel"
+title: "Panel Session - OER15"
 date: "2015-04-16"
+code: oer15-02
+categories: sketchnotes
+tags:
+  - oer15
+  - live
+cc: BY-SA
+
+image: /oer15/oer15-2015-04-14-panel.jpg
+image-thumb: /oer15/oer15-2015-04-14-panel-thumb.jpg
+original: /oer15/original/oer15-2015-04-14-panel-original.jpg
+
 ---
+
+A panel discussion around policy for OER around the world.

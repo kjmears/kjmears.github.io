@@ -11,7 +11,7 @@
   name: Neil Allison
   twitter: usabilityed
   url: usability-ed.blogspot.co.uk
-  
+
 - id: mattpointblank
   name: Matt Andrews
   twitter: mattpointblank
@@ -30,7 +30,7 @@
   name: Doug Belshaw
   twitter: dajbelshaw
   url: dougbelshaw.com
-  
+
 - id: mr_bingo
   name: Mr Bingo
   twitter: mr_bingo
@@ -50,7 +50,7 @@
   twitter: sboneham
   url: sboneham.com/blog
   name: Steve Boneham
-  
+
 - id: bobscape
   name: Rob Borley
   twitter: bobscape
@@ -95,7 +95,7 @@
   name: James Cryer
   twitter: jrcryer
   url: www.jamescryer.com
-  
+
 - id: AdamCurtisBlog
   name: Adam Curtis
   twitter: AdamCurtisBlog
@@ -105,7 +105,7 @@
   name: Andy Davies
   twitter: andydavies
   url: andydavies.me
-  
+
 - id: gavD_UK
   name: Gavin Davies
   twitter: gavD_UK
@@ -115,17 +115,17 @@
   name: Brendan Dawes
   twitter: brendandawes
   url: brendandawes.com
-  
+
 - id: anna_debenham
   name: Anna Debenham
   twitter: anna_debenham
   url:  maban.co.uk
-  
+
 - id: sophiedennis
   name: Sophie Dennis
   twitter: sophiedennis
   url: www.cayenne.co.uk
-  
+
 - id: NeilDenny
   name: Neil Denny
   twitter: NeilDenny
@@ -138,7 +138,7 @@
 
 - id: eadraffan
   name: E A Draffan
-  
+
 - id: dawnellis
   name: Dawn Ellis
 
@@ -166,11 +166,16 @@
   twitter: Jack_Franklin
   url: jackfranklin.co.uk
 
+- id: josiefraser
+  name: Josie Fraser
+  twitter: josiefraser
+  url: www.josiefraser.com
+
 - id: brad_frost
   name: Brad Frost
   twitter: brad_frost
   url: bradfrostweb.com
-  
+
 - id: cgreen
   name: Cable Green
   twitter: cgreen
@@ -178,12 +183,12 @@
 - id: daigriffiths
   name: Dai Griffiths
   url: www.bolton.ac.uk/IEC
-  
+
 - id: owen
   name: Owen Gregory
   twitter: fullcreammilk
   url: fullcreammilk.co.uk
-  
+
 - id: cgutteridge
   name: Chris Gutteridge
   twitter: cgutteridge
@@ -193,7 +198,7 @@
   name: Martin Hawksey
   twitter: mhawksey
   url: mashe.hawksey.info/
-  
+
 - id: philhawksworth
   name: Phil Hawksworth
   twitter: philhawksworth
@@ -213,22 +218,22 @@
   name: Jonathan Hassell
   twitter: jonhassell
   url: www.hassellinclusion.com/
-  
+
 - id: dhh
   name: David Heinemeier Hansson
   twitter: dhh
   url: david.heinemeierhansson.com
-  
+
 - id: davidhieatt
   name: David Hieatt
   twitter:  davidhieatt
   url: davidhieatt.typepad.com
-  
+
 - id: psychemedia
   name: Tony Hirst
   twitter: psychemedia
   url: blog.ouseful.info
-  
+
 - id: BenjaminHollway
   name: Benjamin Hollway
   twitter: BenjaminHollway
@@ -243,12 +248,12 @@
   name: Denise Jacobs
   twitter: denisejacobs
   url: denisejacobs.com
-  
+
 - id: sjenkinson
   name: Sally Jenkinson
   twitter: sjenkinson
   url: sallyjenkinson.co.uk
-  
+
   id: scottjenson
   name: Scott Jenson
   twitter: scottjenson
@@ -263,12 +268,12 @@
   name: Matt Jukes
   twitter: jukesie
   url: https://medium.com/@jukesie
-  
+
 - id: laurakalbag
   name: Laura Kalbag
   twitter: laurakalbag
   url: laurakalbag.com
-  
+
 - id: jeannelking
   name: Jeannel King
   twitter: jeannelking
@@ -283,12 +288,12 @@
   id: sydlawrence
   twitter: sydlawrence
   url: sydlawrence.com/
-  
+
 - id: seb_ly
   name: Seb Lee-Delisle
   twitter: seb_ly
   url: seb.ly
-  
+
 - id: lloydi
   name: Ian Lloyd
   twitter: lloydi
@@ -297,7 +302,7 @@
   name: Paul Lloyd
   twitter: paulrobertlloyd
   url: paulrobertlloyd.com
-  
+
 - id: craigmarvelley
   twitter: craigmarvelley
   name: Craig Marvelly
@@ -307,7 +312,7 @@
   name: Tom Maslen
   twitter: tmaslen
   url: tmaslen.com/
-  
+
 - id: eddiemachado
   name: Eddie Machado
   twitter: eddiemachado
@@ -326,21 +331,21 @@
   twitter: wilsonminer
   name: Wilson Miner
   url: wilsonminer.com
-  
+
 - id: martinmorrey
   name: Martin Morrey
   twitter: martinmorrey
-  
+
 - id: digitalst
   name: Gareth Morlais
   twitter: digitalst
   url: www.einiog.com
-  
+
 - id: hubmum
   name: Emma Mulqueeny
   twitter: hudmum
   url: mulqueeny.wordpress.com
-  
+
 - id: fehler
   name: Chris Murphy
   twitter: fehler
@@ -350,11 +355,11 @@
   name: Andrew Oakley
   twitter: aroakley
   url: aroakley.com
-  
+
 - id: wpoates1
   name: Bill Oates
   twitter: wpoates1
-  
+
 - id: phoenixlily
   name: Helia Phoenix
   twitter: phoenixlily
@@ -437,7 +442,7 @@
   name: Ling Valentine
   twitter: LINGsCARS
   url: lingscars.com
-  
+
 - id: dafyddbach
   name: Dafydd Vaughan
   twitter: dafyddbach
@@ -447,7 +452,7 @@
   name: Paul Walk
   twitter: paulwalk
   url: blog.paulwalk.net
-  
+
 - id: olliewells
   name: Ollie Wells
   twitter: olliewells
@@ -455,12 +460,12 @@
 
 - id: hiten-vaghmaria
   name: Hiten Vaghmaria
-  
+
 - id: vonprond
   name: Professor Ferdinand von Prondzynski
   twitter: vonprond
   url: universitydiary.wordpress.com
-  
+
 - id: AustinWaltersUK
   name: Austin Walters
   twitter: AustinWaltersUK
