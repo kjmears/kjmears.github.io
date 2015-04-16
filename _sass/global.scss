@@ -13,7 +13,7 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 
 body {
 	padding-top: 70px;
-	background-image: url("/img/pattern-white-grey.gif"); 
+	background-image: url("/img/pattern-white-grey.gif");
 	}
 
 
@@ -27,7 +27,7 @@ span.me{
 	@include text-hide;
 	background-image: url("/images/about/break-glass.gif");
 	background-repeat: no-repeat;
-	height: 150px; 
+	height: 150px;
 	display:block;
 }
 
@@ -43,6 +43,10 @@ span.me{
 	}
 }
 
+.commons p {
+	padding:1em 1em 0 0;
+}
+
 section{
 	@include make-xs-column(6);
 	@include make-sm-column(4);
@@ -54,7 +58,7 @@ article,{
 	@include make-xs-column(12);
 	background-color: white;
   margin-bottom: 4em;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
   ul{
     @extend .list-unstyled;
   }

@@ -9,7 +9,7 @@ title: Kevin Mears - I like to draw.
 		<section>
 			<div class="panel">
 				<a href="{{ promo.url }}"><img src="images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
-	
+
 				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
 
 				<p>{{ promo.text }}
@@ -17,7 +17,7 @@ title: Kevin Mears - I like to draw.
 
 			</div>
 		</section>
-		{% endfor %}	
+		{% endfor %}
 
 	{% for post in site.posts %}
 			{% if post.homepage %}
@@ -25,11 +25,8 @@ title: Kevin Mears - I like to draw.
 			        {% include panel.html %}
 
 					</section>
-					
+
 			{% endif %}
 	{% endfor %}
-
-
-		
+	
 </div>
-

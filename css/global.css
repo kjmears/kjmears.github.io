@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 30-03-2015 */
+/*! mearso-jekyll-site dev 15-04-2015 */
 
 @charset "UTF-8";
 /*!
@@ -5461,6 +5461,10 @@ span.me {
   height: auto;
 }
 
+.commons p {
+  padding: 1em 1em 0 0;
+}
+
 section {
   position: relative;
   float: left;
@@ -5499,7 +5503,7 @@ article {
   padding-right: 15px;
   background-color: white;
   margin-bottom: 4em;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 }
 
 .media {

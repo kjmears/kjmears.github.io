@@ -11,7 +11,8 @@ speaker: wpoates1
 tags:
   - govcampcymru
   - live
-  
+cc: BY-SA
+
 redirect_from:
 - "/sketchnotes/govcampcymru-bill.html"
 

@@ -11,7 +11,9 @@ speaker: dafyddbach
 tags:
   - govcampcymru
   - live
+cc: BY-SA
+
 
 ---
 
- Dafydd lead a cool session puzzling over whether Wales can and/or should get our own version of [GDS](https://gds.blog.gov.uk/category/gds/) 
+ Dafydd lead a cool session puzzling over whether Wales can and/or should get our own version of [GDS](https://gds.blog.gov.uk/category/gds/)

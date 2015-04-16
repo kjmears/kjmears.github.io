@@ -6,6 +6,7 @@ image: /left-hand-of-darkness.jpg
 image-thumb: /left-hand-of-darkness-thumb.jpg
 categories: sketchnotes
 tags: books
+cc: BY-SA
 
 ---
 
