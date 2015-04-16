@@ -38,7 +38,10 @@ layout: default
             <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
 
           {% if info.info %}
-            <li>Event Info <a href="http://{{ info.info }}">{{ info.info }}</a></li>
+					{% for extra in info.info %}
+            <li>Event Info <a href="http://{{ extra }}">{{ extra }}</a></li>
+						{% endfor %}
+
           {% endif %}
 
           {% if info.video %}
