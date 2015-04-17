@@ -31,6 +31,11 @@
   twitter: kevingashley
   url: www.dcc.ac.uk
 
+- id: pbacsich
+  twitter: pbacsich
+  name: Paul Bacsich
+  url: www.mendeley.com/profiles/paul-bacsich/
+
 - id: dajbelshaw
   name: Doug Belshaw
   twitter: dajbelshaw
@@ -328,6 +333,11 @@
   twitter: eddiemachado
   url: themble.com/
 
+- id: WarwickLanguage
+  name: Teresa MacKinnon
+  twitter: WarwickLanguage
+  url: about.me/teresamackinnon
+
 - id: HannaMiet
   name: Hannah Miettinen
   twitter: HannaMiet
@@ -427,6 +437,11 @@
   name: Gareth Strange
   twitter: garethstrange
   url: strangelove.me
+
+- id: atarkowski
+  twitter: atarkowski
+  name: Alek Tarkowski
+  website: http://oerpolicy.eu/
 
 - id: kimberleytew
   name: Kimberley Tew
