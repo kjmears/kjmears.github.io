@@ -7,6 +7,11 @@
   name: Jenni Allen
   url: uk.linkedin.com/pub/jenni-allen/27/533/610
 
+- id: txtbks
+  name: Nicole Allen
+  url: sparc.arl.org
+  twitter: txtbks
+
 - id: usabilityed
   name: Neil Allison
   twitter: usabilityed
@@ -75,6 +80,11 @@
   name: Sue Burnett
   twitter: sueburnett
   url: about.me/sueburnett
+
+- id: LornaMCampbell
+  twitter: LornaMCampbell
+  name: Lorna M Campbell
+  url: lornamcampbell.wordpress.com
 
 - id: USA2DAY
   name: Robin Christopherson
