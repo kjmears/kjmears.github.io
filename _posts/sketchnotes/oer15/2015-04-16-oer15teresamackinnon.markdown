@@ -8,6 +8,7 @@ tags:
   - oer15
   - live
 cc: BY-SA
+speaker: WarwickLanguage
 
 image: /oer15/oer15-2015-04-14-teresa-mackinnon.jpg
 image-thumb: /oer15/oer15-2015-04-14-teresa-mackinnon-thumb.jpg

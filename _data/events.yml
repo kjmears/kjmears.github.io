@@ -19,13 +19,12 @@
     - txtbks
     - LornaMCampbell
     - atarkowski
-
   image: /oer15/oer15-2015-04-14-panel-thumb.jpg
   event: oer15.oerconf.org/
   info: oer15.oerconf.org/sessions/open-education-and-the-broader-open-policy-environment-780/
   lanyrd: /2015/oer15/
   code: oer15-02
-  sketchnotes: /sketchnotes/oer15josiefraser.html
+  sketchnotes: /sketchnotes/oer15panel.html
 
 - date: 2015-04-14
   title: Issues in creating and using video resources for language teaching
@@ -105,12 +104,12 @@
   speaker: markpower
   image: /oer15/oer15-2015-04-15726759-thumb.jpg
   event: oer15.oerconf.org/
-  info:
-    - oer15.oerconf.org/sessions/open-science-happens-somewhere-exploring-the-use-of-science-oer-in-schools-726/
-    - oer15.oerconf.org/sessions/opening-up-in-the-fe-and-skills-sector-759/
   lanyrd: /2015/oer15/
   code: oer15-09
   sketchnotes: /sketchnotes/oer15726759.html
+  info:
+    - oer15.oerconf.org/sessions/open-science-happens-somewhere-exploring-the-use-of-science-oer-in-schools-726/
+    - oer15.oerconf.org/sessions/opening-up-in-the-fe-and-skills-sector-759/
 
 - date: 2015-04-15
   title: Short paper and Lightning Talks short papers - OER15

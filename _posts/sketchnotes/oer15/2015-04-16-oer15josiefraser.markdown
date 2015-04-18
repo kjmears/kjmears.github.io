@@ -8,7 +8,7 @@ tags:
   - oer15
   - live
 cc: BY-SA
-
+speaker: josiefraser
 image: /oer15/oer15-2015-04-14-josie-fraser.jpg
 image-thumb: /oer15/oer15-2015-04-14-josie-fraser-thumb.jpg
 original: /oer15/original/oer15-2015-04-14-josie-fraser-original.jpg

@@ -8,7 +8,12 @@ tags:
   - live
 cc: BY-SA
 code: oer15-10
-
+speaker:
+  - krustyb1
+  - mrnick
+  - paulbrichardson
+  - daveshorts
+  - tbirdcymru
 image: /oer15/oer15-2015-04-15-677-735-756.jpg
 image-thumb: /oer15/oer15-2015-04-15-677-735-756-thumb.jpg
 original: /oer15/original/oer15-2015-04-15-677-735-756-original.jpg

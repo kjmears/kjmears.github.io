@@ -8,7 +8,9 @@ tags:
   - live
 cc: BY-SA
 code: oer15-08
-
+speaker:
+  - dkernohan
+  - vivienrolfe
 image: /oer15/oer15-2015-04-15-766.jpg
 image-thumb: /oer15/oer15-2015-04-15-766-thumb.jpg
 original: /oer15/original/oer15-2015-04-15-766-original.jpg

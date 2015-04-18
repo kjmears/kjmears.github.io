@@ -8,6 +8,11 @@ tags:
   - oer15
   - live
 cc: BY-SA
+speaker:
+  - cgreen
+  - txtbks
+  - LornaMCampbell
+  - atarkowski
 
 image: /oer15/oer15-2015-04-14-panel.jpg
 image-thumb: /oer15/oer15-2015-04-14-panel-thumb.jpg

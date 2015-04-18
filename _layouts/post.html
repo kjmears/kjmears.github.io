@@ -41,12 +41,15 @@ layout: default
 					{% for extra in info.info %}
             <li>Event Info <a href="http://{{ extra }}">{{ extra }}</a></li>
 						{% endfor %}
-
           {% endif %}
 
           {% if info.video %}
             <li>Event Video <a href="http://{{ info.video }}">{{ info.video }}</a></li>
           {% endif %}
+
+					{% if info.lanyrd %}
+						<li>Lanyrd <a href="http://lanyrd.com{{ info.lanyrd }}">lanyrd.com{{ info.lanyrd }}</a></li>
+					{% endif %}
 
           {% if info.slides %}
             <li>Slides <a href="http://{{ info.slides }}">{{ info.slides }}</a></li>
@@ -63,24 +66,24 @@ layout: default
         {% if bio.id == page.speaker %}
           <ul>
             {% if bio.url %}
-            <li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
-          {% endif %}
+            	<li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
+          	{% endif %}
             {% if bio.twitter %}
-            <li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
-          {% endif %}
+            	<li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
+          	{% endif %}
           </ul>
+
         {% endif %}
        {% endif %}
-
     {% endfor %}
 
     		{{ content }}
 
-				{% if page.cc %}
-					{% include CC_BY-SA.html %}
-				{% else %}
-					{% include CC_BY-NC-SA.html %}
-				{% endif %}
+		{% if page.cc %}
+			{% include CC_BY-SA.html %}
+		{% else %}
+			{% include CC_BY-NC-SA.html %}
+		{% endif %}
 
 	</article>
 

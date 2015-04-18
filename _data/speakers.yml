@@ -390,6 +390,11 @@
   twitter: tracyplayle
   url: www.picklejarcommunications.com/
 
+- id: markpower
+  twitter: markpower
+  name: Mark Power
+  url: about.me/marklpower
+
 - id: richprowse
   name: Richard Prowse
   twitter: richprowse
@@ -441,7 +446,7 @@
 - id: atarkowski
   twitter: atarkowski
   name: Alek Tarkowski
-  website: http://oerpolicy.eu/
+  website: oerpolicy.eu/
 
 - id: kimberleytew
   name: Kimberley Tew
@@ -477,6 +482,12 @@
   name: Paul Walk
   twitter: paulwalk
   url: blog.paulwalk.net
+
+- id: mweller
+  name: Martin Weller
+  twitter: mweller
+  url: edtechie.net
+
 
 - id: olliewells
   name: Ollie Wells
