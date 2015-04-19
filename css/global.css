@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 16-04-2015 */
+/*! mearso-jekyll-site dev 19-04-2015 */
 
 @charset "UTF-8";
 /*!
@@ -5428,7 +5428,6 @@ tbody.collapse.in {
 }
 
 body {
-  padding-top: 70px;
   background-image: url("/img/pattern-white-grey.gif");
 }
 

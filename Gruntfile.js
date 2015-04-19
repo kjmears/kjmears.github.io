@@ -42,8 +42,7 @@ module.exports = function(grunt) {
     concat: {
       dist: {
         src: [
-          'js/libs/*.js',
-          'bower_components/bootstrap-sass-official/js/*.js',
+          'bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/*.js',
           'js/scripts.js'
         ],
         dest: 'js/dist/scripts.js',
@@ -140,7 +139,7 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   // Default Task is basically a rebuild
-  grunt.registerTask('default', ['concat', 'uglify', 'sass', 'imagemin', 'shell', 'watch']);
+  grunt.registerTask('default', ['concat', 'uglify', 'sass', 'shell', 'watch']);
 
   grunt.registerTask('dev', ['connect', 'watch']);
 
