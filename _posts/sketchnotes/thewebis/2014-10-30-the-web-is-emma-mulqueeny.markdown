@@ -11,12 +11,9 @@ speaker: hubmum
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 Emma Mulqueeny was a new name to me, and one of the good things about thi event for me was hearing from new people. Hers was a talk outlining the characteristics of people born after 1997 - (the 97ers of the title) and how the things they've grown up with online will shape their and our futures.
 
 Having not known a time before the internet this generation will be online in a very different and evolving way. I found it particularly interesing as I had my own reperesentative of that generation sat next to me.
-
-
-

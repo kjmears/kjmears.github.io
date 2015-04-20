@@ -11,7 +11,7 @@ speaker: USA2DAY
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 I've seen Robin talk a few times now, and he never disappoints. Aside from the dextirity with which he uses technology to demonstrate technology - which is hard to do - he also gives a great insight into just how transformative technology can be.

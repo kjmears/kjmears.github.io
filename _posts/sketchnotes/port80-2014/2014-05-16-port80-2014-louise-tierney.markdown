@@ -13,6 +13,8 @@ tags:
 - live
 
 code: port80-04
+cc: BY-NC-SA
+
 
 ---
 Louise Tierney : Put yourself in their shoes!

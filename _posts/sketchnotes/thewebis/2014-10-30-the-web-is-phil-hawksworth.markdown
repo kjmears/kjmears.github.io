@@ -11,7 +11,7 @@ speaker: philhawksworth
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 Phil Hawksworth did a lovely job with a timely reminder of the power of the humble URL.

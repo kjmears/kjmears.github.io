@@ -27,65 +27,87 @@ layout: default
     {% endif %}
 
 		{% if page.original %}
-    	<a href="{{ site.baseurl }}/images/{{ page.original }}">Large version for download</a>
-    {% endif %}
-
-    {% if page.code %}
-		<ul>
-      {% for info in site.data.events %}
-
-          {% if info.code == page.code %}
-            <li>Event Website <a href="http://{{ info.event }}">{{ info.event }}</a></li>
-
-          {% if info.info %}
-					{% for extra in info.info %}
-            <li>Event Info <a href="http://{{ extra }}">{{ extra }}</a></li>
-						{% endfor %}
-          {% endif %}
-
-          {% if info.video %}
-            <li>Event Video <a href="http://{{ info.video }}">{{ info.video }}</a></li>
-          {% endif %}
-
-					{% if info.lanyrd %}
-						<li>Lanyrd <a href="http://lanyrd.com{{ info.lanyrd }}">lanyrd.com{{ info.lanyrd }}</a></li>
-					{% endif %}
-
-          {% if info.slides %}
-            <li>Slides <a href="http://{{ info.slides }}">{{ info.slides }}</a></li>
-          {% endif %}
-
-        {% endif %}
-
-      {% endfor %}
-		</ul>
-    {% endif %}
-
-    {% for bio in site.data.speakers %}
-      {% if page.speaker %}
-        {% if bio.id == page.speaker %}
-          <ul>
-            {% if bio.url %}
-            	<li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
-          	{% endif %}
-            {% if bio.twitter %}
-            	<li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
-          	{% endif %}
-          </ul>
-
-        {% endif %}
-       {% endif %}
-    {% endfor %}
-
-    		{{ content }}
-
-		{% if page.cc %}
-			{% include CC_BY-SA.html %}
-		{% else %}
-			{% include CC_BY-NC-SA.html %}
+			<a href="{{ site.baseurl }}/images/{{ page.original }}">Large version for download</a>
 		{% endif %}
 
+
+		{{ content }}
 	</article>
+	<aside>
+	  {% if page.code %}
+		<div class="event-meta">
+			<h3>About the Event</h3>
+			<ul>
+	      {% for info in site.data.events %}
+
+	          {% if info.code == page.code %}
+	            <li><a href="http://{{ info.event }}">Event Website</a></li>
+
+	          {% if info.info %}
+						{% for extra in info.info %}
+	            <li> <a href="http://{{ extra }}">Event Info</a></li>
+							{% endfor %}
+	          {% endif %}
+
+	          {% if info.video %}
+	            <li><a href="http://{{ info.video }}">Event Video</a></li>
+	          {% endif %}
+
+						{% if info.lanyrd %}
+							<li><a href="http://lanyrd.com{{ info.lanyrd }}">Lanyrd</a></li>
+						{% endif %}
+
+	          {% if info.slides %}
+	            <li><a href="http://{{ info.slides }}">Slides</a></li>
+	          {% endif %}
+
+	        {% endif %}
+
+	      {% endfor %}
+			</ul>
+	  </div>
+		{% endif %}
+
+	  {% for bio in site.data.speakers %}
+	    {% if page.speaker %}
+	      {% if bio.id == page.speaker %}
+				<div class="bio-meta">
+					<h3>About the Speaker</h3>
+	        <ul>
+	          {% if bio.url %}
+	          	<li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
+	        	{% endif %}
+	          {% if bio.twitter %}
+	          	<li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
+	        	{% endif %}
+	        </ul>
+				</div>
+				{% endif %}
+	    {% endif %}
+	  {% endfor %}
+
+
+		<div class='cc-meta'>
+			{% if page.cc %}
+			{% if page.cc == 'BY-SA' %}
+				{% include CC_BY-SA.html %}
+			{% endif %}
+
+			{% if page.cc == 'BY-NC-SA' %}
+				{% include CC_BY-NC-SA.html %}
+			{% endif %}
+
+			{% else %}
+				{% include licence.html %}
+			{% endif %}
+
+
+
+		</div>
+
+	</aside>
+
+
 
 </div>
 

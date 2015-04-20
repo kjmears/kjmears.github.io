@@ -4,10 +4,12 @@ layout: post
 published: true
 title: Port80 2014 Slides
 date: 2014-05-17
-image: 
+image:
 image-thumb: /port80slides/thumb.gif
 categories: slides
 homepage: true
+
+cc: BY-NC-SA
 
 ---
 
@@ -30,6 +32,3 @@ I attended the [Port80 2014](http://port80events.co.uk/event/port80-2014/) confe
 <img src="{{ site.baseurl }}/images/port80slides/ads-good.gif" alt="ads-good-drawing" />
 
 <img src="{{ site.baseurl }}/images/port80slides/ads-bad.gif" alt="ads-bad-drawing" />
-
-
-

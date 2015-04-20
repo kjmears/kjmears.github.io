@@ -12,6 +12,8 @@ tags:
 - live
 code: port80-01
 speaker: denisejacobs
+cc: BY-NC-SA
+
 
 
 ---

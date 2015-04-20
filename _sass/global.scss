@@ -48,23 +48,40 @@ span.me{
 }
 
 section{
-	@include make-xs-column(6);
+	@include make-xs-column(12);
 	@include make-sm-column(4);
 	@include make-md-column(3);
+	img{
+		@include size (100%, 100%)
+	}
+
 }
 // mixins for different viewport sizes
 
-article,{
+article{
 	@include make-xs-column(12);
 	background-color: white;
-  margin-bottom: 4em;
-  padding-bottom: 3em;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
   ul{
     @extend .list-unstyled;
   }
 }
 
+aside{
+	@include make-xs-column(12);
+	background-color: white;
+	ul{
+		@extend .list-unstyled;
+	}
 
+	.bio-meta, .event-meta{
+		@include make-sm-column(3);
+	}
+	.cc-meta{
+		@include make-sm-column(6);
+	}
+}
 
 .media{
 	border-bottom: 1px solid $gray-lighter;

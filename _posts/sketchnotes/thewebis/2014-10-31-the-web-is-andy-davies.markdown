@@ -11,7 +11,7 @@ speaker: andydavies
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 A really practical talk from Andy with plenty of stuff to go away and do (or ask someone else to do), with really good reasons why you should.

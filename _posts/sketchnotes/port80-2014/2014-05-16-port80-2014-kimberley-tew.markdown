@@ -13,6 +13,8 @@ tags:
 - port80-2014
 - live
 
+cc: BY-NC-SA
+
 ---
 
 Kimberley Tew : Accessibility for Humans.

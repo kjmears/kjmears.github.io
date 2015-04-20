@@ -6,6 +6,7 @@ image: ebooks.png
 image-thumb: ebooks-thumb.gif
 category: sketchnotes
 homepage: true
+speaker: sueburnett
 tags:
 - live
 code: ebooks

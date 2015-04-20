@@ -11,6 +11,7 @@ speaker: anna_debenham
 tags:
   - thewebis
   - live
+cc: BY-SA
 
 ---
 

@@ -11,9 +11,7 @@ speaker: sjenkinson
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 Sally's talk reminded us about our responsibilities for what create and the experiences we craft. I've managed to make that sound rather dull, but her examples and ideas were far from dull - especially the way the we can keep evolving with the web and push how we make the technology the servant of great experiences.
-
-

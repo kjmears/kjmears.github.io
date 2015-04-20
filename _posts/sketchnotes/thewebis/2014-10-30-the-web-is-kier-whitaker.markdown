@@ -11,7 +11,7 @@ speaker: kier
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 Kier Whitaker set the context for the second half of his talk by doing a lightening quick round of up of his personal history on the web, which had more than a few members of the audience reminiscing about how far we've come, and maybe gone backwards in some areas.

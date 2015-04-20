@@ -11,9 +11,9 @@ speaker: mr_bingo
 tags:
   - thewebis
   - live
-
+cc: BY-SA
 ---
 
 On reflection, a theme seemed to emerge from the whole conference when watching Mr Bingo, which was that of implementing things. It's not enough to have ideas, but you have to run with them. Mr Bingo does that in spades. Big, Sweary, Delightful spades.
 
-Not a lot of point in me sketchnoting much here, when there was such a great demonstration of what a smart, talented and hard working guy can do. 
+Not a lot of point in me sketchnoting much here, when there was such a great demonstration of what a smart, talented and hard working guy can do.

@@ -12,6 +12,7 @@ speaker: roy
 tags:
 - port80-2014
 - live
+cc: BY-NC-SA
 
 
 ---
