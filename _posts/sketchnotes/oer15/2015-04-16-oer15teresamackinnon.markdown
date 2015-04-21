@@ -7,7 +7,7 @@ categories: sketchnotes
 tags:
   - oer15
   - live
-cc: BY-SA
+cc: BY
 speaker: WarwickLanguage
 
 image: /oer15/oer15-2015-04-14-teresa-mackinnon.jpg

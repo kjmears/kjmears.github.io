@@ -6,7 +6,7 @@ categories: sketchnotes
 tags:
   - oer15
   - live
-cc: BY-SA
+cc: BY
 code: oer15-10
 speaker:
   - krustyb1

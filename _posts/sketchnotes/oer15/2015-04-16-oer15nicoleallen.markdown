@@ -6,7 +6,7 @@ categories: sketchnotes
 tags:
   - oer15
   - live
-cc: BY-SA
+cc: BY
 code: oer15-05
 speaker: txtbks
 image: /oer15/oer15-2015-04-14-nicole-allen.jpg

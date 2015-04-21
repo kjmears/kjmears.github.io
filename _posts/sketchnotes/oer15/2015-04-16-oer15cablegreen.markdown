@@ -7,7 +7,7 @@ categories: sketchnotes
 tags:
   - oer15
   - live
-cc: BY-SA
+cc: BY
 speaker: cgreen
 image: /oer15/oer15-2015-04-14-cable-green.jpg
 image-thumb: /oer15/oer15-2015-04-14-cable-green-thumb.jpg

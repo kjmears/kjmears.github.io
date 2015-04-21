@@ -89,6 +89,10 @@ layout: default
 
 		<div class='cc-meta'>
 			{% if page.cc %}
+			{% if page.cc == 'BY' %}
+				{% include CC_BY.html %}
+			{% endif %}
+
 			{% if page.cc == 'BY-SA' %}
 				{% include CC_BY-SA.html %}
 			{% endif %}

@@ -7,7 +7,7 @@ categories: sketchnotes
 tags:
   - oer15
   - live
-cc: BY-SA
+cc: BY
 speaker: pbacsich
 image: /oer15/oer15-2015-04-14-paul-bacsich.jpg
 image-thumb: /oer15/oer15-2015-04-14-paul-bacsich-thumb.jpg

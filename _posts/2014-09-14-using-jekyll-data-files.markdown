@@ -1,6 +1,7 @@
 ---
 layout: post
 published: false
+
 title: "Using Jekyll data files"
 date: 2014-09-14
 category: weeknotes
@@ -35,13 +36,13 @@ The sketchnotes I do are using (but not always) in the format of a post with the
   `
 
 
-All pretty straighforward Jekyll post information the only unusual code (more on that later). 
+All pretty straighforward Jekyll post information the only unusual code (more on that later).
 
 What this all means in that I have a post with a thumbnail and the actual sketchnote associated with it. I tend not to write too much in the post, but I have the option.
 
 So how would I get a list of all the speakers and the talks they've done? I thought it'd be pretty laborious to go back through a ton of posts and add speaker info to every post, and if I wanted to add more speaker info in future, like email address, twitter etc, then I'd have to track them down and change them. With my typing that's a recipe for disaster.
 
-I thought about using categories and tags to organise things, but wasn't to sure about locking myself into a strcture that I'd then be dependent on. I thought it might be overkill, and if I was to go that way then I'd be into a full blogging mindset. 
+I thought about using categories and tags to organise things, but wasn't to sure about locking myself into a strcture that I'd then be dependent on. I thought it might be overkill, and if I was to go that way then I'd be into a full blogging mindset.
 
 I remembered that I'd used data.yml files when first trying out Jekyll, and thought it might help. I set about creating a `speakers.yml` file with following format.
 
@@ -60,7 +61,7 @@ Next I needed a list of all the events that I've sketchnoted. Lucklily they tend
 
     - title: These are not the droids you're looking for
       sketchnotes: /sketchnotes/port80-2014-kevin-evans.html
-      speaker: kwe 
+      speaker: kwe
       event: port80events.co.uk/event/port80-2014/
       code: port80-07
       image: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
@@ -68,7 +69,7 @@ Next I needed a list of all the events that I've sketchnoted. Lucklily they tend
 
 I've used the term 'event' , what this means for me is a occasion where I've sketchnoted. Maybe my naming could have been better.
 
-As you can see all pretty straightforward. 
+As you can see all pretty straightforward.
 * Title
 * Link to sketchnote post
 * Image - what image will is associated with this event - I ususally use the post image, but this can be custom.
@@ -119,14 +120,14 @@ next i do a similar thing for the `events.yml`, accessing the file, but this tim
       </ul>
       {% endif %}
     {% endfor %}
-    
+
 A problem I found with the method above is that some of the sketchnotes I've done are combined in one big sketchnote for the whole conference. Rather than going back and splitting each event up, I thought it'd make more sense to make it possible to have multiple speakers at an event. To do this meant a little reading about YAML. The key:value approach of the yml works fine on a one to one, but it's possible to easily have more than one bit of info in the speaker field by like so
 
     speaker:
       - name one
       - name two
       - name three
-      
+
 At this point I wanted to check what was actually coming into the page via `site.data.events` so by adding `{{ talk }}` to the page like so,
 
     {% for talk in site.data.events %}
@@ -143,7 +144,7 @@ We can compare this with an event with multiple speakers. The speaker IDs inside
 
 This meant I needed to check if there were multiple speakers, with the following code. We can see that in the second line I'm checking if the array exist by putting in the square brackets, and if the array is there I'm then passing the speaker IDs to be checked against the bio.id the same as before.
 
-      {% for talk in site.data.events %} 
+      {% for talk in site.data.events %}
 
       {% if talk.speaker[] %}
 
@@ -152,7 +153,7 @@ This meant I needed to check if there were multiple speakers, with the following
       {% if bio.id == multiple %}
 
         <div class="talk-wrap">
-  
+
         <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
         <div class="talk-info">
           <h3>{{ talk.title }}</h3>
@@ -186,6 +187,3 @@ This meant I needed to check if there were multiple speakers, with the following
 
 
       </div>
-
-
-
