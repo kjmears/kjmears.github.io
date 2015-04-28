@@ -8,6 +8,7 @@ tags: video
 image: /dhh-railsconf2014.gif
 image-thumb: /dhh-railsconf2014-thumb.gif
 code: railsconf
+cc: BY
 
 ---
 

@@ -11,7 +11,7 @@ speaker: olliewells
 tags:
   - winterlocalhost2014
   - live
-
+cc: BY
 ---
 
 Nice examples of product design illustrating user experiences. Also liked the distinction of customer/user experience.

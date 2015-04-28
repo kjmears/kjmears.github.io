@@ -11,7 +11,7 @@ speaker: AustinWaltersUK
 tags:
   - winterlocalhost2014
   - live
-
+cc: BY
 ---
 
 Enjoyed Austin's storytelling approach, and the little discussed (for me at least) nitty gritty of the business of web design. Surely, [someone is talking about this](http://thebusinessofwebdesign.co.uk/)

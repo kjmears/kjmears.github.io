@@ -11,7 +11,7 @@ speaker: gavD_UK
 tags:
   - winterlocalhost2014
   - live
-
+cc: BY
 ---
 
 Loved the quote <q>Treat servers like cattle not pets</q>

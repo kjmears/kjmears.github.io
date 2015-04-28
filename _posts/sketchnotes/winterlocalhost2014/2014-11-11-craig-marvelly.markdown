@@ -11,7 +11,7 @@ speaker: craigmarvelley
 tags:
   - winterlocalhost2014
   - live
-
+cc: BY
 ---
 
 Working at [Bipsync](https://bipsync.com/) Craig talked us through his process, with some nice ideas and tools including [Papertrail](https://papertrailapp.com/), [Slack](https://slack.com/) and [New Relic](http://newrelic.com/)

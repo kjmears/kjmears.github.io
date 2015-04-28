@@ -11,7 +11,7 @@ speaker: benjystanton
 tags:
   - winterlocalhost2014
   - live
-
+cc: BY
 ---
 
 Benjy gave out some handy links too.
@@ -21,6 +21,3 @@ Benjy gave out some handy links too.
 * [Litmus](https://litmus.com/resources)
 * [Color Oracle](http://colororacle.org/)
 * [Mail Chimp](http://mailchimp.com/resources/)
-
-
-

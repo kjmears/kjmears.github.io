@@ -11,7 +11,7 @@ speaker: dafyddbach
 tags:
   - govcampcymru
   - live
-cc: BY-SA
+cc: BY
 
 
 ---

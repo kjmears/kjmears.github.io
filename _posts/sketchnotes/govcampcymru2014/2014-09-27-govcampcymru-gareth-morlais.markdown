@@ -10,7 +10,7 @@ categories: sketchnotes
 tags:
   - govcampcymru
   - live
-cc: BY-SA
+cc: BY
 
 ---
 
