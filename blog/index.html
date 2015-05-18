@@ -1,34 +1,18 @@
 ---
 layout: page
-title: Weeknotes
+title: Blog
 
 ---
 
-<!-- <div class="weeknotes-wrapper">
-	{% for post in site.categories.weeknotes  %}
-		<div class="weeknotes">
-			<article>
-
-				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-				<p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
-
-			<p>{{ post.content | strip_html | truncate:200 }}<a href="{{ site.baseurl }}{{ post.url }}"> Read more</a></p>
-
-			</article>
-		</div>
-	{% endfor %}
-
-</div> -->
-
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_string }}</span>
   </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
+  <p class="content">
+    {{ post.excerpt }}
+  </p>
 {% endfor %}
 
 <!-- Pagination links -->

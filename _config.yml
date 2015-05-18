@@ -2,12 +2,13 @@ name: Mearso
 markdown: kramdown
 exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules ]
 
-pygments: true
-baseurl:  
+highlighter: none
+baseurl:
 url:      http://www.mearso.co.uk
 
 permalink:     none
-
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 gems:
 - jekyll-redirect-from
