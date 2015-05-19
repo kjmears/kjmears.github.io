@@ -2,14 +2,11 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 
 @import "variables";
 @import "font-awesome";
-
 @import "custom-bootstrap";
-
 @import "cards";
 //@import "weeknotes";
 @import "related";
 @import "speakers";
-
 
 body {
 	// padding-top: 70px;
@@ -87,11 +84,15 @@ aside{
 	border-bottom: 1px solid $gray-lighter;
 }
 
-$panel-yellow-text:#333;
-$panel-yellow-heading-bg: #F0D343;
-$panel-yellow-border: #F0D343;
 
+// blog page layout
 
-.img-circle{
-	border:2px solid $gray-dark;
-}
+.blogposts{
+		@include make-md-column(8);
+		background-color: white;
+	}
+
+	aside.taglist {
+		@include make-md-column(4);
+		background-color: white;
+	}
