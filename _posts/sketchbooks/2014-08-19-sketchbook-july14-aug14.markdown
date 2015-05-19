@@ -16,7 +16,9 @@ Sketchbook covering the period from Feb 2014 - July 2014. I was ready for an A4 
 
 ![Prometheus](/images/sketchbooks/prometheus.jpg)
 
+I also redescovered the joy of drawinng with coloured pencils again. The softness and novelty of drawing in one colour really freshened things up for me.
 
+![Sketchbooks](/images/sketchbooks/sketchbook_jul14_aug14.jpg)
 
 <section>
 			<div class="panel">
