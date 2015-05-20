@@ -9,10 +9,10 @@ layout: default
 
 		<p class="meta">{{ page.date | date_to_string }}</p>
 
-    {% if post.tags %}
+    {% if page.tags %}
         <p>
           Tagged:
-          {% for tag in post.tags %}<a href="{{ tag }}"> {{ tag | capitalize }} </a> {% endfor %}
+          {% for tag in page.tags %}<a href="{{ tag }}"> {{ tag | capitalize }} </a> {% endfor %}
         </p>
 		{% else %}
 

@@ -1,4 +1,20 @@
+<link rel="canonical" href="http://www.mearso.co.uk/"/>
+<meta property="og:site_name" content="Sketchnotes by Kevin Mears"/>
+<meta property="og:title" content="Sketchnotes"/>
+<meta property="og:url" content="http://www.mearso.co.uk/"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Kevin Mears Personal Website"/>
+<meta itemprop="url" content="http://www.mearso.co.uk/"/>
+<meta name="twitter:title" content="Kevin Mears Personal Website"/>
+<meta name="twitter:url" content="http://www.mearso.co.uk/"/>
+<meta name="twitter:card" content="summary"/>
+
+{% if page.meta  %}
+
+<meta name="description" content="{{ page.meta }}">
+
+{% else %}
+
 <meta name="description" content="{{ page.excerpt | strip_html }} {{ page.tags[0]}}">
-
-
 <meta name="keywords" content="{{ page.tags | join: ', '  }} {{ page.categories }}">
+{% endif %}
