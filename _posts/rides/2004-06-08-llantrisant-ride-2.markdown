@@ -3,11 +3,7 @@ layout: post
 status: pending
 published: true
 title: Llantrisant Ride
-author: mearso
-author_login: mearso
-author_email: mearso@mearso.com
-wordpress_id: 599
-wordpress_url: http://mearso.co.uk/2004/06/llantrisant-ride-2/
+image-thumb: rides/llantrisant-thumb.jpg
 date: 2004-06-08 09:39:00.000000000 +01:00
 categories: rides
 ---

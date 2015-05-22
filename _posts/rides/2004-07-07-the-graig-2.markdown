@@ -3,11 +3,7 @@ layout: post
 status: pending
 published: true
 title: The Graig
-author: mearso
-author_login: mearso
-author_email: mearso@mearso.com
-wordpress_id: 612
-wordpress_url: http://mearso.co.uk/2004/07/the-graig-2/
+image-thumb: rides/graig-thumb.jpg
 date: 2004-07-07 09:23:00.000000000 +01:00
 categories: rides
 ---

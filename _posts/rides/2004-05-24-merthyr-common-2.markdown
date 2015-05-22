@@ -3,11 +3,7 @@ layout: post
 status: pending
 published: true
 title: Merthyr Common
-author: mearso
-author_login: mearso
-author_email: mearso@mearso.com
-wordpress_id: 595
-wordpress_url: http://mearso.co.uk/2004/05/merthyr-common-2/
+image-thumb: rides/merthyr-thumb.jpg
 date: 2004-05-24 09:33:00.000000000 +01:00
 categories: rides
 

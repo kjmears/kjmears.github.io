@@ -5,7 +5,7 @@ title: Pentrych Ride
 date: 2005-08-31 12:46:00.000000000 +01:00
 categories: rides
 image: rides/141.jpg
-image-thumb: rides/141t.jpg
+image-thumb: rides/pentrych-thumb.jpg
 
 ---
 

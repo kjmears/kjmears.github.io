@@ -2,14 +2,7 @@
 layout: post
 published: true
 title: Abercynon through the trees
-author: mearso
-author_login: mearso
-author_email: mearso@mearso.com
-excerpt: Finally! After a long interval since my last early morning explorations I've
-  managed to ride up some hills again. Through a combination of laziness and a sore
-  back it's been ages since I've felt inclined to tackle an incline.
-wordpress_id: 603
-wordpress_url: http://mearso.co.uk/2005/08/abercynon-through-the-trees-2/
+image-thumb: rides/135.jpg
 date: 2005-08-25 09:27:00.000000000 +01:00
 categories: rides
 
