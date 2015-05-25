@@ -6,7 +6,7 @@ title: Gavin Davies - Hollywood On Demand
 date: 2014-11-11
 image: /winterlocalhost2014/gavin-davies.png
 image-thumb: /winterlocalhost2014/gavin-davies-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: gavD_UK
 tags:
   - winterlocalhost2014

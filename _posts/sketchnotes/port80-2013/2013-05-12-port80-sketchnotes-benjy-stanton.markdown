@@ -11,7 +11,7 @@ image: /port80/2013/port80-2013-05-10-benjy-stanton.gif
 image-thumb: /port80/2013/port80-2013-05-10-benjy-stanton-thumb.gif
 invisible: 1
 date: 2013-05-12 22:21:33.000000000 +01:00
-categories: sketchnotes
+category: sketchnotes
 
 code: port80-2013-benjystanton
 speaker: benjystanton

@@ -6,7 +6,7 @@ title: Robin Christopherson - The Web is turning difficulties into opportunities
 date: 2014-10-31
 image: /thewebis/robin-christopherson.png
 image-thumb: /thewebis/robin-christopherson-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: USA2DAY
 tags:
   - thewebis

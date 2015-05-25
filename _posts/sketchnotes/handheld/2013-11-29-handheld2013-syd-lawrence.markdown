@@ -6,7 +6,7 @@ title: Syd Lawrence - Who misses playing “Guess Who?”
 date: 2013-11-29
 image: /handheld2013/syd-lawrence-handheld2013.gif
 image-thumb: /handheld2013/syd-lawrence-handheld2013-thumb.gif
-categories: 
+category: 
 - sketchnotes
 tags: 
 - handheld13

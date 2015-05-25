@@ -3,7 +3,7 @@
 layout: post
 title: "dhh-railsconf2014"
 date: "2014-12-03"
-categories: sketchnotes
+category: sketchnotes
 tags: video
 image: /dhh-railsconf2014.gif
 image-thumb: /dhh-railsconf2014-thumb.gif

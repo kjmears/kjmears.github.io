@@ -6,7 +6,7 @@ title: Port80 2014 Slides
 date: 2014-05-17
 image:
 image-thumb: /port80slides/thumb.gif
-categories: slides
+category: slides
 homepage: true
 tags: port80-2014
 

@@ -6,7 +6,7 @@ title: Mr Bingo - The Web is taking itself far too seriously
 date: 2014-10-31
 image: /thewebis/mr-bingo.png
 image-thumb: /thewebis/mr-bingo-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: mr_bingo
 tags:
   - thewebis

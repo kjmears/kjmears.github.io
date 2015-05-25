@@ -3,7 +3,7 @@ layout: post
 title: "Josie Fraser - OER15 Keynote"
 date: 2015-04-16 23:30:12
 code: oer15-06
-categories: sketchnotes
+category: sketchnotes
 tags:
   - oer15
   - live

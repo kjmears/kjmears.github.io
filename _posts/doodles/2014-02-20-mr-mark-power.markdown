@@ -5,7 +5,7 @@ title: Mr Mark Power
 published: true
 image: mark-power.gif
 image-thumb: mark-power-thumb.gif
-categories: doodles
+category: doodles
 invisible: 1
 
 ---

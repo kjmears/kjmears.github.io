@@ -5,7 +5,7 @@ title: "Andrew Clarke - How to call your client an idiot without getting fired"
 date: 2013-11-29
 image: /handheld2013/andrew-clarke-handheld2013.gif
 image-thumb: /handheld2013/andrew-clarke-handheld2013-thumb.gif
-categories: sketchnotes
+category: sketchnotes
 tags: 
 - handheld13
 

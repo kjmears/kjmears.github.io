@@ -3,7 +3,7 @@ layout: weeknotes
 title: Weeknote 21
 date: 2014-08-12 06:55:23 +0100
 comments: false
-categories: weeknotes 
+category: weeknotes 
 invisible: 1
 
 ---

@@ -6,7 +6,7 @@ title: Benjy Stanton - Responsive HTML Email
 date: 2014-11-11
 image: /winterlocalhost2014/benjy-stanton.png
 image-thumb: /winterlocalhost2014/benjy-stanton-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: benjystanton
 tags:
   - winterlocalhost2014

@@ -5,7 +5,7 @@ published: true
 title: Merthyr Common
 image-thumb: rides/merthyr-thumb.jpg
 date: 2004-05-24 09:33:00.000000000 +01:00
-categories: rides
+category: rides
 
 ---
 Part of this mornings epic ride. Began at 5.30am.

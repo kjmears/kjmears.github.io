@@ -2,7 +2,7 @@
 layout: post
 title: "Nicole Allen - OER15"
 date: 2015-04-16 23:30:15
-categories: sketchnotes
+category: sketchnotes
 tags:
   - oer15
   - live

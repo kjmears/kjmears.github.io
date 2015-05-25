@@ -6,7 +6,7 @@ title: Ross Ferguson - IWMW2014
 date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-ross-ferguson.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-ross-ferguson-thumb.jpg
-categories: sketchnotes
+category: sketchnotes
 speaker: rossferg
 tags:
   - iwmw14

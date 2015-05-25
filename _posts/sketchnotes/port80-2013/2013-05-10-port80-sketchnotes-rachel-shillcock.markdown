@@ -6,7 +6,7 @@ title: Port 80 Sketchnotes - Rachel Shillcock
 image: /port80/2013/port80-2013-05-10-rachel-shillcock.gif
 image-thumb: /port80/2013/port80-2013-05-10-rachel-shillcock-thumb.gif
 invisible: 1
-categories: sketchnotes
+category: sketchnotes
 tags:
 - port80-2013
 - live

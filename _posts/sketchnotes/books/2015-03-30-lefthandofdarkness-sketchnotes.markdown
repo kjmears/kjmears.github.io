@@ -4,7 +4,7 @@ title: "Left Hand of Darkness -Sketchnotes"
 date: "2015-03-30"
 image: /left-hand-of-darkness.jpg
 image-thumb: /left-hand-of-darkness-thumb.jpg
-categories: sketchnotes
+category: sketchnotes
 tags: books
 cc: BY-SA
 

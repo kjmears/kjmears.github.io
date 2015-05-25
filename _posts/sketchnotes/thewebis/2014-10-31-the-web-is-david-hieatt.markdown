@@ -6,7 +6,7 @@ title: David Hieatt - A Creative Mornings Session
 date: 2014-10-31
 image: /thewebis/david-hieatt.png
 image-thumb: /thewebis/david-hieatt-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: davidhieatt
 tags:
   - thewebis

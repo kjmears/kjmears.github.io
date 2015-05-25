@@ -22,7 +22,7 @@ The sketchnotes I do are using (but not always) in the format of a post with the
     date: 2014-05-16
     image: /port80/2014/port80-2014-05-16-kevin-evans.gif
     image-thumb: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
-    categories: sketchnotes
+    category: sketchnotes
     code: port80-07
     speaker: kwevans
     tags:

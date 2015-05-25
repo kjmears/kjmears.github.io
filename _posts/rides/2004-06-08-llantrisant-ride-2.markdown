@@ -5,7 +5,7 @@ published: true
 title: Llantrisant Ride
 image-thumb: rides/llantrisant-thumb.jpg
 date: 2004-06-08 09:39:00.000000000 +01:00
-categories: rides
+category: rides
 ---
 ![Bike ride](/images/rides/41.jpg)
 

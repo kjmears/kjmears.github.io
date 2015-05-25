@@ -6,7 +6,7 @@ title: IWMW2013 Jonathan Hassell
 date: 2013-07-02
 image: /iwmw13/iwmw13-BS8878.gif
 image-thumb: /iwmw13/iwmw13-BS8878-thumb.gif
-categories: sketchnotes
+category: sketchnotes
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/hassell/index.html
 tags:
   - iwmw13

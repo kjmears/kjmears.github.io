@@ -6,7 +6,7 @@ title: Jeremy Keith - The Long Web
 date: 2013-11-29
 image: /handheld2013/jeremy-keith-handheld2013.gif
 image-thumb: /handheld2013/jeremy-keith-handheld2013-thumb.gif
-categories: 
+category: 
 - sketchnotes
 tags: 
 - handheld13

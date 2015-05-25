@@ -8,7 +8,7 @@ date: 2013-11-29
 image: /handheld2013/mark-boulton-handheld2013.gif
 image-thumb: /handheld2013/mark-boulton-handheld2013-thumb.gif
 speaker: markboulton
-categories: 
+category: 
 - sketchnotes
 
 

@@ -4,7 +4,7 @@ published: true
 title: Abercynon through the trees
 image-thumb: rides/135.jpg
 date: 2005-08-25 09:27:00.000000000 +01:00
-categories: rides
+category: rides
 
 ---
 

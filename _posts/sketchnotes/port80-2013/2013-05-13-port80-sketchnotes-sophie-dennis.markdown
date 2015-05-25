@@ -9,7 +9,7 @@ tags:
 image: /port80/2013/port80-2013-05-10-sophie-dennis.gif
 image-thumb: /port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
 date: 2013-05-13 17:11:58.000000000 +01:00
-categories: sketchnotes
+category: sketchnotes
 code: port80-2013-sophiedennis
 speaker: sophiedennis
 

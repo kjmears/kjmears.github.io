@@ -6,7 +6,7 @@ title: Seb Lee Delisle - The Web is a great big playground
 date: 2014-10-30
 image: /thewebis/seb-lee-delisle.png
 image-thumb: /thewebis/seb-lee-delisle-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: seb_ly
 tags:
   - thewebis

@@ -7,7 +7,7 @@ date: 2013-07-02
 image-thumb: /iwmw13/iwmw13-open-education-thumb.gif
 image: /iwmw13/iwmw13-open-education.gif
 reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
-categories: sketchnotes
+category: sketchnotes
 tags:
   - iwmw13
   - live

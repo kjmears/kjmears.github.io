@@ -6,7 +6,7 @@ title: Nathan Ford - The Web is Constant
 date: 2014-10-30
 image: /thewebis/nathan-ford.png
 image-thumb: /thewebis/nathan-ford-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: nathan_ford
 tags:
   - thewebis

@@ -6,7 +6,7 @@ title: Benjamin Hollway - The Web is still young
 date: 2014-10-31
 image: /thewebis/benjamin-hollway.png
 image-thumb: /thewebis/benjamin-hollway-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: BenjaminHollway
 tags:
   - thewebis

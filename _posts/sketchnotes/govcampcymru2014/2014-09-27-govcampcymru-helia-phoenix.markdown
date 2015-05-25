@@ -6,7 +6,7 @@ title: Helia Phoenix - GovCampCymru 2014
 date: 2014-09-27
 image: /govcampcymru2014/govcampcymru2014-helia-phoenix.gif
 image-thumb: /govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
-categories: sketchnotes
+category: sketchnotes
 speaker: phoenixlily
 tags:
   - govcampcymru

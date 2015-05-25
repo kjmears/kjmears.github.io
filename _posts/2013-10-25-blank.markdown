@@ -6,7 +6,7 @@ title: Blank
 date: 2013-10-25 08:01:10.000000000 +01:00
 image: blanker.jpg
 image-thumb: blanker-thumb.jpg
-categories: lettering
+category: lettering
 tags: 
 homepage: true
 ---

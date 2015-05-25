@@ -2,7 +2,7 @@
 layout: post
 title: "Sheila MacNeill - OER15 Keynote"
 date: 2015-04-16 23:30:10
-categories: sketchnotes
+category: sketchnotes
 tags:
   - oer15
   - live

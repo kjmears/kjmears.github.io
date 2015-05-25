@@ -6,7 +6,7 @@ title: Port80 Sketchnotes - Paul Robert Lloyd
 image: /port80/2013/port80-2013-05-10-paul-lloyd.gif
 image-thumb: /port80/2013/port80-2013-05-10-paul-lloyd-thumb.gif
 invisible: 1
-categories: sketchnotes
+category: sketchnotes
 tags:
 - port80-2013
 - live

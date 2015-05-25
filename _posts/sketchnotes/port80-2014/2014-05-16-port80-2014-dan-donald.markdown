@@ -6,7 +6,7 @@ title: Port80 2014 Dan Donald Sketchnotes
 date: 2014-05-16
 image: /port80/2014/port80-2014-05-16-dan-donald.gif
 image-thumb: port80/2014/port80-2014-05-16-dan-donald-thumb.gif
-categories: sketchnotes
+category: sketchnotes
 tags:
 - port80-2014
 - live

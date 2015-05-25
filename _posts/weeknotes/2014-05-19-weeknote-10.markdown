@@ -3,7 +3,7 @@ layout: weeknotes
 title: "weeknote 10"
 date: 2014-05-19 18:47:27 +0100
 comments: false
-categories: weeknotes
+category: weeknotes
 invisible: 1
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cable Green - OER15 Keynote"
 date: 2015-04-16 23:30:30
 code: oer15-01
-categories: sketchnotes
+category: sketchnotes
 tags:
   - oer15
   - live

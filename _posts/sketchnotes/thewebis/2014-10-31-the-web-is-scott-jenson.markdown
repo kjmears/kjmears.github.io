@@ -6,7 +6,7 @@ title: Scott Jenson - The Web is like water
 date: 2014-10-31
 image: /thewebis/scott-jenson.png
 image-thumb: /thewebis/scott-jenson-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: scottjenson
 tags:
   - thewebis

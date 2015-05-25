@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Pentrych Ride
 date: 2005-08-31 12:46:00.000000000 +01:00
-categories: rides
+category: rides
 image: rides/141.jpg
 image-thumb: rides/pentrych-thumb.jpg
 

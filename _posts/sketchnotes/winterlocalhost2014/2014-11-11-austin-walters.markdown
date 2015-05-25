@@ -6,7 +6,7 @@ title: Austin Walters - Finding your web design Niche and Generating Leads there
 date: 2014-11-11
 image: /winterlocalhost2014/austin-walters.png
 image-thumb: /winterlocalhost2014/austin-walters-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: AustinWaltersUK
 tags:
   - winterlocalhost2014

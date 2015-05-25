@@ -6,7 +6,7 @@ title: Jeffrey Zeldman - Ten Commandments of Modern Web Design
 date: 2013-11-29
 image: /handheld2013/jeffrey-zeldman-handheld2013.gif
 image-thumb: /handheld2013/jeffrey-zeldman-handheld2013-thumb.gif
-categories: 
+category: 
 - sketchnotes
 tags: 
 - handheld13

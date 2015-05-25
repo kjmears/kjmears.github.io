@@ -7,7 +7,7 @@ title: "Owen Gregory - The Web is read/write"
 date: 2014-10-31
 image: /thewebis/owen-gregory.png
 image-thumb: /thewebis/owen-gregory-thumb.png
-categories: sketchnotes
+category: sketchnotes
 
 tags:
   - thewebis

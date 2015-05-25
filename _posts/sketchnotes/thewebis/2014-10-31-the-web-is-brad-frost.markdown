@@ -6,7 +6,7 @@ title: Brad Frost - The Web is progress
 date: 2014-10-31
 image: /thewebis/brad-frost.png
 image-thumb: /thewebis/brad-frost-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: brad_frost
 tags:
   - thewebis

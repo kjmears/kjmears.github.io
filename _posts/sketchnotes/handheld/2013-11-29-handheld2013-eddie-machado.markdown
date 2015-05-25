@@ -6,7 +6,7 @@ title: Eddie Machado - Crafting your Toolset
 date: 2013-11-29
 image: /handheld2013/eddie-machado-handheld2013.gif
 image-thumb: /handheld2013/eddie-machado-handheld2013-thumb.gif
-categories: 
+category: 
 - sketchnotes
 tags: 
 - handheld13

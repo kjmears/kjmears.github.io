@@ -6,7 +6,7 @@ title: Craig Marvelly - Gene Simmons and the path to good product design
 date: 2014-11-11
 image: /winterlocalhost2014/craig-marvelly.png
 image-thumb: /winterlocalhost2014/craig-marvelly-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: craigmarvelley
 tags:
   - winterlocalhost2014

@@ -6,7 +6,7 @@ title: Ranjit Sidhu - IWMW2014
 date: 2014-07-17
 image: /iwmw14/iwmw14-2014-07-17-ranjit-sidhu.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg
-categories: sketchnotes
+category: sketchnotes
 speaker: rssidhu
 tags:
   - iwmw14

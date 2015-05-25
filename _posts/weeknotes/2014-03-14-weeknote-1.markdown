@@ -3,7 +3,7 @@ layout: weeknotes
 title: "Weeknote 1"
 date: 2014-03-14 12:10:56 +0000
 comments: false
-categories: weeknotes
+category: weeknotes
 published: true
 invisible: 1
 

@@ -6,7 +6,7 @@ title: Kier Whitaker - The Web is all consuming
 date: 2014-10-30
 image: /thewebis/kier-whitaker.png
 image-thumb: /thewebis/kier-whitaker-thumb.png
-categories: sketchnotes
+category: sketchnotes
 speaker: kier
 tags:
   - thewebis

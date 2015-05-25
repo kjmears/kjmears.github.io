@@ -6,7 +6,7 @@ title: Bill Oates - GovCampCymru 2014
 date: 2014-09-27
 image: /govcampcymru2014/govcampcymru2014-bill.gif
 image-thumb: /govcampcymru2014/govcampcymru2014-bill-thumb.gif
-categories: sketchnotes
+category: sketchnotes
 speaker: wpoates1
 tags:
   - govcampcymru
