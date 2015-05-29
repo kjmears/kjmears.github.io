@@ -140,7 +140,7 @@ module.exports = function(grunt) {
 
   // Default Task is basically a rebuild
   grunt.registerTask('default', ['concat', 'uglify', 'sass', 'shell', 'watch']);
-
+  grunt.registerTask('min', ['imagemin']);
   grunt.registerTask('dev', ['connect', 'watch']);
 
 };
