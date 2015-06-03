@@ -6,13 +6,24 @@ title: Reading
 
 
 <div class="row">
-	{% for book in site.data.reading %}
+	<ul>
+		{% for book in site.data.reading %}
+
+		{% if book.amazon != null %}
+			<li><a href="{{ book.amazon }}">{{ book.title }}</a></li>
+		{% else %}
+			<li>{{ book.title }}</li>
+		{% endif %}
+		{% endfor %}
 
 
-				<h2>{{ book.title }}</h2>
-        <p>{{ book.author }}</p>
-        <a href="{{ book.amazon }}&tag=mearso-21">Amazon</a>
+	{% for book in site.data.booklist %}
+		{% if book.Status contains "Finished" %}
 
+
+		<li>{{ book.Title}} - {{ book.Author}} - {{ book.Status }}</li>
+		{% endif %}
 
 		{% endfor %}
+	</ul>
 </div>

@@ -1,7 +1,14 @@
+- isbn: 978-0241963623
+  title: "The Numbers Game: Why Everything You Know About Football is Wrong"
+  author:
+    - Chris Anderson
+    - David Sally
+  amazon: "http://www.amazon.co.uk/gp/product/0241963621/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0241963621&linkCode=as2&tag=mearso-21&linkId=ROBG73M5COYOMBSS"
+
 - isbn: 0007221835
   title: The Drowned World
   author: J G Ballard
-  amazon: http://www.amazon.co.uk/dp/0007221835?SubscriptionId=1XKMQ76GH235KSFB1M02
+  amazon: "http://www.amazon.co.uk/dp/0007221835?SubscriptionId=1XKMQ76GH235KSFB1M02"
 
 - isbn: 97818747490704
   title: "The Monk and the Hangman's Daughter"
