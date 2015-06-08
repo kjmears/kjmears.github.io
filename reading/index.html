@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-published: false
+published: true
 
 ---
 
@@ -16,16 +16,5 @@ published: false
 			<li>{{ book.title }}</li>
 		{% endif %}
 		{% endfor %}
-
-
-	{% for book in site.data.booklist %}
-		{% if book.Status contains "Finished" %}
-
-
-		<li>{{ book.Title}} - {{ book.Author}} - {{ book.Status }}</li>
-		{% endif %}
-
-		{% endfor %}
-	</ul>
 
 </div>
