@@ -16,6 +16,7 @@ layout: null
       <priority>1.0</priority>
     </url>
   {% endfor %}
+  
   {% for page in site.pages %}
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
