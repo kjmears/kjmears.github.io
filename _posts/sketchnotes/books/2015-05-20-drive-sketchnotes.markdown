@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drive - Sketchnotes"
+title: "Drive Sketchnotes"
 date: "2015-05-20"
 image: /drive.gif
 image-thumb: /drive-thumb.gif
