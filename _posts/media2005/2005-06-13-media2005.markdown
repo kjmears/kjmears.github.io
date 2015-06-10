@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ! '@media2005 Sketchnotes'
+title: '@media2005 Sketchnotes'
 image: media2005/media2005-sketchnotes.jpg
 image-thumb: media2005/media2005-sketchnotes-thumb.jpg
 author: mearso
@@ -10,8 +10,6 @@ homepage: true
 category: sketchnotes
 tag: live
 code: media2005
-
-
 date: 2005-06-13 08:02:00.000000000 +01:00
 ---
 
@@ -23,10 +21,10 @@ Looking back, through some very old things on the site I found some drawings fro
 >
 >Managed to rather embarass myself by asking [Joe Clark](http://www.joeclark.org) a stupid question about captions/subtitles whilst drunk, I can only hope his pointed explanation of the difference between them the next day, wasn't just for my benefit. He also rather threw me by asking for a shoe phone - presumably not some kind of Bulgarian secret police gadget, but a slighty larger than usual feature laden phone.
 >
->Very pleased to speak to [Mark](http://www.markboulton.co.uk) and [Simon](http://www.simonrooney.com) from the BBC, and get into a discussion about typefaces. 
+>Very pleased to speak to [Mark](http://www.markboulton.co.uk) and [Simon](http://www.simonrooney.com) from the BBC, and get into a discussion about typefaces.
 >
 >
->"Ed":http://www.ebcomley.co.uk played spot the "Threadless":http://www.threadless.com t-shirt with amongst others, [Jon](http://www.hicksdesign.co.uk)
+>[Ed](http://www.ebcomley.co.uk) played spot the [Threadless](http://www.threadless.com) t-shirt with amongst others, [Jon](http://www.hicksdesign.co.uk)
 >
 >Would've liked to talk more with [Denis](http://www.38one.com/) who must be delighted that his lovely logo looked great on the orange bags.
 >
