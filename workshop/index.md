@@ -57,9 +57,13 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 
 ## Resources
 
-### Further/Extra Reading
+##[My brand new pocketguide to sketchnoting](http://www.fivesimplesteps.com/products/sketchnoting)
 
-[My brand new pocketguide to sketchnoting](http://www.fivesimplesteps.com/products/sketchnoting)
+An ebook expanding on some of the things we touched on in the workshop.
+
+[![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](http://www.fivesimplesteps.com/products/sketchnoting)
+
+### Further/Extra Reading
 
 [Moonwalking with einstein](http://www.amazon.co.uk/Moonwalking-Einstein-Science-Remembering-Everything/dp/0141032138) - A journalist's discovery of memory techniques, which mainly use our inherent spatial and visual memory skills.
 
@@ -75,6 +79,14 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 
 [Cult pens](http://www.cultpens.com/)
 Great range of pens with useful descriptions and good deals.
+
+### Great places to share and be inspired
+
+- [Sketchnote Army](http://sketchnotearmy.com/)
+- [Sketchnotes](http://www.sketchnotesbook.com/) by Eva-Lotta Lamm
+- [Gamestorming](http://gamestorming.com/)
+
+
 
 ## Sketchnote summary
 
