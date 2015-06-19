@@ -1,10 +1,9 @@
 ---
 layout: post
-published: ture
 title: Post Modernist Graphics Mindmap
 author: mearso
 date: 2004-10-27 11:33:00
-image: post-modernist-graphics-mindmap.jpg
+image: /post-modernist-graphics-mindmap.jpg
 image-thumb: post-modernist-graphics-mindmap-thumb.jpg
 category: mindmaps
 homepage: true
