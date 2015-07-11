@@ -4,23 +4,17 @@
   image: /ou-workshop/pocketguide-cover-thumb.jpg
   url: /pocketguide
 
-- date: 2015-06-17
-  title: The Blind assassin
+- date: 2015-06-26
+  title: The Martian Way
   text: Sketchnotes to help me remember what I read.
-  image: /the-blind-assassin-thumb.jpg
-  url: /sketchnotes/the-blind-assassin-sketchnotes.html
+  image: /the-martian-way-thumb.jpg
+  url: /sketchnotes/the-martian-way.html
 
 - date: 2015-04-16
   title: OER15 Sketchnotes
   text: Sketchnotes from two days of the Open Educational Reources conference.
   image: /oer15/oer15-2015-04-14-josie-fraser-thumb.jpg
   url: /sketchnotes/oer15/
-
-- date: 2015-03-30
-  title: Left Hand of Darkness
-  text: Sketchnotes done on completion of a book - to aid recall and enjoyment.
-  image: /left-hand-of-darkness-thumb.jpg
-  url: /sketchnotes/lefthandofdarkness-sketchnotes.html
 
 - date: 2014-12-03
   title: Railsconf 2014 Keynote
