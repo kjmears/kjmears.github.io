@@ -17,3 +17,5 @@ tags:
 
 cc: BY-SA
 ---
+
+A ton of things to think about from this long session - hence the pages of notes.

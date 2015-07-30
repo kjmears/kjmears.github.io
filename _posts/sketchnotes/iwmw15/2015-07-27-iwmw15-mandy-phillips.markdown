@@ -9,8 +9,8 @@ image: /iwmw15/iwmw15-mandyphillips.jpg
 image-thumb: /iwmw15/iwmw15-mandyphillips-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/out-with-the-old-in-with-the-new/
 
-category:
-- sketchnotes
+category: sketchnotes
+
 tags:
   - iwmw15
   - live

@@ -19,7 +19,7 @@ layout: default
     {% endif %}
 
 		 {% if page.category %}
-			 <p>Category: test <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>
+			 <p>Category: <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></p>
 		{% endif %}
 
     {% if page.image %}

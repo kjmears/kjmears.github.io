@@ -9,8 +9,8 @@ image: /iwmw15/iwmw15-mike-mcconnell.jpg
 image-thumb: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/the-challenge-is-institutional/
 
-category:
-- sketchnotes
+category: sketchnotes
+
 tags:
   - iwmw15
   - live
@@ -18,4 +18,4 @@ tags:
 cc: BY-SA
 ---
 
-Beatifully delivered explanation of Aberdeen's efforts to be better by raconteur Mike McConnell. Really frank and engaging talk with tons to think about. I've a feeling I'll banging on about this one for a while.
+Beautifully delivered explanation of Aberdeen's efforts to be better by raconteur Mike McConnell. Really frank and engaging talk with tons to think about. I've a feeling I'll banging on about this one for a while.

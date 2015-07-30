@@ -9,8 +9,8 @@ image: /iwmw15/iwmw15-paul-boag.jpg
 image-thumb: /iwmw15/iwmw15-paul-boag-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
 
-category:
-- sketchnotes
+category: sketchnotes
+
 tags:
   - iwmw15
   - live

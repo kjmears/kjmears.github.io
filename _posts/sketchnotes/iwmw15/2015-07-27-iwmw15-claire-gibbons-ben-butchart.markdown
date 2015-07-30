@@ -9,8 +9,8 @@ image: /iwmw15/iwmw15-claire-gibbons-ben-butchart.jpg
 image-thumb: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/an-agile-approach-to-content/
 
-category:
-- sketchnotes
+category: sketchnotes
+
 tags:
   - iwmw15
   - live
