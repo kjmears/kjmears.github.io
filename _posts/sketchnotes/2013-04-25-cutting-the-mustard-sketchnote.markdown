@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Cutting the Mustard Sketchnote
-image: cutting-the-mustard.gif
-image-thumb: cutting-the-mustard-thumb.gif
+image: /cutting-the-mustard.gif
+image-thumb: /cutting-the-mustard-thumb.gif
 category: sketchnotes
 tags: video
 homepage: true

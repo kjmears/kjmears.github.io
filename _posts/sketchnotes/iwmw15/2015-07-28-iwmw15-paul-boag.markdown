@@ -1,6 +1,6 @@
 ---
 
-code: iwmw15-03
+code: iwmw15-06
 layout: post
 published: true
 title: Paul Boag - IWMW15
@@ -8,7 +8,7 @@ date: 2015-07-28
 image: /iwmw15/iwmw15-paul-boag.jpg
 image-thumb: /iwmw15/iwmw15-paul-boag-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
-
+speaker: boagworld
 category: sketchnotes
 
 tags:

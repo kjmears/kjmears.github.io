@@ -1,13 +1,14 @@
 ---
 
-code: iwmw15-03
+code: iwmw15-04
 layout: post
 published: true
 title: Claire Gibbons and Ben Butchart - IWMW15
 date: 2015-07-16
 image: /iwmw15/iwmw15-claire-gibbons-ben-butchart.jpg
 image-thumb: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/an-agile-approach-to-content/
+reference: http://iwmw.org/iwmw2015/talks/ibeacons/
+speaker: PlanetClaire
 
 category: sketchnotes
 

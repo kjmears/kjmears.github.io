@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Ebooks Presentation Sketchnotes
-image: ebooks.png
-image-thumb: ebooks-thumb.gif
+image: /ebooks.png
+image-thumb: /ebooks-thumb.gif
 category: sketchnotes
 homepage: true
 speaker: sueburnett

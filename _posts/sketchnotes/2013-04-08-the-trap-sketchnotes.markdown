@@ -3,9 +3,9 @@ layout: post
 published: true
 title: The Trap - Documentary Sketchnotes
 author: mearso
-image: the-trap-pt1.png
+image: /the-trap-pt1.png
 image-alt: Sketchnotes from documentary - the trap
-image-thumb: the-trap-pt1-thumb.png
+image-thumb: /the-trap-pt1-thumb.png
 date: 2013-04-08 21:41:52.000000000 +01:00
 category: sketchnotes
 tags: video

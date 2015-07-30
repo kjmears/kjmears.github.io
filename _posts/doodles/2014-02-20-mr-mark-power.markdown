@@ -3,7 +3,7 @@
 layout: post
 title: Mr Mark Power
 published: true
-image: mark-power.gif
+image: /mark-power.gif
 image-thumb: mark-power-thumb.gif
 category: doodles
 invisible: 1

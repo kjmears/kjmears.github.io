@@ -1,6 +1,6 @@
 ---
 
-code: iwmw15-03
+code: iwmw15-08
 layout: post
 published: true
 title: Michael Webb - IWMW15
@@ -17,4 +17,4 @@ tags:
 cc: BY-SA
 ---
 
-Talking out some new ways that JISC is aiming to support the sector, Michael was especially keen on things as services - not really my area, but it was nice to have some more technical meaty stuff along with the strategising. 
+Talking out some new ways that JISC is aiming to support the sector, Michael was especially keen on things as services - not really my area, but it was nice to have some more technical meaty stuff along with the strategising.
