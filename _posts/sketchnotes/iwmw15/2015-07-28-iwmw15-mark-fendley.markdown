@@ -4,13 +4,13 @@ code: iwmw15-03
 layout: post
 published: true
 title: Mark Fendley - IWMW15
-date: 2014-07-28
+date: 2015-07-28
 image: /iwmw15/iwmw15-mark-fendley.jpg
 image-thumb: /iwmw15/iwmw15-mark-fendley-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
 
-category:
-- sketchnotes
+category: sketchnotes
+
 tags:
   - iwmw15
   - live

@@ -4,7 +4,7 @@ code: iwmw15-02
 layout: post
 published: true
 title: Mandy Phillips - IWMW15
-date: 2014-07-16
+date: 2015-07-16
 image: /iwmw15/iwmw15-mandyphillips.jpg
 image-thumb: /iwmw15/iwmw15-mandyphillips-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/out-with-the-old-in-with-the-new/

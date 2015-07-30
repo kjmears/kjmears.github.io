@@ -4,7 +4,7 @@ code: iwmw15-01
 layout: post
 published: true
 title: Welcome - IWMW2015
-date: 2014-07-27
+date: 2015-07-27
 image: /iwmw15/iwmw15-welcome.jpg
 image-thumb: /iwmw15/iwmw15-welcome-thumb.jpg
 category:

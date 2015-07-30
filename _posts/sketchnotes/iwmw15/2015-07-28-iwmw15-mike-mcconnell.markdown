@@ -4,7 +4,7 @@ code: iwmw15-03
 layout: post
 published: true
 title: Mike McConnell - IWMW15
-date: 2014-07-28
+date: 2015-07-28
 image: /iwmw15/iwmw15-mike-mcconnell.jpg
 image-thumb: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/the-challenge-is-institutional/
