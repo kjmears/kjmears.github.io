@@ -6,17 +6,17 @@ title: Speakers
 
 <div class="row">
   <p>I've collected a (long) list of speakers whose talks, videos, audio , lectures and presentations that I've done skecthnotes for over the years.</p>
-  
+
 </div>
 
 
 <div class="row">
-  
+
   {% for bio in site.data.speakers %}
     <div class="speaker">
-           
+
           <h2 class="bio-name">{{ bio.name }}</h2>
-          
+
           <div class="meta">
             {% if bio.twitter %}
               <p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
@@ -24,21 +24,21 @@ title: Speakers
             {% if bio.url %}
               <p class="website"><a href="http://{{ bio.url }}">Website</a></p>
             {% endif %}
-          
+
           </div>
-        
-        {% for talk in site.data.events %} 
-        
+
+        {% for talk in site.data.events.events %}
+
           {% if talk.speaker[] %}
-          
+
             {% for multiple in talk.speaker[] %}
-            
+
               {% if bio.id == multiple %}
 
                 <div class="talk-wrap">
-                
+
                   <a href="..{{ talk.sketchnotes }}"><img src="/images/{{ talk.image }}"></a>
-                
+
                   <div class="talk-info">
                   <h3>{{ talk.title }}</h3>
                   <ul>
@@ -59,22 +59,18 @@ title: Speakers
                   </ul>
                 </div>
                 </div>
-              
+
               {% endif %}
-            
+
             {% endfor %}
-            
+
           {% endif %}
-          
+
         {% endfor %}
 
     </div>
 
   {% endfor %}
-  
+
 
 </div>
-
-
-
-

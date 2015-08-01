@@ -11,6 +11,10 @@ reference: http://iwmw.org/iwmw2015/talks/working-with-bradford/
 
 category: sketchnotes
 
+speaker:
+  - m8nd1
+  - PlanetClaire
+
 tags:
   - iwmw15
   - live

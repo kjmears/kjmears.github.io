@@ -1,5 +1,5 @@
-- date: 2015-07-27
-  title: Claire Gibbons and Ben Butchart - IWMW15
+- title: Claire Gibbons and Ben Butchart - IWMW15
+  date: 2015-07-27
   text: ibeacons
   speaker: PlanetClaire
   event: iwmw.org/iwmw2015/
@@ -8,10 +8,49 @@
   code: iwmw15-04
   sketchnotes: /sketchnotes/iwmw15-claire-gibbons-ben-butchart.html
   image: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
+- title: Claire Gibbons and Mandy Phillips - IWMW15
+  date: 2015-07-28
+  text: Liverpool and Bradford web teams talking aboiut transformation.
+  speaker:
+    - PlanetClaire
+    - m8nd1
+  event: iwmw.org/iwmw2015/
+  info: iwmw.org/iwmw2015/talks/working-with-bradford/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-08
+  sketchnotes: /sketchnotes/iwmw15-claire-gibbons-mandy-phillips.html
+  image: /iwmw15/iwmw15-claire-gibbons-mandy-phillips-thumb.jpg
+- title: "The Challenge Is Institutional: Merging Customer Needs With New Operating Realities presented by mike_mcconnell"
+  date: 2015-07-28
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-05
+  info: iwmw.org/iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
+  speaker: mike_mcconnell
+  sketchnotes: /sketchnotes/iwmw15-mike-mcconnell.html
+  image: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
+- title: "User Experience Design. How Far Will You Go? presented by Paul Boag"
+  date: 2015-07-28
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-06
+  speaker: boagworld
+  sketchnotes: /sketchnotes/iwmw15-paul-boag.html
+  image: /iwmw15/iwmw15-paul-boag-thumb.jpg
+  info: iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
 
-
-- date: 2015-04-14
-  title: Cable Green - OER15 Keynote
+- title: "From Hack Day to Open Day: Building a Tour presented by Unikent WebDev"
+  date: 2015-07-28
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-08
+- title: "Marrying Creativity with Management Complexity presented by Sam Sanders and Rob van Tol"
+  date: 2015-07-28
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-08
+- title: Cable Green - OER15 Keynote
+  date: 2015-04-14
   text: Cable Green - OER15 Keynote
   speaker: cgreen
   image: /thewebis/kier-whitaker-thumb.png
@@ -23,8 +62,8 @@
   sketchnotes: /sketchnotes/oer15cablegreen.html
   slides: /docs.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/edit
 
-- date: 2015-04-14
-  title: OER15 Panel Session
+- title: OER15 Panel Session
+  date: 2015-04-14
   text: Panel Session on Open Policy
   speaker:
     - cgreen
@@ -410,7 +449,6 @@
   code: thewebis17
   sketchnotes: /sketchnotes/the-web-is-brad-frost.html
 
-
 - title: 'Who misses playing “Guess Who?”'
   sketchnotes: /sketchnotes/handheld2013-syd-lawrence.html
   speaker: sydlawrence
@@ -429,7 +467,6 @@
   image: handheld2013/jeremy-keith-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
 
-
 - title: Icon Design Process
   sketchnotes: /sketchnotes/handheld2013-jon-hicks.html
   speaker: Hicksdesign
@@ -439,7 +476,6 @@
   image: handheld2013/jon-hicks-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/icon-design-process/
-
 
 - title: The Business of Responsive Web Design
   speaker: markboulton
@@ -451,7 +487,6 @@
   image: handheld2013/mark-boulton-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
 
-
 - title: Carefully Everywhere
   sketchnotes: /sketchnotes/handheld2013-brendan-dawes.html
   speaker: brendandawes
@@ -461,7 +496,6 @@
   image: handheld2013/brendan-dawes-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/carefully-everywhere/
-
 
 - title: When responsive sites work as well as a chocolate iPhone
   sketchnotes: /sketchnotes/handheld2013-ling-valentine.html
@@ -473,17 +507,6 @@
   lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/when-responsive-sites-work-as-well-as-a-chocolate-iphone/
 
-
-- title: Crafting your Toolset
-  sketchnotes: /sketchnotes/handheld2013-eddie-machado.html
-  speaker: eddiemachado
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-07
-  image: handheld2013/eddie-machado-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-
-
 - title: How to call your client an idiot without getting fired
   speaker: Malarkey
   sketchnotes: /sketchnotes/handheld2013-andrew-clarke.html
@@ -493,7 +516,6 @@
   image: handheld2013/andrew-clarke-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
   video: http://www.besquare.me/session/how-to-call-your-client-an-idiot-without-getting-fired/
-
 
 - title: Ten Commandments of Modern Web Design
   sketchnotes: /sketchnotes/handheld2013-jeffrey-zeldman.html
@@ -524,8 +546,6 @@
     - olliewells
     - lesmond
     - roblobue
-
-
 
 - title: Why you don’t Need a Social Media Plan and how to Create one Anyway
   sketchnotes: /sketchnotes/iwmw14-tracy-playle.html
@@ -624,7 +644,6 @@
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
   lanyrd: /2014/iwmw14/
 
-
 - title: 'Banish your inner critic'
   sketchnotes: /sketchnotes/port80-2014-denise-jacobs.html
   speaker: denisejacobs
@@ -681,7 +700,6 @@
   code: port80-08
   image: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
   lanyrd: /2014/port80events/
-
 
 - title: Practical JavaScripting
   sketchnotes: /sketchnotes/port80-sketchnotes-jack-franklin.html
@@ -748,8 +766,6 @@
   image: port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
   lanyrd: /2013/port80/
 
-
-
 - title: "Open Education: The Business & Policy Case for OER"
   sketchnotes: /sketchnotes/iwmw13-cable-green.html
   speaker: cgreen
@@ -766,7 +782,6 @@
   image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
   lanyrd: /2013/iwmw13/
   code: IWMW13
-
 
 - title: "Et tu MOOC? Massive Online Considerations"
   sketchnotes: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
@@ -878,7 +893,6 @@
   image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif
   lanyrd: /2013/iwmw13/
 
-
 - title: Experiences in user centred design at the University of Edinburgh
   sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
   speaker: usabilityed
@@ -961,7 +975,6 @@
   code: iwmw12
   lanyrd: /2012/iwmw12/
   speaker: helensargan
-
 
 - title: Creative Mornings Cardiff 2014
   speaker: markboulton

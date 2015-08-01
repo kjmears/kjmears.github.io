@@ -10,7 +10,7 @@ image-thumb: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
 reference: http://iwmw.org/iwmw2015/talks/the-challenge-is-institutional/
 
 category: sketchnotes
-
+speaker: mike_mcconnell
 tags:
   - iwmw15
   - live
