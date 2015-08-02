@@ -6,10 +6,11 @@ title: Jon Hicks - Icon Design Process
 date: 2013-11-29
 image: /handheld2013/jon-hicks-handheld2013.gif
 image-thumb: /handheld2013/jon-hicks-handheld2013-thumb.gif
-category: 
+category:
 - sketchnotes
-tags: 
+tags:
 - handheld13
+- live
 
 
 ---

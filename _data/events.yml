@@ -38,17 +38,25 @@
   sketchnotes: /sketchnotes/iwmw15-paul-boag.html
   image: /iwmw15/iwmw15-paul-boag-thumb.jpg
   info: iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
-
 - title: "From Hack Day to Open Day: Building a Tour presented by Unikent WebDev"
   date: 2015-07-28
   event: iwmw.org/iwmw2015/
   lanyrd: /2015/iwmw15/
-  code: iwmw15-08
+  code: iwmw15-07
+  sketchnotes: /sketchnotes/iwmw15-mark-fendley.html
+  image: /iwmw15/iwmw15-mark-fendley-thumb.jpg
+  info: iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
+
 - title: "Marrying Creativity with Management Complexity presented by Sam Sanders and Rob van Tol"
   date: 2015-07-28
   event: iwmw.org/iwmw2015/
   lanyrd: /2015/iwmw15/
   code: iwmw15-08
+  sketchnotes: /sketchnotes/iwmw15-rob-van-tol-sam-sanders.html
+  image: /iwmw15/iwmw15-rob-van-tol-sam-sanders-thumb.jpg
+  info: iwmw.org/iwmw2015/talks/marrying-creativity-with-management-complexity/
+
+
 - title: Cable Green - OER15 Keynote
   date: 2015-04-14
   text: Cable Green - OER15 Keynote

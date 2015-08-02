@@ -7,7 +7,7 @@ date: 2013-01-11 15:35:41.000000000 +00:00
 image: /handheld2012-collected-sketchnotes.png
 image-thumb: /handheld2012-collected-sketchnotes-thumb.png
 category: sketchnotes
-tags:
+tags: handheld
 homepage: true
 
 

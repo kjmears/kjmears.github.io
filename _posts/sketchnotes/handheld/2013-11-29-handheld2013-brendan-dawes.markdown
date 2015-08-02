@@ -7,8 +7,9 @@ date: 2013-11-29
 image: /handheld2013/brendan-dawes-handheld2013.gif
 image-thumb: /handheld2013/brendan-dawes-handheld2013-thumb.gif
 category: sketchnotes
-tags: 
+tags:
 - handheld13
+- live
 
 
 ---

@@ -6,10 +6,11 @@ title: Ling Valentine - When responsive sites work as well as a chocolate iPhone
 date: 2013-11-29
 image: /handheld2013/ling-valentine-handheld2013.gif
 image-thumb: /handheld2013/ling-valentine-handheld2013-thumb.gif
-category: 
+category:
 - sketchnotes
-tags: 
+tags:
 - handheld13
+- live
 
 
 ---

@@ -34,39 +34,32 @@ layout: default
 		{{ content }}
 	</article>
 	<aside>
-	  {% if page.code %}
 		<div class="event-meta">
 			<h3>About the Event</h3>
 			<ul>
-	      {% for info in site.data.events %}
+	      {% if page.event %}
+	        <li><a href="http://{{ page.event }}">Event Website</a></li>
+				{% endif %}
 
-	          {% if info.code == page.code %}
-	            <li><a href="http://{{ info.event }}">Event Website</a></li>
+				{% if page.info %}
+	        <li> <a href="http://{{ page.info }}">Event Info</a></li>
+	      {% endif %}
 
-	          {% if info.info %}
-						{% for extra in info.info %}
-	            <li> <a href="http://{{ extra }}">Event Info</a></li>
-							{% endfor %}
-	          {% endif %}
+	      {% if page.video %}
+	        <li><a href="http://{{ page.video }}">Event Video</a></li>
+	      {% endif %}
 
-	          {% if info.video %}
-	            <li><a href="http://{{ info.video }}">Event Video</a></li>
-	          {% endif %}
+				{% if page.lanyrd %}
+					<li><a href="http://lanyrd.com{{ page.lanyrd }}">Lanyrd</a></li>
+				{% endif %}
 
-						{% if info.lanyrd %}
-							<li><a href="http://lanyrd.com{{ info.lanyrd }}">Lanyrd</a></li>
-						{% endif %}
-
-	          {% if info.slides %}
-	            <li><a href="http://{{ info.slides }}">Slides</a></li>
-	          {% endif %}
-
-	        {% endif %}
-
-	      {% endfor %}
+	      {% if page.slides %}
+	        <li><a href="http://{{ page.slides }}">Slides</a></li>
+	      {% endif %}
 			</ul>
+
 	  </div>
-		{% endif %}
+
 
 	  {% for bio in site.data.speakers %}
 	    {% if page.speaker %}
