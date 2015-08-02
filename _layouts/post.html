@@ -60,24 +60,7 @@ layout: default
 
 	  </div>
 
-
-	  {% for bio in site.data.speakers %}
-	    {% if page.speaker %}
-	      {% if bio.id == page.speaker %}
-				<div class="bio-meta">
-					<h3>About the Speaker</h3>
-	        <ul>
-	          {% if bio.url %}
-	          	<li>Website <a href="http://{{ bio.url }}">{{ bio.url }}</a></li>
-	        	{% endif %}
-	          {% if bio.twitter %}
-	          	<li>Twitter <a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></li>
-	        	{% endif %}
-	        </ul>
-				</div>
-				{% endif %}
-	    {% endif %}
-	  {% endfor %}
+		{% include speaker-info.html %}
 
 
 		<div class='cc-meta'>
@@ -97,9 +80,6 @@ layout: default
 			{% else %}
 				{% include licence.html %}
 			{% endif %}
-
-
-
 		</div>
 
 	</aside>

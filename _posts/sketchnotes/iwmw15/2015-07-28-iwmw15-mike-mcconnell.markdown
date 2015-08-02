@@ -7,8 +7,9 @@ title: Mike McConnell - IWMW15
 date: 2015-07-28
 image: /iwmw15/iwmw15-mike-mcconnell.jpg
 image-thumb: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/the-challenge-is-institutional/
-
+info: http://iwmw.org/iwmw2015/talks/the-challenge-is-institutional/
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 category: sketchnotes
 speaker: mike_mcconnell
 tags:

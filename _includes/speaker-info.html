@@ -1,0 +1,20 @@
+<div class="bio-meta">
+  <h3>Speaker Info</h3>
+  {% for speaker in page.speaker %}
+    {% for person in site.data.speakers %}
+      {% if speaker == person.id %}
+        <ul>
+            <li>{{ person.name }}</li>
+          {% if person.twitter %}
+            <li>Twitter <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a></li>
+          {% endif %}
+          {% if person.url %}
+            <li>Website <a href="http://{{ person.url }}">{{ person.url }}</a></li>
+          {% endif %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<!-- found the answer https://talk.jekyllrb.com/t/iterating-through-multiple--data-items/726/2 -->

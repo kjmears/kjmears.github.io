@@ -7,9 +7,11 @@ title: Michael Webb - IWMW15
 date: 2015-07-29
 image: /iwmw15/iwmw15-michael-webb.jpg
 image-thumb: /iwmw15/iwmw15-michael-webb-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
-
+info: http://iwmw.org/iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 category: sketchnotes
+speaker: michaeldwebb
 tags:
   - iwmw15
   - live

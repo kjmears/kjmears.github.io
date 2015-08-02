@@ -7,7 +7,8 @@ title: Welcome - IWMW2015
 date: 2015-07-27
 image: /iwmw15/iwmw15-welcome.jpg
 image-thumb: /iwmw15/iwmw15-welcome-thumb.jpg
-
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 category: sketchnotes
 
 tags:

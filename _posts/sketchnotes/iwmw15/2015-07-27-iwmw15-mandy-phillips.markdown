@@ -7,9 +7,11 @@ title: Mandy Phillips - IWMW15
 date: 2015-07-16
 image: /iwmw15/iwmw15-mandyphillips.jpg
 image-thumb: /iwmw15/iwmw15-mandyphillips-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/out-with-the-old-in-with-the-new/
+info: http://iwmw.org/iwmw2015/talks/out-with-the-old-in-with-the-new/
 speaker: m8nd1
 category: sketchnotes
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 
 tags:
   - iwmw15

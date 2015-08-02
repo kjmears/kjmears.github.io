@@ -7,7 +7,13 @@ title: Mark Fendley - IWMW15
 date: 2015-07-28
 image: /iwmw15/iwmw15-mark-fendley.jpg
 image-thumb: /iwmw15/iwmw15-mark-fendley-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
+info: http://iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
+
+speaker: unikentwebdev
+
+
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 
 category: sketchnotes
 

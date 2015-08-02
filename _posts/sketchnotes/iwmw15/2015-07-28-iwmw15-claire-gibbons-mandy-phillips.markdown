@@ -7,8 +7,9 @@ title: Claire Gibbons and Mandy Phillips - IWMW15
 date: 2015-07-28
 image: /iwmw15/iwmw15-claire-gibbons-mandy-phillips.jpg
 image-thumb: /iwmw15/iwmw15-claire-gibbons-mandy-phillips-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/working-with-bradford/
-
+info: http://iwmw.org/iwmw2015/talks/working-with-bradford/
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
 category: sketchnotes
 
 speaker:

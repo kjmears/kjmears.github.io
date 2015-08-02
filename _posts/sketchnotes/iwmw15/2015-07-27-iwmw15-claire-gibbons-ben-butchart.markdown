@@ -8,7 +8,11 @@ date: 2015-07-16
 image: /iwmw15/iwmw15-claire-gibbons-ben-butchart.jpg
 image-thumb: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
 info: http://iwmw.org/iwmw2015/talks/ibeacons/
-speaker: PlanetClaire
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
+speaker:
+  - PlanetClaire
+  - bbutchart
 category: sketchnotes
 
 tags:

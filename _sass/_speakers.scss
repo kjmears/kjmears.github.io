@@ -1,13 +1,20 @@
+.bio-name{
+      font-size:1.4em;
+}
+
 .speaker{
   @include make-xs-column(12);
 
   h2{
     font-weight:400;
+    font-size:1.4em;
+
   }
   .meta {
-    border-top:1px solid $gray-light;
+    // border-top:1px solid $gray-light;
+
   }
-        
+
   p{
     display:inline;
   }
@@ -17,7 +24,7 @@
       color:$gray-dark;
     };
   }
-  
+
   .twitter{
       &:before {
             content: $fa-var-twitter;
@@ -27,7 +34,7 @@
             margin-right:0.3em;
           }
         }
-        
+
   .website{
       &:before {
             content: $fa-var-external-link;
@@ -41,7 +48,7 @@
   ul{
     @extend .list-unstyled;
   }
-  
+
   .talk-wrap{
     img{
   		@extend .col-md-3;
@@ -49,7 +56,7 @@
     }
     .talk-info{
   		@extend .col-md-9;
-      
+
     }
 
   }

@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 29-05-2015 */
+/*! mearso-jekyll-site dev 02-08-2015 */
 
 @charset "UTF-8";
 /*!
@@ -5410,6 +5410,10 @@ tbody.collapse.in {
   padding-left: 16px;
 }
 
+.bio-name {
+  font-size: 1.4em;
+}
+
 .speaker {
   position: relative;
   float: left;
@@ -5420,9 +5424,7 @@ tbody.collapse.in {
 }
 .speaker h2 {
   font-weight: 400;
-}
-.speaker .meta {
-  border-top: 1px solid #999999;
+  font-size: 1.4em;
 }
 .speaker p {
   display: inline;

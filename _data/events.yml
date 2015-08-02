@@ -1,7 +1,9 @@
 - title: Claire Gibbons and Ben Butchart - IWMW15
   date: 2015-07-27
   text: ibeacons
-  speaker: PlanetClaire
+  speaker:
+    - PlanetClaire
+    - bbutchart
   event: iwmw.org/iwmw2015/
   info: iwmw.org/iwmw2015/talks/ibeacons/
   lanyrd: /2015/iwmw15/
@@ -40,13 +42,11 @@
   info: iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
 - title: "From Hack Day to Open Day: Building a Tour presented by Unikent WebDev"
   date: 2015-07-28
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
   code: iwmw15-07
   sketchnotes: /sketchnotes/iwmw15-mark-fendley.html
   image: /iwmw15/iwmw15-mark-fendley-thumb.jpg
   info: iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
-
+  speaker: unikentwebdev
 - title: "Marrying Creativity with Management Complexity presented by Sam Sanders and Rob van Tol"
   date: 2015-07-28
   event: iwmw.org/iwmw2015/

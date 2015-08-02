@@ -7,8 +7,10 @@ title: Charles Hardy - IWMW15
 date: 2015-07-29
 image: /iwmw15/iwmw15-charles-hardy.jpg
 image-thumb: /iwmw15/iwmw15-charles-hardy-thumb.jpg
-reference: http://iwmw.org/iwmw2015/talks/linkedin-for-higher-education/
-
+info: http://iwmw.org/iwmw2015/talks/linkedin-for-higher-education/
+event: iwmw.org/iwmw2015/
+lanyrd: /2015/iwmw15/
+speaker: chardy
 category: sketchnotes
 
 tags:

@@ -31,6 +31,10 @@
   twitter: kevingashley
   url: www.dcc.ac.uk
 
+- name: Dan Babington
+  id: DanBabington
+  twitter: DanBabington
+
 - id: pbacsich
   twitter: pbacsich
   name: Paul Bacsich
@@ -85,6 +89,10 @@
   name: Sue Burnett
   twitter: sueburnett
   url: about.me/sueburnett
+
+- id: bbutchart
+  name: Ben Butchart
+  url: www.edina.ac.uk
 
 - id: LornaMCampbell
   twitter: LornaMCampbell
@@ -166,6 +174,11 @@
   twitter: feather
   url: simplyaccessible.com
 
+- id: unikentwebdev
+  name: Mark Fendley
+  twitter: unikentwebdev
+  url: logs.kent.ac.uk/webdev
+
 - id: rossferg
   name: Ross Ferguson
   twitter: rossferg
@@ -213,6 +226,9 @@
   name: Chris Gutteridge
   twitter: cgutteridge
   url: users.ecs.soton.ac.uk/cjg/
+
+- name: Charles Hardy
+  id: chardy
 
 - id: mhawksey
   name: Martin Hawksey
@@ -304,6 +320,9 @@
   twitter: adactio
   url: https://adactio.com/
 
+- name: Niall Lavery
+  id: nlavery
+
 - name: Syd Lawrence
   id: sydlawrence
   twitter: sydlawrence
@@ -342,6 +361,12 @@
   name: Teresa MacKinnon
   twitter: WarwickLanguage
   url: about.me/teresamackinnon
+
+- name: Mike McConnell
+  id: mike_mcconnell
+  twitter: mike_mcconnell
+  url: www.abdn.ac.uk
+  linkedin: https://www.linkedin.com/profile/view?id=38138344
 
 - id: HannaMiet
   name: Hannah Miettinen
@@ -423,6 +448,9 @@
   name: Sharif Salah
   twitter: sharif_salah
   url: https://plus.google.com/103057053147910473099/about
+
+- name: Sam Sanders
+  id: ssanders
 
 - id: helensargan
   name: Helen Sargan
@@ -506,6 +534,9 @@
 - id: hiten-vaghmaria
   name: Hiten Vaghmaria
 
+- name: Rob van Tol
+  id: rvtol
+
 - id: vonprond
   name: Professor Ferdinand von Prondzynski
   twitter: vonprond
@@ -515,6 +546,11 @@
   name: Austin Walters
   twitter: AustinWaltersUK
   url: www.austinwalters.co.uk
+
+- name: Michael Webb
+  id: michaeldwebb
+  twitter: michaeldwebb
+  url: www.jisc.ac.uk
 
 - id: kier
   name: Kier Whitaker
