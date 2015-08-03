@@ -16,6 +16,8 @@ speaker:
   - m8nd1
   - PlanetClaire
   - paddycallaghan
+  - kljhall
+  - alaurika
 
 tags:
   - iwmw15

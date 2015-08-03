@@ -236,6 +236,10 @@
   twitter: cgutteridge
   url: users.ecs.soton.ac.uk/cjg/
 
+- name: Katie Hall
+  id: kljhall
+  twitter: kljhall
+
 - name: Charles Hardy
   id: chardy
   linkedin: https://www.linkedin.com/in/charleshardy
@@ -337,6 +341,10 @@
   id: sydlawrence
   twitter: sydlawrence
   url: sydlawrence.com/
+
+- name: Anna Laurika
+  id: alaurika
+  linkedin: https://www.linkedin.com/pub/anna-laurika/4a/93b/4aa
 
 - id: seb_ly
   name: Seb Lee-Delisle
