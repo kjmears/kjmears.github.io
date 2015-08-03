@@ -1,5 +1,5 @@
-- id: daveaddey
-  name: Dave Addey
+- name: Dave Addey
+  id: daveaddey
   twitter: daveaddey
   url: daveaddey.com
 
@@ -34,6 +34,7 @@
 - name: Dan Babington
   id: DanBabington
   twitter: DanBabington
+  linkedin: https://uk.linkedin.com/pub/dan-babington/31/866/b04
 
 - id: pbacsich
   twitter: pbacsich
@@ -90,9 +91,17 @@
   twitter: sueburnett
   url: about.me/sueburnett
 
-- id: bbutchart
-  name: Ben Butchart
+- name: Ben Butchart
+  id: bbutchart
   url: www.edina.ac.uk
+  linkedin: https://www.linkedin.com/pub/ben-butchart/3/962/353
+
+- name: Paddy Callaghan
+  id: paddycallaghan
+  twitter: paddycallaghan
+  linkedin: https://uk.linkedin.com/pub/matthew-callaghan/10/a19/8b7
+  url: http://www.bradford.ac.uk/
+
 
 - id: LornaMCampbell
   twitter: LornaMCampbell
@@ -229,6 +238,7 @@
 
 - name: Charles Hardy
   id: chardy
+  linkedin: https://www.linkedin.com/in/charleshardy
 
 - id: mhawksey
   name: Martin Hawksey
@@ -410,8 +420,9 @@
   name: Bill Oates
   twitter: wpoates1
 
-- id: m8nd1
-  name: Mandy Phillips
+- name: Mandy Phillips
+  id: m8nd1
+  linkedin: https://www.linkedin.com/in/m8nd1
   twitter: m8nd1
 
 - id: phoenixlily
@@ -429,10 +440,11 @@
   name: Mark Power
   url: about.me/marklpower
 
-- id: richprowse
-  name: Richard Prowse
+- name: Richard Prowse
+  id: richprowse
   twitter: richprowse
   url: contentbear.co.uk/
+  linkedin: https://www.linkedin.com/in/richprowse
 
 - id: BenjaminReid
   name: Benjamin Reid
@@ -551,6 +563,7 @@
   id: michaeldwebb
   twitter: michaeldwebb
   url: www.jisc.ac.uk
+  linkedin: https://www.linkedin.com/profile/view?id=27670425
 
 - id: kier
   name: Kier Whitaker

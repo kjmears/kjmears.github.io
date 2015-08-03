@@ -15,6 +15,7 @@ category: sketchnotes
 speaker:
   - m8nd1
   - PlanetClaire
+  - paddycallaghan
 
 tags:
   - iwmw15
