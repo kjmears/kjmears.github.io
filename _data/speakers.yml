@@ -3,17 +3,17 @@
   twitter: daveaddey
   url: daveaddey.com
 
-- id: jenniallen
-  name: Jenni Allen
+- name: Jenni Allen
+  id: jenniallen
   url: uk.linkedin.com/pub/jenni-allen/27/533/610
 
-- id: txtbks
-  name: Nicole Allen
+- name: Nicole Allen
+  id: txtbks
   url: sparc.arl.org
   twitter: txtbks
 
-- id: usabilityed
-  name: Neil Allison
+- name: Neil Allison
+  id: usabilityed
   twitter: usabilityed
   url: usability-ed.blogspot.co.uk
 

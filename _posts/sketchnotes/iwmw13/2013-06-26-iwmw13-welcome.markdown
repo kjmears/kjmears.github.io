@@ -11,6 +11,8 @@ tags:
   - iwmw13
   - live
 
+speaker: ukwebfocus
+
 ---
 
 A welcome to the conference
