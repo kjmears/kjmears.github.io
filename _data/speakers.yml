@@ -319,10 +319,15 @@
   twitter: jukesie
   url: medium.com/@jukesie
 
-- id: laurakalbag
-  name: Laura Kalbag
+- name: Laura Kalbag
+  id: laurakalbag
   twitter: laurakalbag
   url: laurakalbag.com
+
+- name: Brian Kelly
+  id: ukwebfocus
+  twitter: ukwebfocus
+  url: ukwebfocus.wordpress.com
 
 - id: jeannelking
   name: Jeannel King

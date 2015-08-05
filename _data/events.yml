@@ -1,3 +1,30 @@
+- title: "Opening Session: Putting The Web Manager First"
+  date: 2015-07-27
+  speaker: ukwebfocus
+  event: iwmw.org/iwmw2015/
+  info: iwmw.org/iwmw2015/talks/
+  lanyrd: /2015/iwmw15/
+  sketchnotes: /sketchnotes/iwmw15-welcome.html
+  image: /iwmw15/iwmw15-welcome-thumb.jpg
+
+- title: "Out With the Old, In With the New: Digital Services at Liverpool John Moores University"
+  date: 2015-07-27
+  speaker: m8nd1
+  event: iwmw.org/iwmw2015/
+  info: iwmw.org/iwmw2015/talks/ibeacons/
+  lanyrd: /2015/iwmw15/
+  sketchnotes: /sketchnotes/iwmw15-mandy-phillips.html
+  image: /iwmw15/iwmw15-mandy-phillips-thumb.jpg
+
+- title: "An Agile Approach to Content"
+  date: 2015-07-27
+  speaker: richprowse
+  event: iwmw.org/iwmw2015
+  info: iwmw2015/talks/an-agile-approach-to-content
+  lanyrd: /2015/iwmw15/
+  sketchnotes: /sketchnotes/iwmw15-richard-prowse.html
+  image: /iwmw15/iwmw15-richard-prowse-thumb.jpg
+
 - title: Claire Gibbons and Ben Butchart - IWMW15
   date: 2015-07-27
   text: ibeacons
@@ -10,18 +37,7 @@
   code: iwmw15-04
   sketchnotes: /sketchnotes/iwmw15-claire-gibbons-ben-butchart.html
   image: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
-- title: Claire Gibbons and Mandy Phillips - IWMW15
-  date: 2015-07-28
-  text: Liverpool and Bradford web teams talking aboiut transformation.
-  speaker:
-    - PlanetClaire
-    - m8nd1
-  event: iwmw.org/iwmw2015/
-  info: iwmw.org/iwmw2015/talks/working-with-bradford/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-08
-  sketchnotes: /sketchnotes/iwmw15-claire-gibbons-mandy-phillips.html
-  image: /iwmw15/iwmw15-claire-gibbons-mandy-phillips-thumb.jpg
+
 - title: "The Challenge Is Institutional: Merging Customer Needs With New Operating Realities presented by mike_mcconnell"
   date: 2015-07-28
   event: iwmw.org/iwmw2015/
@@ -55,7 +71,55 @@
   sketchnotes: /sketchnotes/iwmw15-rob-van-tol-sam-sanders.html
   image: /iwmw15/iwmw15-rob-van-tol-sam-sanders-thumb.jpg
   info: iwmw.org/iwmw2015/talks/marrying-creativity-with-management-complexity/
+  speaker:
+    - rvtol
+    - ssanders
 
+- title: 'Working with Institutional Web Teams'
+  date: 2015-07-28
+  text: Liverpool and Bradford web teams talking aboiut transformation.
+  speaker:
+    - m8nd1
+    - PlanetClaire
+    - paddycallaghan
+    - kljhall
+    - alaurika
+  event: iwmw.org/iwmw2015/
+  info: iwmw.org/iwmw2015/talks/working-with-bradford/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-08
+  sketchnotes: /sketchnotes/iwmw15-claire-gibbons-mandy-phillips.html
+  image: /iwmw15/iwmw15-claire-gibbons-mandy-phillips-thumb.jpg
+
+- title: "LinkedIn for Higher Education"
+  date: 2015-07-29
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  code: iwmw15-09
+  info: iwmw.org/iwmw2015/talks/linkedin-for-higher-education
+  speaker: chardy
+  sketchnotes: /sketchnotes/iwmw15-charles-hardy.html
+  image: /iwmw15/iwmw15-charles-hardy-thumb.jpg
+
+- title: "Integrating Institutional Web Services with Jisc’s ‘Cloud First, Mobile First’ Platform"
+  date: 2015-07-29
+  event: iwmw.org/iwmw2015/
+  lanyrd: /2015/iwmw15/
+  info: iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
+  speaker: michaeldwebb
+  sketchnotes: /sketchnotes/iwmw15-michael.webb.html
+  image: /iwmw15/iwmw15-charles-hardy-thumb.jpg
+
+- title: "Beyond Digital – The Agile University"
+  date: 2015-07-29
+  speaker:
+    - nlavery
+    - DanBabington
+  event: iwmw.org/iwmw2015/
+  info: iwmw2015/talks/beyond-digital-the-agile-university/
+  lanyrd: /2015/iwmw15/
+  sketchnotes: /sketchnotes/iwmw15-welcome.html
+  image: /iwmw15/iwmw15-welcome-thumb.jpg
 
 - title: Cable Green - OER15 Keynote
   date: 2015-04-14
@@ -69,7 +133,6 @@
   code: oer15-01
   sketchnotes: /sketchnotes/oer15cablegreen.html
   slides: /docs.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/edit
-
 - title: OER15 Panel Session
   date: 2015-04-14
   text: Panel Session on Open Policy
@@ -84,9 +147,8 @@
   lanyrd: /2015/oer15/
   code: oer15-02
   sketchnotes: /sketchnotes/oer15panel.html
-
-- date: 2015-04-14
-  title: Issues in creating and using video resources for language teaching
+- title: Issues in creating and using video resources for language teaching
+  date: 2015-04-14
   text: Issues in creating and using video resources for language teaching.
   speaker: WarwickLanguage
   image: /oer15/oer15-2015-04-14-teresa-mackinnon-thumb.jpg
@@ -95,7 +157,6 @@
   lanyrd: /2015/oer15/
   code: oer15-03
   sketchnotes: /sketchnotes/oer15teresamackinnon.html
-
 - date: 2015-04-14
   title: Policy development to support OER in Wales
   text: Policy development to support OER in Wales
