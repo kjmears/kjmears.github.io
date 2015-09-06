@@ -7,6 +7,7 @@ image-thumb: /the-blind-assassin-thumb.jpg
 category: sketchnotes
 tags: books
 cc: BY-SA
+meta: Magaret Atwood, sci-fi, booker prize, sketchnotes, mindmaps, books, literature
 
 ---
 

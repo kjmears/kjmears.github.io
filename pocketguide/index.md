@@ -5,9 +5,7 @@ meta: "A pocket guide to sketchnoting book by Kevin Mears"
 
 ---
 
-
 [![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](http://www.fivesimplesteps.com/products/sketchnoting)
-
 
 It was a week ago that the book that I'd been working on for quite a few months launched. On the day I wrote some initial thoughts intending to edit it later, cos that's what writers do. Looking back over what I wrote, in the spirit of 'done is better than perfect' I'll post what I wrote.
 

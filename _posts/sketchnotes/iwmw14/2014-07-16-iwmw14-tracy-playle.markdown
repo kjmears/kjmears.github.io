@@ -16,7 +16,6 @@ redirect_from:
 - "/sketchnote/2014/07/16/iwmw14-tracy-playle.html"
 - "/sketchnotes/2014/07/16/iwmw14-tracy-playle.html"
 
-
 ---
 
 So what? as a useful tool.

@@ -11,6 +11,7 @@ tags: lectures
 homepage: true
 
 ---
+
 A selection of sketchnotes from a series of ILM sessions I did in work.
 
 <a href="{{ site.baseurl }}/images/ilm/building-the-team.gif"><img src="{{ site.baseurl }}/images/ilm/building-the-team.gif"></a>
@@ -24,4 +25,3 @@ From 'Motivating Performance session'
 <a href="{{ site.baseurl }}/images/ilm/problem-solving.gif"><img src="{{ site.baseurl }}/images/ilm/problem-solving.gif"></a>
 
 From 'Problem Solving session'
-
