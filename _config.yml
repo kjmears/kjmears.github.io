@@ -1,6 +1,6 @@
 name: Mearso
 markdown: kramdown
-exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules ]
+exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
 
 highlighter: pygments
 baseurl:

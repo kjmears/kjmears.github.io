@@ -42,7 +42,7 @@ module.exports = function(grunt) {
     concat: {
       dist: {
         src: [
-          'bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/*.js',
+          'bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js',
           'js/scripts.js'
         ],
         dest: 'js/dist/scripts.js',
