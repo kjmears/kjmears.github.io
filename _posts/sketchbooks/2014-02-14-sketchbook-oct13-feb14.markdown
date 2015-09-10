@@ -16,17 +16,15 @@ Ths one included lots of the usual scribbles - the picture here is an example of
 
 This one also included the excellent Handheld conference which [I sketchnoted like the wind](/sketchnotes/handheld13/)
 
-
 This week included my most favourite thing which is to be asked to come up with [some illustrations]({% post_url 2014-02-14-apple-slides %}). I tend to default to what seems to becoming my 'style'; Mainly, I think becauseI can do them pretty quickly and give people the chance to see how I'm thinking.
 
-
 <section>
-			<div class="panel">
-				<a href="/sketchnotes/handheld13/"><img src="/images/handheld2013/syd-lawrence-handheld2013-thumb.gif" alt="" class="img-responsive"></a>
-	
-				<h2 class="panel-title media-heading"><a href="/sketchnotes/handheld13/">Handheld 2013 Sketchnotes</a></h2>
+<div class="panel">
+<a href="/sketchnotes/handheld13/"><img src="/images/handheld2013/syd-lawrence-handheld2013-thumb.gif" alt="" class="img-responsive"></a>
 
-				<p>Collected sketchnotes from Handheld 2013
+<h2 class="panel-title media-heading"><a href="/sketchnotes/handheld13/">Handheld 2013 Sketchnotes</a></h2>
+
+<p>Collected sketchnotes from Handheld 2013
 				<a href="/sketchnotes/handheld13/"> Read more</a></p>
 
 	</div>
