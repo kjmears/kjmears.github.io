@@ -34,6 +34,7 @@ layout: default
 		{{ content }}
 	</article>
 	<aside>
+		  {% if page.event %}
 		<div class="event-meta">
 			<h3>About the Event</h3>
 			<ul>
@@ -59,8 +60,11 @@ layout: default
 			</ul>
 
 	  </div>
+		{% endif %}
 
-		{% include speaker-info.html %}
+		{% if page.speaker %}
+			{% include speaker-info.html %}
+		{% endif %}
 
 
 		<div class="cc-meta">

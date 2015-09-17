@@ -174,9 +174,10 @@
 - id: dawnellis
   name: Dawn Ellis
 
-- id: kwevans
+- id: kwe
   name: Kevin Evans
   twitter: kwe
+  url: kwevans.com
 
 - id: feather
   name: Derek Featherstone
