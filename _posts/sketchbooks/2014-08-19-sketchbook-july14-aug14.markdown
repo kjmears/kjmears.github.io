@@ -19,9 +19,10 @@ I also redescovered the joy of drawinng with coloured pencils again. The softnes
 
 ![Sketchbooks](/images/sketchbooks/sketchbook_jul14_aug14.jpg)
 
+
 <section>
-<div class="panel">
-<a href="{{ site.baseurl }}/sketchnotes/iwmw14/"><img src="{{ site.baseurl }}images//iwmw14/iwmw14-vision-panel-thumb.jpg" alt="" class="img-responsive"></a>
+  <div class="panel">
+  <a href="{{ site.baseurl }}/sketchnotes/iwmw14/"><img src="{{ site.baseurl }}images//iwmw14/iwmw14-vision-panel-thumb.jpg" alt="" class="img-responsive"></a>
 
 <h2 class="panel-title media-heading"><a href="{{ site.baseurl }}/sketchnotes/iwmw14/">IWMW 2014 Sketchnotes</a></h2>
 
