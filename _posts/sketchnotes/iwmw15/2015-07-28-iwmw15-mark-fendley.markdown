@@ -19,6 +19,7 @@ category: sketchnotes
 
 tags:
   - iwmw15
+  - iwmw
   - live
 
 cc: BY-SA

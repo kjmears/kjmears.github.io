@@ -14,6 +14,7 @@ category: sketchnotes
 speaker: richprowse
 tags:
   - iwmw15
+  - iwmw
   - live
 
 cc: BY-SA

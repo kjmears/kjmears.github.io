@@ -15,6 +15,7 @@ lanyrd: /2015/iwmw15/
 
 tags:
   - iwmw15
+  - iwmw
   - live
 
 cc: BY-SA

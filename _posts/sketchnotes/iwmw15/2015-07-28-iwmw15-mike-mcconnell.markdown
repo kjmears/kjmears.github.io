@@ -14,6 +14,7 @@ category: sketchnotes
 speaker: mike_mcconnell
 tags:
   - iwmw15
+  - iwmw
   - live
 
 cc: BY-SA

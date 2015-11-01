@@ -17,6 +17,7 @@ speaker:
 
 tags:
   - iwmw15
+  - iwmw
   - live
 
 cc: BY-SA

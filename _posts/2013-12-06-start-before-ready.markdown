@@ -2,9 +2,10 @@
 layout: post
 title: Start before you're ready
 date: 2013-12-06 11:35:18.000000000 +00:00
-image: start-before-youre-ready.png
+image: /start-before-youre-ready.png
 image-alt: start before you're ready
-image-thumb: start-before-youre-ready-thumb.png
+image-thumb: /start-before-youre-ready-thumb.png
+category: weeknotes
 
 ---
 
