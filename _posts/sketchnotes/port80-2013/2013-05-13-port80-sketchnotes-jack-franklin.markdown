@@ -8,12 +8,13 @@ image: /port80/2013/port80-2013-05-10-jack-franklin.gif
 image-thumb: /port80/2013/port80-2013-05-10-jack-franklin-thumb.gif
 invisible: 1
 speaker: Jack_Franklin
-image-alt: 
+image-alt:
 category: sketchnotes
 code: port80-2013-Jack_Franklin  
 tags:
 - port80-2013
 - live
+- port80
 category: sketchnotes
 
 

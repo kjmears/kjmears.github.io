@@ -8,7 +8,11 @@ image:
 image-thumb: /port80slides/thumb.gif
 category: slides
 homepage: true
-tags: port80-2014
+tags:
+- port80-2014
+- live
+- port80
+- port80
 
 ---
 

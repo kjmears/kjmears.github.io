@@ -14,9 +14,10 @@ speaker:
   - brandnatter
 tags:
   - live
+  - port80
 ---
 
-I drew some sketchnotes at the <a href="http://port80events.co.uk/summer-localhost-slides/">Port80 Summer Localhost</a> 
+I drew some sketchnotes at the <a href="http://port80events.co.uk/summer-localhost-slides/">Port80 Summer Localhost</a>
 
 ![Jrcryer](../../images/port80localhost/jrcryer.gif)
 
