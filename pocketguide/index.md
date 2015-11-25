@@ -2,6 +2,7 @@
 layout: page
 title: A Pocket guide to Sketchnoting
 meta: "A pocket guide to sketchnoting book by Kevin Mears"
+date: 2015-06-18
 
 ---
 
