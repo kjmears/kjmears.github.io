@@ -1,7 +1,28 @@
+- isbn: 9780446504126
+  title: 'NurtureShock: New Thinking About Children'
+  author:
+    - Po Bronson
+    - Ashley Merryman
+  finished: 11-2015
 
--isbn: 9781447202509
- title: The Psychopath Test
- author: Jon Robson
+- title: The Left hand of Darkness
+  author: Ursula K. Le Guin
+  amazon: "http://www.amazon.co.uk/The-Left-Hand-Of-Darkness/dp/1857230744/"
+  isbn: 978-1857230741
+
+- title: "Drive: The Surprising Truth About What Motivates Us"
+  author: Daniel H. Pink
+  amazon: http://www.amazon.co.uk/Drive-Surprising-Truth-About-Motivates/dp/184767769X
+  isbn: 978-1847677693
+
+- title: "Moonwalking with Einstein: The Art and Science of Remembering Everything"
+  author: Joshua Foer
+  amazon: http://www.amazon.co.uk/gp/product/B004W25KKW
+
+- isbn: 9781447202509
+  title: The Psychopath Test
+  author: Jon Robson
+  finished: 29-07-2015
 
 - isbn: 978-0241963623
   title: "The Numbers Game: Why Everything You Know About Football is Wrong"

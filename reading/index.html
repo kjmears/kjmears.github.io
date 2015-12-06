@@ -5,16 +5,150 @@ published: true
 sitemap: false
 ---
 
-
 <div class="row">
+	<h2>Finished in 2015</h2>
+
 	<ul>
-		{% for book in site.data.reading %}
+		{% for book in site.data.2015 %}
 
 		{% if book.amazon != null %}
 			<li><a href="{{ book.amazon }}">{{ book.title }}</a></li>
 		{% else %}
 			<li>{{ book.title }}</li>
 		{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2014</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2014" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+
+<div class="row">
+	<h2>Finished in 2013</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2013" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2012</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2012" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2011</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2011" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2010</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2010" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2009</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2009" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2008</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2008" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2007</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2007" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2006</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2006" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2005</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2005" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2004</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress contains "2004" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+<div class="row">
+	<h2>Finished</h2>
+	<ul>
+		{% for book in site.data.full-list %}
+			{% if book.progress == "Finished" %}
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 </div>
