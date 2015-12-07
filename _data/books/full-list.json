@@ -51,23 +51,9 @@
   "pubdate": "[2008-02-01]",
   "notes": "",
   "comments": "",
-  "progress": "Abandoned on Apr 3, 2010",
+  "progress": "Abandoned",
   "Stars": 3,
   "tags": "non-fiction / travel / walking / guide"
-}, {
-  "isbn": "[9780140204483]",
-  "title": "Yoga",
-  "subtitle": "",
-  "author": "Ernest E. Wood",
-  "format": "Paperback",
-  "pages": 272,
-  "publisher": "Penguin Books Ltd",
-  "pubdate": "[1970-01-29]",
-  "notes": "",
-  "comments": "",
-  "progress": "Abandoned on Feb 2, 2010",
-  "Stars": 2,
-  "tags": "pelican / yoga / non-fiction"
 }, {
   "isbn": "[9781568982588]",
   "title": "Tibor Kalman, Perverse Optimist",
@@ -79,11 +65,11 @@
   "pubdate": "[2000-09-01]",
   "notes": "",
   "comments": "",
-  "progress": "Abandoned on Oct 30, 2012",
+  "progress": "Abandoned",
   "Stars": 2,
   "tags": "Monograph"
 },
-{
+ {
   "isbn": "[9781844250950]",
   "title": "The Scooter Book",
   "subtitle": "Everything you need to know about owning, enjoying and maintaining your scooter",
@@ -292,20 +278,6 @@
   "comments": "",
   "progress": "Finished",
   "Stars": "",
-  "tags": ""
-}, {
-  "isbn": "[9781620101131]",
-  "title": "Lost at Sea",
-  "subtitle": "",
-  "author": "Bryan Lee O'Malley",
-  "format": "Hardcover",
-  "pages": 176,
-  "publisher": "Oni Press",
-  "pubdate": "[2013-xx-xx]",
-  "notes": "",
-  "comments": "",
-  "progress": "Finished",
-  "Stars": 3,
   "tags": ""
 }, {
   "isbn": "[9780752864143]",
@@ -519,7 +491,7 @@
   "tags": "science fiction / scifi"
 }, {
   "isbn": "[9780553276121]",
-  "title": "STAINLESS STEEL RAT FOR PRESIDENT, THE",
+  "title": "The Stainless steel rat for President",
   "subtitle": "(Stainless Steel Rat Books (Paperback))",
   "author": "Harry Harrison",
   "format": "Paperback",
@@ -826,20 +798,6 @@
   "Stars": 3,
   "tags": "penguin"
 }, {
-  "isbn": "[9780140171662]",
-  "title": "Time's Arrow",
-  "subtitle": "",
-  "author": "Martin Amis",
-  "format": "Paperback",
-  "pages": 176,
-  "publisher": "Penguin Books Ltd",
-  "pubdate": "[1992-05-28]",
-  "notes": "",
-  "comments": "",
-  "progress": "Finished",
-  "Stars": "",
-  "tags": ""
-}, {
   "isbn": "[9780099455356]",
   "title": "Time's Arrow or the Nature of the Offence",
   "subtitle": "",
@@ -1120,20 +1078,6 @@
   "Stars": 5,
   "tags": ""
 }, {
-  "isbn": "[9781582342900]",
-  "title": "The Rider",
-  "subtitle": "",
-  "author": "Tim Krabbé",
-  "format": "Paperback",
-  "pages": 160,
-  "publisher": "Bloomsbury USA",
-  "pubdate": "[2003-06-12]",
-  "notes": "",
-  "comments": "",
-  "progress": "Finished",
-  "Stars": 3,
-  "tags": ""
-}, {
   "isbn": "[9780747559412]",
   "title": "The Rider",
   "subtitle": "",
@@ -1304,8 +1248,8 @@
 }, {
   "isbn": "[9781568984308]",
   "title": "You Are Here",
-  "subtitle": "",
-  "author": "",
+  "subtitle": "Personal Geographies and Other Maps of the Imagination",
+  "author": "Katharine Harmon",
   "format": "Paperback",
   "pages": 192,
   "publisher": "Princeton Architectural Press",
@@ -1429,7 +1373,7 @@
   "tags": ""
 }, {
   "isbn": "[9780140294675]",
-  "title": "The closed circle",
+  "title": "The Closed Circle",
   "subtitle": "",
   "author": "Jonathan Coe",
   "format": "Paperback",
@@ -1753,7 +1697,7 @@
   "isbn": "[9781568985503]",
   "title": "Robert Brownjohn",
   "subtitle": "Sex and Typography",
-  "author": "Emily KING",
+  "author": "Emily King",
   "format": "Hardcover",
   "pages": 240,
   "publisher": "Princeton Architectural Press",
@@ -2369,7 +2313,7 @@
   "isbn": "[9780091739874]",
   "title": "The Jeeves Omnibus: No.1",
   "subtitle": "",
-  "author": "",
+  "author": "Pelham G. Wodehouse",
   "format": "Paperback",
   "pages": 581,
   "publisher": "Cornerstone",
@@ -2691,7 +2635,7 @@
   "isbn": "[9780140009941]",
   "title": "Quick Service",
   "subtitle": "",
-  "author": "",
+  "author": "Pelham G. Wodehouse",
   "format": "Paperback",
   "pages": 192,
   "publisher": "Penguin Books Ltd",
@@ -2775,7 +2719,7 @@
   "isbn": "[9780140282702]",
   "title": "Le Grand Meaulnes",
   "subtitle": "",
-  "author": "",
+  "author": "Henri Alain-Fournier",
   "format": "Paperback",
   "pages": 224,
   "publisher": "Penguin Books Ltd",
@@ -2803,7 +2747,7 @@
   "isbn": "[9780300111705]",
   "title": "An Anthology of Graphic Fiction, Cartoons, and True Stories",
   "subtitle": "",
-  "author": "",
+  "author": "Ivan Brunetti",
   "format": "Hardcover",
   "pages": 392,
   "publisher": "Yale University Press",
@@ -3053,7 +2997,7 @@
   "tags": ""
 }, {
   "isbn": "[9780749309916]",
-  "title": "ALL PLAYED OUT",
+  "title": "All played out",
   "subtitle": "",
   "author": "Pete Davies",
   "format": "Paperback",
@@ -3177,20 +3121,6 @@
   "progress": "Finished on Nov 19, 2010",
   "Stars": 4,
   "tags": "history / historical / military / penguin / ww2 / non-fiction"
-}, {
-  "isbn": "[9780141909899]",
-  "title": "Extremely Loud and Incredibly Close",
-  "subtitle": "",
-  "author": "Jonathan Safran Foer",
-  "format": "eBook",
-  "pages": 368,
-  "publisher": "Penguin Books Ltd",
-  "pubdate": "[2006-05-25]",
-  "notes": "",
-  "comments": "",
-  "progress": "Finished on Nov 2, 2013",
-  "Stars": 3,
-  "tags": ""
 }, {
   "isbn": "[9780141025186]",
   "title": "Extremely Loud and Incredibly Close",
@@ -4168,49 +4098,7 @@
   "pubdate": "[2012-07-16]",
   "notes": "",
   "comments": "",
-  "progress": "Reading since Dec 30, 2012",
-  "Stars": "",
-  "tags": ""
-}, {
-  "isbn": "[9780141000039]",
-  "title": "The Sagas of Icelanders",
-  "subtitle": "",
-  "author": "",
-  "format": "Paperback",
-  "pages": 848,
-  "publisher": "Penguin (Non-Classics)",
-  "pubdate": "[2001-03-01]",
-  "notes": "",
-  "comments": "",
-  "progress": "Reading since Feb 27, 2013",
-  "Stars": "",
-  "tags": ""
-}, {
-  "isbn": "[9780714861098]",
-  "title": "Iron Fists",
-  "subtitle": "Branding the 20th Century Totalitarian State",
-  "author": "Steven Heller",
-  "format": "Paperback",
-  "pages": 240,
-  "publisher": "Phaidon Press",
-  "pubdate": "[2011-04-20]",
-  "notes": "",
-  "comments": "",
-  "progress": "Reading since Jul 9, 2013",
-  "Stars": "",
-  "tags": ""
-}, {
-  "isbn": "[9781448175390]",
-  "title": "Top Dog",
-  "subtitle": "The Science of Winning and Losing",
-  "author": "Po Bronson, Ashley Merryman",
-  "format": "eBook",
-  "pages": "",
-  "publisher": "Ebury Publishing",
-  "pubdate": "[2013-02-19]",
-  "notes": "",
-  "comments": "",
-  "progress": "Reading since Mar 4, 2014",
+  "progress": "Abandoned",
   "Stars": "",
   "tags": ""
 }, {
@@ -4661,20 +4549,6 @@
   "progress": "Started on 1996",
   "Stars": "",
   "tags": ""
-}, {
-  "isbn": "[9780099448921]",
-  "title": "\"Rings of Saturn: An English Pilgrimage\"",
-  "subtitle": "",
-  "author": "W G Sebald",
-  "format": "Paperback",
-  "pages": 320,
-  "publisher": "Vintage",
-  "pubdate": "[2002-11-07]",
-  "notes": "",
-  "comments": "",
-  "progress": "Started on Aug 1, 2009",
-  "Stars": "",
-  "tags": "travel / biography"
 }, {
   "isbn": "[9780198609414]",
   "title": "Galileo's Finger",
