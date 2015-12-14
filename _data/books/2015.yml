@@ -4,6 +4,21 @@
   finished: 11-2015
   amazon: "http://www.amazon.co.uk/gp/product/0091933781/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0091933781&linkCode=as2&tag=mearso-21"
 
+- title: "Iron Fists: Branding the 20th-Century Totalitarian State"
+  author: Steven Heller
+  amazon: "http://www.amazon.co.uk/gp/product/071486109X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=071486109X&linkCode=as2&tag=mearso-21"
+  isbn: 071486109X
+
+# - title: "The Urban Sketcher: Techniques for Seeing and Drawing on Location"
+#   author: Marc Taro Holmes
+#   isbn: 1440334714
+#   amazon: "http://www.amazon.co.uk/gp/product/1440334714/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1440334714&linkCode=as2&tag=mearso-21"
+
+- title: "Sneakers: The Complete Collectors' Guide"
+  author: Unorthodox Styles
+  isbn: 0500512159
+  amazon: http://www.amazon.co.uk/gp/product/0500512159/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0500512159&linkCode=as2&tag=mearso-21
+
 - isbn: 9781447202509
   title: The Psychopath Test
   author: Jon Ronson
