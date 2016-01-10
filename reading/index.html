@@ -6,10 +6,10 @@ sitemap: false
 ---
 
 <div class="row">
-	<h2>Finished in 2015</h2>
+	<h2>Finished in 2016</h2>
 
 <ul>
-	{% for book in site.data.books.2015 %}
+	{% for book in site.data.books.2016 %}
 	<li>
 		{% if book.amazon != null %}
 		<strong><a href="{{ book.amazon }}">{{ book.title }}</a></strong>
@@ -17,6 +17,27 @@ sitemap: false
 		<strong>{{ book.title }}</strong>
 	{% endif %}
 		<em>{{ book.author }}</em>
+	</li>
+	{% endfor %}
+</ul>
+</div>
+
+<div class="row">
+	<h2>Finished in 2015</h2>
+
+<ul>
+	{% for book in site.data.books.2015 %}
+	<li>
+
+		{% if book.amazon != null %}
+		<strong><a href="{{ book.amazon }}">{{ book.title }}</a></strong>
+		{% else %}
+		<strong>{{ book.title }}</strong>
+	{% endif %}
+		<em>{{ book.author }}</em>
+		{% if book.sketchnotes != null %}
+		<a href="/sketchnotes/{{ book.sketchnotes }}.html">Sketchnotes</a>
+		{% endif %}
 	</li>
 	{% endfor %}
 </ul>

@@ -21,16 +21,19 @@
 
 - isbn: 9781447202509
   title: The Psychopath Test
+  sketchnotes: the-psychopath-test
   author: Jon Ronson
   finished: 29-07-2015
   amazon: "http://www.amazon.co.uk/gp/product/0330492276/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0330492276&linkCode=as2&tag=mearso-21"
 
 - title: The Martian Way
+  sketchnotes: the-martian-way
   author: Isaac Asimov
   amazon: "http://www.amazon.co.uk/gp/product/0586017992/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0586017992&linkCode=as2&tag=mearso-21"
   finished: 26-06-2015
 
 - title: The Blind Assassin
+  sketchnotes: the-blind-assassin-sketchnotes
   author: Margaret Atwood
   amazon: "http://www.amazon.co.uk/gp/product/1860498809/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1860498809&linkCode=as2&tag=mearso-21"
   isbn: 1860498809
@@ -39,12 +42,15 @@
 
 - title: The Left hand of Darkness
   author: Ursula K. Le Guin
+  sketchnotes: lefthandofdarkness-sketchnotes
   amazon: "http://www.amazon.co.uk/gp/product/1857230744/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1857230744&linkCode=as2&tag=mearso-21"
   isbn: 978-1857230741
   finished: 30-03-2015
 
 - title: "Drive: The Surprising Truth About What Motivates Us"
+
   author: Daniel H. Pink
+  sketchnotes: drive-sketchnotes
   amazon: "http://www.amazon.co.uk/gp/product/184767769X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=184767769X&linkCode=as2&tag=mearso-21"
   isbn: 978-1847677693
   finished: 20-05-2015

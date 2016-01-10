@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 10-09-2015 */
+/*! mearso-jekyll-site dev 10-01-2016 */
 
 @charset "UTF-8";
 /*!
@@ -5600,6 +5600,11 @@ aside.taglist {
     float: left;
     width: 33.33333%;
   }
+}
+
+caption {
+  margin-bottom: 2em;
+  color: tomato;
 }
 
 /*# sourceMappingURL=global.css.map */

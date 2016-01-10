@@ -96,3 +96,8 @@ aside{
 		@include make-md-column(4);
 		background-color: white;
 	}
+
+caption{
+	margin-bottom: 2em;
+	color:tomato;
+}
