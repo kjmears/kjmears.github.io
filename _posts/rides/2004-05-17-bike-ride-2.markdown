@@ -1,10 +1,9 @@
 ---
 layout: post
-status: pending
 published: true
 title: Bike Ride
-image: rides/53.jpg
-image-thumb: rides/53-thumb.jpg
+image: /rides/53.jpg
+image-thumb: /rides/53-thumb.jpg
 date: 2004-05-17
 category: rides
 

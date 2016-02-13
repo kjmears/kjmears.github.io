@@ -3,7 +3,7 @@ layout: post
 status: pending
 published: true
 title: Llantrisant Ride
-image-thumb: rides/llantrisant-thumb.jpg
+image-thumb: /rides/llantrisant-thumb.jpg
 date: 2004-06-08 09:39:00.000000000 +01:00
 category: rides
 ---

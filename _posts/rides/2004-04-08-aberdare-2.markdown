@@ -3,8 +3,8 @@ layout: post
 status: pending
 published: true
 title: Aberdare
-image-thumb: rides/aberdare-thumb.jpg
-image: rides/aberdare.jpg
+image-thumb: /rides/aberdare-thumb.jpg
+image: /rides/aberdare.jpg
 date: 2004-04-08 10:28:00.000000000 +01:00
 category: rides
 

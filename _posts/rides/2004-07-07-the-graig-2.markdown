@@ -3,7 +3,7 @@ layout: post
 status: pending
 published: true
 title: The Graig
-image-thumb: rides/graig-thumb.jpg
+image-thumb: /rides/graig-thumb.jpg
 date: 2004-07-07 09:23:00.000000000 +01:00
 category: rides
 ---
