@@ -2,7 +2,12 @@
 layout: page
 title: IWMW2012 Sketchnotes
 
+redirect_from:
+- "/sketchnotes/sketchnoting-at-iwmw12.html"
+
 ---
+
+![Collected sketchnotes from IWMW12](/images/iwmw12/iwmw12.png)
 
 I recently attended the IWMW12 conference in the University of Edinburgh and had a great time. As usual the talks were interesting and varied but all based around the particular concerns of university web teams.
 

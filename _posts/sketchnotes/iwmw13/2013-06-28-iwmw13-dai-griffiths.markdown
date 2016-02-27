@@ -11,7 +11,9 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
 tags:
   - iwmw13
   - live
+code: iwmw13
 
+speaker: daigriffiths
 ---
 
 All about the contradictaory challenges unis face.

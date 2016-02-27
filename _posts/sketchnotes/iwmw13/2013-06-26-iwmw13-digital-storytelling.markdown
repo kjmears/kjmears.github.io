@@ -12,6 +12,10 @@ tags:
   - iwmw13
   - live
 
+speaker:
+  - HannaMiet
+  - sboneham
+
 ---
 
 Steve and Hannah's session on digital storytelling.

@@ -12,6 +12,8 @@ tags:
   - iwmw13
   - live
 
+speaker: k-anagnostopoulou
+
 ---
 
 Kyriaki talking all about MOOCs.

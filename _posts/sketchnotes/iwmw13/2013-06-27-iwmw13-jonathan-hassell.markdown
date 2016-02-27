@@ -12,6 +12,7 @@ tags:
   - iwmw13
   - live
 
+speaker: jonhassell
 ---
 
 Pretty dry talk about Accessibility and the British Standard.
