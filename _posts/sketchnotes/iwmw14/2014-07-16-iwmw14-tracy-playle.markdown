@@ -7,9 +7,12 @@ date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-tracy-playle.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
 category: sketchnotes
+lanyrd: /2014/iwmw14/
+
 speaker: tracyplayle
 tags:
   - iwmw14
+  - iwmw
   - live
 
 redirect_from:

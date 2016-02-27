@@ -12,6 +12,8 @@ tags:
   - iwmw13
   - live
 
+speaker: martin_hamilton
+
 ---
 
 A new take on how to do things - being open by default.

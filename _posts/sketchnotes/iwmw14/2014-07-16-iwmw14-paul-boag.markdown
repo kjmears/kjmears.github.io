@@ -7,11 +7,14 @@ title: Paul Boag - IWMW2014
 date: 2014-07-16
 image: /iwmw14/iwmw14-2014-07-16-paul-boag.jpg
 image-thumb: /iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg
-category: 
-- sketchnotes
+category: sketchnotess
+lanyrd: /2014/iwmw14/
+event: iwmw.org/iwmw2014/
+
 speaker: boagworld
 tags:
   - iwmw14
+  - iwmw
   - live
 
 reference: http://iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/
@@ -22,4 +25,3 @@ redirect_from:
 ---
 
 Good call to make changes, and how to do it.
-

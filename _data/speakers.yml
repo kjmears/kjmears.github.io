@@ -174,6 +174,11 @@
 - id: dawnellis
   name: Dawn Ellis
 
+- id: emmottion
+  name: Stephen Emmott
+  linkedin: https://uk.linkedin.com/in/stephenemmott
+  twitter: emmottion
+
 - id: kwe
   name: Kevin Evans
   twitter: kwe
@@ -236,6 +241,11 @@
   name: Chris Gutteridge
   twitter: cgutteridge
   url: users.ecs.soton.ac.uk/cjg/
+
+- id: mariekeguy
+  name: Marieke Guy
+  twitter: mariekeguy
+  url: mariekeguy.co.uk
 
 - name: Katie Hall
   id: kljhall
@@ -411,6 +421,10 @@
   twitter: RobertMills
   url: www.robertmills.me/book
 
+- id: traceymilnes
+  name: traceymilnes
+  linkedin: https://uk.linkedin.com/in/traceymilnes
+
 - id: wilsonminer
   twitter: wilsonminer
   name: Wilson Miner
@@ -434,6 +448,12 @@
   name: Chris Murphy
   twitter: fehler
   url: monographic.org
+
+- id: MikeNolan
+  name: Mike Nolan
+  twitter: MikeNolan
+  url: blogs.edgehill.ac.uk/webservices/
+  linkedin: https://www.linkedin.com/in/mjnolan
 
 - id: aroakley
   name: Andrew Oakley

@@ -712,6 +712,11 @@
   code: iwmw14-11
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
   lanyrd: /2014/iwmw14/
+  speaker:
+    - emmottion
+    - MikeNolan
+    - mike_mcconnell
+    - traceymilnes
 
 - title: 'Banish your inner critic'
   sketchnotes: /sketchnotes/port80-2014-denise-jacobs.html
@@ -850,7 +855,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
   image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
   lanyrd: /2013/iwmw13/
-  code: IWMW13
+  code: iwmw13
 
 - title: "Et tu MOOC? Massive Online Considerations"
   sketchnotes: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
@@ -859,6 +864,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/kyriaki/index.html
   image: iwmw13/iwmw13-et-tu-mooc-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: Turning Our Attention to Supporting Research Projects
   sketchnotes: /sketchnotes/iwmw13-amber-thomas.html
@@ -867,6 +873,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
   image: iwmw13/iwmw13-supporting-research-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: Digital Storytelling
   sketchnotes: /sketchnotes/iwmw13-digital-storytelling.html
@@ -877,6 +884,7 @@
     - HannaMiet
   image: iwmw13/iwmw13-digital-storytelling-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: "Stop Trying to Avoid Losing and Start Winning: How BS 8878 Reframes the Accessibility Question"
   sketchnotes: /sketchnotes/iwmw13-jonathan-hassell.html
@@ -885,6 +893,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hassell/index.html
   image: iwmw13/iwmw13-BS8878-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: Adapting to Responsive Web Design
   sketchnotes: /sketchnotes/iwmw13-david-cornforth.html
@@ -893,6 +902,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
   image: iwmw13/iwmw13-adapting-to-rwd-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: The Inside-Out University
   sketchnotes: /sketchnotes/iwmw13-martin-hamilton.html
@@ -901,6 +911,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
   image: iwmw13/iwmw13-inside-out-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: Working With Developers
   sketchnotes: /sketchnotes/iwmw13-paul-walk.html
@@ -909,6 +920,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/walk/index.html
   image: iwmw13/iwmw13-working-with-developers-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: "What the fcuk just happened then?"
   sketchnotes: /sketchnotes/iwmw13-ranjit-sidhu.html
@@ -919,6 +931,7 @@
   lanyrd: /2013/iwmw13/
   slides: www.slideshare.net/iwmw/9am-16th-august-2012-what-the-fcuk-just-happened-then
   video: uniofbath.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6394fac-d4f6-40c3-a5ca-b1720f541b0b
+  code: iwmw13
 
 - title: "Institutional Culture Is Crippling Your Web Strategy!"
   sketchnotes: /sketchnotes/iwmw13-paul-boag.html
@@ -927,6 +940,7 @@
   image: iwmw13/iwmw13-culture-crippling-thumb.gif
   lanyrd: /2013/iwmw13/
   speaker: boagworld
+  code: iwmw13
 
 - title: "Open Up: Open Data in the Public Sector"
   sketchnotes: /sketchnotes/iwmw13-open-data.html
@@ -937,6 +951,7 @@
   speaker:
     - psychemedia
     - mhawksey
+  code: iwmw13
 
 - title: IWMW and the birth of a Content Strategist
   sketchnotes: /sketchnotes/iwmw13-richard-prowse.html
@@ -945,6 +960,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
   image: iwmw13/iwmw13-content-strategist-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: "The Delicious Discomfort Of Not Knowing: How to Lead Effectively Through Uncertainty"
   sketchnotes: /sketchnotes/iwmw13-neil-denny.html
@@ -953,6 +969,7 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
   image: iwmw13/iwmw13-delicious-discomfort-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: The University in a Bind
   sketchnotes: /sketchnotes/iwmw13-dai-griffiths.html
@@ -961,9 +978,10 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
   image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif
   lanyrd: /2013/iwmw13/
+  code: iwmw13
 
 - title: Experiences in user centred design at the University of Edinburgh
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-neil-allison.html
   speaker: usabilityed
   info: http://iwmw.ukoln.ac.uk/iwmw2012/sessions/allison/index.html
   event: iwmw.ukoln.ac.uk/iwmw2012
@@ -972,7 +990,7 @@
   lanyrd: /2012/iwmw12/
 
 - title: Data and the Web Manager
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-kevin-ashley.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ashley/index.html
   image: iwmw12/iwmw12-thumb.gif
@@ -981,7 +999,7 @@
   speaker: kevingashley
 
 - title: "Data Visualisation: A Taster"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-tony-hirst.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/hirst-hawksey/index.html
@@ -992,7 +1010,7 @@
     - mhawksey
 
 - title: Key Information Set Data
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-andrew-oakley.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/oakley/index.html
@@ -1001,7 +1019,7 @@
   speaker: aroakley
 
 - title: "Beyond WCAG: Experiences in Implementing BS 8878"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-ea-draffan.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/draffan/index.html
@@ -1010,7 +1028,7 @@
   speaker: eadraffan
 
 - title: "Going Online - Do Universities Really Understand the Internet?"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-von-prond.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/prondzynski/index.html
   image: iwmw12/iwmw12-thumb.gif
@@ -1019,7 +1037,7 @@
   speaker: vonprond
 
 - title: "Do I Need an App for That?"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-rob-borley.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/borley/index.html
   image: iwmw12/iwmw12-thumb.gif
@@ -1028,7 +1046,7 @@
   speaker: bobscape
 
 - title: "What Do You Really Want?"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-dawn-ellis.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ellis/index.html
   image: iwmw12/iwmw12-thumb.gif
@@ -1037,7 +1055,7 @@
   speaker: dawnellis
 
 - title: "The Good, the Bad and the Ugly: Two Years of Running a Content Management Service"
-  sketchnotes: /sketchnotes/sketchnoting-at-iwmw12.html
+  sketchnotes: /sketchnotes/iwmw12-helen-sargan.html
   event: iwmw.ukoln.ac.uk/iwmw2012
   info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/sargan/index.html
   image: iwmw12/iwmw12-helen-sargan-thumb.gif

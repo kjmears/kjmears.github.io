@@ -12,6 +12,9 @@ tags:
   - iwmw13
   - live
 
+speaker:
+  - psychemedia
+  - mariekeguy
 ---
 
 All about open data in the public sector.

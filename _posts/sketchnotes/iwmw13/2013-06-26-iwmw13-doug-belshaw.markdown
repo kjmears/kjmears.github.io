@@ -12,6 +12,10 @@ tags:
   - iwmw13
   - live
 
+code: iwmw13
+
+speaker: dajbelshaw
+
 ---
 
 Really enjoyed this talk about open badges.

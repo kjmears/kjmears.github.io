@@ -7,9 +7,8 @@ image: /iwmw12/iwmw12.png
 image-thumb: /iwmw12/iwmw12-thumb.gif
 date: 2012-07-05 11:50:19.000000000 +01:00
 category: sketchnotes
-tags:
-- iwmw12
-homepage: true
+
+homepage: false
 code: iwmw12
 speaker:
   - ukwebfocus

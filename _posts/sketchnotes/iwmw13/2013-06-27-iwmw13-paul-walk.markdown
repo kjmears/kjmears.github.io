@@ -12,6 +12,7 @@ tags:
   - iwmw13
   - live
 
+speaker: paulwalk
 ---
 
 Developers are people too. Almost.

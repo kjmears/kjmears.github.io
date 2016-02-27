@@ -12,7 +12,7 @@ bio: http://contentbear.co.uk/
 tags:
   - iwmw13
   - live
-
+speaker: richprowse
 ---
 
 His personal journey to content strategy

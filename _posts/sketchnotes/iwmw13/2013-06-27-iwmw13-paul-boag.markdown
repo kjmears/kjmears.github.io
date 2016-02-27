@@ -13,6 +13,7 @@ tags:
   - iwmw13
   - live
 
+speaker: boagworld
 ---
 
 Institutional culture is crippling your web strategy.

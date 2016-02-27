@@ -12,6 +12,8 @@ tags:
   - iwmw13
   - live
 
+speaker: NeilDenny
+
 ---
 
 A wide ranging talk about how to get better and be better.

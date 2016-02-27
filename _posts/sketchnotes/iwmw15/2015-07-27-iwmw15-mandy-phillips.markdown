@@ -1,6 +1,6 @@
 ---
 
-code: iwmw15-02
+
 layout: post
 published: true
 title: Mandy Phillips - IWMW15

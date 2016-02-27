@@ -12,6 +12,7 @@ tags:
   - iwmw13
   - live
 
+speaker: dc86
 ---
 
 Adapting to Responsive Web Design
