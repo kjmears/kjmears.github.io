@@ -7,7 +7,7 @@ category: sketchnotes
 tags: live
 image: /bara-brith-open-data-2016.jpg
 original: /bara-brith-open-data-2016-original.jpg
-image-thumb: /dhh-railsconf2014-thumb.gif
+image-thumb: /bara-brith-open-data-2016-thumb.jpg
 cc: BY
 event: govcampcymru.org/barabrithcamp
 lanyrd: /2016/opendata/
