@@ -163,6 +163,11 @@
   twitter: NeilDenny
   url: www.linkedin.com/in/neildenny
 
+- id: ldodds
+  name: Leigh Dodds
+  twitter: ldodds
+  url: www.ldodds.com/
+
 - id: hereinthehive
   name: Dan Donald
   twitter: hereinthehive
@@ -500,6 +505,11 @@
   twitter: sturobson
   url: www.alwaystwisted.com
 
+- id: symroe
+  name: Sym Roe
+  twitter: symroe
+  url: symroe.co.uk
+
 - id: vivienrolfe
   name: Vivien Rolfe
   twitter: vivienrolfe
@@ -545,6 +555,11 @@
   twitter: atarkowski
   name: Alek Tarkowski
   website: oerpolicy.eu/
+
+- id: JeniT
+  name: Jeni Tennison
+  twitter: JeniT
+  url: www.jenitennison.com/archive/index.html
 
 - id: kimberleytew
   name: Kimberley Tew
