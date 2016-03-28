@@ -8,6 +8,8 @@ image: /thewebis/phil-hawksworth.png
 image-thumb: /thewebis/phil-hawksworth-thumb.png
 category: sketchnotes
 speaker: philhawksworth
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

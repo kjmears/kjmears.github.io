@@ -8,6 +8,8 @@ image: /thewebis/chris-murphy.png
 image-thumb: /thewebis/chris-murphy-thumb.png
 category: sketchnotes
 speaker: fehler
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

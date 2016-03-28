@@ -8,6 +8,7 @@ image: /thewebis/sally-jenkinson.png
 image-thumb: /thewebis/sally-jenkinson-thumb.png
 category: sketchnotes
 speaker: sjenkinson
+lanyrd: /2014/thewebis/
 tags:
   - thewebis
   - live

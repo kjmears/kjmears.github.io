@@ -8,6 +8,8 @@ image: /thewebis/nathan-ford.png
 image-thumb: /thewebis/nathan-ford-thumb.png
 category: sketchnotes
 speaker: nathan_ford
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

@@ -8,6 +8,7 @@ date: 2014-10-31
 image: /thewebis/owen-gregory.png
 image-thumb: /thewebis/owen-gregory-thumb.png
 category: sketchnotes
+lanyrd: /2014/thewebis/
 
 tags:
   - thewebis

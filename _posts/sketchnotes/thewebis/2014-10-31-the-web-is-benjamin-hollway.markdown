@@ -8,6 +8,8 @@ image: /thewebis/benjamin-hollway.png
 image-thumb: /thewebis/benjamin-hollway-thumb.png
 category: sketchnotes
 speaker: BenjaminHollway
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

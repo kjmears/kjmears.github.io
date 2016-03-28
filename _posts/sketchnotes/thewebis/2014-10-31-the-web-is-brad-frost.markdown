@@ -8,6 +8,8 @@ image: /thewebis/brad-frost.png
 image-thumb: /thewebis/brad-frost-thumb.png
 category: sketchnotes
 speaker: brad_frost
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

@@ -8,6 +8,8 @@ image: /thewebis/andy-davies.png
 image-thumb: /thewebis/andy-davies-thumb.png
 category: sketchnotes
 speaker: andydavies
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

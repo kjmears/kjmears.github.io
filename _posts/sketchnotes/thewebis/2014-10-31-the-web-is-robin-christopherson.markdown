@@ -8,6 +8,8 @@ image: /thewebis/robin-christopherson.png
 image-thumb: /thewebis/robin-christopherson-thumb.png
 category: sketchnotes
 speaker: USA2DAY
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

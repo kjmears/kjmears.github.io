@@ -8,8 +8,6 @@ image: /thewebis/mr-bingo.png
 image-thumb: /thewebis/mr-bingo-thumb.png
 category: sketchnotes
 speaker: mr_bingo
-event: www.theweb.is/
-info: www.theweb.is/
 lanyrd: /2014/thewebis/
 
 tags:

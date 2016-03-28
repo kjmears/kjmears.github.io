@@ -8,6 +8,8 @@ image: /thewebis/kier-whitaker.png
 image-thumb: /thewebis/kier-whitaker-thumb.png
 category: sketchnotes
 speaker: kier
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

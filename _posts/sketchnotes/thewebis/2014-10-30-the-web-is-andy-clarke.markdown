@@ -8,6 +8,8 @@ image: /thewebis/andy-clarke.png
 image-thumb: /thewebis/andy-clarke-thumb.png
 category: sketchnotes
 speaker: Malarkey
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

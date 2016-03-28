@@ -8,6 +8,8 @@ image: /thewebis/david-hieatt.png
 image-thumb: /thewebis/david-hieatt-thumb.png
 category: sketchnotes
 speaker: davidhieatt
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

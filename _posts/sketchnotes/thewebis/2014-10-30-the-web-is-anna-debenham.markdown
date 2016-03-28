@@ -8,6 +8,8 @@ image: /thewebis/anna-debenham.png
 image-thumb: /thewebis/anna-debenham-thumb.png
 category: sketchnotes
 speaker: anna_debenham
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

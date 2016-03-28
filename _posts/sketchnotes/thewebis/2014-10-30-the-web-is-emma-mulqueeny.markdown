@@ -8,6 +8,8 @@ image: /thewebis/emma-mulqueeny.png
 image-thumb: /thewebis/emma-mulqueeny-thumb.png
 category: sketchnotes
 speaker: hubmum
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live

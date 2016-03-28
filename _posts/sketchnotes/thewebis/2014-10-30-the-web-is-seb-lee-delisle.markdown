@@ -8,6 +8,8 @@ image: /thewebis/seb-lee-delisle.png
 image-thumb: /thewebis/seb-lee-delisle-thumb.png
 category: sketchnotes
 speaker: seb_ly
+lanyrd: /2014/thewebis/
+
 tags:
   - thewebis
   - live
