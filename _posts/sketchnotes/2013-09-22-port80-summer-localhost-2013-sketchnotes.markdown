@@ -19,8 +19,9 @@ tags:
 
 I drew some sketchnotes at the <a href="http://port80events.co.uk/summer-localhost-slides/">Port80 Summer Localhost</a>
 
-![Jrcryer](../../images/port80localhost/jrcryer.gif)
 
-![Brandnatter](../../images/port80localhost/brandnatter.gif)
+![Jrcryer](../images/port80localhost/jrcryer.gif)
 
-![Tomwbond](../../images/port80localhost/tomwbond.gif)
+![Brandnatter](../images/port80localhost/brandnatter.gif)
+
+![Tomwbond](../images/port80localhost/tomwbond.gif)
