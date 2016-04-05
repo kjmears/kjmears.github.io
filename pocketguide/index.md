@@ -5,6 +5,7 @@ meta: "A pocket guide to sketchnoting book by Kevin Mears"
 date: 2015-06-18
 
 ---
+<a class="payhip-button payhip-button-grey payhip-button-medium " data-key="uvS3" href="https://payhip.com/b/uvS3">Buy Now</a><script type="text/javascript" src="https://payhip.com/btn.js"></script>
 
 [![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](http://www.fivesimplesteps.com/products/sketchnoting)
 
