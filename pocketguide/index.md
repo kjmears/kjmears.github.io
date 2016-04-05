@@ -5,9 +5,8 @@ meta: "A pocket guide to sketchnoting book by Kevin Mears"
 date: 2015-06-18
 
 ---
-<a class="payhip-button payhip-button-grey payhip-button-medium " data-key="uvS3" href="https://payhip.com/b/uvS3">Buy Now</a><script type="text/javascript" src="https://payhip.com/btn.js"></script>
 
-[![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](http://www.fivesimplesteps.com/products/sketchnoting)
+[![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](https://payhip.com/b/uvS3)
 
 It was a week ago that the book that I'd been working on for quite a few months launched. On the day I wrote some initial thoughts intending to edit it later, cos that's what writers do. Looking back over what I wrote, in the spirit of 'done is better than perfect' I'll post what I wrote.
 
@@ -39,6 +38,8 @@ It was a week ago that the book that I'd been working on for quite a few months 
 >
 > It's the book that I could write.
 
-One glaring omission is any talk of the actual book. It was my intention to write a useful guide to the practice of sketchnoting with some helpful starting points. I hope that I've achieved that - The [product page](http://www.fivesimplesteps.com/products/sketchnoting) on Five Simple Steps does a much better job of summarising it than me - why not head over there and pick up a copy to see for yourself?
+One glaring omission is any talk of the actual book. It was my intention to write a useful guide to the practice of sketchnoting with some helpful starting points. I hope that I've achieved that.
 
 One intruiging thing for me was the fact that I decided early on not to tell many people that I was working on a book. It turns out that was a very good decision. I recently came across Derek Sivers' [TED talk](http://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself), where explains that telling people your goal immediately makes it less likely to happen. The 'social reality' that he mentions, where you get the feelgood without doing the work, is something that has definitely tripped me up in the past. Go [watch it](http://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself) - It's very short but interesting
+
+<a class="payhip-button payhip-button-green payhip-button-small payhip-button-meta" data-key="uvS3" href="https://payhip.com/b/uvS3">Buy Now</a><script type="text/javascript" src="https://payhip.com/btn.js"></script>
