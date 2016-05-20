@@ -1,0 +1,21 @@
+---
+
+layout: post
+published: true
+title: Port80 2016 Gavin Evans Sketchnotes
+date: 2016-05-20
+image: /port80/2016/port80-2016-05-20-gavin-evans.jpg
+image-thumb: /port80/2016/port80-2016-05-20-gavin-evans-thumb.jpg
+category: sketchnotes
+tags:
+- port80-2016
+- live
+- port80
+
+speaker: GavinAEvans
+
+cc: BY-NC-SA
+
+---
+
+Gavin Evans - Designing accessible web and mobile sites

@@ -1,0 +1,21 @@
+---
+
+layout: post
+published: true
+title: Port80 2016 James Cryer Sketchnotes
+date: 2016-05-20
+image: /port80/2016/port80-2016-05-20-james-cryer.jpg
+image-thumb: /port80/2016/port80-2016-05-20-james-cryer-thumb.jpg
+category: sketchnotes
+tags:
+- port80-2016
+- live
+- port80
+
+speaker: jrcryer
+
+cc: BY-NC-SA
+
+---
+
+James Cryer - 12 weeks, 600 releases and the One Show - Continuous Delivery with BBC Weather Watchers

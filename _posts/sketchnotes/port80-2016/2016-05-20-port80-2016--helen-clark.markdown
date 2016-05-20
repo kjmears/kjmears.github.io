@@ -1,0 +1,20 @@
+---
+
+layout: post
+published: true
+title: Port80 2016 Helen Clark Sketchnotes
+date: 2016-05-20
+image: /port80/2016/port80-2016-05-20-helen-clark.jpg
+image-thumb: /port80/2016/port80-2016-05-20-helen-clark-thumb.jpg
+category: sketchnotes
+tags:
+- port80-2016
+- live
+- port80
+
+speaker: littlehelli
+
+cc: BY-NC-SA
+
+---
+Helen Clark - Designing better websites by including clients and their customers from the start
