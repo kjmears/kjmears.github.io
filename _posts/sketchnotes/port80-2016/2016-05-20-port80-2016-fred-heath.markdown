@@ -1,0 +1,20 @@
+---
+
+layout: post
+published: true
+title: Port80 2016 Fred Heath Sketchnotes
+date: 2016-05-20
+image: /port80/2016/port80-2016-05-20-fred-heath.jpg
+image-thumb: /port80/2016/port80-2016-05-20-fred-heath-thumb.jpg
+category: sketchnotes
+tags:
+- port80-2016
+- live
+- port80
+
+speaker: FredAtBootstrap
+
+cc: BY-NC-SA
+
+---
+Fred Heath - The uncertainty principle: How to manage fast-moving projects,clients and requirements.

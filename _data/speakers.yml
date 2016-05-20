@@ -118,6 +118,11 @@
   twitter: Malarkey
   url: stuffandnonsense.co.uk/
 
+- id: littlehelli
+  name: Helen Clark
+  twitter: littlehelli
+  url: http://www.clarkcx.com/
+
 - id: dc86
   name: David Cornforth
   twitter: dc86
@@ -183,6 +188,11 @@
   name: Stephen Emmott
   linkedin: https://uk.linkedin.com/in/stephenemmott
   twitter: emmottion
+
+- id: GavinAEvans
+  name: Gavin Evans
+  twitter: GavinAEvans
+  url: http://www.digitalaccessibilitycentre.org/
 
 - id: kwe
   name: Kevin Evans
@@ -284,6 +294,11 @@
   name: Jonathan Hassell
   twitter: jonhassell
   url: www.hassellinclusion.com/
+
+- id: FredAtBootstrap
+  name: Fred Heath
+  twitter: FredAtBootstrap
+  url: http://www.bootstrap.me.uk/
 
 - id: dhh
   name: David Heinemeier Hansson
@@ -454,6 +469,11 @@
   twitter: fehler
   url: monographic.org
 
+- id: AshNolan_
+  name: Ashley Nolan
+  twitter: AshNolan_
+  url: http://trykickoff.com/
+
 - id: MikeNolan
   name: Mike Nolan
   twitter: MikeNolan
@@ -572,7 +592,7 @@
   url: fragmentsofamber.wordpress.com
 
 - id: supertastycake
-  name: Louise Tierney
+  name: Louise Howells
   twitter: supertastycake
   url: zengenti.com
 
