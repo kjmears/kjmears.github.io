@@ -270,21 +270,6 @@
   id: chardy
   linkedin: https://www.linkedin.com/in/charleshardy
 
-- id: mhawksey
-  name: Martin Hawksey
-  twitter: mhawksey
-  url: mashe.hawksey.info/
-
-- id: philhawksworth
-  name: Phil Hawksworth
-  twitter: philhawksworth
-  url: hawksworx.com
-
-- id: Hicksdesign
-  name: Jon Hicks
-  twitter: Hicksdesign
-  url: hicksdesign.co.uk/
-
 - id: martin_hamilton
   name: Martin Hamilton
   twitter: martin_hamilton
@@ -295,6 +280,16 @@
   twitter: jonhassell
   url: www.hassellinclusion.com/
 
+- id: mhawksey
+  name: Martin Hawksey
+  twitter: mhawksey
+  url: mashe.hawksey.info/
+
+- id: philhawksworth
+  name: Phil Hawksworth
+  twitter: philhawksworth
+  url: hawksworx.com
+
 - id: FredAtBootstrap
   name: Fred Heath
   twitter: FredAtBootstrap
@@ -304,6 +299,12 @@
   name: David Heinemeier Hansson
   twitter: dhh
   url: david.heinemeierhansson.com
+
+- id: Hicksdesign
+  name: Jon Hicks
+  twitter: Hicksdesign
+  url: hicksdesign.co.uk/
+
 
 - id: davidhieatt
   name: David Hieatt
@@ -324,6 +325,11 @@
   name: Molly E. Holzschlag
   twitter: mollydotcom
   url: molly.com
+
+- id: supertastycake
+  name: Louise Howells
+  twitter: supertastycake
+  url: zengenti.com
 
 - id: denisejacobs
   name: Denise Jacobs
@@ -442,7 +448,7 @@
   url: www.robertmills.me/book
 
 - id: traceymilnes
-  name: traceymilnes
+  name: Tracey Milnes
   linkedin: https://uk.linkedin.com/in/traceymilnes
 
 - id: wilsonminer
@@ -590,11 +596,6 @@
   name: Amber Thomas
   twitter: ambrouk
   url: fragmentsofamber.wordpress.com
-
-- id: supertastycake
-  name: Louise Howells
-  twitter: supertastycake
-  url: zengenti.com
 
 - id: roy
   name: Roy Tomeij

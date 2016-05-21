@@ -1,3 +1,68 @@
+- title: "Why So Serious?"
+  date: 2015-05-20
+  speaker: supertastycake
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-louise-howells.html
+  image: /port80/2016/port80-2016-05-20-louise-howells-thumb.jpg
+
+- title: "Using build tools"
+  date: 2015-05-20
+  speaker: gavD_UK
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-gavin-davies.html
+  image: /port80/2016/port80-2016-05-20-gavin-davies-thumb.jpg
+
+- title: "The uncertainty principle  How to manage fast-moving projects,clients and requirements.
+"
+  date: 2015-05-20
+  speaker: FredAtBootstrap
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-fred-heath.html
+  image: /port80/2016/port80-2016-05-20-fred-heath-thumb.jpg
+
+- title: "Designing accessible web and mobile sites"
+  date: 2015-05-20
+  speaker: GavinAEvans
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-gavin-evans.html
+  image: /port80/2016/port80-2016-05-20-gavin-evans-thumb.jpg
+
+- title: "Imaginative grid systems"
+  date: 2015-05-20
+  speaker: Malarkey
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-andy-clarke.html
+  image: /port80/2016/port80-2016-05-20-andy-clarke-thumb.jpg
+
+- title: "Designing better websites by including clients and their customers from the start"
+  date: 2015-05-20
+  speaker: littlehelli
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-helen-clark.html
+  image: /port80/2016/port80-2016-05-20-helen-clark-thumb.jpg
+
+- title: "Developing for the unknown"
+  date: 2015-05-20
+  speaker: AshNolan_
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-ashley-nolan.html
+  image: /port80/2016/port80-2016-05-20-ashley-nolan-thumb.jpg
+
+- title: "12 weeks, 600 releases and the One Show - Continuous Delivery with BBC Weather Watchers"
+  date: 2015-05-20
+  speaker: jrcryer
+  event: http://port80events.co.uk/event/port-80-2016/
+  lanyrd: http://lanyrd.com/2016/port80/
+  sketchnotes: /sketchnotes/port80-2016-james-cryer.html
+  image: /port80/2016/port80-2016-05-20-james-cryer-thumb.jpg
+
 - title: "Bara Brith Open Data 2016"
   date: 2015-07-27
   speaker:
@@ -6,8 +71,6 @@
     - symroe
   sketchnotes: /sketchnotes/barabrithopendata.html
   image: /iwmw15/iwmw15-welcome-thumb.jpg
-
-
 
 - title: "Opening Session: Putting The Web Manager First"
   date: 2015-07-27
@@ -961,7 +1024,7 @@
   lanyrd: /2013/iwmw13/
   speaker:
     - psychemedia
-    - mhawksey
+    - mariekeguy
   code: iwmw13
 
 - title: IWMW and the birth of a Content Strategist
