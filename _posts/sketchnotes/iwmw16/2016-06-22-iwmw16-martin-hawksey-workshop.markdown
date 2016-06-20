@@ -5,7 +5,7 @@ layout: post
 published: true
 title: Martin Hawksey Workshop - IWMW16
 date: 2016-06-22
-image: /iwmw2016/IWMW16-martin-hawksey-workshop.jpg
+image: /iwmw16/IWMW16-martin-hawksey-workshop.jpg
 image-thumb: /iwmw16/iwmw16-martin-hawksey-workshop-thumb.jpg
 info: http://iwmw.org/iwmw2016/talks/google-analytics-workout/
 event: iwmw.org/iwmw2016/

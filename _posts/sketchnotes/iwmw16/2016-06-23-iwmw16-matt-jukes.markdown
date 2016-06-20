@@ -5,7 +5,7 @@ layout: post
 published: true
 title: Matt Jukes - IWMW16
 date: 2016-06-23
-image: /iwmw2016/IWMW16-matt-jukes.jpg
+image: /iwmw16/IWMW16-matt-jukes.jpg
 image-thumb: /iwmw16/iwmw16-matt-jukes-thumb.jpg
 info: http://iwmw.org/iwmw2016/talks/website-national-embarrassment-way/
 event: iwmw.org/iwmw2016/
