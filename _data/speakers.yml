@@ -552,6 +552,11 @@
 - id: helensargan
   name: Helen Sargan
 
+- id: garethjms
+  name: Gareth Saunders
+  twitter: garethjms
+  url: http://blog.garethjmsaunders.co.uk
+
 - id: missrachilli
   name: Rachel Shillcock
   twitter: missrachilli
@@ -571,6 +576,11 @@
   name: Benjy Stanton
   twitter: benjystanton
   url: benjystanton.co.uk
+
+- id: DuncanBSS
+  name: Duncan Stephen
+  twitter: DuncanBSS
+  url: http://duncanstephen.co.uk
 
 - id: garethstrange
   name: Gareth Strange
