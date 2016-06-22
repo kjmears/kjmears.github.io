@@ -5,7 +5,7 @@ layout: post
 published: true
 title: Chris Scott and Anja Hazebroek - IWMW16
 date: 2016-06-22
-image: /iwmw16/IWMW16-chris-scott-anja-hazebroek.jpg
+image: /iwmw16/iwmw16-chris-scott-anja-hazebroek.jpg
 image-thumb: /iwmw16/iwmw16-chris-scott-anja-hazebroek-thumb.jpg
 info: http://iwmw.org/iwmw2016/talks/prototyping-digital-university/
 event: iwmw.org/iwmw2016/
