@@ -5,7 +5,7 @@ layout: post
 published: true
 title: Richard Prowse - IWMW16
 date: 2016-06-22
-image: /iwmw16/IWMW16-richard-prowse.jpg
+image: /iwmw16/iwmw16-richard-prowse.jpg
 image-thumb: /iwmw16/iwmw16-richard-prowse-thumb.jpg
 info: http://iwmw.org/iwmw2016/talks/building-new-bath-ac-uk-agile-content-case-study/
 event: iwmw.org/iwmw2016/
