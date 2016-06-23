@@ -7,6 +7,7 @@ title: Piero Tintori - IWMW16
 date: 2016-06-23
 image: /iwmw16/IWMW16-piero-tintori.jpg
 image-thumb: /iwmw16/iwmw16-piero-tintori-thumb.jpg
+original: /iwmw16/iwmw16-piero-tintori-large.jpg
 info: http://iwmw.org/iwmw2016/talks/time-get-personal/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

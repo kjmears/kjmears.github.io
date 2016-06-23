@@ -7,6 +7,7 @@ title: Mandy Phillips - IWMW16
 date: 2016-06-23
 image: /iwmw16/IWMW16-mandy-phillips.jpg
 image-thumb: /iwmw16/iwmw16-mandy-phillips-thumb.jpg
+original: /iwmw16/iwmw16-mandy-phillips-large.jpg
 info: http://iwmw.org/iwmw2016/talks/working-with-external-partners/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/
