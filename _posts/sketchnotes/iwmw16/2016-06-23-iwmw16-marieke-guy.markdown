@@ -5,7 +5,7 @@ layout: post
 published: true
 title: Marieke Guy - IWMW16
 date: 2016-06-23
-image: /iwmw16/IWMW16-marieke-guy.jpg
+image: /iwmw16/iwmw16-marieke-guy.jpg
 image-thumb: /iwmw16/iwmw16-marieke-guy-thumb.jpg
 original: iwmw16/iwmw16-marieke-guy-large.jpg
 info: http://iwmw.org/iwmw2016/talks/right-right-now-providing-information-students-need-regulator-requires/
