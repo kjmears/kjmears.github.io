@@ -7,12 +7,12 @@ title: Richard Prowse - IWMW16
 date: 2016-06-22
 image: /iwmw16/iwmw16-richard-prowse.jpg
 image-thumb: /iwmw16/iwmw16-richard-prowse-thumb.jpg
-original: /iwmw16/iwmw16-richard-prowse-large.jpg
+original: iwmw16/iwmw16-richard-prowse-large.jpg
 info: http://iwmw.org/iwmw2016/talks/building-new-bath-ac-uk-agile-content-case-study/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/
 category: sketchnotes
-speaker: contentbear
+speaker: richprowse
 tags:
   - iwmw16
   - iwmw

@@ -5,9 +5,9 @@ layout: post
 published: true
 title: Martin Hawksey - IWMW16
 date: 2016-06-22
-image: /iwmw16/IWMW16-Gareth Saunders.jpg
+image: /iwmw16/iwmw16-martin-hawksey.jpg
 image-thumb: /iwmw16/iwmw16-martin-hawksey-thumb.jpg
-original: /iwmw16/iwmw16-martin-hawksey-large.jpg
+original: iwmw16/iwmw16-martin-hawksey-large.jpg
 info: http://iwmw.org/iwmw2016/talks/google-analytics-things/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

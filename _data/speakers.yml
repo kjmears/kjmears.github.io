@@ -290,6 +290,10 @@
   twitter: philhawksworth
   url: hawksworx.com
 
+- id: ahazebroek
+  name: Anja Hazebroek
+  linkedin: https://uk.linkedin.com/in/anjahazebroek
+
 - id: FredAtBootstrap
   name: Fred Heath
   twitter: FredAtBootstrap
@@ -416,11 +420,6 @@
   name: Tom Maslen
   twitter: tmaslen
   url: tmaslen.com/
-
-- id: eddiemachado
-  name: Eddie Machado
-  twitter: eddiemachado
-  url: themble.com/
 
 - id: WarwickLanguage
   name: Teresa MacKinnon
@@ -557,6 +556,11 @@
   twitter: garethjms
   url: http://blog.garethjmsaunders.co.uk
 
+- id: cscott
+  name: Chris Scott
+  linkedin: https://www.linkedin.com/in/chrisscott3
+  url: headscape.co.uk
+
 - id: missrachilli
   name: Rachel Shillcock
   twitter: missrachilli
@@ -567,9 +571,15 @@
   twitter: rssidhu
   url: sidspace.info
 
+- id: markosimpson
+  name: Mark Simpson
+  twitter: markosimpson
+  linkedin: https://uk.linkedin.com/in/markssimpson
+  url: www.mando.agency
+
 - id: andspo
   name: Andrew Spooner
-  twitter: laurakalbag
+  twitter: andspo
   url: andrewspooner.com
 
 - id: benjystanton
@@ -606,6 +616,12 @@
   name: Amber Thomas
   twitter: ambrouk
   url: fragmentsofamber.wordpress.com
+
+- id: pierotintori
+  name: Piero Tintori
+  twitter: pierotintori
+  url: www.terminalfour.com
+  linkedin: https://www.linkedin.com/in/tintori
 
 - id: roy
   name: Roy Tomeij
@@ -659,6 +675,12 @@
   twitter: michaeldwebb
   url: www.jisc.ac.uk
   linkedin: https://www.linkedin.com/profile/view?id=27670425
+
+- name: Richard West
+  id: rvwest
+  twitter: rvwest
+  linkedin: https://www.linkedin.com/in/rvwest
+  url: www.jisc.ac.uk
 
 - id: kier
   name: Kier Whitaker
