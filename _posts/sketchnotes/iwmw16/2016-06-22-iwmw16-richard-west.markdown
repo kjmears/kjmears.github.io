@@ -21,4 +21,7 @@ tags:
 cc: BY-SA
 ---
 
-100 to 1(ish) – unifying a sprawling web estate
+
+## 100 to 1(ish) – Unifying a Sprawling Web Estate ##
+
+Another talk of a more tactical nature, Richard explained the rationale behind unifying the sprawling number of sites related to JISC and their activities. I was mostly interested in the Pattern libraries, since it's something that we are just beginning here at the University of South Wales, but it was a good reminder that style guides and pattern libraries, whilst rewarding to produce and deploy, have to go hand in hand with communication to explain why they are good and what benefits they can bring to people.

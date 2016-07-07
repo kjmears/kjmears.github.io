@@ -22,4 +22,10 @@ tags:
 cc: BY-SA
 ---
 
-Building a digital team (almost) from scratch
+
+
+## Building a digital team (almost) from scratch ##
+
+Special mention has to go to Duncan for coming up with the most enjoyed slide - his 'Wordpress Facebook Twitter'.
+
+One particular insight from Duncan was the beneficial effect of joining new teams and learning what made them tick and how that then informed later ways to restructure. It also was really useful for him to understand how to make changes in processes that were practical. By this time in the conference a theme of making changes to processes is coming through strongly - that you can't make real change without addressing more deep rooted problems. As was touched on in last year's event 'Digital' is often the banner for that change.

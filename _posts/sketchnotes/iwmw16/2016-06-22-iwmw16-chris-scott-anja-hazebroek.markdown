@@ -24,4 +24,7 @@ tags:
 cc: BY-SA
 ---
 
-Prototyping the digital university
+
+## Prototyping the digital university ##
+
+I'm a big fan of prototyping sites to get ideas out early instead of endless discussions about features and how it will all work. The impression here seemed to be that there was a great deal of momentum being built up by getting things in front of people early and responding to the feedback. It strikes me as a demanding but rewarding way of working. In this case Headscape helped to validate the approach and nuture the activity long enough to let the benefits speak for themselves. Also cool in this was an acknowledgment of the tons of different skills that go into creating good experiences. Overall a big endorsement of the 'show, don't tell' approach.
