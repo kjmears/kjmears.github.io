@@ -1,16 +1,10 @@
 ---
 layout: workshop
-title: "Staff Conference Workshop"
+title: "Support Staff Conference Sketchnote Workshop"
 date: "2016-07-07"
 category: workshops
 ---
 
-### Examples of my work
-
-- [Shelia MacNeill at oer15](http://www.mearso.co.uk/sketchnotes/oer15sheilamacneill.html)
-- [Chris Murphy at Thewebis](http://www.mearso.co.uk/sketchnotes/the-web-is-chris-murphy.html)
-- [Panel session at IWMW14](/sketchnotes/iwmw14-vision-panel.html)
-- [Matt Jukes](/sketchnotes/iwmw16-matt-jukes.html)
 
 ## Different activities (using my examples)
 
@@ -18,13 +12,15 @@ category: workshops
 - [Keynotes](/images/oer15/oer15-2015-04-14-josie-fraser.jpg)
 - [Panels](/images/iwmw14/iwmw14-vision-panel.jpg)
 - [Technical talks](/images/winterlocalhost2014/gavin-davies.png)
+- [Conference Talks](/images/iwmw16/iwmw16-matt-jukes.jpg)
+- [Big set of talks from conference](/images/thewebis/chris-murphy.png)
 - [Video](/images//dhh-railsconf2014.gif)
 - [Audio](/images/romulusandremus.gif)
 - [Books](/images/books/the-psychopath-test.jpg)
 - [Journalling](/images/journals/crash.jpg)
 - [Lectures/training](/images/ilm/building-the-team.gif)
 
-### Sketchnoters of note
+## Sketchnoters of note
 
 - Carolyn Sewell [Sketchnote Process](https://www.flickr.com/photos/pedestriantype/13147894804/in/album-72157621779073329/)
 - Eva-Lotta Lam [Travel Sketchnotes](http://secretsfromtheroad.com/)
@@ -34,28 +30,14 @@ category: workshops
 - Mike Rhode [Author of a great book on sketchnoting](https://www.flickr.com/photos/rohdesign/collections/72157602798339521/)
 
 
-
-## Resources
-
-##[My pocketguide to sketchnoting](https://payhip.com/b/uvS3)
-
-An ebook expanding on some of the things we touched on in the workshop.
-
-### Further Reading
-
-[Moonwalking with einstein](http://www.amazon.co.uk/Moonwalking-Einstein-Science-Remembering-Everything/dp/0141032138) - A journalist's discovery of memory techniques, which mainly use our inherent spatial and visual memory skills.
-
-[Psychology review paper](http://www.psychologicalscience.org/index.php/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html) - why written note taking is better
-
-[Gamestorming](http://www.gamestorming.com) - strategies for visual thinking
-
-[Drive - The Surprising Truth about what motivates us](http://www.amazon.co.uk/Drive-Surprising-Truth-About-Motivates/dp/184767769X/ref=sr_1_3?ie=UTF8&qid=1434312014&sr=8-3&keywords=drive)
-
-[Essentialism: The Disciplined Pursuit of Less](http://www.amazon.co.uk/Essentialism-The-Disciplined-Pursuit-Less/dp/0753555166)
-
-
-### Great places to share and be inspired
+## Inspiration
 
 - [Sketchnote Army](http://sketchnotearmy.com/)
-- [Sketchnotes](http://www.sketchnotesbook.com/) by Eva-Lotta Lamm
 - [Gamestorming](http://gamestorming.com/)
+- [Linzie Hunter](http://www.linziehunter.co.uk)
+- [Pinterest - lettering](https://www.pinterest.com/search/pins/?q=lettering&rs=typed&0=lettering%7Ctyped)
+
+
+### [My pocketguide to sketchnoting](https://payhip.com/b/uvS3)
+
+An ebook expanding on some of the things we touched on in the workshop.
