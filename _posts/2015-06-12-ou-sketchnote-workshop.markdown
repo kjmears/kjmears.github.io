@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Sketchnoting Workshop
+layout: workshop
+title: "Open University Workshop"
+date: "2016-07-07 15:29:43 +0100"
+category: workshops
 sitemap: false
-
 ---
 
 ![OU workshop sketchnotes](/images/ou-workshop/sketchnotes.jpg)
@@ -13,7 +14,8 @@ My sketchnote before the workshop, with me working out some ideas, worries and t
 
 - [Shelia MacNeill at oer15](http://www.mearso.co.uk/sketchnotes/oer15sheilamacneill.html)
 - [Chris Murphy at Thewebis](http://www.mearso.co.uk/sketchnotes/the-web-is-chris-murphy.html)
-- [Panel session at IWMW14](http://www.mearso.co.uk/sketchnotes/iwmw14-vision-panel.html)
+- [Panel session at IWMW14](/sketchnotes/iwmw14-vision-panel.html)
+- [Matt Jukes](/sketchnotes/iwmw16-matt-jukes.html)
 
 ### Sketchnoters of note
 
@@ -30,10 +32,6 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 #### Craighton Berman
 
 [Colorful Sketchnotes for display](http://studio.craightonberman.com/TEDxSANJOSE-2012)
-
-#### Timothy J Reynolds
-
-[Sketchnotes](http://turnislefthome.com/206636/2156619/sketchnotes/2013-creative-milwaukee-work-summit)
 
 #### Eleanor Beer
 
