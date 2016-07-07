@@ -51,7 +51,7 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 - [Technical talks](/images/winterlocalhost2014/gavin-davies.png)
 - [Video](/images//dhh-railsconf2014.gif)
 - [Audio](/images/romulusandremus.gif)
-- [Books](/images/drive.gif)
+- [Books](/images/books/the-psychopath-test.jpg)
 - [Journalling](/images/journals/crash.jpg)
 - [Lectures/training](/images/ilm/building-the-team.gif)
 
