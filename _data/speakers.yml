@@ -102,6 +102,9 @@
   linkedin: https://uk.linkedin.com/pub/matthew-callaghan/10/a19/8b7
   url: http://www.bradford.ac.uk/
 
+- name: Ben Calvert
+  id: bencalvert
+  url: www.southwales.ac.uk/about/university-leadership/university-management-team/
 
 - id: LornaMCampbell
   twitter: LornaMCampbell
@@ -664,6 +667,10 @@
   name: Professor Ferdinand von Prondzynski
   twitter: vonprond
   url: universitydiary.wordpress.com
+
+- name: Helen Walbey
+  id: RecycleScooters
+  twitter: RecycleScooters
 
 - id: AustinWaltersUK
   name: Austin Walters
