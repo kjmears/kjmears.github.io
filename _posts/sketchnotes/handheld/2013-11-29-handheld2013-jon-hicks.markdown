@@ -7,7 +7,7 @@ date: 2013-11-29
 image: /handheld2013/jon-hicks-handheld2013.gif
 image-thumb: /handheld2013/jon-hicks-handheld2013-thumb.gif
 category: sketchnotes
-
+speaker: Hicksdesign
 tags:
 - handheld13
 - live

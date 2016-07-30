@@ -6,6 +6,7 @@ date: 2013-11-29
 image: /handheld2013/andrew-clarke-handheld2013.gif
 image-thumb: /handheld2013/andrew-clarke-handheld2013-thumb.gif
 category: sketchnotes
+speaker: Malarkey
 tags:
 - handheld13
 - live

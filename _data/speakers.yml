@@ -184,6 +184,10 @@
 - id: eadraffan
   name: E A Draffan
 
+- id: garius
+  name: Gareth Edwards
+  twitter: garius
+
 - id: dawnellis
   name: Dawn Ellis
 
@@ -413,6 +417,9 @@
   name: Paul Lloyd
   twitter: paulrobertlloyd
   url: paulrobertlloyd.com
+
+- id: eddiemachado
+  name: Eddie Machado
 
 - id: craigmarvelley
   twitter: craigmarvelley

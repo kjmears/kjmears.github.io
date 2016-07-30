@@ -10,7 +10,7 @@ category: sketchnotes
 tags:
 - handheld13
 - live
-
+speaker: brendandawes
 
 ---
 
