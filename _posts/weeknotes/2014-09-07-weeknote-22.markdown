@@ -1,14 +1,14 @@
 ---
-layout: weeknotes
-title: Weeknote 23
+layout: post
+title: Weeknote 22
 date: 2014-10-14
 comments: false
-category: weeknotes 
+category: weeknotes
 invisible: 1
 
 ---
 
-I feel off the horse.
+I fell off the horse.
 
 Thanks to the example of plenty of GDS and GovCampCyrmu people I'm getting back on the writing horse.
 
