@@ -83,7 +83,7 @@ module.exports = function(grunt) {
           '_posts/**', '_includes/**', 'courses/**', 'css/**',
 
           ],
-        tasks: 'shell:jekyll',
+        tasks: 'shell',
       },
 
       scripts: {

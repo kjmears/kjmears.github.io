@@ -14,18 +14,16 @@ meta: "meta info"
 
 				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
 
-				<p>{{ promo.text }}
-				<a href="{{ promo.url }}"> Read more</a></p>
+				<!-- <p>{{ promo.text }}
+				<a href="{{ promo.url }}"> Read more</a></p> -->
 
 			</div>
 
 		{% endfor %}
 		</section>
 
- {% for post in site.posts %}
 
-	<section>
-		{% if post.homepage %} {% include panel.html %} {% endif %}
-	</section>
+<section>
 
-{% endfor %}
+	{% for post in site.posts %} {% if post.homepage %} {% include panel.html %} {% endif %} {% endfor %}
+</section>

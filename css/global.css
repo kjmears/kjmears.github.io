@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 01-08-2016 */
+/*! mearso-jekyll-site dev 02-08-2016 */
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
@@ -337,33 +337,15 @@ input[type="button"].btn-block {
 }
 
 .panel {
-  min-height: 23em;
   -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
-  background-color: #eeeeee;
-  border: none;
 }
 .panel p {
-  color: #333333;
   padding: 1em;
-}
-.panel p a {
-  display: block;
-}
-.panel h2 a {
-  line-height: 1.42857;
-  display: block;
-  padding: 0.5em;
-  border-bottom: 1px solid #999999;
+  background-color: deeppink;
 }
 .panel h2 a:hover {
   color: #008cba;
-}
-
-.panel-title {
-  font-size: 22.4px;
-  font-weight: 300;
-  background-color: #eeeeee;
 }
 
 .commons p {

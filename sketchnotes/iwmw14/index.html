@@ -8,8 +8,9 @@ title: IWMW14 Sketchnotes
 
 
 <div class="row">
-	{% for promo in site.data.iwmw14 %}
 		<section>
+	{% for promo in site.data.iwmw14 %}
+
 			<div class="panel">
 				<a href="{{ promo.url }}"><img src="/images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
 
@@ -19,6 +20,7 @@ title: IWMW14 Sketchnotes
 				<a href="{{ promo.url }}"> Read more</a></p>
 
 			</div>
-		</section>
 		{% endfor %}
+	</section>
+
 </div>
