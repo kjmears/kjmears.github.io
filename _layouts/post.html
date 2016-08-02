@@ -90,11 +90,12 @@ layout: default
 		{% for category_name in page.categories limit:1 %}
 
 			<h2>Other articles in <a href="/{{ category_name }}/">{{ category_name | capitalize }}</a></h2>
+					<section>
 			{% for post in site.categories[category_name] limit:4 %}
-				<section class="related">
-					{% include panel.html %}
-				</section>
-			{% endfor %}
 
+					{% include panel.html %}
+
+			{% endfor %}
+	</section>
 		{% endfor %}
 	</aside>

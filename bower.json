@@ -1,0 +1,26 @@
+{
+  "name": "mearso",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kjmears/mearso",
+  "authors": [
+    "kjmears <kevin.mears@southwales.ac.uk>"
+  ],
+  "description": "simple static website",
+  "main": "index.html",
+  "keywords": [
+    "mearso"
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+    "bootstrap-sass-official": "3.2.0",
+    "components-font-awesome": "4.1.0"
+  }
+}

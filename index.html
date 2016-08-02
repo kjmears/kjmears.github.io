@@ -5,9 +5,10 @@ meta: "meta info"
 
 ---
 
-<div class="row">
-	{% for promo in site.data.promos %}
+
 		<section>
+	{% for promo in site.data.promos %}
+
 			<div class="panel">
 				<a href="{{ promo.url }}"><img src="images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
 
@@ -17,17 +18,14 @@ meta: "meta info"
 				<a href="{{ promo.url }}"> Read more</a></p>
 
 			</div>
-		</section>
+
 		{% endfor %}
+		</section>
 
-	{% for post in site.posts %}
-			{% if post.homepage %}
-					<section>
-			        {% include panel.html %}
+ {% for post in site.posts %}
 
-					</section>
+	<section>
+		{% if post.homepage %} {% include panel.html %} {% endif %}
+	</section>
 
-			{% endif %}
-	{% endfor %}
-
-</div>
+{% endfor %}

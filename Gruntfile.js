@@ -142,5 +142,5 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['concat', 'uglify', 'sass', 'shell', 'watch']);
   grunt.registerTask('min', ['imagemin']);
   grunt.registerTask('dev', ['connect', 'watch']);
-
+  grunt.registerTask('jekyll', ['sass', 'shell', 'watch']);
 };

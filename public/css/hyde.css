@@ -136,6 +136,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    1rem;
   padding-bottom: 4rem;
+    background-color: lime;
 }
 
 @media (min-width: 48em) {
@@ -143,13 +144,16 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 14rem;
     margin-right: 2rem;
+    background-color: yellow;
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 74em) {
   .content {
+    max-width: 58rem;
     margin-left: 16rem;
     margin-right: 4rem;
+    background-color: pink;
   }
 }
 
@@ -267,4 +271,25 @@ a.sidebar-nav-item:focus {
 .custom .content a,
 .custom .related-posts li a:hover {
   color: #6a9fb5;
+}
+
+
+/* My flexbox stuff */
+
+section{
+
+  display: flex;
+  flex-flow: row wrap;
+justify-content: flex-start;
+}
+
+.panel {
+  background:  grey;
+  width:       24%;
+  font-size:   0.6rem;
+  margin:      0.2rem;
+}
+
+.panel img{
+  width:100%;
 }
