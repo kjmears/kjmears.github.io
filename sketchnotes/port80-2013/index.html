@@ -8,11 +8,7 @@ title: Port80 2013 Sketchnotes
 
 Collected sketchnotes from the <a href="http://port80events.co.uk/event/port80-2013/"></a>Port80 conference.
 
-<div class="row">
-	{% for post in site.tags.port80-2013 %}
-		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
-
-</div>
+<section>
+		{% for post in site.tags.port80-2013 %}
+				{% include panel.html %}
+		{% endfor %}</section>

@@ -1,5 +1,6 @@
 ---
 layout: default
+#using compress layout to take whitespace out
 ---
 
 <!DOCTYPE html>
@@ -7,36 +8,28 @@ layout: default
 
 
 {% include head.html %}
+{% include tag_manager.html %}
 
-<body>
-  {% include tag_manager.html %}
-  {% include nav.html %}
+<body class="custom">
 
+    {% include sidebar.html %}
 
+  <div class="container content">
 
+      <main>
+          {{ content }}
+      </main>
 
-  <div class="main" role="main">
-    <div class="content">
-      {{ content }}
-
-
-    </div>
-    <!--/div content -->
+      <footer class="footer">
+          <small>
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+      </small>
+      </footer>
 
 
   </div>
-  <!--/div main -->
-
-
+  <!--/div container content -->
 
 </body>
-
-<!-- Bootstrap core JavaScript
-  ================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-
-<script src="{{ site.baseurl }}/js/dist/scripts.min.js"></script>
 
 </html>

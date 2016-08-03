@@ -1,9 +1,9 @@
 ---
-layout: weeknotes
-title: Weeknote 22
+layout: post
+title: Weeknote 23
 date: 2014-09-07
 comments: false
-category: weeknotes 
+category: weeknotes
 invisible: 1
 
 ---

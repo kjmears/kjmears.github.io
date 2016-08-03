@@ -6,16 +6,13 @@ title: The Web is Sketchnotes
 
 ![Thewebis](../../images/thewebis/thewebis.png)
 
-<div class="row">
-	{% for post in site.tags.thewebis %}
 		<section>
+	{% for post in site.tags.thewebis %}
+
 			{% include panel.html %}
-		</section>
 	{% endfor %}
-		
-</div>
+
+	</section>
+
 
 Collected sketchnotes - first drafts.
-
-
-

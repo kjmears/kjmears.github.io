@@ -1,8 +1,23 @@
+<!-- <div class="panel">
+
+	<a href="{{ site.baseurl }}{{ post.url }}">
+		<img src="{{ site.baseurl }}/images{{ post.image-thumb }}">
+	</a>
+
+	<h2 class="panel-title">
+		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncate:25 }}</a>
+	</h2>
+
+</div> -->
+
 <div class="panel">
-	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images{{ post.image-thumb }}" class="img-responsive"></a>
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <img class="panel-img-top" src="{{ site.baseurl }}/images{{ post.image-thumb }}" alt="panel image cap">
 
-	<h2 class="panel-title media-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncate:25 }}</a></h2>
+  <div class="panel-block">
+      <h3 class="panel-title">{{ post.title | truncate:25 }}</h3>
 
-	<p>{{ post.excerpt | strip_html | truncatewords:7 }}<a href="{{ site.baseurl }}{{ post.url }}"> Read more</a></p>
-
+    <p class="panel-text">{{ post.excerpt | strip_html | truncatewords:7 }}</p>
+  </div>
+</a>
 </div>

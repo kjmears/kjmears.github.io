@@ -2,7 +2,7 @@
 code: iwmw16-03
 layout: post
 published: true
-title: Piero Tintori - IWMW16
+title: IWMW16 -Piero Tintori 
 date: 2016-06-23T00:00:00.000Z
 image: /iwmw16/iwmw16-piero-tintori.jpg
 image-thumb: /iwmw16/iwmw16-piero-tintori-thumb.jpg

@@ -1,107 +1,107 @@
 - date: 2016-06-23
   title: IWMW 2016
-  text: "Sketchnotes from two very interesting days at IWMW"
-  image: /iwmw16/iwmw16-roundup-thumb.jpg
+  excerpt: "Sketchnotes from two very interesting days at IWMW"
+  image-thumb: /iwmw16/iwmw16-roundup-thumb.jpg
   url: /sketchnotes/iwmw16/
 
 - date: 2016-05-20
   title: Port80 2016
-  text: "Sketchnotes from a busy day in Newport"
-  image: /port80/2016/port80-2016-05-20-helen-clark-thumb.jpg
+  excerpt: "Sketchnotes from a busy day in Newport"
+  image-thumb: /port80/2016/port80-2016-05-20-helen-clark-thumb.jpg
   url: /sketchnotes/port80-2016/
 
 - date: 2016-01-09
   title: World Sketchnote Day 2016
-  text: "Some thoughts about sketchnotes on #SNDay016"
-  image: /wsd-logo-400px_thumb.png
+  excerpt: "Some thoughts about sketchnotes on #SNDay016"
+  image-thumb: /wsd-logo-400px_thumb.png
   url: /world-sketchnote-day-2016.html
 
 - date: 2015-08-05
   title: The Psychopath Test Sketchnotes
-  text: Sketchnotes from an interesting and enjoyable book
-  image: /books/the-psychopath-test-thumb.jpg
+  excerpt: Sketchnotes from an interesting and enjoyable book
+  image-thumb: /books/the-psychopath-test-thumb.jpg
   url: /sketchnotes/the-psychopath-test.html
 
 - date: 2015-06-18
   title: IWMW15 Sketchnotes
-  text: Sketchnotes from the always great IWMW conference
-  image: /iwmw15/iwmw15-welcome-thumb.jpg
+  excerpt: Sketchnotes from the always great IWMW conference
+  image-thumb: /iwmw15/iwmw15-welcome-thumb.jpg
   url: /sketchnotes/iwmw15/
 
 - date: 2015-06-18
   title: A Pocket guide to Sketchnoting
-  text: My Brand new ebook
-  image: /ou-workshop/pocketguide-cover-thumb.jpg
+  excerpt: My Brand new ebook
+  image-thumb: /ou-workshop/pocketguide-cover-thumb.jpg
   url: /pocketguide
 
 - date: 2015-06-26
   title: The Martian Way
-  text: Sketchnotes to help me remember what I read.
-  image: /the-martian-way-thumb.jpg
+  excerpt: Sketchnotes to help me remember what I read.
+  image-thumb: /the-martian-way-thumb.jpg
   url: /sketchnotes/the-martian-way.html
 
 - date: 2015-04-16
   title: OER15 Sketchnotes
-  text: Sketchnotes from two days of the Open Educational Reources conference.
-  image: /oer15/oer15-2015-04-14-josie-fraser-thumb.jpg
+  excerpt: Sketchnotes from two days of the Open Educational Reources conference.
+  image-thumb: /oer15/oer15-2015-04-14-josie-fraser-thumb.jpg
   url: /sketchnotes/oer15/
 
 - date: 2014-12-03
   title: Railsconf 2014 Keynote
-  text: Sketchnotes from a youtube video of DHH's keynote at Railsconf 2014
-  image: /dhh-railsconf2014-thumb.gif
+  excerpt: Sketchnotes from a youtube video of DHH's keynote at Railsconf 2014
+  image-thumb: /dhh-railsconf2014-thumb.gif
   url: /sketchnotes/dhhrailsconf2014.html
 
 - date: 2014-11-11
   title: Winter Localhost 2014
-  text: Collected Sketchnotes from Winter Localhost 2014 in Newport.
-  image: /winterlocalhost2014/gavin-davies-thumb.png
+  excerpt: Collected Sketchnotes from Winter Localhost 2014 in Newport.
+  image-thumb: /winterlocalhost2014/gavin-davies-thumb.png
   url: /sketchnotes/winterlocalhost2014
 
 - date: 2014-10-24
   title: The Web Is...
-  text: Collected Sketchnotes from 'the Web is' conference held in Cardiff 2014.
-  image: /thewebis/thewebis-thumb.png
+  excerpt: Collected Sketchnotes from 'the Web is' conference held in Cardiff 2014.
+  image-thumb: /thewebis/thewebis-thumb.png
   url: /sketchnotes/thewebis
 
 - date: 2014-09-13
   title: Sketchnotes by speaker
-  text: I've organised all the sketchnotes by speaker. It's a long list.
-  image: speaker-thumb.gif
+  excerpt: I've organised all the sketchnotes by speaker. It's a long list.
+  image-thumb: speaker-thumb.gif
   url: /speakers
 
 - date: 2014-09-13
   title: Gov Camp Cymru
-  text: The sketchnotes I did from the first Gov Camp in Wales
-  image: /govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
+  excerpt: The sketchnotes I did from the first Gov Camp in Wales
+  image-thumb: /govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
   url: /sketchnotes/govcampcymru
 
 - date: '2014-07-18'
   title: IWMW 2014 Sketchnotes
-  text: "Collected sketchnotes from IWMW2014"
-  image: /iwmw14/iwmw14-vision-panel-thumb.jpg
+  excerpt: "Collected sketchnotes from IWMW2014"
+  image-thumb: /iwmw14/iwmw14-vision-panel-thumb.jpg
   url: /sketchnotes/iwmw14/
 
 - date: 2014-05-16
   title: Port80 2014 Sketchnotes
-  text: Collected sketchnotes from Port80 2014
-  image: /port80/2014/port80-2014-thumb.gif
+  excerpt: Collected sketchnotes from Port80 2014
+  image-thumb: /port80/2014/port80-2014-thumb.gif
   url: /sketchnotes/port80-2014/
 
 - date: 29-11-05
   title: Handheld 2013 Sketchnotes
-  text: Collected sketchnotes from Handheld 2013
-  image: /handheld2013/syd-lawrence-handheld2013-thumb.gif
+  excerpt: Collected sketchnotes from Handheld 2013
+  image-thumb: /handheld2013/syd-lawrence-handheld2013-thumb.gif
   url: /sketchnotes/handheld13/
 
 - date: 2013-06-26
   title: IWMW 2013 Sketchnotes
-  text: Collected sketchnotes from IWMW2013
-  image: /iwmw13/iwmw13-sketchnotes-thumb.gif
+  excerpt: Collected sketchnotes from IWMW2013
+  image-thumb: /iwmw13/iwmw13-sketchnotes-thumb.gif
   url: /sketchnotes/iwmw13/
 
 - date: 2013-05-10
   title: Port80 2013 Sketchnotes
-  text: Collected sketchnotes from Port80 2013
-  image: /port80/2013/port80-2013-05-10-sketchnotes-thumb.gif
+  excerpt: Collected sketchnotes from Port80 2013
+  image-thumb: /port80/2013/port80-2013-05-10-sketchnotes-thumb.gif
   url: /sketchnotes/port80-2013/

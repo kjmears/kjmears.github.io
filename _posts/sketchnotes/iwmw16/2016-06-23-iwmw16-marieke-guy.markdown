@@ -3,7 +3,7 @@
 code: iwmw16-03
 layout: post
 published: true
-title: Marieke Guy - IWMW16
+title: IWMW16 -Marieke Guy 
 date: 2016-06-23
 image: /iwmw16/iwmw16-marieke-guy.jpg
 image-thumb: /iwmw16/iwmw16-marieke-guy-thumb.jpg

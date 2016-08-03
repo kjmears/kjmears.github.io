@@ -1,0 +1,27 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+
+          {{ site.title }}
+
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+          <a class="sidebar-nav-item" href="/">home</a>
+          <a class="sidebar-nav-item" href="/about/">about me</a>
+          <a class="sidebar-nav-item" href="/sketchnotes/">sketchnotes</a>
+          <a class="sidebar-nav-item" href="/speakers/">speakers</a>
+    </nav>
+
+      <form class="navbar-form" role="search" method="get" action="{{site.baseurl}}/search/">
+          <div class="form-group">
+              <input id="searchString" name="searchString" type="text">
+              <button type="submit" class="btn btn-default" value="Search" name="googleSearchName">SEARCH</button>
+          </div>
+      </form>
+
+  </div>
+</div>

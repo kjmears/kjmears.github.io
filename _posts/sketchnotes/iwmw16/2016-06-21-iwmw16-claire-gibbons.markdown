@@ -3,7 +3,7 @@
 code: iwmw16-03
 layout: post
 published: true
-title: Claire Gibbons - IWMW16
+title: IWMW16 - Claire Gibbons
 date: 2016-06-21
 image: /iwmw16/iwmw16-claire-gibbons.jpg
 image-thumb: /iwmw16/iwmw16-claire-gibbons-thumb.jpg

@@ -1,14 +1,35 @@
-name: Mearso
-markdown: kramdown
-exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
+# Permalinks
+permalink:           none
 
-highlighter:      rouge
-baseurl:
-url:            http://www.mearso.co.uk
-permalink:      none
-paginate: 5
+# Setup
+title:               mearso
+tagline:             Personal Website of Kevin Mears
+url:                 http://www.mearso.co.uk
+paginate:            5
 paginate_path:  "/blog/page:num/"
+baseurl:
+highlighter:         rouge
+markdown: kramdown
+exclude: [Gemfile, Gemfile.lock, '*.json', '*.rb', README.md, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Kevin Mears
+  url:               https://twitter.com/mearso
+  email:             mearso@gmail.com
+
+# Custom vars
+github:
+  repo:              https://github.com/kjmears/kjmears.github.io
+
+# Gems
 gems:
 - jekyll-redirect-from
 - jekyll-sitemap

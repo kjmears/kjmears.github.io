@@ -8,11 +8,10 @@ Collection of sketchnotes done listening to things.
 
 <p>Sketchnotes from books</p>
 
-<div class="row">
+<section>
 	{% for post in site.tags.audio %}
-		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
 
-</div>
+			{% include panel.html %}
+
+	{% endfor %}
+</section>

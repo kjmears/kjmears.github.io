@@ -4,11 +4,6 @@ title: Handheld 2012 Sketchnotes
 
 ---
 
-<div class="row">
-	{% for post in site.tags.handheld %}
-		<section>
+<section>{% for post in site.tags.handheld %}
 			{% include panel.html %}
-		</section>
-	{% endfor %}
-
-</div>
+	{% endfor %}</section>

@@ -19,11 +19,8 @@ You can see them all at <a href="http://www.flickr.com/photos/mearso/sets/721576
 
 <p>Collection of sketchnotes done watching videos of various descriptions</p>
 
-<div class="row">
-{% for post in site.tags.iwmw12 %}
 <section>
-{% include panel.html %}
-</section>
-{% endfor %}
-
-</div>
+{% for post in site.tags.iwmw12 %}
+			{% include panel.html %}
+	{% endfor %}
+	</section>

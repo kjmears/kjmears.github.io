@@ -6,12 +6,11 @@ title: Sketchnotes
 
 <p>Full list of sketchnotes</p>
 
-<div class="row">
-	{% for post in site.categories.sketchnotes %}
-		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
-		
-</div>
+<section>
 
+	{% for post in site.categories.sketchnotes %}
+			{% include panel.html %}
+
+	{% endfor %}
+
+		</section>

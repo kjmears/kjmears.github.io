@@ -3,28 +3,28 @@
 @import "mixins";
 
 // Reset and dependencies
-@import "normalize";
+//@import "normalize";
 // @import "print";
 //@import "glyphicons";
 
 // Core CSS
-@import "scaffolding";
+//@import "scaffolding";
 @import "type";
 // @import "code";
-@import "grid";
-@import "tables";
-@import "forms";
+//@import "grid";
+//@import "tables";
+//@import "forms";
 @import "buttons";
 
 // Components
-@import "component-animations";
+//@import "component-animations";
 // @import "dropdowns";
-@import "button-groups";
+//@import "button-groups";
 // @import "input-groups";
-@import "navs";
-@import "navbar";
+//@import "navs";
+//@import "navbar";
 // @import "breadcrumbs";
-@import "pagination";
+//@import "pagination";
 // @import "pager";
 // @import "labels";
 // @import "badges";
@@ -36,7 +36,7 @@
 // @import "list-group";
 // @import "panels";
 // @import "responsive-embed";
-@import "wells";
+// @import "wells";
 // @import "close";
 
 // Components w/ JavaScript

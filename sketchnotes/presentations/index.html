@@ -3,13 +3,8 @@ layout: page
 title: Presentations Sketchnotes
 
 ---
-
-<div class="row">
-	{% for post in site.tags.presentations %}
-		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
-		
-</div>
-
+<section>
+		{% for post in site.tags.presentations %}
+				{% include panel.html %}
+		{% endfor %}
+			</section>

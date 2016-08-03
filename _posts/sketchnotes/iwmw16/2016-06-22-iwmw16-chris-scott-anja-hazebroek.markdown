@@ -3,7 +3,7 @@
 code: iwmw16-05
 layout: post
 published: true
-title: Chris Scott and Anja Hazebroek - IWMW16
+title: IWMW16 -Chris Scott and Anja Hazebroek 
 date: 2016-06-22
 image: /iwmw16/iwmw16-chris-scott-anja-hazebroek.jpg
 image-thumb: /iwmw16/iwmw16-chris-scott-anja-hazebroek-thumb.jpg
