@@ -6,12 +6,6 @@ title: Video Sketchnotes
 
 <p>Collection of sketchnotes done watching videos of various descriptions</p>
 
-<div class="row">
-	{% for post in site.tags.video %}
-		<section>
+<section>{% for post in site.tags.video %}
 			{% include panel.html %}
-		</section>
-	{% endfor %}
-		
-</div>
-
+	{% endfor %}</section>

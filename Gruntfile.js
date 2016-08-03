@@ -73,7 +73,7 @@ module.exports = function(grunt) {
     watch: {
 
       options: {
-        livereload: true,
+        livereload: false,
       }, //options
 
       jekyllSources: {
@@ -94,10 +94,6 @@ module.exports = function(grunt) {
         }
       }, // scripts
 
-      css: {
-        files: ['less/*.less'],
-        tasks: ['less'],
-      }, // css
 
       images: {
         files: ['images/**/*.{png,jpg,gif}', 'images/*.{png,jpg,gif}'],
@@ -115,16 +111,8 @@ module.exports = function(grunt) {
      jekyllServe : {
          command : 'bundle exec jekyll serve'
      }
-    },
-
-    connect: {
-      server: {
-        options: {
-          port: 8000,
-          base: './'
-        }
-      }
     }
+
 
   });
 
@@ -141,6 +129,6 @@ module.exports = function(grunt) {
   // Default Task is basically a rebuild
   grunt.registerTask('default', ['concat', 'uglify', 'sass', 'shell', 'watch']);
   grunt.registerTask('min', ['imagemin']);
-  grunt.registerTask('dev', ['connect', 'watch']);
+  grunt.registerTask('dev', ['watch']);
   grunt.registerTask('jekyll', ['sass', 'shell', 'watch']);
 };

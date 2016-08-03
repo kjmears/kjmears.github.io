@@ -7,20 +7,9 @@ title: IWMW14 Sketchnotes
 ---
 
 
-<div class="row">
-		<section>
-	{% for promo in site.data.iwmw14 %}
 
-			<div class="panel">
-				<a href="{{ promo.url }}"><img src="/images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
-
-				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
-
-				<p>{{ promo.text }}
-				<a href="{{ promo.url }}"> Read more</a></p>
-
-			</div>
-		{% endfor %}
-	</section>
-
-</div>
+<section>
+	{% for post in site.tags.iwmw14 %}
+			{% include panel.html %}
+	{% endfor %}
+</section>

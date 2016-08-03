@@ -4,13 +4,11 @@ title: Winter Localhost 2014 Sketchnotes
 
 ---
 
-<div class="row">
-	{% for post in site.tags.winterlocalhost2014 %}
-		<section>
+
+<section>{% for post in site.tags.winterlocalhost2014 %}
 			{% include panel.html %}
-		</section>
 	{% endfor %}
-		
-</div>
+		</section>
+
 
 Collected sketchnotes from the last localhost of 2014.

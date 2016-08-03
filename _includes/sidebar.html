@@ -2,9 +2,9 @@
   <div class="container">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+
           {{ site.title }}
-        </a>
+
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
@@ -16,14 +16,12 @@
           <a class="sidebar-nav-item" href="/speakers/">speakers</a>
     </nav>
 
-      <form class="navbar-form navbar-right" role="search" method="get" action="{{site.baseurl}}/search/">
+      <form class="navbar-form" role="search" method="get" action="{{site.baseurl}}/search/">
           <div class="form-group">
               <input id="searchString" name="searchString" type="text">
-              <button type="submit" class="btn btn-default" value="Search" name="googleSearchName">Search</button>
+              <button type="submit" class="btn btn-default" value="Search" name="googleSearchName">SEARCH</button>
           </div>
       </form>
 
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

@@ -4,11 +4,8 @@ title: IWMW15 Sketchnotes
 ---
 
 
-<div class="row">
-	{% for post in site.tags.iwmw15 %}
-		<section>
-			{% include panel.html %}
-		</section>
-	{% endfor %}
 
-</div>
+<section>{% for post in site.tags.iwmw15 %}
+			{% include panel.html %}
+	{% endfor %}
+	</section>

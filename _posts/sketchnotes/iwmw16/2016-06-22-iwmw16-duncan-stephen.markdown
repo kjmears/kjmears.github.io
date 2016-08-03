@@ -3,7 +3,7 @@
 code: iwmw16-05
 layout: post
 published: true
-title: Duncan Stephen - IWMW16
+title: IWMW16 -Duncan Stephen 
 date: 2016-06-22
 image: /iwmw16/iwmw16-duncan-stephen.jpg
 image-thumb: /iwmw16/iwmw16-duncan-stephen-thumb.jpg

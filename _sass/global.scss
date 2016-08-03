@@ -21,9 +21,6 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 // 	}
 // }
 
-.commons p {
-	padding:1em 1em 0 0;
-}
 
 // section{
 // 	@include make-xs-column(12);
@@ -46,24 +43,11 @@ $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-
 //   }
 // }
 //
-// aside{
-// 	@include make-xs-column(12);
-// 	background-color: white;
-// 	ul{
-// 		@extend .list-unstyled !optional;
-// 	}
-//
-// 	.bio-meta, .event-meta{
-// 		@include make-sm-column(3);
-// 	}
-// 	.cc-meta{
-// 		@include make-sm-column(6);
-// 	}
-// }
 
-.media{
-	border-bottom: 1px solid $gray-lighter;
-}
+	.bio-meta > ul, .event-meta > ul{
+		padding-left: 0;
+		list-style: none;
+	}
 
 
 // // blog page layout

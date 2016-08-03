@@ -3,13 +3,7 @@ layout: page
 title: Slides
 
 ---
+<section>
 
-<div class="row">
-	{% for post in site.categories.slides %}
-		{% if post.invisible != 1  %}
-		<section>
-			{% include panel.html %}
-		</section>
-		{% endif %}
-	{% endfor %}
-</div>
+	{% for post in site.categories.slides %} {% if post.invisible != 1 %} {% include panel.html %} {% endif %} {% endfor %}
+</section>

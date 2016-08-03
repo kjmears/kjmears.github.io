@@ -3,7 +3,7 @@
 code: iwmw16-03
 layout: post
 published: true
-title: Rob Van Tol - IWMW16
+title: IWMW16 -Rob Van Tol 
 date: 2016-06-22
 image: /iwmw16/iwmw16-rob-van-tol.jpg
 image-thumb: /iwmw16/iwmw16-rob-van-tol-thumb.jpg

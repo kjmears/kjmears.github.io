@@ -3,7 +3,7 @@
 code: iwmw16-04
 layout: post
 published: true
-title: Richard Prowse - IWMW16
+title: IWMW16 -Richard Prowse 
 date: 2016-06-22
 image: /iwmw16/iwmw16-richard-prowse.jpg
 image-thumb: /iwmw16/iwmw16-richard-prowse-thumb.jpg

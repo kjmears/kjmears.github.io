@@ -340,20 +340,10 @@ input[type="button"].btn-block {
   -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
-.panel p {
-  padding: 1em;
-  background-color: deeppink;
-}
-.panel h2 a:hover {
-  color: #008cba;
-}
 
-.commons p {
-  padding: 1em 1em 0 0;
-}
-
-.media {
-  border-bottom: 1px solid #eeeeee;
+.bio-meta > ul, .event-meta > ul {
+  padding-left: 0;
+  list-style: none;
 }
 
 /*# sourceMappingURL=global.css.map */

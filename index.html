@@ -5,25 +5,16 @@ meta: "meta info"
 
 ---
 
-
-		<section>
-	{% for promo in site.data.promos %}
-
-			<div class="panel">
-				<a href="{{ promo.url }}"><img src="images/{{ promo.image }}" alt="{{ promo.alt }}" class="img-responsive"></a>
-
-				<h2 class="panel-title media-heading"><a href="{{ promo.url }}">{{ promo.title }}</a></h2>
-
-				<!-- <p>{{ promo.text }}
-				<a href="{{ promo.url }}"> Read more</a></p> -->
-
-			</div>
-
-		{% endfor %}
-		</section>
-
+<section>
+    {% for post in site.data.promos %}
+      {% include panel.html %}
+    {% endfor %}
+</section>
 
 <section>
-
-	{% for post in site.posts %} {% if post.homepage %} {% include panel.html %} {% endif %} {% endfor %}
+    {% for post in site.posts %}
+      {% if post.homepage %}
+        {% include panel.html %}
+      {% endif %}
+    {% endfor %}
 </section>

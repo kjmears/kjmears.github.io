@@ -3,7 +3,7 @@
 code: iwmw16-05
 layout: post
 published: true
-title: Gareth Saunders - IWMW16
+title: IWMW16 -Gareth Saunders 
 date: 2016-06-22
 image: /iwmw16/iwmw16-gareth-saunders.jpg
 image-thumb: /iwmw16/iwmw16-gareth-saunders-thumb.jpg

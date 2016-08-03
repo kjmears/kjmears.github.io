@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Roboto Slab", Georgia, Times, serif;
+  font-family: Oxygen, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -41,7 +41,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -55,20 +55,19 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1rem 1rem;
-  color: rgba(255,255,255,.5);
-
+  padding:    1rem 1rem;
+  color:      white;
   background-image: url("/img/pattern-white-grey.gif");
-  font-family: 'Bangers', cursive;
-  font-size: 1.5rem;
+  font-family: 'Bangers', sans-serif;
+  font-size: 1.7rem;
   text-shadow:
-  3px 3px 0 #666,
+  3px 3px 0 #000,
   /* Simulated effect for Firefox and Opera
      and nice enhancement for WebKit */
- -1px -1px 0 #666,
-  1px -1px 0 #666,
- -1px  1px 0 #666,
-  1px  1px 0 #666;
+ -1px -1px 0 #000,
+  1px -1px 0 #000,
+ -1px  1px 0 #000,
+  1px  1px 0 #000;
 
 }
 @media (min-width: 48em) {
@@ -89,6 +88,7 @@ html {
 
 /* About section */
 .sidebar-about h1 {
+  font-family: inherit;
   color: #fff;
   margin-top: 0;
   font-size: 2.5rem;
@@ -105,7 +105,8 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  color:           #6a9fb5;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -281,51 +282,79 @@ section {
 
 .panel {
   /*min-height:       23em;*/
-  background-color: #90a959;
   width:            98%;
   margin:           0.2rem;
+  background-color: #efecec;
 }
 
 @media (min-width: 24em) {
   .panel {
-    background-color: cyan;
     width:            48%;
   }
 }
 
 @media (min-width: 68em) {
   .panel {
-    background-color: pink;
     width:            24%;
   }
 }
 
-.panel p {
-  padding: 1em;
-  color: #000;
+.panel-block {
+  padding:0 1em;
 }
 
-.panel img{
-  width: 100%;
+.panel-title, .panel-text {
+  font-size: 0.8rem;
 }
 
-h2.panel-title > a {
-  display: block;
-  color: #fff !important;
+.page-title, .post-category {
+  font-family: 'Bangers', sans-serif;
+  margin-top: 0;
+  color:      white;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  text-shadow:
+  3px 3px 0 #000,
+  /* Simulated effect for Firefox and Opera
+     and nice enhancement for WebKit */
+ -1px -1px 0 #000,
+  1px -1px 0 #000,
+ -1px  1px 0 #000,
+  1px  1px 0 #000;
 }
 
-h2.panel-title > a:hover {
-  color: cyan;
+
+a.page-title:hover,
+a.page-title:focus {
+  color:           #6a9fb5;
+  text-decoration: none;
+}
+
+h1.post-category > a:hover,
+h1.post-category > a:focus {
+  color: #6a9fb5 !important;
 }
 
 
-.panel-title > a{
-	font-size:        1rem;
-	font-weight:      300;
-  padding: 0 1em;
-	/*background-color: $gray-lighter;*/
+h1.post-category > a {
+  color:white !important;
+  text-decoration: none !important;
 }
 
-.panel-title:hover {
-  color: lime;
+
+.sidebar > div > form > div > button {
+  width:50%;
+  font-style: inherit;
+  font-weight: bold;
+}
+.sidebar > div > form > div > input {
+  width:50%;
+  line-height: 1.6rem;
+}
+
+
+@media (min-width: 24em) {
+  .sidebar > div > form > div > input, .sidebar > div > form > div > button {
+    width:            100%;
+  }
 }

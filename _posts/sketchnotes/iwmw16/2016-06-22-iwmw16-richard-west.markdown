@@ -3,7 +3,7 @@
 code: iwmw16-05
 layout: post
 published: true
-title: Richard West - IWMW16
+title: IWMW16 -Richard West 
 date: 2016-06-22
 image: /iwmw16/iwmw16-richard-west.jpg
 image-thumb: /iwmw16/iwmw16-richard-west-thumb.jpg

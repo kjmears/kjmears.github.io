@@ -3,7 +3,7 @@
 code: iwmw16-01
 layout: post
 published: true
-title: Neil Allison - IWMW16
+title: IWMW16 -Neil Allison 
 date: 2016-06-21
 image: /iwmw16/iwmw16-neil-allison.jpg
 image-thumb: /iwmw16/iwmw16-neil-allison-thumb.jpg
