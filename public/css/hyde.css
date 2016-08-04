@@ -58,7 +58,7 @@ html {
   padding:    1rem 1rem;
   color:      white;
   background-image: url("/img/pattern-white-grey.gif");
-  font-family: 'Bangers', sans-serif;
+  font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   font-size: 1.7rem;
   text-shadow:
   3px 3px 0 #000,
@@ -308,7 +308,7 @@ section {
 }
 
 .page-title, .post-category {
-  font-family: 'Bangers', sans-serif;
+  font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   margin-top: 0;
   color:      white;
   font-size: 2.5rem;
