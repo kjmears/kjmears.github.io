@@ -1,5 +1,5 @@
 ---
-layout: weeknotes
+layout: post
 title: Weeknote 24
 date: 2016-07-29
 comments: false
