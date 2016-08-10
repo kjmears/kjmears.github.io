@@ -1,60 +1,8 @@
-- isbn: 014103095X
-  title: 'The Ghost Road'
-  author: "Pat Barker"
-  finished: 09-01-2016
-  amazon: "http://www.amazon.co.uk/gp/product/014103095X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=014103095X&linkCode=as2&tag=mearso-21"
-
-- isbn: 0141029323
-  title: 'The Book of Other People'
-  author: Penguin
-  finished: 13-02-2016
-  amazon: "http://www.amazon.co.uk/gp/product/0141029323/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0141029323&linkCode=as2&tag=mearso-21"
-
-- isbn: 0571297749
-  title: 'I can make you hate'
-  author: Charlie Brooker
-  finished: 09-03-2016
-  amazon: "http://amzn.to/2aCXpq7"
-
-
-- isbn: 009947896X
-  title: Voodoo Histories
-  amazon: http://amzn.to/2aPcW9W
-  author: David Aaronovitch
-  finished: 29-03-2016
-
-- isbn: 0753555166
-  title: "Essentialism: The Disciplined Pursuit of Less"
-  amazon: http://amzn.to/2aj7I6l
-  author: Greg McKeown
-  finished: 03-04-2016
-
-- isbn: 0230768075
-  title: How to connect with nature
-  amazon: http://amzn.to/2aCZSkH
-  author: Tristan Gooley
-  finished: 25-04-2016
-
-- isbn: 0230767761
-  title: How to think about exercise
-  amazon: http://amzn.to/2aufrf5
-  author: Damon Young
-  finished: 15-05-2016
-
-
-- isbn: 0300184409
-  title: "Aesthetics: A memoir"
-  amazon: http://amzn.to/2b3JNoQ
-  author: Ivan Brunetti
-  finished: 02-06-2016
-
-- isbn: 1840236272
-  title: Charley's War 1
-  amazon: http://amzn.to/2b3JUAq
-  author:
-    - Pat Mills
-    - Joe Colquhoun
-  finished: 09-06-2016
+- isbn: 0099458039
+  title: "Frank Skinner on the Road: Love, Stand-up Comedy and The Queen Of The Night"
+  finished: 11-07-2016
+  amazon: http://amzn.to/2avDw9k
+  author: Frank Skinner
 
 - isbn: 0141030704
   title: Superfreakonomics
@@ -64,8 +12,58 @@
     - Steven D. Levitt
   finished: 19-06-2016
 
-- isbn: 0099458039
-  title: "Frank Skinner on the Road: Love, Stand-up Comedy and The Queen Of The Night"
-  finished: 11-07-2016
-  amazon: http://amzn.to/2avDw9k
-  author: Frank Skinner
+- isbn: 1840236272
+  title: Charley's War 1
+  amazon: http://amzn.to/2b3JUAq
+  author:
+    - Pat Mills
+    - Joe Colquhoun
+  finished: 09-06-2016
+
+- isbn: 0300184409
+  title: "Aesthetics: A memoir"
+  amazon: http://amzn.to/2b3JNoQ
+  author: Ivan Brunetti
+  finished: 02-06-2016
+
+- isbn: 0230767761
+  title: How to think about exercise
+  amazon: http://amzn.to/2aufrf5
+  author: Damon Young
+  finished: 15-05-2016
+
+- isbn: 0230768075
+  title: How to connect with nature
+  amazon: http://amzn.to/2aCZSkH
+  author: Tristan Gooley
+  finished: 25-04-2016
+
+- isbn: 0753555166
+  title: "Essentialism: The Disciplined Pursuit of Less"
+  amazon: http://amzn.to/2aj7I6l
+  author: Greg McKeown
+  finished: 03-04-2016
+
+- isbn: 009947896X
+  title: Voodoo Histories
+  amazon: http://amzn.to/2aPcW9W
+  author: David Aaronovitch
+  finished: 29-03-2016
+
+- isbn: 0571297749
+  title: 'I can make you hate'
+  author: Charlie Brooker
+  finished: 09-03-2016
+  amazon: "http://amzn.to/2aCXpq7"
+
+- isbn: 0141029323
+  title: 'The Book of Other People'
+  author: Penguin
+  finished: 13-02-2016
+  amazon: "http://www.amazon.co.uk/gp/product/0141029323/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0141029323&linkCode=as2&tag=mearso-21"
+
+- isbn: 014103095X
+  title: 'The Ghost Road'
+  author: "Pat Barker"
+  finished: 09-01-2016
+  amazon: "http://www.amazon.co.uk/gp/product/014103095X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=014103095X&linkCode=as2&tag=mearso-21"

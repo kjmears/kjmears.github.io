@@ -94,6 +94,13 @@ sitemap: false
 	<ul>
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2010" %}
+
+				{% if book.notes %}
+				<p>
+					{{ book.notes }}
+				</p>
+				{% endif %}
+
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
 			{% endif %}
 		{% endfor %}
@@ -127,7 +134,14 @@ sitemap: false
 	<ul>
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2007" %}
-				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
+					{% if book.notes != "" %}
+					<p>
+						{{ book.notes }}
+					</p>
+
+					</li>
+					{% endif %}
 			{% endif %}
 		{% endfor %}
 	</ul>
@@ -149,7 +163,14 @@ sitemap: false
 	<ul>
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2005" %}
-				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
+					{% if book.notes != "" %}
+					<p>
+						{{ book.notes }}
+					</p>
+
+					</li>
+					{% endif %}
 			{% endif %}
 		{% endfor %}
 	</ul>
@@ -160,7 +181,15 @@ sitemap: false
 	<ul>
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2004" %}
-				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
+
+					{% if book.notes != "" %}
+					<p>
+						{{ book.notes }}
+					</p>
+
+					</li>
+					{% endif %}
 			{% endif %}
 		{% endfor %}
 	</ul>
@@ -173,7 +202,16 @@ sitemap: false
 	<ul>
 		{% for book in site.data.books.full-list %}
 			{% if book.progress == "Finished" %}
-				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
+
+				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
+
+					{% if book.notes != "" %}
+				<p>
+					{{ book.notes }}
+				</p>
+
+				</li>
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 	</ul>

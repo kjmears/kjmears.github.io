@@ -9,8 +9,8 @@ paginate:            5
 paginate_path:  "/blog/page:num/"
 baseurl:
 highlighter:         rouge
-markdown: kramdown
-exclude: [Gemfile, Gemfile.lock, '*.json', '*.rb', README.md, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
+markdown:            kramdown
+exclude:             [Gemfile, Gemfile.lock, '*.json', '*.rb', README.md, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
 
 # Assets
 #
@@ -34,3 +34,21 @@ gems:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jekyll-paginate
+
+# Collections
+collections:
+  project:
+    description: "College Project"
+    output: true
+
+# Setting some defaults for collections - layouts, collection information.
+# with more to follow
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: project
+    values:
+      layout: project
+      info: College Project

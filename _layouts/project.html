@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="post">
+
+<h1>Project layout</h1>
+
+	<h2 class="post-title">{{ page.title }}</h2>
+
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+
+
+  {% if page.image %}
+	<figure>
+  	<a href="{{ site.baseurl }}/images{{ page.image }}">
+			<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+		</a>
+
+		<!-- {% if page.caption %}
+			<figcaption>{{ page.caption}}</figcaption>
+		{% endif %} -->
+
+	</figure>
+  {% endif %}
+
+
+	{{ content }}
+</article>

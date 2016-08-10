@@ -1,0 +1,20 @@
+---
+title: index
+desc:
+invisible: 1
+---
+
+test
+
+{% for article in site.project %}
+
+      {% if article.invisible == null  %}
+            <h3>
+                  <a href="{{ article.url }}">{{ article.title }}</a>
+            </h3>
+
+            <time>{{ article.date | date_to_string }}</time>
+
+      {% endif %}
+
+{% endfor %}
