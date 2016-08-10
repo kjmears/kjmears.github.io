@@ -12,11 +12,24 @@ sitemap: false
 	{% for book in site.data.books.2016 %}
 	<li>
 		{% if book.amazon != null %}
-		<strong><a href="{{ book.amazon }}">{{ book.title }}</a></strong>
+
+			<strong><a href="{{ book.amazon }}">{{ book.title }}</a></strong>
+			<em>{{ book.author }}</em>
+
 		{% else %}
-		<strong>{{ book.title }}</strong>
-	{% endif %}
-		<em>{{ book.author }}</em>
+
+			<strong>{{ book.title }}</strong>
+
+		{% endif %}
+
+		{% if book.notes %}
+		<p>
+			{{ book.notes }}
+		</p>
+
+		{% endif %}
+
+
 	</li>
 	{% endfor %}
 </ul>
