@@ -1,4 +1,4 @@
-/*! mearso-jekyll-site dev 07-08-2016 */
+/*! mearso-jekyll-site dev 10-08-2016 */
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
@@ -342,6 +342,11 @@ input[type="button"].btn-block {
 }
 
 .bio-meta > ul, .event-meta > ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-unstyled {
   padding-left: 0;
   list-style: none;
 }

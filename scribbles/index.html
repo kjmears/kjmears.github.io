@@ -10,8 +10,8 @@ sitemap: false
 <section>
 {% for picture in site.data.scribbles %}
 	<div class="panel">
-	  <a href="{{ site.baseurl }}/images/project/{{ picture.image }}">
-	    <img class="panel-img-top" src="{{ site.baseurl }}/images/project/{{ picture.image }}" alt="panel image">
+	  <a href="{{ site.baseurl }}/images{{ picture.image }}">
+	    <img class="panel-img-top" src="{{ site.baseurl }}/images{{ picture.image }}" alt="panel image">
 
 	  <div class="panel-block">
 	      <h3 class="panel-title">{{ picture.title }}</h3>
