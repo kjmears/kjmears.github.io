@@ -5,7 +5,6 @@ _site/
 lib-cov
 *.seed
 *.log
-*.csv
 *.dat
 *.out
 *.pid
@@ -21,4 +20,3 @@ bower_components
 
 .sass-cache
 *.lock
-
