@@ -131,19 +131,11 @@ sitemap: false
 </div>
 
 <div class="row">
-	<h2>Finished in 2010</h2>
+	<h2>Finished in 2011</h2>
 	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2010" %}
-
-				{% if book.notes %}
-				<p>
-					{{ book.notes }}
-				</p>
-				{% endif %}
-
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
-
 					{% if book.notes != "" %}
 						<p>
 						{{ book.notes }}
@@ -220,7 +212,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2005</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2005" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
