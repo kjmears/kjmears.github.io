@@ -8,7 +8,7 @@ sitemap: false
 <div class="row">
 	<h2>Finished in 2016</h2>
 
-<ul>
+<ul class="list-unstyled">
 	{% for book in site.data.books.2016 %}
 	<li>
 		{% if book.amazon != null %}
@@ -38,7 +38,7 @@ sitemap: false
 <div class="row">
 	<h2>Finished in 2015</h2>
 
-<ul>
+<ul class="list-unstyled">
 	{% for book in site.data.books.2015 %}
 	<li>
 
@@ -78,7 +78,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2013</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2013" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -97,7 +97,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2012</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2012" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -115,7 +115,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2011</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2011" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -132,7 +132,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2010</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2010" %}
 
@@ -157,7 +157,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2009</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2009" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -175,7 +175,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2008</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2008" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -192,7 +192,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2007</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2007" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -209,7 +209,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2006</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2006" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em></li>
@@ -238,7 +238,7 @@ sitemap: false
 
 <div class="row">
 	<h2>Finished in 2004</h2>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress contains "2004" %}
 				<li><strong>{{ book.title }}</strong> <em>{{ book.author }}</em>
@@ -258,7 +258,7 @@ sitemap: false
 	<h2>Finished</h2>
 
 	<p>Books finished in the days before tracking everything.</p>
-	<ul>
+	<ul class="list-unstyled">
 		{% for book in site.data.books.full-list %}
 			{% if book.progress == "Finished" %}
 
