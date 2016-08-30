@@ -11,10 +11,7 @@ sitemap: false
 	{% assign sorted = (site.data.watched | sort: 'date') | reverse %} {% for film in sorted %}
 	<li>
 		<strong>{{ film.title }}</strong> {{ film.watched | date: "%B %-d" }}  <a href="http://www.imdb.com/title/{{ film.imdb_id }}">IMDB</a> {% if film.notes %}
-		<p>
 			{{ film.notes }}
-		</p>
-
 		{% endif %}
 
 	</li>
