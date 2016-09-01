@@ -13,7 +13,8 @@ sitemap: false
 		<strong>{{ film.title }}</strong> {{ film.watched | date: "%B %-d" }}  <a href="http://www.imdb.com/title/{{ film.imdb_id }}">IMDB</a> {% if film.notes %}
 			{{ film.notes }}
 		{% endif %}
-
+<em>			<a type=amzn search="{{ film.title }}" category="dvd">Find on Amazon</a>
+</em>
 	</li>
 
 	{% endfor %}
