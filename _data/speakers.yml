@@ -17,6 +17,12 @@
   twitter: usabilityed
   url: usability-ed.blogspot.co.uk
 
+- id: spyou
+  name: Nicholas Alpi
+  twitter: spyou
+  url: www.cookieshq.co.uk
+
+
 - id: mattpointblank
   name: Matt Andrews
   twitter: mattpointblank
@@ -90,6 +96,11 @@
   name: Sue Burnett
   twitter: sueburnett
   url: about.me/sueburnett
+
+- id: Phishtitz
+  name: David Burton
+  twitter: Phishtitz
+  url: www.blurredfocus.co.uk/
 
 - name: Ben Butchart
   id: bbutchart
@@ -184,6 +195,11 @@
 - id: eadraffan
   name: E A Draffan
 
+- id: de
+  name: Dan Edwards
+  twitter: de
+  url: nodividestudio.com
+
 - id: garius
   name: Gareth Edwards
   twitter: garius
@@ -205,6 +221,11 @@
   name: Kevin Evans
   twitter: kwe
   url: kwevans.com
+
+- id: _beneverard
+  name: Ben Everard
+  twitter: _beneverard
+  url: beneverad.co.uk
 
 - id: feather
   name: Derek Featherstone
@@ -535,6 +556,11 @@
   twitter: BenjaminReid
   url: benjaminreid.me
 
+- id: csswizardry
+  name: Harry Roberts
+  twitter: csswizardry
+  url: csswizardry.com
+
 - id: sturobson
   name: Stuart Robson
   twitter: sturobson
@@ -570,6 +596,11 @@
   name: Chris Scott
   linkedin: https://www.linkedin.com/in/chrisscott3
   url: headscape.co.uk
+
+- id: madebysheppard
+  name: Jack Sheppard
+  twitter: madebysheppard
+  url: www.madebysheppard.com
 
 - id: missrachilli
   name: Rachel Shillcock
