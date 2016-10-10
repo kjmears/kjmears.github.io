@@ -16,7 +16,7 @@ tags:
 cc: BY-SA
 ---
 
-I've seen Ruth talk [once before][localhost], when she talked about the fiendish sounding shadow DOM. Obviously some kind of mascohist, she attempted live demo of technology and was beset by technical glitches, that whilst annoying she pressed on and gave a really interesting introduction to MIDI, focusing on the 'Digital Interface' bit of the acronym.
+I've seen Ruth talk [once before][localhost], when she talked about the fiendish sounding shadow DOM. Obviously some kind of mascohist, she attempted live demo of technology and was beset by technical glitches with the in-house projector. Whilst annoying, she pressed on and gave a really interesting introduction to MIDI, focusing on the 'Digital Interface' bit of the acronym.
 
 Nice demos and good to see what digital pioneers are bringing back from the fronteer.
 
