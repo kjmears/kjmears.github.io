@@ -8,7 +8,7 @@ image-thumb: /wdc2016/wdc2016-lightning-talks-thumb.jpg
 original: wdc2016/wdc2016-lightning-talks-large.jpg
 category: sketchnotes
 speaker:
-  - juksie
+  - jukesie
   - phistitz
   - _beneverard
 
