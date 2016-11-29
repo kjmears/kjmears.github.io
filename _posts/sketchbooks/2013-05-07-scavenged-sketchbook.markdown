@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Scavenged sketchbook
-image: scavenged-sketchbook.jpg
-image-thumb: scavenged-sketchbook-thumb.jpg
+image: /scavenged-sketchbook.jpg
+image-thumb: /scavenged-sketchbook-thumb.jpg
 category: sketchbooks
 
 date: 2013-05-07 21:38:16.000000000 +01:00

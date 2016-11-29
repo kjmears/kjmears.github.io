@@ -9,8 +9,6 @@ module.exports = function(grunt) {
         options: {
           style: 'expanded',
           loadPath: [
-            "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
-            "bower_components/components-font-awesome/scss",
             "_sass"
             ],
           banner: '/*! <%= pkg.name %> dev <%= grunt.template.today("dd-mm-yyyy") %> */\n'
@@ -23,8 +21,6 @@ module.exports = function(grunt) {
         options: {
           style: 'compressed',
           loadPath: [
-            "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
-            "bower_components/components-font-awesome/scss",
             "_sass"
             ],
           banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
@@ -42,7 +38,6 @@ module.exports = function(grunt) {
     concat: {
       dist: {
         src: [
-          'bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js',
           'js/scripts.js'
         ],
         dest: 'js/dist/scripts.js',

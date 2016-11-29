@@ -1,3 +1,18 @@
+- title: 'WDC2016'
+  date: 2016-10-07
+  speaker:
+    - jukesie
+    - rumyra
+    - csswizardry
+    - spyou
+    - de
+    - madebysheppard
+    - _beneverad
+    - Phishtitz
+
+  sketchnotes: /sketchnotes/wdc2016
+  image: /wdc2016/wdc2016-lightning-talks-thumb.jpg
+
 - title: 'Creative Mornings Cardiff - Gavin Strange'
   date: 2016-08-06
   speaker: JamFactory

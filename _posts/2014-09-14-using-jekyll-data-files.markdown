@@ -14,7 +14,7 @@ It took me a while to work out how to do it using Jekyll data files so I thought
 
 The sketchnotes I do are using (but not always) in the format of a post with the following YAML front matter.
 
- `   ---
+```
 
     layout: post
     published: true
@@ -30,11 +30,9 @@ The sketchnotes I do are using (but not always) in the format of a post with the
     - live
 
 
-    ---
 
     Kevin Evans : These ARE the Droids you’re looking for.
-  `
-
+```
 
 All pretty straighforward Jekyll post information the only unusual code (more on that later).
 
@@ -46,11 +44,13 @@ I thought about using categories and tags to organise things, but wasn't to sure
 
 I remembered that I'd used data.yml files when first trying out Jekyll, and thought it might help. I set about creating a `speakers.yml` file with following format.
 
-  ` - id: kwe
+```
+ - id: kwe
       name: Kevin Evans
       twitter: kwe
       url: daveaddey.com
-  `
+```
+
 I used an id figuring that I'd probably need a uniquie way to refer to speakers. I've stuck with pretty basic info, but the cool thing is that I can easily add more info to a speaker in this file, without having to add to all, and can then use them when I want.
 
 This file is pretty easy to manage, but YAML files are fussy about the whitespace, so make sure you set up your text editor to use spaces instead of tabs.
@@ -59,6 +59,8 @@ So i now have a list of the speakers after a long trawl through my sketcnotes an
 
 Next I needed a list of all the events that I've sketchnoted. Lucklily they tend to come in batches when I do a load over a day or two at a conference. An event looks like this in the `events.yml` page.
 
+```
+
     - title: These are not the droids you're looking for
       sketchnotes: /sketchnotes/port80-2014-kevin-evans.html
       speaker: kwe
@@ -66,7 +68,7 @@ Next I needed a list of all the events that I've sketchnoted. Lucklily they tend
       code: port80-07
       image: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
 
-
+```
 I've used the term 'event' , what this means for me is a occasion where I've sketchnoted. Maybe my naming could have been better.
 
 As you can see all pretty straightforward.
@@ -82,68 +84,79 @@ Now that I have all this information in data files how to I get them displayed o
 That is done with the file `speakers/index.html`
 
 First the simple Jekyll front matter setting the layout and title.
-
+```
       ---
       layout: page
       title: Speakers
 
       ---
-
+```
 
 Next we get into the mechanics of what's going on. In the following code I create an object called `bio` which loops through the key:value pairs in `speakers.yml` and displays the name. I do a little check for the presence of the `url` and `twitter` info before displaying it. I haven't done any fancyinhg sorting of the data (I don't know how) I've just made sure my speakers.yml is in alphabetical order.
 
-        {% for bio in site.data.speakers %}
-        <div class="speaker">
+```
+{% for bio in site.data.speakers %}
+<div class="speaker">
 
-        <h2 class="bio-name">{{ bio.name }}</h2>
+<h2 class="bio-name">{{ bio.name }}</h2>
 
-        <div class="meta">
-        {% if bio.twitter %}
-        <p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
-        {% endif %}
-        {% if bio.url %}
-        <p class="website"><a href="{{ bio.url }}">Website</a></p>
-        {% endif %}
+<div class="meta">
+{% if bio.twitter %}
+<p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
+{% endif %}
+{% if bio.url %}
+<p class="website"><a href="{{ bio.url }}">Website</a></p>
+{% endif %}
 
-        </div>
-
-
+</div>
+```
 next i do a similar thing for the `events.yml`, accessing the file, but this time checking if the id I've got matches the speaker value. If if does it's then displayed on the page.
 
-    {% for talk in site.data.events %}
-      {% if bio.id == talk.speaker %}
-      <h3>{{ talk.title }}</h3>
-      <ul>
-        <li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
-        <li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
-        <li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
-      </ul>
-      {% endif %}
-    {% endfor %}
+```
+{% for talk in site.data.events %}
+{% if bio.id == talk.speaker %}
+<h3>{{ talk.title }}</h3>
+<ul>
+<li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
+<li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
+<li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
+</ul>
+{% endif %}
+{% endfor %}
+```
 
 A problem I found with the method above is that some of the sketchnotes I've done are combined in one big sketchnote for the whole conference. Rather than going back and splitting each event up, I thought it'd make more sense to make it possible to have multiple speakers at an event. To do this meant a little reading about YAML. The key:value approach of the yml works fine on a one to one, but it's possible to easily have more than one bit of info in the speaker field by like so
 
+```
     speaker:
       - name one
       - name two
       - name three
+```
 
 At this point I wanted to check what was actually coming into the page via `site.data.events` so by adding `{{ talk }}` to the page like so,
 
-    {% for talk in site.data.events %}
-      {{ talk }}
-    {% endfor %}
+```
+{% for talk in site.data.events %}
+  {{ talk }}
+{% endfor %}
+```
 
 it displays the whole file in one big block like this
 
+```
     {"title"=>"Event title", "sketchnotes"=>"sketchnote address", "speaker"=>"speakername", "event"=>"eventname", "image"=>"associated image"}
+```
 
 We can compare this with an event with multiple speakers. The speaker IDs inside the square brackets are no longer in key:value pairs but are in array.
 
+```
     {"title"=>"Event title", "sketchnotes"=>"sketchnote address", "speaker"=>["nameone", "nametwo", "namethree"]}
+```
 
 This meant I needed to check if there were multiple speakers, with the following code. We can see that in the second line I'm checking if the array exist by putting in the square brackets, and if the array is there I'm then passing the speaker IDs to be checked against the bio.id the same as before.
 
+```
       {% for talk in site.data.events %}
 
       {% if talk.speaker[] %}
@@ -187,3 +200,5 @@ This meant I needed to check if there were multiple speakers, with the following
 
 
       </div>
+
+```

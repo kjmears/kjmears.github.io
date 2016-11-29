@@ -23,13 +23,12 @@ Discovered that our microformats need some overhauling, since the technorati fee
 
 h3. Swimming and Learning
 
-Enjoyed "Tim Ferris' talk":http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html about learning things. Although he's a pretty self regarding figure, he still manages to be interesting, and I will certainly try out his swimming tips. I think he massively underestimates how analytical he is and assumes that everyone else has those same skill. Maybe that's his point.
+Enjoyed "Tim Ferris' talk":http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html about learning things. Although comes across as a pretty self regarding figure, he still manages to be interesting, and I will certainly try out his swimming tips. I think he massively underestimates how analytical he is and assumes that everyone else has those same skill. Maybe that's his point.
 
-Been wrangling styles that have been placed in content areas of ours sites are hence pretty unmanageable because of it. 
+Been wrangling styles that have been placed in content areas of ours sites are hence pretty unmanageable because of it.
 
-h3. A false dichotomy 
+h3. A false dichotomy
 
 Does make me think of the wider issue of the the grey area between content and code. I don't think the proposition that is often made, that 'content' people can just get on with content, whilst the code people just provide the platform. From the content people's perspective, understanding the technical requirements, limitations and strengths of the medium is central to creating engaging and useful websites. I guess it can be daunting for people who consider themselves non-technical to be faced with learning about things like document markup and semantics. Perhaps as a dev team we need to provide the carrot of help learning some of these things before we begin to use the stick of constraining a system to disallow poor practice.
 
 In the same vein, as developers we work with and use an large number of sites, so over time we can't help but form opinions on content ideas and approaches that work. Quite how we get those ideas into our sites is a challenge, because up to now we've been very clear that the authority for content rests with the content people. However, it seems a shame for (what we think are) good ideas not to be included into overall strategies. Quite what needs to change for this to happen I'm not sure. I just hope it does.
-

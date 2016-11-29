@@ -1,0 +1,23 @@
+---
+layout: post
+title: "WDC2016 - Ruth John"
+date: 2016-10-07
+published: true
+image: /wdc2016/wdc2016-ruth-john.jpg
+image-thumb: /wdc2016/wdc2016-ruth-john-thumb.jpg
+original: wdc2016/wdc2016-ruth-John-large.jpg
+category: sketchnotes
+speaker:
+  - rumyra
+tags:
+  - live
+  - WDC2016
+
+cc: BY-SA
+---
+
+I've seen Ruth talk [once before][localhost], when she talked about the fiendish sounding shadow DOM. Obviously some kind of mascohist, she attempted live demo of technology and was beset by technical glitches with the in-house projector. Whilst annoying, she pressed on and gave a really interesting introduction to MIDI, focusing on the 'Digital Interface' bit of the acronym.
+
+Nice demos and good to see what digital pioneers are bringing back from the fronteer.
+
+[localhost]:http://localhost:4000/sketchnotes/port80-spring-localhost-2014-sketchnotes.html

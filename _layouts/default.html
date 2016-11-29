@@ -13,6 +13,8 @@ layout: default
   {% include tag_manager.html %}
 
 
+
+
     {% include sidebar.html %}
 
   <div class="container content">
@@ -23,14 +25,14 @@ layout: default
 
       <footer class="footer">
           <small>
-        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
       </small>
       </footer>
 
 
   </div>
   <!--/div container content -->
-
+  {% include amazon-link-widget.html %}
 </body>
 
 </html>

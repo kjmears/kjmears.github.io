@@ -1,3 +1,10 @@
+- date: 2016-10-10
+  title: WDC 2016
+  excerpt: "Sketchnotes at the nicely curated WDC2016 in Bristol"
+  image-thumb: /wdc2016/wdc2016-lightning-talks-thumb.jpg
+  url: /sketchnotes/WDC2016/
+
+
 - date: 2016-06-23
   title: IWMW 2016
   excerpt: "Sketchnotes from two very interesting days at IWMW"
@@ -67,7 +74,7 @@
 - date: 2014-09-13
   title: Sketchnotes by speaker
   excerpt: I've organised all the sketchnotes by speaker. It's a long list.
-  image-thumb: speaker-thumb.gif
+  image-thumb: /speaker-thumb.gif
   url: /speakers
 
 - date: 2014-09-13

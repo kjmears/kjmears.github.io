@@ -3,8 +3,8 @@
 layout: post
 published: true
 title: Sketchbook Oct13-Feb14
-image: sketchbook-oct-feb.jpg
-image-thumb: sketchbook-oct-feb-thumb.jpg
+image: /sketchbook-oct-feb.jpg
+image-thumb: /sketchbook-oct-feb-thumb.jpg
 category: sketchbooks
 invisible: 0
 

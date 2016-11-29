@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Sketchbook finished
 
-image-thumb: spine-thumb.jpg
+image-thumb: /spine-thumb.jpg
 date: 2013-08-09 12:32:12.000000000 +01:00
 category: sketchbooks
 invisible: 1
