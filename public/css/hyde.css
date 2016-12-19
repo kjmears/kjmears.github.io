@@ -358,3 +358,8 @@ h1.post-category > a {
     width:            100%;
   }
 }
+
+
+.watched li {
+  border-bottom: 1px solid #ededed;
+}

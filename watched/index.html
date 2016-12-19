@@ -7,15 +7,21 @@ sitemap: false
 
 <h2>Watched in 2016</h2>
 
-<ol reversed class="">
-	{% assign sorted = (site.data.watched | sort: 'date') | reverse %} {% for film in sorted %}
-	<li>
-		<strong>{{ film.title }}</strong> {{ film.watched | date: "%B %-d" }}  <a href="http://www.imdb.com/title/{{ film.imdb_id }}">IMDB</a> {% if film.notes %}
-			{{ film.notes }}
-		{% endif %}
-<em>			<a type=amzn search="{{ film.title }}" category="dvd">Find on Amazon</a>
-</em>
-	</li>
+
+<ol reversed class="watched">
+	{% assign sorted = (site.data.watched | sort: 'date') | reverse %}
+	{% for film in sorted %}
+		<li>
+			<strong>{{ film.title }}</strong> <em></e>{{ film.watched | date: "%B %-d" }}</em>
+			<br>
+			{% if film.notes %}
+				{{ film.notes }}
+			{% endif %}
+			<br>
+			<a href="https://www.themoviedb.org/movie/{{ film.tmdb_id }}">Lookup on The Movie Database</a> |
+			<a type=amzn search="{{ film.title }}" category="dvd">Find on Amazon</a>
+		</li>
+
 
 	{% endfor %}
 
