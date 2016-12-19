@@ -13,8 +13,9 @@ sitemap: false
 	{% for film in sorted %}
 		<li>
 			<strong>{{ film.title }}</strong> <em></e>{{ film.watched | date: "%B %-d" }}</em>
-			<br>
+
 			{% if film.notes %}
+				<br>
 				{{ film.notes }}
 			{% endif %}
 			<br>
