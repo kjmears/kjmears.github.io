@@ -12,7 +12,7 @@ sitemap: false
 	{% assign sorted = (site.data.watched | sort: 'date') | reverse %}
 	{% for film in sorted %}
 		<li>
-			<em>{{ film.watched | date: "%B %-d" }} </em><strong>{{ film.title }}</strong> 
+			<em>{{ film.watched | date: "%b %-d" }} </em> - <strong>{{ film.title }}</strong> 
 
 			{% if film.notes %}
 				<br>

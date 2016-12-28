@@ -9,8 +9,10 @@ sitemap: false
 <div class="row">
 	<h2>Finished in 2016</h2>
 
-<ul class="list-unstyled">
-	{% for book in site.data.books.2016 %}
+<ol reversed class="watched">
+
+	{% assign sorted = (site.data.books.2016 | sort: 'date') %}
+	{% for book in sorted %}
 	<li>
 		{% if book.amazon != null %}
 
