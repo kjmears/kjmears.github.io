@@ -1,3 +1,10 @@
+---
+layout: post
+title: Fun with Google Sheets and APIs"
+date: "2017-01-05"
+category: blog
+---
+
 I watched a lot of films this year.
 
 I know this because I logged them.
