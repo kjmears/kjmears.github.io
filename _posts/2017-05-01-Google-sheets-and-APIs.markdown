@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: blog
 title: "Fun with Google Sheets and APIs"
 date: "2017-01-05"
 tags:
 - data
-- film
 category: blog
 ---
 

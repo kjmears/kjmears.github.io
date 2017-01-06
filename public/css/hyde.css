@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding:    1rem 1rem;
   color:      white;
-  background-image: url("/img/pattern-white-grey.gif");
+  /*background-image: url("/img/pattern-white-grey.gif");*/
   font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   font-size: 1.7rem;
   text-shadow:
@@ -264,6 +264,7 @@ a.sidebar-nav-item:focus {
 
 /* Custom */
 .custom .sidebar {
+  /*background-color: #fff;*/
   background-image: url("/img/pattern-white-grey.gif");
 }
 .custom .content a,
