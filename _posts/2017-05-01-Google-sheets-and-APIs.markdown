@@ -11,13 +11,13 @@ I watched a lot of films this year.
 
 I know this because I logged them.
 
-I think this renewed interest in films comes after some serious box-set bingeing, and a realisation that it amounts to a big chunk of time on one thing. It seems less of a commitment to watch an individual film, and have a story arc resolved in a few hours, and with a whole history of cinema to choose from there’s plenty to tackle. For example, I discovered that I’ve seen a lot more of the [Guardian’s top 10 horror movies][horror] than [horrorlist][horrorlist]I’d thought, but the completist in me now wants to see all of that arbitrary list. I've found it remarkably interesting to browse through the letterboxd site and satisfy my curiousity about which actors have been in which films or see how many of a particular director's oeuvre I've watched - and there are many more things to satisfy a dedicated procrastinator.
+I think this renewed interest in films comes after some serious box-set bingeing, and a realisation that it amounts to a big chunk of time on one thing. It seems less of a commitment to watch an individual film, and have a story arc resolved in a few hours, and with a whole history of cinema to choose from there’s plenty to tackle. For example, I discovered that I’ve seen a lot more of the [Guardian’s top 10 horror movies][horror] than [I'd thought][horrorlist], but the completist in me now wants to see all of that arbitrary list. I've found it remarkably interesting to browse through the letterboxd site and satisfy my curiousity about which actors have been in which films or see how many of a particular director's oeuvre I've watched - and there are many more things to satisfy a dedicated procrastinator.
 
 So, having a new found enthusiasm for films and for logging them, the next obvious step for this social media tart was to put them on my website. I thought it might be of interest to write up my hacky and involved process for logging, publishing, data-cleaning and visualising since I found it useful to learn and practice a load of new things.
 
 ## Logging films
 
-Now,  I’m a big fan of the simplicity of[Jekyll][jekyll] and it has a clever feature where you can feed it a data file and that will generate a lovely static page based on the info. I already did that with my [list of books I’ve read][readlist] - which takes a yaml file that I manually edit at the rare occaion of me finishing a book.
+Now,  I’m a big fan of the simplicity of [Jekyll][jekyll] and it has a clever feature where you can feed it a data file and that will generate a lovely static page based on the info. I already did that with my [list of books I’ve read][readlist] - which takes a yaml file that I manually edit at the rare occaion of me finishing a book.
 
 Since watching films happens way more frequently I needed to introduce some automation somewhere in the process. Process is rather a grand term for my cobbled together system, but here it is.
 
@@ -27,7 +27,7 @@ I used the clever [do][do] Android app (there's also an iOS version) and created
 
 Now that I have a spreadsheet with that info in, my thoughts turned to how to feed that info to my static site with Jekyll. I've mentioned the data files feature of Jekyll, and you can use YAML, JSON or CSV formatted files. In this case the simplest option was to have a few fields and then publish a csv file that I can then commit to git, which then triggers a site rebuild. The result is at [watched][watched]
 
-Using the Do app to record the title gives me just the date and time I watched the film (though it did need some spreadsheet fiddling to work around the date formats that [ifttt][if] can use) **find link**
+Using the Do app to record the title gives me just the date and time I watched the film (though it did need some spreadsheet fiddling to work around the date formats that [ifttt][if] can use)
 
 Up until recently I’ve been editing my google spreadsheet and just including a link to IMDB by some google spreadsheet trickery. Using the Concatenate function I can pass the title from one cell into a query url. In the cell 'E1'
 
@@ -38,6 +38,8 @@ Which uses the title in cell 'A1' and appends that to an IMDB search query - Whi
     =HYPERLINK(E1,"IMDB search")
 
 All that does is give me the mildly convenient option of searching IMDB by clicking the link in the cell. I can then choose the film and get the IMDB ID from the URL, which I then added to my CSV file, thus creating a more info link on my listing page.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1Xn6H3wLyxwEQ2R34D_TSAvPqtJP_2dVBCKc_fPjYMaY/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ### Improved method
 
@@ -59,11 +61,11 @@ The main worksheet in my spreadsheet now has the following
 
 So now I have a spreadsheet with a reasonable amount of useful info that I can work with.
 
-This extra information now means that after learning a bit more about date formats and some big level ups in my spreadsheet skills I was able to discover such gems as I watch films an average of 15 Years, 7 Months, 27 Days after their release date. Always good to have your finger on the pulse!
+## Onto the next step - deciding how to explore and visualise the ‘data’
 
+Now that I have this extra information it means i can notice little things about my watching habits.
 
-## Onto the next step - deciding how to visualise the ‘data’
-
+For example, I watch films an average of 15 Years, 7 Months, 27 Days after their release date. Always good to have your finger on the pulse!
 
 Designing Data charts is something I've always been interested in, but never quite known where to start, but messing with my own data motivated me to have a go. Earlier on in the year I'd had a go at the [Learn to code for Data Analysis][futurelearn] course, which was great at illustrating how much I didn’t know. I managed to make a reasonable way through the course, but the statistical rigour needed was challenging and broader 'big data' datasets didn’t really capture my imagination. In fact, ‘Basic familiarity with a spreadsheet application will be an advantage.’ was on the intro of the page - something I definitely didn't have at the time. Working with more personal data has made it easier to stay interested and motivated.
 
