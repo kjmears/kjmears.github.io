@@ -61,18 +61,9 @@ The main worksheet in my spreadsheet now has the following
 
 So now I have a spreadsheet with a reasonable amount of useful info that I can work with.
 
-## Onto the next step - deciding how to explore and visualise the ‘data’
-
 Now that I have this extra information it means i can notice little things about my watching habits.
 
 For example, I watch films an average of 15 Years, 7 Months, 27 Days after their release date. Always good to have your finger on the pulse!
-
-Designing Data charts is something I've always been interested in, but never quite known where to start, but messing with my own data motivated me to have a go. Earlier on in the year I'd had a go at the [Learn to code for Data Analysis][futurelearn] course, which was great at illustrating how much I didn’t know. I managed to make a reasonable way through the course, but the statistical rigour needed was challenging and broader 'big data' datasets didn’t really capture my imagination. In fact, ‘Basic familiarity with a spreadsheet application will be an advantage.’ was on the intro of the page - something I definitely didn't have at the time. Working with more personal data has made it easier to stay interested and motivated.
-
-
-What I learned about charts and what I produced coming soon.
-
-
 
 
 [futurelearn]: https://www.futurelearn.com/courses/learn-to-code
@@ -86,3 +77,4 @@ What I learned about charts and what I produced coming soon.
 [if]: https://ifttt.com/discover
 [mdb]: https://www.themoviedb.org/
 [import]: http://blog.fastfedora.com/projects/import-json#ImportJSON
+0
