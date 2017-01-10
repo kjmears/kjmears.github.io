@@ -2,9 +2,9 @@
 layout: blog
 title: "Fun with Google Sheets and APIs"
 date: "2017-01-05"
-tags:
-- data
+tags: data
 category: blog
+meta: "Using APIs with Google sheets and Jekyll"
 ---
 
 I watched a lot of films this year.
