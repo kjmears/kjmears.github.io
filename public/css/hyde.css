@@ -264,8 +264,8 @@ a.sidebar-nav-item:focus {
 
 /* Custom */
 .custom .sidebar {
-  /*background-color: #fff;*/
-  background-image: url("/img/pattern-white-grey.gif");
+  background-color: #526224;
+  /*background-image: url("/img/pattern-white-grey.gif");*/
 }
 .custom .content a,
 .custom .related-posts li a:hover {
