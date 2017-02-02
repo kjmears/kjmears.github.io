@@ -1,14 +1,12 @@
 ---
 layout: blog
-title: "Discovering and designing charts"
+title: "Designing charts to learn about designing charts"
 date: "2017-01-25"
 tags: data
 category: blog
-published: false
-meta: "Learning some more about designing charts"
+published: true
+meta: "Learning some more about designing charts with Adobe Illustrator and Google Sheets"
 ---
-
-
 
 In my previous blog post I explained how I've been logging my film watching with a google spreadsheet hooked up to some simple tools, now I'll describe how I took that info and turned it into a visually appealing chart.
 
@@ -20,14 +18,17 @@ Designing Data charts is something I've always been interested in, and done occa
 
 ### What to show
 
-Armed with some info about what I watched, and when I watched I had a think on how to present it.  My initial sketches were pretty basic, but the idea was to represent when I watched films throughout the year. ![Alt text](https://dl.dropbox.com/s/2v3r4hh0zkgfouo/BA049924-0341-49D9-A9DC-EF09A0D44E59.JPG?dl=0)
+Armed with some info about what I watched, and when I watched I had a think on how to present it.  My initial sketches were pretty basic, but the idea was to represent when I watched films throughout the year.
 
-Trying to pack as much info elegantly into a chart, I thought I could represent the length of a movie with the width of a bar, placing it at the right place to represent the start time. As a sidenote, when searching for information on how to create certain types of charts within Excel or Google sheets I found it tricky to know what to look for. Turns out, the chart I’m describing above is sometimes called a Priestley Timeline, floating bar graph or a Gantt chart.
+![](/images/charts-post/chart-sketch.jpg)
+*Sketching an idea*
+
+Trying to pack as much info elegantly into a chart, I thought I could represent the length of a movie with the width of a bar, placing it at the right place to represent the start time. As a sidenote, when searching for information on how to create certain types of charts within Excel or Google sheets I found it tricky to know what to look for. Turns out, the chart I’m describing above is sometimes called a [Priestley Timeline][timeline], is similar to a floating bar graph or a Gantt chart.
 
 ![](/images/charts-post/floating-bars-example.png)
 *Mapping movies in a month*
 
-As you can see when using this method it works reasonably well to show a distribution of what I watched in a month, but the differences in film length aren't that obvious.  Also, distributing the films over the course of a month in this way doesn't seem that economical a use of the space. Another property I though would be interesting to try to show was the ratings that I've been giving films as I watched them. I used the height of the bar to represent how many stars I gave a film, so a very thin bar would be a poor rating, - but again, it was difficult to discern the information especially since I seem to rate most films within a narrow range.
+As you can see when using this method it works reasonably well to show a distribution of what I watched in a month, but the differences in film length aren't that obvious.  Also, distributing the films over the course of a month in this way doesn't seem that economical a use of the space. Another property I though would be interesting to try to show was the ratings that I've been giving films as I watched them. I used the height of the bar to represent how many stars I gave a film, so a very thin bar would be a poor rating, - but again, it was difficult to discern the information especially since I seem to rate most films within a narrow range. The colours are also an attempt to load the chart with extra information - unsucessfully representing years. (Note to self - really must learn more about the pros and cons of using colours in charts).
 
 Undeterred by my less successful representation in that case I thought I would try something simpler. Referring back to the spreadsheet, the question I asked was _which days did I watch movies on throughout the year?_
 
@@ -60,3 +61,4 @@ So there you have it - a pretty simple chart with a little care taken to make it
 
 
 [stack]: http://stackoverflow.com/questions/12125847/counting-number-of-occurrences-in-column
+[timeline]: https://en.wikipedia.org/wiki/A_New_Chart_of_History
