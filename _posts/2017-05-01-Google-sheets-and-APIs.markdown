@@ -65,6 +65,8 @@ Now that I have this extra information it means i can notice little things about
 
 For example, I watch films an average of 15 Years, 7 Months, 27 Days after their release date. Always good to have your finger on the pulse!
 
+Update - [Read the next thrilling instalment](../blog/discovering-charts.html)
+
 
 [futurelearn]: https://www.futurelearn.com/courses/learn-to-code
 [Letterboxd]: https://letterboxd.com/

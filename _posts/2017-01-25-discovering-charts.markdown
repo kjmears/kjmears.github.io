@@ -8,7 +8,7 @@ published: true
 meta: "Learning some more about designing charts with Adobe Illustrator and Google Sheets"
 ---
 
-In my previous blog post I explained how I've been logging my film watching with a google spreadsheet hooked up to some simple tools, now I'll describe how I took that info and turned it into a visually appealing chart.
+In my [previous blog post](../blog/Google-sheets-and-APIs.html) I explained how I've been logging my film watching with a google spreadsheet hooked up to some simple tools, now I'll describe how I took that info and turned it into a visually appealing chart.
 
 ## Onto the next step - deciding how to explore and visualise the ‘data’
 
@@ -58,7 +58,6 @@ So there you have it - a pretty simple chart with a little care taken to make it
 
 
 
-
-
+[futurelearn]: https://www.futurelearn.com/courses/learn-to-code
 [stack]: http://stackoverflow.com/questions/12125847/counting-number-of-occurrences-in-column
 [timeline]: https://en.wikipedia.org/wiki/A_New_Chart_of_History
