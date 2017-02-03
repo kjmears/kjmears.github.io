@@ -72,12 +72,12 @@ Next I needed a list of all the events that I've sketchnoted. Lucklily they tend
 I've used the term 'event' , what this means for me is a occasion where I've sketchnoted. Maybe my naming could have been better.
 
 As you can see all pretty straightforward.
-* Title
-* Link to sketchnote post
-* Image - what image will is associated with this event - I ususally use the post image, but this can be custom.
-* speaker ID
-* Link to the event info - for some events I also use the `info:` field where there is specific info for that talk.
-* code - enables me to link the event to the post.
+*   Title
+*   Link to sketchnote post
+*   Image - what image will is associated with this event - I ususally use the post image, but this can be custom.
+*   speaker ID
+*   Link to the event info - for some events I also use the `info:` field where there is specific info for that talk.
+*   code - enables me to link the event to the post.
 
 Now that I have all this information in data files how to I get them displayed on the site?
 
