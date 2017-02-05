@@ -1,25 +1,28 @@
-title,watched,notes,tmdb_id
-Rams,2 January 2017,Don't need much to make an affecting film. Very sad.,336222
-Rosemary's Baby,4 January 2017,Hail Adrian! Cracking film - loved the way it took it's time.,805
-Amadeus,5 January 2017,"Impressive Oscar fair, but didn't really do it for me.",279
-Terms of Endearment,7 January 2017,"Proper, interesting characters, superbly acted. ",11050
-Ace in the Hole,7 January 2017,"Kirk Douglas centre stage - where he likes to be, but good parable relevant as now as ever.",25364
-10 Cloverfield Lane,7 January 2017,Decent bit of suspense. End felt a bit superfluous.,333371
-Out of Sight,8 January 2017,"Enjoyable enough - thing about being cool, it's not cool to be cool. This was abit too cool.",1389
-The Hospital,12 January 2017,Manic seventies black comedy.,32082
-Eyes Without a Face,14 January 2017,Very odd with strangely stylish bits - it is French after all.,31417
-The Thin Red Line,14 January 2017,Entrancing visuals and strong performances in an unconventional war movie.,8741
-The Wicker Man,15 January 2017,"Bit Groovy, bit trippy, bit funny, bit creepy. Wish I'd seen it years ago.",9708
-Bull Durham,16 January 2017,"Sports films need chemistry, as the formula is often the same. This one had it",287
-Coach Carter,17 January 2017,"Plenty of the usual sports cliches, elevated by Samuel L Jackson and a slightly unconventional angle.",7214
-Horns,21 January 2017,"Started well, was fun and different, got gradually more clunky.",149509
-Eye in the Sky,21 January 2017,Superbly tense throughout and through-provoking. Proper thriller.,333352
-Trumbo,22 January 2017,"Little ponderous at times, amused that Helen Mirren obviously gave up on the accent, enough there to keep me interested. ",294016
-Blue Jasmine,23 January 2017,"Rare treat of caring about all the characters, so well written and acted. ",160588
-Another Earth,24 January 2017,"Claustrophobic, tense, atmospheric and strangely compelling. ",55420
-Only lovers left alive,25 January 2017,Languid and cool with great music and a beautiful angle.,152603
-Dallas buyers club,28 January 2017,"Star performances, maybe a bit too front and centre, for my taste - but still good. ",152532
-A Bigger Splash,29 January 2017,Thoughtful character piece with a dramatic twist. Nicely done all round. ,324807
-Nightcrawler,30 January 2017,Fantastic portrayal of a coolly ruthless character. ,242582
-The Program,1 February 2017,"Comically huge jumps in the story, and tendency to being cartoonish. ",271736
-Ten Metre Tower,2 February 2017,Simple Idea. Great Fun,380592
+title,watched,time,ifttt,notes, rating,tmdb_id,poster_id,release_date,runtime,tagline,tmdb_title
+Rams,02/01/2017,22:28:00,https://ifttt.com/share/DXpdnpVFwvF,Don't need much to make an affecting film. Very sad.,4,336222,/raOBs0LDaMix0g8sGFtYxwYx6JQ.jpg,2015-05-28,93,This Winter Get Sheepish,Rams
+Rosemary's Baby,04/01/2017,22:15:00,https://ifttt.com/share/XNHHmm4hPwF,Hail Adrian! Cracking film - loved the way it took it's time.,4,805,/qSJYJ0FsP5DMJcn37fYVq0VhmNt.jpg,1968-06-12,136,Pray for Rosemary's Baby,Rosemary's Baby
+Amadeus,05/01/2017,22:37:00,https://ifttt.com/share/gqpVyQxbtxF,"Impressive Oscar fair, but didn't really do it for me.",2.5,279,/flnoqdC38mbaulAeptjynOFO7yi.jpg,1984-10-26,160,...Everything you've heard is true,Amadeus
+Terms of Endearment,07/01/2017,09:18:00,https://ifttt.com/share/6TqCFt99qyF,"Proper, interesting characters, superbly acted. ",4,11050,/zGl7KwZX8LQQAdYaaYawTFF6HKY.jpg,1983-11-20,132,,Terms of Endearment
+Ace in the Hole,07/01/2017,17:08:00,https://ifttt.com/share/cDSPcgc6CyF,"Kirk Douglas centre stage - where he likes to be, but good parable relevant as now as ever.",3.5,25364,/erCPvts7KedbFCmpNOV21QNLrRs.jpg,1951-06-29,111,"Rough, tough Chuck Tatum, who battered his way to the top ... trampling everything in his path - men, women and morals !",Ace in the Hole
+10 Cloverfield Lane,07/01/2017,21:09:00,https://ifttt.com/share/VVpCxPVbJyF,Decent bit of suspense. End felt a bit superfluous.,3,333371,/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg,2016-03-10,103,Monsters come in many forms.,10 Cloverfield Lane
+Out of Sight,08/01/2017,21:31:00,https://ifttt.com/share/DSs8fG86pzF,"Enjoyable enough - thing about being cool, it's not cool to be cool. This was abit too cool.",3,1389,/hSL2Ta4ErgAxPEOlkkxZmrTSAET.jpg,1998-06-26,123,Opposites attract.,Out of Sight
+The Hospital,12/01/2017,21:56:00,https://ifttt.com/share/DkRC9YmnYCF,Manic seventies black comedy.,3.5,32082,/onn0xHZNv1ueNYCPfvK76h7CF6x.jpg,1971-12-14,103,"Madness, Murder and Malpractice.",The Hospital
+Eyes Without a Face,14/01/2017,07:29:00,https://ifttt.com/share/zDDdvZgVSDF,Very odd with strangely stylish bits - it is French after all.,2.5,31417,/orqJcha6R8vxIzL2ggCQm0LjRBa.jpg,1960-01-11,88,,Eyes Without a Face
+The Thin Red Line,14/01/2017,22:44:00,https://ifttt.com/share/8hTqcXdgjFF,Entrancing visuals and strong performances in an unconventional war movie.,4,8741,/jGDK6eM6vb8VEUmR0ZoaghcCG8f.jpg,1998-12-25,170,Every man fights his own war.,The Thin Red Line
+The Wicker Man,15/01/2017,21:15:00,https://ifttt.com/share/Kxrr8jBPTFF,"Bit Groovy, bit trippy, bit funny, bit creepy. Wish I'd seen it years ago.",4,9708,/aeQ65vYvOCRmeO0uaVnjHOiDrXZ.jpg,2006-09-01,102,Some sacrifices must be made,The Wicker Man
+Bull Durham,16/01/2017,21:04:00,https://ifttt.com/share/wpxS2Xf2yGF,"Sports films need chemistry, as the formula is often the same. This one had it",3.5,287,/wZwXLiR1cisTXaJiuBLvgkS5HWw.jpg,1988-06-15,108,Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game.,Bull Durham
+Coach Carter,17/01/2017,21:59:00,https://ifttt.com/share/gktjhdJCdHF,"Plenty of the usual sports cliches, elevated by Samuel L Jackson and a slightly unconventional angle.",3,7214,/8c6BeOIrDStz2aiPceYdI5sd9pL.jpg,2005-01-14,136,It begins on the street. It ends here.,Coach Carter
+Horns,21/01/2017,08:56:00,https://ifttt.com/share/qvSBVKZPsKF,"Started well, was fun and different, got gradually more clunky.",3,149509,/632JG1wY6pGVxZxF5NaO5piNeFe.jpg,2013-09-06,120,He Will Bring Out The Devil In You,Horns
+Eye in the Sky,21/01/2017,21:32:00,https://ifttt.com/share/vCRvxdPNNKF,Superbly tense throughout and through-provoking. Proper thriller.,4,333352,/7IUUuB9Nwtp2Lslpt4Jo4bzMGoX.jpg,2015-09-11,102,Welcome to the new front line,Eye in the Sky
+Trumbo,22/01/2017,22:04:00,https://ifttt.com/share/MrgYvVNVsMF,"Little ponderous at times, amused that Helen Mirren obviously gave up on the accent, enough there to keep me interested. ",3.5,294016,/fulPs5eEBXeAeBFI6KAfTkeEgJg.jpg,2015-10-27,124,Are you now or have you ever been...,Trumbo
+Blue Jasmine,23/01/2017,20:45:00,https://ifttt.com/share/TggmNY4H5NF,"Rare treat of caring about all the characters, so well written and acted. ",4,160588,/tXzOAeub5ZaxGv9vkJLtU0aNenl.jpg,2013-07-25,98,Blue Moon. I used to know the words. Now they're all a jumble.,Blue Jasmine
+Another Earth,24/01/2017,22:02:00,https://ifttt.com/share/j4MMWXCKKNF,"Claustrophobic, tense, atmospheric and strangely compelling. ",4,55420,/yvjrhdXPEPB5rZbLjXCnfL4zY6V.jpg,2011-07-22,92,,Another Earth
+Only lovers left alive,25/01/2017,21:02:00,https://ifttt.com/share/qJrMDK2WnPF,Languid and cool with great music and a beautiful angle.,4.5,152603,/AfIr2ZUwAW3E5qBPfrJGDyKufAl.jpg,2013-12-12,123,,Only Lovers Left Alive
+Dallas buyers club,28/01/2017,21:02:00,https://ifttt.com/share/QQtn5XGfkRF,"Star performances, maybe a bit too front and centre, for my taste - but still good. ",3.5,152532,/aoxYci1HnJdb4bno2jYSnzSGDkL.jpg,2013-09-07,117,Sometimes it takes a hustler to change the world,Dallas Buyers Club
+A Bigger Splash,29/01/2017,19:07:00,https://ifttt.com/share/5TNPsPWfVRF,Thoughtful character piece with a dramatic twist. Nicely done all round. ,4,324807,/uMJhOiPpSuDFbJc5z6c8hD9h8CQ.jpg,2015-11-26,120,,A Bigger Splash
+Nightcrawler,30/01/2017,21:39:00,https://ifttt.com/share/mGTsR6tTCSF,Fantastic portrayal of a coolly ruthless character. ,4,242582,/8oPY6ULFOTbAEskySNhgsUIN4fW.jpg,2014-10-23,117,The city shines brightest at night,Nightcrawler
+The Program,01/02/2017,21:30:00,https://ifttt.com/share/pym6VcwzVTF,"Comically huge jumps in the story, and tendency to being cartoonish. ",2,271736,/w8sBqGSko8OBsKbK6z7gPvRfp7F.jpg,2015-09-16,103,Champion. Hero. Legend. Cheat.,The Program
+Ten Metre Tower,02/02/2017,21:28:00,https://ifttt.com/share/HsXZkDkYyVF,Simple Idea. Great Fun,3.5,380592,/8iKaIHA4wHQqfc1e4nRgsyy9aWO.jpg,2016-01-29,17,,Ten Meter Tower
+Youth,04/02/2017,21:47:00,https://ifttt.com/share/XW7dSQ6hSWF,"Couldn't tell you why I liked it, but thoroughly enjoyed it",4,310593,/9vFNTKVhFDAMrAGOVmPBMT9XDee.jpg,2015-05-20,118,,Youth
+Moneyball,05/02/2017,01:18:00,https://ifttt.com/share/WnhnfDGHXWF,"In a stats mood at the mo, so watching this again was Couldn't tell you why I liked it, but thoroughly enjoyed it",3.5,60308,/3oAa8mJJ97CH9AeGEY6vjAxqcvZ.jpg,2011-09-22,133,What are you really worth?,Moneyball
+Milk,05/02/2017,20:37:00,https://ifttt.com/share/btR6fqMdvXF,Pretty good and engaging performance by Sean Penn. ,3,10139,/sFYmJJSVXqfqPI79tx4UG4IR5Jb.jpg,2008-11-26,128,Never Blend In.,Milk
