@@ -5,7 +5,7 @@ permalink:           none
 title:               mearso
 tagline:             Personal Website of Kevin Mears
 url:                 http://www.mearso.co.uk
-paginate:            5
+paginate:            10
 paginate_path:  "/blog/page:num/"
 baseurl:
 highlighter:         rouge
@@ -40,6 +40,9 @@ collections:
   project:
     description: "College Project"
     output: true
+  workshops:
+    description: "Workshops"
+    output: true
 
 # Setting some defaults for collections - layouts, collection information.
 # with more to follow
@@ -52,3 +55,9 @@ defaults:
     values:
       layout: project
       info: College Project
+    scope:
+      path: ""
+      type: workshops
+    values:
+      layout: workshop
+      info: Workshops
