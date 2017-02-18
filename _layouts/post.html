@@ -11,30 +11,22 @@ layout: default
 
 	<h2 class="post-title">{{ page.title }}</h2>
 
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  <!-- <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time> -->
 
   {% if page.tags %}
       <p>
         Tagged:
         {% for tag in page.tags %}
-					<a href="{{ tag }}"> {{ tag }} </a>
+					<a href="{{ tag }}"> {{ tag | capitalize }} </a>
 				{% endfor %}
       </p>
   {% endif %}
 
   {% if page.image %}
-	<figure>
   	<a href="{{ site.baseurl }}/images{{ page.image }}">
 			<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
 		</a>
-
-		<!-- {% if page.caption %}
-			<figcaption>{{ page.caption}}</figcaption>
-		{% endif %} -->
-
-	</figure>
   {% endif %}
-
 
 	{% if page.original %}
 		<a href="{{ site.baseurl }}/images/{{ page.original }}">Large version for download</a>
