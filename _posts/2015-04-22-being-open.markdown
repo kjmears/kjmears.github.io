@@ -3,7 +3,6 @@ layout: post
 title: "Being open"
 date: "2015-04-22"
 published: true
-category: doodles
 image-thumb: /oep/oep-badge.jpg
 cc: BY
 

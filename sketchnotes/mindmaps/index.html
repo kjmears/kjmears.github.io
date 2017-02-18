@@ -1,0 +1,13 @@
+---
+layout: page
+title: Mindmap Sketchnotes
+
+---
+
+<p>Mindmaps. A precursor to sketchnoting</p>
+
+<section>
+	{% for post in site.tags.mindmaps %}
+			{% include panel.html %}
+	{% endfor %}
+</section>

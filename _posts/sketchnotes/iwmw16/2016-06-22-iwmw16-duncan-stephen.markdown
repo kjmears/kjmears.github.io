@@ -3,7 +3,7 @@
 code: iwmw16-05
 layout: post
 published: true
-title: IWMW16 -Duncan Stephen 
+title: IWMW16 -Duncan Stephen
 date: 2016-06-22
 image: /iwmw16/iwmw16-duncan-stephen.jpg
 image-thumb: /iwmw16/iwmw16-duncan-stephen-thumb.jpg
@@ -24,7 +24,7 @@ cc: BY-SA
 
 
 
-## Building a digital team (almost) from scratch ##
+### Building a digital team (almost) from scratch ##
 
 Special mention has to go to Duncan for coming up with the most enjoyed slide - his 'Wordpress Facebook Twitter'.
 
