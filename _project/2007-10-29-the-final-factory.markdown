@@ -11,6 +11,7 @@ excerpt: ! 'Quite pleased with my final fly half factory. Think I''m on more fam
 wordpress_id: 762
 wordpress_url: http://mearso.co.uk/2007/10/the-final-factory/
 date: 2007-10-29 00:43:44.000000000 +00:00
+image: 277.jpg
 ---
 I hope my enjoyment whilst doing this one comes across. I enjoyed adding the textures and developing things like the controls and machines. Perhaps my love of the factory machines I watch on the Discovery channel is coming out.
 
