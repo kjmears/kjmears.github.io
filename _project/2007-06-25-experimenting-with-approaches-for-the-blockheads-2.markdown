@@ -2,7 +2,7 @@
 status: pending
 published: true
 title: Experimenting with approaches for the Blockheads
-image: /project/254.jpg
+image: 254.jpg
 author: mearso
 author_login: mearso
 author_email: mearso@mearso.com

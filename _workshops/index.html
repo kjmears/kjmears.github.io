@@ -1,5 +1,4 @@
 ---
-layout: project
 title: index
 desc:
 invisible: 1
@@ -9,13 +8,15 @@ date: 16-08-2016
 
 test
 
-{% for article in site.project %}
+{% for article in site.workshops %}
 
       {% if article.invisible == null  %}
-            <h3>{{ article.title }}</h3>
-            <img src="{{ article.image }}" alt="" />
+            <h3>
+                  <a href="{{ article.url }}">{{ article.title }}</a>
+            </h3>
+
             <time>{{ article.date | date_to_string }}</time>
-            <p>{{ article.content }}</p>
+
       {% endif %}
 
 {% endfor %}

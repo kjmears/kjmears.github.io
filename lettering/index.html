@@ -1,19 +1,22 @@
 ---
 layout: page
 title: Lettering
-
+published: true
+sitemap: false
 ---
 
-<div class="row">
-	{% for post in site.categories.lettering %}
-		{% if post.invisible != 1  %}
-		<section>
-			{% include panel.html %}
-		</section>
-		{% endif %}
-	{% endfor %}
-		
-</div>
 
 
+<section>
+{% for picture in site.data.lettering %}
+	<div class="panel">
+	  <a href="{{ site.baseurl }}/images/project/{{ picture.image }}">
+	    <img class="panel-img-top" src="{{ site.baseurl }}/images/lettering/{{ picture.image }}" alt="panel image">
 
+	  <div class="panel-block">
+	      <h3 class="panel-title">{{ picture.title }}</h3>
+	  </div>
+	</a>
+	</div>
+{% endfor %}
+</section>

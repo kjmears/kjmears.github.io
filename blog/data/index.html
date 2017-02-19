@@ -1,15 +1,21 @@
 ---
-layout: page
+layout: blog
 title: Data
 
 ---
 
 
 
-<section>
-	{% for post in site.tags.data %}
 
-			{% include panel.html %}
+<div class="blogposts">
+  <!-- This loops through the paginated posts -->
+  {% for post in site.tags.data %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="author">
+      <span class="date">{{ post.date | date_to_string }}</span>
+    </p>
 
-	{% endfor %}
-</section>
+      {{ post.excerpt }}
+
+  {% endfor %}
+</div>

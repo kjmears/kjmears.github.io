@@ -2,7 +2,6 @@
 layout: workshop
 title: "Support Staff Conference Sketchnote Workshop"
 date: "2016-07-07"
-category: workshops
 ---
 
 
