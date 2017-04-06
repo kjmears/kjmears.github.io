@@ -1,52 +1,54 @@
-title,watched,notes,tmdb_id
-Rams,2 January 2017,Don't need much to make an affecting film. Very sad.,336222
-Rosemary's Baby,4 January 2017,Hail Adrian! Cracking film - loved the way it took it's time.,805
-Amadeus,5 January 2017,"Impressive Oscar fair, but didn't really do it for me.",279
-Terms of Endearment,7 January 2017,"Proper, interesting characters, superbly acted. ",11050
-Ace in the Hole,7 January 2017,"Kirk Douglas centre stage - where he likes to be, but good parable relevant as now as ever.",25364
-10 Cloverfield Lane,7 January 2017,Decent bit of suspense. End felt a bit superfluous.,333371
-Out of Sight,8 January 2017,"Enjoyable enough - thing about being cool, it's not cool to be cool. This was abit too cool.",1389
-The Hospital,12 January 2017,Manic seventies black comedy.,32082
-Eyes Without a Face,14 January 2017,Very odd with strangely stylish bits - it is French after all.,31417
-The Thin Red Line,14 January 2017,Entrancing visuals and strong performances in an unconventional war movie.,8741
-The Wicker Man,15 January 2017,"Bit Groovy, bit trippy, bit funny, bit creepy. Wish I'd seen it years ago.",9708
-Bull Durham,16 January 2017,"Sports films need chemistry, as the formula is often the same. This one had it",287
-Coach Carter,17 January 2017,"Plenty of the usual sports cliches, elevated by Samuel L Jackson and a slightly unconventional angle.",7214
-Horns,21 January 2017,"Started well, was fun and different, got gradually more clunky.",149509
-Eye in the Sky,21 January 2017,Superbly tense throughout and through-provoking. Proper thriller.,333352
-Trumbo,22 January 2017,"Little ponderous at times, amused that Helen Mirren obviously gave up on the accent, enough there to keep me interested. ",294016
-Blue Jasmine,23 January 2017,"Rare treat of caring about all the characters, so well written and acted. ",160588
-Another Earth,24 January 2017,"Claustrophobic, tense, atmospheric and strangely compelling. ",55420
-Only lovers left alive,25 January 2017,Languid and cool with great music and a beautiful angle.,152603
-Dallas buyers club,28 January 2017,"Star performances, maybe a bit too front and centre, for my taste - but still good. ",152532
-A Bigger Splash,29 January 2017,Thoughtful character piece with a dramatic twist. Nicely done all round. ,324807
-Nightcrawler,30 January 2017,Fantastic portrayal of a coolly ruthless character. ,242582
-The Program,1 February 2017,"Comically huge jumps in the story, and tendency to being cartoonish. ",271736
-Ten Metre Tower,2 February 2017,Simple Idea. Great Fun,380592
-Youth,4 February 2017,"Couldn't tell you why I liked it, but thoroughly enjoyed it",310593
-Moneyball,5 February 2017,"In a stats mood at the mo, so watching this again.",60308
-Milk,5 February 2017,Pretty good and engaging performance by Sean Penn. ,10139
-Amy,6 February 2017,Seemed fair. and so sad.,331781
-Arrival,7 February 2017,Nicely done throughout. Nice reveal/twist.,329865
-"Kumiko, The Treasure Hunter",12 February 2017,"Beguiling, sad,  and weirdly uplifting. ",244563
-The Enemy Below,18 February 2017,"Some really clunky philosophical dialogue, but then plenty of the usual submarine tropes are well done.",15876
-The Ipcress File,20 February 2017,"Visually interesting throughout, sharp and cool - Michael Caine at his best. ""My name is HARRY PALMER""",15247
-Chicago,21 February 2017,"Apparently, I like musicals now. ",1574
-Elysium,22 February 2017,"Gritty, interesting start, gradually tapering off to generic. Strangely flat performance from usually great Jodie Foster.",68724
-A Most Wanted Man,26 February 2017,Low-key and tense with lots of good preformances from a big name cast.,157849
-Hoosiers,27 February 2017,"Montage-tastic, with a healthy dose of eighties drums. Cheesy and enjoyable. ",5693
-Apocalypto,27 February 2017,A non urban action film without crappy dialogue. ,1579
-Adaption.,27 February 2017,"Keeps turning inside out, but not self-consciously -  in an interesting and engaging way.",2757
-Lord of War,28 February 2017,"Watchable, if perhaps a little jolly for what is at heart a pretty depressing trade.",1830
-Breathless,2 March 2017,Apparently it was revolutionary. Didn't like or care about the characters.,269
-Sausage Party,3 March 2017,Funny moments - not enough to relieve the increasing boredom.,223702
-Crossfire,4 March 2017,"Classy, if a little blunt in it's message. A message that 70 years later is sadly all too relevant.",28120
-The Searchers,4 March 2017,"Some dodgy politics, but epic and with unexpected funny bits.",3114
-Secretary,5 March 2017,Fan of Maggie Gyllenhaal and more so after this. A lesser actor could have cocked it up. ,11013
-They Might Be Giants,8 March 2017,Top marks for oddness. Strangely engaging for such a knockabout and whimsical thing.,27841
-Thank You for Smoking,12 March 2017,"Good actors, but strangely flat -  not enough bite for a satire.",9388
-The Diving Bell and the Butterfly,14 March 2017,"Chock full of beautifully composed scenes, with terrific performances all round and neither maudlin or uplifting - much more than that.",2013
-The Second Mother,15 March 2017,"Good to get away from big concept, tricksy set piece films. Warm and real.",310569
-The Night of the Hunter,21 March 2017,"Great lighting making a great looking film with a superb Robert Mitchum, but a weird ending.",3112
-Prisoners,25 March 2017,Nice twists and tension - So many thrillers aren't thrilling. This was certainly tense and very good.,146233
-Five Easy Pieces,29 March 2017,"Jack Nicholson effortlessly tormented, restless and charismatic.",26617
+title,watched,time,ifttt,notes, rating,tmdb_id,poster_id,release_date,runtime,tagline,tmdb_title
+Rams,02/01/2017,22:28:00,https://ifttt.com/share/DXpdnpVFwvF,Don't need much to make an affecting film. Very sad.,4,336222,/raOBs0LDaMix0g8sGFtYxwYx6JQ.jpg,2015-05-28,93,This Winter Get Sheepish,Rams
+Rosemary's Baby,04/01/2017,22:15:00,https://ifttt.com/share/XNHHmm4hPwF,Hail Adrian! Cracking film - loved the way it took it's time.,4,805,/qSJYJ0FsP5DMJcn37fYVq0VhmNt.jpg,1968-06-12,136,Pray for Rosemary's Baby,Rosemary's Baby
+Amadeus,05/01/2017,22:37:00,https://ifttt.com/share/gqpVyQxbtxF,"Impressive Oscar fair, but didn't really do it for me.",2.5,279,/flnoqdC38mbaulAeptjynOFO7yi.jpg,1984-10-26,160,...Everything you've heard is true,Amadeus
+Terms of Endearment,07/01/2017,09:18:00,https://ifttt.com/share/6TqCFt99qyF,"Proper, interesting characters, superbly acted. ",4,11050,/zGl7KwZX8LQQAdYaaYawTFF6HKY.jpg,1983-11-20,132,,Terms of Endearment
+Ace in the Hole,07/01/2017,17:08:00,https://ifttt.com/share/cDSPcgc6CyF,"Kirk Douglas centre stage - where he likes to be, but good parable relevant as now as ever.",3.5,25364,/erCPvts7KedbFCmpNOV21QNLrRs.jpg,1951-06-29,111,"Rough, tough Chuck Tatum, who battered his way to the top ... trampling everything in his path - men, women and morals !",Ace in the Hole
+10 Cloverfield Lane,07/01/2017,21:09:00,https://ifttt.com/share/VVpCxPVbJyF,Decent bit of suspense. End felt a bit superfluous.,3,333371,/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg,2016-03-10,103,Monsters come in many forms.,10 Cloverfield Lane
+Out of Sight,08/01/2017,21:31:00,https://ifttt.com/share/DSs8fG86pzF,"Enjoyable enough - thing about being cool, it's not cool to be cool. This was abit too cool.",3,1389,/hSL2Ta4ErgAxPEOlkkxZmrTSAET.jpg,1998-06-26,123,Opposites attract.,Out of Sight
+The Hospital,12/01/2017,21:56:00,https://ifttt.com/share/DkRC9YmnYCF,Manic seventies black comedy.,3.5,32082,/onn0xHZNv1ueNYCPfvK76h7CF6x.jpg,1971-12-14,103,"Madness, Murder and Malpractice.",The Hospital
+Eyes Without a Face,14/01/2017,07:29:00,https://ifttt.com/share/zDDdvZgVSDF,Very odd with strangely stylish bits - it is French after all.,2.5,31417,/orqJcha6R8vxIzL2ggCQm0LjRBa.jpg,1960-01-11,88,,Eyes Without a Face
+The Thin Red Line,14/01/2017,22:44:00,https://ifttt.com/share/8hTqcXdgjFF,Entrancing visuals and strong performances in an unconventional war movie.,4,8741,/jGDK6eM6vb8VEUmR0ZoaghcCG8f.jpg,1998-12-25,170,Every man fights his own war.,The Thin Red Line
+The Wicker Man,15/01/2017,21:15:00,https://ifttt.com/share/Kxrr8jBPTFF,"Bit Groovy, bit trippy, bit funny, bit creepy. Wish I'd seen it years ago.",4,9708,/aeQ65vYvOCRmeO0uaVnjHOiDrXZ.jpg,2006-09-01,102,Some sacrifices must be made,The Wicker Man
+Bull Durham,16/01/2017,21:04:00,https://ifttt.com/share/wpxS2Xf2yGF,"Sports films need chemistry, as the formula is often the same. This one had it",3.5,287,/wZwXLiR1cisTXaJiuBLvgkS5HWw.jpg,1988-06-15,108,Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game.,Bull Durham
+Coach Carter,17/01/2017,21:59:00,https://ifttt.com/share/gktjhdJCdHF,"Plenty of the usual sports cliches, elevated by Samuel L Jackson and a slightly unconventional angle.",3,7214,/8c6BeOIrDStz2aiPceYdI5sd9pL.jpg,2005-01-14,136,It begins on the street. It ends here.,Coach Carter
+Horns,21/01/2017,08:56:00,https://ifttt.com/share/qvSBVKZPsKF,"Started well, was fun and different, got gradually more clunky.",3,149509,/632JG1wY6pGVxZxF5NaO5piNeFe.jpg,2013-09-06,120,He Will Bring Out The Devil In You,Horns
+Eye in the Sky,21/01/2017,21:32:00,https://ifttt.com/share/vCRvxdPNNKF,Superbly tense throughout and through-provoking. Proper thriller.,4,333352,/7IUUuB9Nwtp2Lslpt4Jo4bzMGoX.jpg,2015-09-11,102,Welcome to the new front line,Eye in the Sky
+Trumbo,22/01/2017,22:04:00,https://ifttt.com/share/MrgYvVNVsMF,"Little ponderous at times, amused that Helen Mirren obviously gave up on the accent, enough there to keep me interested. ",3.5,294016,/fulPs5eEBXeAeBFI6KAfTkeEgJg.jpg,2015-10-27,124,Are you now or have you ever been...,Trumbo
+Blue Jasmine,23/01/2017,20:45:00,https://ifttt.com/share/TggmNY4H5NF,"Rare treat of caring about all the characters, so well written and acted. ",4,160588,/tXzOAeub5ZaxGv9vkJLtU0aNenl.jpg,2013-07-25,98,Blue Moon. I used to know the words. Now they're all a jumble.,Blue Jasmine
+Another Earth,24/01/2017,22:02:00,https://ifttt.com/share/j4MMWXCKKNF,"Claustrophobic, tense, atmospheric and strangely compelling. ",4,55420,/yvjrhdXPEPB5rZbLjXCnfL4zY6V.jpg,2011-07-22,92,,Another Earth
+Only lovers left alive,25/01/2017,21:02:00,https://ifttt.com/share/qJrMDK2WnPF,Languid and cool with great music and a beautiful angle.,4.5,152603,/AfIr2ZUwAW3E5qBPfrJGDyKufAl.jpg,2013-12-12,123,,Only Lovers Left Alive
+Dallas buyers club,28/01/2017,21:02:00,https://ifttt.com/share/QQtn5XGfkRF,"Star performances, maybe a bit too front and centre, for my taste - but still good. ",3.5,152532,/aoxYci1HnJdb4bno2jYSnzSGDkL.jpg,2013-09-07,117,Sometimes it takes a hustler to change the world,Dallas Buyers Club
+A Bigger Splash,29/01/2017,19:07:00,https://ifttt.com/share/5TNPsPWfVRF,Thoughtful character piece with a dramatic twist. Nicely done all round. ,4,324807,/uMJhOiPpSuDFbJc5z6c8hD9h8CQ.jpg,2015-11-26,120,,A Bigger Splash
+Nightcrawler,30/01/2017,21:39:00,https://ifttt.com/share/mGTsR6tTCSF,Fantastic portrayal of a coolly ruthless character. ,4,242582,/8oPY6ULFOTbAEskySNhgsUIN4fW.jpg,2014-10-23,117,The city shines brightest at night,Nightcrawler
+The Program,01/02/2017,21:30:00,https://ifttt.com/share/pym6VcwzVTF,"Comically huge jumps in the story, and tendency to being cartoonish. ",1.5,271736,/w8sBqGSko8OBsKbK6z7gPvRfp7F.jpg,2015-09-16,103,Champion. Hero. Legend. Cheat.,The Program
+Ten Metre Tower,02/02/2017,21:28:00,https://ifttt.com/share/HsXZkDkYyVF,Simple Idea. Great Fun,3.5,380592,/8iKaIHA4wHQqfc1e4nRgsyy9aWO.jpg,2016-01-29,17,,Ten Meter Tower
+Youth,04/02/2017,21:47:00,https://ifttt.com/share/XW7dSQ6hSWF,"Couldn't tell you why I liked it, but thoroughly enjoyed it",4,310593,/9vFNTKVhFDAMrAGOVmPBMT9XDee.jpg,2015-05-20,118,,Youth
+Moneyball,05/02/2017,01:18:00,https://ifttt.com/share/WnhnfDGHXWF,"In a stats mood at the mo, so watching this again.",3.5,60308,/3oAa8mJJ97CH9AeGEY6vjAxqcvZ.jpg,2011-09-22,133,What are you really worth?,Moneyball
+Milk,05/02/2017,20:37:00,https://ifttt.com/share/btR6fqMdvXF,Pretty good and engaging performance by Sean Penn. ,3,10139,/sFYmJJSVXqfqPI79tx4UG4IR5Jb.jpg,2008-11-26,128,Never Blend In.,Milk
+Amy,06/02/2017,22:26:00,https://ifttt.com/share/JFgz6qqXbYF,Seemed fair. and so sad.,4,331781,/38iVDY0GUgcyhPARLDQWzDu2RpB.jpg,2015-07-03,128,The girl behind the name.,Amy
+Arrival,07/02/2017,21:56:00,https://ifttt.com/share/yKVYRpDMPYF,Nicely done throughout. Nice reveal/twist.,4,329865,/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg,2016-11-10,116,Why are they here?,Arrival
+"Kumiko, The Treasure Hunter",12/02/2017,22:28:00,https://ifttt.com/share/qJYBfD5D55G,"Beguiling, sad,  and weirdly uplifting. ",4,244563,/3PvhdMaJY4QrnjahZXwYfH6Hov3.jpg,2015-02-20,105,A Zellner Bros. Adventure,"Kumiko, the Treasure Hunter"
+The Enemy Below,18/02/2017,09:08:00,https://ifttt.com/share/7KfqFrKmB8G,"Some really clunky philosophical dialogue, but then plenty of the usual submarine tropes are well done.",2.5,15876,/8bmK6JpkMBI5CHiOY5GeOq29mUL.jpg,1957-12-25,97,The most amazing saga in the fighting annals of the US Navy!,The Enemy Below
+The Ipcress File,20/02/2017,22:55:00,https://ifttt.com/share/mxZswBGHgbG,"Visually interesting throughout, sharp and cool - Michael Caine at his best. ""My name is HARRY PALMER""",3.5,15247,/8LSeZyyiqLb8UTBAJfSx69pVEZp.jpg,1965-03-18,109,The spy story of the century.,The Ipcress File
+Chicago,21/02/2017,23:14:00,https://ifttt.com/share/fPn8zkXxVbG,"Apparently, I like musicals now. ",4,1574,/18pCc2XZ5MO7wsywOYEbhoeuxNw.jpg,2002-12-26,113,"If You Can't Be Famous, Be Infamous.",Chicago
+Elysium,22/02/2017,22:33:00,https://ifttt.com/share/cjZQQx88ycG,"Gritty, interesting start, gradually tapering off to generic. Strangely flat performance from usually great Jodie Foster.",2.5,68724,/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg,2013-08-07,109,He can save us all.,Elysium
+A Most Wanted Man,26/02/2017,22:20:00,https://ifttt.com/share/n5CWwRjC8gG,Low-key and tense with lots of good preformances from a big name cast.,3.5,157849,/iSMTe79efcxgI5jSFBAg6GjxEPs.jpg,2014-07-25,121,,A Most Wanted Man
+Hoosiers,27/02/2017,00:31:00,https://ifttt.com/share/9dw5QHJncgG,"Montage-tastic, with a healthy dose of eighties drums. Cheesy and enjoyable. ",3,5693,/jKEcIvayP1GGI1TSScoXyEd4mGb.jpg,1986-11-14,114,They needed a second chance to finish first.,Hoosiers
+Apocalypto,27/02/2017,13:43:00,https://ifttt.com/share/qQqhMJV7ygG,A non urban action film without crappy dialogue. ,3.5,1579,/5BTFXR96hcBzmJvd9FwNayV79Xu.jpg,2006-12-07,139,"When the end comes, not everyone is ready to go",Apocalypto
+Adaption.,27/02/2017,22:19:00,https://ifttt.com/share/KSKQ7GQZMgG,"Keeps turning inside out, but not self-consciously -  in an interesting and engaging way.",4.5,2757,/5trb1V5f3IsjpZx2GiuUylowl3W.jpg,2002-12-06,114,Charlie Kaufman writes the way he lives... With Great Difficulty. His Twin Brother Donald Lives the way he writes... with foolish abandon. Susan writes about life... But can't live it. John's life is a book... Waiting to be adapted. One story... Four Lives... A million ways it can end.,Adaptation.
+Lord of War,28/02/2017,20:34:00,,"Watchable, if perhaps a little jolly for what is at heart a pretty depressing trade.",3,1830,/nwPUI9WlYtDmE5VO6eEFCfrNXWl.jpg,2005-09-16,122,"Where there's a will, there's a weapon",Lord of War
+Breathless,02/03/2017,22:10:00,https://ifttt.com/share/nRvtsDS8JjG,Apparently it was revolutionary. Didn't like or care about the characters.,2.5,269,/o5xay1pqvpnIXcFAzgFyWcF6tua.jpg,1960-03-16,90,The film that was banned for 4 years. Why..?,Breathless
+Sausage Party,03/03/2017,20:09:00,https://ifttt.com/share/j7FHX5H2kkG,Funny moments - not enough to relieve the increasing boredom.,2,223702,/w90cORtNWQAd2k93aFlIBbpQYTC.jpg,2016-07-11,83,Always use condiments,Sausage Party
+Crossfire,04/03/2017,10:47:00,https://ifttt.com/share/nQsFFpxzHkG,"Classy, if a little blunt in it's message. A message that 70 years later is sadly all too relevant.",3,28120,/bF2FY0FiUf3daJxuowDKtimN1P9.jpg,1947-07-22,86,Hate is like a loaded gun!,Crossfire
+The Searchers,04/03/2017,21:49:00,https://ifttt.com/share/HVTgTnfzZkG,"Some dodgy politics, but epic and with unexpected funny bits.",3,3114,/Ai1lpWFaBHH3szTSBz7eZT3iobi.jpg,1956-03-13,119,He had to find her... he had to find her...,The Searchers
+Secretary,05/03/2017,21:54:00,https://ifttt.com/share/kcWXzKF7FmG,Fan of Maggie Gyllenhaal and more so after this. A lesser actor could have cocked it up. ,4,11013,/dZaTYgy6sc6Z8ylaKdXw8yq5sRv.jpg,2002-01-11,104,Assume the position.,Secretary
+They Might Be Giants,08/03/2017,21:00:00,https://ifttt.com/share/4shvgDxjzpG,Top marks for oddness. Strangely engaging for such a knockabout and whimsical thing.,3.5,27841,/njI58lHvb3aJ3KeSUX4wQMCUguQ.jpg,1971-06-09,98,,They Might Be Giants
+Thank You for Smoking,12/03/2017,20:25:00,https://ifttt.com/share/TpKRYxjj9sG,"Good actors, but strangely flat -  not enough bite for a satire.",2.5,9388,/v8PKsbAGIvAhKbbRUjdQ3jgFD2S.jpg,2005-09-05,92,Tobacco lobbyist Nick Naylor is trying to SAVE YOUR ASH!,Thank You for Smoking
+The Diving Bell and the Butterfly,14/03/2017,22:21:00,https://ifttt.com/share/DJKSdmPCvtG,"Chock full of beautifully composed scenes, with terrific performances all round and neither maudlin or uplifting - much more than that.",4.5,2013,/j9xijFBmOSitYXAMnO9X9QXZogD.jpg,2007-05-22,112,,The Diving Bell and the Butterfly
+The Second Mother,15/03/2017,22:10:00,https://ifttt.com/share/BYVGgSgR8vG,"Good to get away from big concept, tricksy set piece films. Warm and real.",4,310569,/lhcZrT1QGp8LfpuncuaQvFHIZJV.jpg,2015-02-08,110,,The Second Mother
+The Night of the Hunter,21/03/2017,21:23:00,https://ifttt.com/share/yqzw8wKtZyG,"Great lighting making a great looking film with a superb Robert Mitchum, but a weird ending.",3.5,3112,/brECyRPAWJS1clF0unAC3MtERMA.jpg,1955-04-03,93,"The wedding night, the anticipation, the kiss, the knife, BUT ABOVE ALL...THE SUSPENSE!",The Night of the Hunter
+Prisoners,25/03/2017,22:38:00,https://ifttt.com/share/tzCMVvCPCCG,Nice twists and tension - So many thrillers aren't thrilling. This was certainly tense and very good.,4,146233,/yAhqW57pwMAsCgmZpM5zSIVQVTh.jpg,2013-09-18,153,Every moment matters.,Prisoners
+Five Easy Pieces,29/03/2017,21:11:00,https://ifttt.com/share/7BqqJh9t9GG,"Jack Nicholson effortlessly tormented, restless and charismatic.",3.5,26617,/4JsIxivzyj6xEiX1DrD8icONjqZ.jpg,1970-09-12,98,He rode the fast lane on the road to nowhere.,Five Easy Pieces
+Cries and Whispers,01/04/2017,08:27:00,https://ifttt.com/share/7yckyPPCKHG,"Cold, hard and distant looks abound. Claustrophobic atmosphere filled with mostly isolated and cruel people.",3.5,10238,/m2lG7g1JAzYNsgBRrDhzZe5bEDz.jpg,1972-12-21,91,A haunting and shattering film experience.,Cries and Whispers
+The Girl with all the Gifts,01/04/2017,23:20:00,https://ifttt.com/share/yYFHpvYv9JG,Solid all round. Just right amount of action and apocalyptic pondering.,3.5,375366,/33IDooA29ctGHNE7gQW6cwbmRP3.jpg,2016-09-23,110,Our greatest threat is our only hope.,The Girl with All the Gifts
