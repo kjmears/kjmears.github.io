@@ -11,12 +11,12 @@ sitemap: false
 
 <ol reversed class="watched">
 
-	{% assign sorted = (site.data.books.books2017 | sort: 'date') %}
+	{% assign sorted = (site.data.books.books2017 | sort: 'date') | reverse ) %}
 	{% for book in sorted %}
 	<li>
 		{% if book.amazon_link != null %}
 
-			<strong><a href="{{ book.amazon_link }}">{{ book.title }}</a></strong>
+			{{ book.date_finished | date: "%b %-d" }} <strong><a href="{{ book.amazon_link }}">{{ book.title }}</a></strong>
 			<em>{{ book.author_1 }}</em>
 
 		{% else %}
