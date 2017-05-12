@@ -20,6 +20,14 @@ Having got a list and organised it into a decent worksheet, I then needed to get
  - Individual 4
 
 
+There are lots of committees - 113 individuals, representing 66 different organizations.
+
+Full members broken down by Country
+
+Full Members broken down by region
+
+
+committees broken down by country and region too.
 
 
 
@@ -27,4 +35,4 @@ Having got a list and organised it into a decent worksheet, I then needed to get
 
 
 [members]: https://www.ucisa.ac.uk/membersdirectory
-[provider: http://learning-provider.data.ac.uk/
+[provider]: http://learning-provider.data.ac.uk/
