@@ -8,7 +8,7 @@ published: true
 meta: "Diving into very basic data as an exercise in spreadsheets"
 ---
 
-For reasons unknown to even me, I was looking at the UCISA website whilst watching an interesting stream from the event held recently. Whilst browsing around the site I began to be curious about the organisation and started thinking about the structure of it; all the special interest groups and subsequent committees that Higher Education organisations seem to love. My curiosity coalesced around the question of how representative of the sector the organisation is.
+For reasons unknown to even me, I was looking at the [UCISA][ucisa] website whilst watching an interesting stream from the event held recently. Whilst browsing around the site I began to be curious about the organisation and started thinking about the structure of it; all the special interest groups and subsequent committees that Higher Education organisations seem to love. My curiosity coalesced around the question of how representative of the sector the organisation is.
 
 I ended up learning all about the association and it's memberships
 
@@ -76,7 +76,7 @@ Alongside the nitty-gritty of learning a particular bit of software, there was a
 
 I also found that with such a simple bit of data my initial idea to take things into Illustrator and do a knock off [Gerd Arntz][gerd] style chart was a bad idea. Sticking to the off the shelf charts, even if they aren't inspiring is a more honest choice.  
 
-
+[ucisa]: https://www.ucisa.ac.uk/
 [gerd]: https://www.vis4.net/blog/posts/choose-your-icons-wisely/
 [charts]: https://developers.google.com/chart/
 [stack]: http://stackoverflow.com/questions/12125847/counting-number-of-occurrences-in-column
