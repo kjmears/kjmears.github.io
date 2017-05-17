@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sometimes the data is boring"
-date: "2017-04-06 21:52:22 +0100"
+date: "2017-05-17"
 tags: data
 category: blog
 published: true
