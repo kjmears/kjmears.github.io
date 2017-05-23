@@ -16,7 +16,7 @@ There’s a lot of talk in the Higher Education sector at the moment about finan
 
 This information can be found on the relevant [page][page] on the Charity Commission site.
 
-## Widening it out
+### Widening it out
 
 So that was the realisation, here comes the question. **What are other universities’ finances like?**
 
@@ -37,35 +37,37 @@ Pretty vague so far, so I thought that I might need to add some more dimensions 
 
 - Areas of Operation.
 
-Are the bits of information it may be possible to compare. Ruling out ‘Areas of Operation’ since there’s no consistent way that a charity applies that. For example my University defines it as ‘throughout Wales’ yet  Cardiff University says ‘Cardiff’.  I initially thought that I could use the financial info and  come up with a list of Universities and their relative financials, but that seems a bit daunting for my skills at the moment. However, since job cuts seem to be sweeping the sector looking at some simple numbers might be an achievable goal for my nascent data skills.
+Are the bits of information it may be possible to compare. Ruling out ‘Areas of Operation’ since there’s no consistent way that a charity applies that. For example my University defines it as ‘throughout Wales’ yet  Cardiff University says ‘Cardiff’.  I initially thought that I could use the financial info and  come up with a list of Universities and their relative financials, but that seems a bit daunting for my skills at the moment. However, since job cuts seem to be sweeping the sector looking at some simple numbers might be an achievable goal for my nascent data skills. I thought I'd instead take a lot an the number of Employees in each Uni over the last 5 years.
 
-## Some actions
+### Some actions
 
 Having decided what try and compare, the next step is to get the data. Handily the charity commission makes it relatively easy.
 A link at the bottom of the page - Charity data is available for reuse under the Open Government Licence v2.0.
 
 I went and got the [data extract][extract], but didn’t know what the . bcp file extension was and how to handle it. Thankfully, I then discovered the super helpful [Beginner's Guide to the Charity Commission data][guide]. After following the steps to get the data into CSV files I then it became clear to deal with such a big dataset I needed to get a database up and running.
 
-## Magic of Docker
+### Magic of Docker
 
 I've managed to get MySQl up and running on the various machines I've used in the past, but I'm not the most confident, and I didn't want to spend much time on what should be an incidental part of what I was trying to do. So, enter [Docker][docker]. Like some kind of magic it makes it super easy to install a running MySQL serve that I can then connect to with [SequelPro][pro], maybe deserving of a blog post in due course, though in truth it was one config file and then a single line.
 
-## Copy and paste - the novices friend.
+### Copy and paste - the novices friend.
 
-Armed with my CSV files and a Database to put them in, I needed to see what I could remember from that MySQL for Dummies book I read years ago. With so many records in the database, I had to come up with a way to get just the records I wanted, and not just charities with 'University' in the name (there are lots).
+Armed with my CSV files and a Database to put them in, I needed to see what I could remember from that __MySQL for Dummies__ book I read years ago. With so many records in the database, I had to come up with a way to get just the records I wanted, and not just charities with 'University' in the name (there are lots).
 
-I learnt how to get it up and running in a docker container.
-I learnt how to do SQL Joins - so that I could use learning provider data to pull out some Universities that do fall under the control of the Charity Commission. Though my method is pretty unreliable.
+Thankfully I could use the handy list of Universities CSV over at [Data.ac.uk][unilist] and then use that to narrow things down a bit. I've no doubt that an expert could be much more rigourous and accurate with their query, but this approximate method matches the skills I have, and you go to war with the army you have. In the end it was enough to discover a major problem with everything I'd done up to this point.
 
-http://wonkhe.com/blogs/what-is-a-private-university/
+In my ignorance I'd assumed that since most Universities are charities they'd be regulated by the Charities Commission. I hadn't reckoned on something called 'exempt charity status' - explained in depth at [wonkhe][wonkhe] It seems that many Universities have this status, so aren't registered with the charity commission, meaning that getting the data I thought was easy suddenly wasn't.
 
-http://wonkhe.com/blogs/charity-commission-rules-and-universities-charitable-status/
+### When the fun stops, stop.
 
-[duties]: https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-cc3/the-essential-trustee-what-you-need-to-know-what-you-need-to-do#s5
+Also on my mind, as I was doing the digital equivalent of messing about in the shed, was the knowledge that the sector stats bodies probably have all this data a click away if you know who and how to ask. Reaching this dead end wasn't entirely worthless though. I've managed to dust off and improve my SEQUEL skills, learnt a ton about the complex organisational landscape of the HE sector, and developed a new found appreciation of just how tricky it must be to start pulling at a data thread. Even one as trivial as this required a bit of thinking and enough perseverance to satisfy my curiousity.
+
+
+[docker]: https://www.docker.com/
+[pro]: https://www.sequelpro.com/
+[wonkhe]: http://wonkhe.com/blogs/charity-commission-rules-and-universities-charitable-status/
+[unilist]: http://learning-provider.data.ac.uk/
+[duties]:https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-cc3/the-essential-trustee-what-you-need-to-know-what-you-need-to-do#s5
 [page]: http://beta.charitycommission.gov.uk/charity-details?regid=1140312&subid=0
 [extract]: http://data.charitycommission.gov.uk/default.aspx
 [guide]: https://github.com/ncvo/charity-commission-extract/blob/master/beginners-guide.md
-
-Ok, so change of plan on this blog post. Turns out the charitable status of Universities is complicated. There is a thing called exempt charity status which means amongst other things that they are not regulated by the charity commission, and instead have their own regulatory framework. What that means for my ‘data exploration’ is that I can’t get the data to do any sort of sector wide comparison.
-
-I did learn a lot about MySQL though.
