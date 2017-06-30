@@ -18,9 +18,9 @@ title: Speakers
 
         {% for talk in site.data.events %}
 
-          {% if talk.speaker[] %}
+          {% if talk.speaker != empty %}
 
-            {% for multiple in talk.speaker[] %}
+            {% for multiple in talk.speaker %}
 
               {% if bio.id == multiple %}
 
