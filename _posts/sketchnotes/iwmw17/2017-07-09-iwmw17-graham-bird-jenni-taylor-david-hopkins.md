@@ -1,6 +1,6 @@
 ---
 code: iwmw17-06
-published: false
+published: true
 layout: post
 title: IWMW17-graham-bird-jenni-taylor-david-hopkins
 date: 2017-07-09
