@@ -1,6 +1,6 @@
 ---
 code: iwmw17-08
-published: false
+published: true
 layout: post
 title: IWMW17-richard-prowse
 date: 2017-07-09
