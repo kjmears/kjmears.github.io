@@ -2,11 +2,11 @@
 code: iwmw17-07
 published: true
 layout: post
-title: IWMW17-matthew-castle-ruth-mason
+title: IWMW17-ruth-mason-matthew-castle
 date: 2017-07-09
-image: /iwmw17/iwmw17-matthew-castle-ruth-mason.png
-original: /iwmw17/iwmw17-matthew-castle-ruth-mason-large.png
-image-thumb: /iwmw17/iwmw17-matthew-castle-ruth-mason-thumb.png
+image: /iwmw17/iwmw17-ruth-mason-matthew-castle.png
+original: /iwmw17/iwmw17-ruth-mason-matthew-castle-large.png
+image-thumb: /iwmw17/iwmw17-ruth-mason-matthew-castle-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
