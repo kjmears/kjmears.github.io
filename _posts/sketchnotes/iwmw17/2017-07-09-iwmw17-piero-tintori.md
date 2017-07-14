@@ -1,8 +1,8 @@
 ---
 code: iwmw17-00
-published: false
+published: true
 layout: post
-title: IWMW17-piero-tintori
+title: IWMW17 Piero Tintori
 date: 2017-07-09
 image: /iwmw17/iwmw17-piero-tintori.png
 original: /iwmw17/iwmw17-piero-tintori-large.png

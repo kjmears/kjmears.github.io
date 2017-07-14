@@ -2,8 +2,7 @@
 code: iwmw17-01
 published: true
 layout: post
-
-title: IWMW17-bonnie-ferguson
+title: IWMW17 Bonnie Ferguson
 date: 2017-07-09
 image: /iwmw17/iwmw17-bonnie-ferguson.png
 original: /iwmw17/iwmw17-bonnie-ferguson-large.png

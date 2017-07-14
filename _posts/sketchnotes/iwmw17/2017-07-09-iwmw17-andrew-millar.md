@@ -2,7 +2,7 @@
 code: iwmw17-02
 published: true
 layout: post
-title: IWMW17-andrew-millar
+title: IWMW17 Andrew Millar
 date: 2017-07-09
 image: /iwmw17/iwmw17-andrew-millar.png
 original: /iwmw17/iwmw17-andrew-millar-large.png

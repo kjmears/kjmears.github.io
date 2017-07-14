@@ -3,7 +3,7 @@
 code: iwmw16-02
 layout: post
 published: true
-title: IWMW16 -Gareth Edwards  
+title: IWMW16 Gareth Edwards  
 date: 2016-06-21
 image: /iwmw16/iwmw16-gareth-edwards.jpg
 image-thumb: /iwmw16/iwmw16-gareth-edwards-thumb.jpg

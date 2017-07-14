@@ -2,7 +2,7 @@
 code: iwmw17-06
 published: true
 layout: post
-title: IWMW17-graham-bird-jenni-taylor-david-hopkins
+title: IWMW17 Graham Bird, Jenni Taylor, David Hopkins
 date: 2017-07-09
 image: /iwmw17/iwmw17-graham-bird-jenni-taylor-david-hopkins.png
 original: /iwmw17/iwmw17-graham-bird-jenni-taylor-david-hopkins-large.png

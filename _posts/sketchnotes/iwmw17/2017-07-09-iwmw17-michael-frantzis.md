@@ -1,8 +1,8 @@
 ---
 code: iwmw17-12
-published: false
+published: true
 layout: post
-title: IWMW17-michael-frantzis
+title: IWMW17 Micheal Frantzis
 date: 2017-07-09
 image: /iwmw17/iwmw17-michael-frantzis.png
 original: /iwmw17/iwmw17-michael-frantzis-large.png
