@@ -16,8 +16,9 @@ sitemap: false
 	<li>
 		{% if book.amazon_link != null %}
 
-			{{ book.date_finished | date: "%b %-d" }} <strong><a href="{{ book.amazon_link }}">{{ book.title }}</a></strong>
-			<em>{{ book.author_1 }}</em>
+
+			<strong><a href="{{ book.amazon_link }}">{{ book.title }}</a></strong> <em>{{ book.author_1 }}</em> <small>Started {{ book.date_started }} - Finished: {{ book.date_finished | date: "%b %-d" }}</small>
+
 
 		{% else %}
 
