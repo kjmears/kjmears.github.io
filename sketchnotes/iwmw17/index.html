@@ -9,8 +9,8 @@ homepage: true
 
 
 <section>
-
-	{% for post in site.tags.iwmw17 %}
+  {% assign sorted = (site.tags.iwmw17 | sort: 'date') %}
+	{% for post in sorted%}
 	{% include panel.html %}
 	{% endfor %}
 

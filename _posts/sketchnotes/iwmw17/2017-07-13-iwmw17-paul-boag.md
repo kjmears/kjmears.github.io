@@ -1,9 +1,9 @@
 ---
-code: iwmw17-00
+code: iwmw17-p10
 published: true
 layout: post
 title: IWMW17 Paul Boag
-date: 2017-07-09
+date: 2017-07-13 09:50:00
 image: /iwmw17/iwmw17-paul-boag.png
 original: /iwmw17/iwmw17-paul-boag-large.png
 image-thumb: /iwmw17/iwmw17-paul-boag-thumb.png

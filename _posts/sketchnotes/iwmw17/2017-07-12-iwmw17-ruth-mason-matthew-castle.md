@@ -1,9 +1,9 @@
 ---
-code: iwmw17-07
+code: iwmw17-p7
 published: true
 layout: post
 title: IWMW17 Ruth Mason, Matthew Castle
-date: 2017-07-09
+date: 2017-07-12 11:30:00
 image: /iwmw17/iwmw17-ruth-mason-matthew-castle.png
 original: /iwmw17/iwmw17-ruth-mason-matthew-castle-large.png
 image-thumb: /iwmw17/iwmw17-ruth-mason-matthew-castle-thumb.png

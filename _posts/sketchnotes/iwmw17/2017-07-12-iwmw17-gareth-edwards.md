@@ -1,9 +1,9 @@
 ---
-code: iwmw17-05
+code: iwmw17-p5
 published: true
 layout: post
 title: IWMW17 Gareth Edwards
-date: 2017-07-09
+date: 2017-07-12 10:10:00
 image: /iwmw17/iwmw17-gareth-edwards.png
 original: /iwmw17/iwmw17-gareth-edwards-large.png
 image-thumb: /iwmw17/iwmw17-gareth-edwards-thumb.png
