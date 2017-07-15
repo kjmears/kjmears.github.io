@@ -1,3 +1,23 @@
+- title: 'IWMW17'
+  date: 2017-07-11
+  sketchnotes: /sketchnotes/iwmw17
+  speaker:
+    - boagworld
+    - richprowse
+    - garius
+    - bon_ferguson
+    - pierotintori
+    - cgutteridge
+    - millaraj
+    - thisgirl32
+    - MelaRead
+    - jennijuniper
+    - mrgrahambird
+    - Ruth_Q
+    - MCastle_OUITS
+    - mfrantzis
+    - stratosf1
+
 - title: 'WDC2016'
   date: 2016-10-07
   speaker:
@@ -1331,7 +1351,6 @@
     - tomwbond
 
 - title: Port80 Spring Localhost 2014
-  speaker: rumyra
   sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
   event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2014-02-thumb.gif
@@ -1342,7 +1361,6 @@
     - garethstrange
 
 - title: "@Media 2005"
-  speaker: Malarkey
   sketchnotes: /sketchnotes/media2005.html
   image: media2005/media2005-sketchnotes-thumb.jpg
   code: media2005

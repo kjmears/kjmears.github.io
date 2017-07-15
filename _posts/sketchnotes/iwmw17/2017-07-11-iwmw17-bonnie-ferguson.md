@@ -10,6 +10,7 @@ image-thumb: /iwmw17/iwmw17-bonnie-ferguson-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
+speaker: bon_ferguson
 tags:
   - iwmw17
   - iwmw

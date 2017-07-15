@@ -10,6 +10,9 @@ image-thumb: /iwmw17/iwmw17-ruth-mason-matthew-castle-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
+speaker:
+  - Ruth_Q
+  - MCastle_OUITS
 tags:
   - iwmw17
   - iwmw

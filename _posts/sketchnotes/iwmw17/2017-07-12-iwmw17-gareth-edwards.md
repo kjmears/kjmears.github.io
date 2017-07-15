@@ -10,6 +10,7 @@ image-thumb: /iwmw17/iwmw17-gareth-edwards-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
+speaker: garius
 tags:
   - iwmw17
   - iwmw
