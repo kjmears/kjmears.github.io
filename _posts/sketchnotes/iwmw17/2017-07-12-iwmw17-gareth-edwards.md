@@ -18,4 +18,13 @@ tags:
 cc: BY-SA
 ---
 
-# You touched it last: Designing Governance for Develoved Institutions
+I was looking forward to Gareth's talk,  despite a pretty dry title, I enjoyed his talk from last year and was expecting good things. I wasn't disappointed - his lovely slides had plenty of good nuggets to take away as a well as a nice introduction to a way of thinking about information management. It was especially interesting to get an [historical perspective][dowding] and see that information management isn’t a new problem, even if the tools are.
+
+Wholeheartedly agreed with some of Gareth’s other exhortations - ‘Don’t devolve design’ and ‘Don’t talk pages’.
+
+It all finished nicely on common types of people that you encounter when devolving web activity and how to deal with them. There were plenty of murmurs of recognition in the room at those descriptions and appreciation at ideas how to deal with them.
+
+Special mention to @garius for giving me homework with things to read on twitter!
+
+
+[dowding]:https://en.wikipedia.org/wiki/Dowding_system

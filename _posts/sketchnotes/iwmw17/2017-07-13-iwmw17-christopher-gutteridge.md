@@ -21,4 +21,4 @@ speaker: cgutteridge
 
 ---
 
-## The Life Academic 
+A very different t flavour of talk this time. A really interesting  and useful explanation of the life academic - getting an insight into why that academic you've asked for 'content' is taking a while to get back to you was really good.
