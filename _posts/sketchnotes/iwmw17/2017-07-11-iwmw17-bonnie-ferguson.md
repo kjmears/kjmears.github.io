@@ -18,9 +18,11 @@ tags:
 cc: BY-SA
 ---
 
+### The UK’s European University in a Time of Brexit
+
 Interesting opening around the particular effect of Brexit on the very European facing University of Kent. The University has taken a conscious decision to continue emphasising it's commitment to 'remain European'. Brexit wasn't the only change to the landscape that Bonnie mentioned. The influence of sponsorship from external corporations and the possible effects on course structures, outcomes and how they are perceived has the potential to have a profound change on the sector.
 
-Touching on the those things then led on to the concept of 'Anti fragile'. From a [book by Massim Taleb](http://amzn.to/2vtV6iM). Part of the idea is that some things benefit from shocks and stresses, thriving in the face of disorder, uncertainty and similar phenomena. Called Antigfragile in the absence of an existing direct opposite to fragile, Bonnie explained how it might be an interesting concept to think in terms of organisations that need to innovate to survive.  
+Touching on the those things then led on to the concept of 'Anti fragile'. From a [book by Massim Taleb][book]. Part of the idea is that some things benefit from shocks and stresses, thriving in the face of disorder, uncertainty and similar phenomena. Called Antigfragile in the absence of an existing direct opposite to fragile, Bonnie explained how it might be an interesting concept to think in terms of organisations that need to innovate to survive.  
 
 The concept of having skin the game was a concept that I liked, and one that will chime with Pigs and chickens of Agile advocates.
 
@@ -30,6 +32,7 @@ Bonnie then raised some examples of disruptive innovation, and posted some of th
 
 Overall, I enjoyed the introduction of those ideas, as ways of framing the change happening to the sector, in the knowledge that change is a constant.
 
+[book]:http://amzn.to/2vtV6iM
 [netflix]:https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116
 [antifragile]:https://en.wikipedia.org/wiki/Antifragile
 [swan]:https://en.wikipedia.org/wiki/Black_swan_theory

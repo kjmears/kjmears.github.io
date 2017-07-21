@@ -18,6 +18,8 @@ tags:
 cc: BY-SA
 ---
 
+### How to Win Over Your Colleagues and Make Life Easier 
+
 One of the handy things about such an experienced speaker is that the slidedeck is usually a great aide memoir, but Paul took that concept to the next level with his UX Culture cards.
 
-So many take aways from this talk. 
+So many take aways from this talk.

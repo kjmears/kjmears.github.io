@@ -18,6 +18,8 @@ tags:
 cc: BY-SA
 ---
 
-Piero managed to cram quite a lot of practical things to try in a short space of time, not going into tons of depth, but a really handy starting g point of things to try.
+### 5 Conversion Techniques that Higher Ed Can Learn From eCommerce
+
+Despite the slightly linkbait title, Piero managed to cram quite a lot of practical things to try in a short space of time, not going into tons of depth, but a really handy starting g point of things to try.
 
 And I couldn't help thinking of Glengarry Glenross, when talk turns to leads. “Put, that coffee down, coffee is for closers...”

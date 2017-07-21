@@ -17,6 +17,8 @@ speaker: stratosf1
 
 ---
 
+### Building a Collaborative Culture in an Institution 
+
 Overview of the thorny issue of creating a collaborative culture. No shortcuts. To get something valuable requires a lot of relationship building.
 
 And a roadmap. A much undervalued document - provided you keep it up to date and protect it, with one of the tools being the [Global Experience Language][gel]

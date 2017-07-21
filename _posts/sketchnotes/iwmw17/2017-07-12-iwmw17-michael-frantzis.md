@@ -18,6 +18,8 @@ tags:
 cc: BY-SA
 ---
 
+### Students as Humans: Understanding and Segmenting the Real Student Experience
+
 Interesting range over ways in which universities can understand Student behaviour better, by thinking a bit more about their experiences at university and what might be best for them as individuals, with some ideas how that might be achieved.
 
-Building a fuller picture of the student should help to help them, which in turn helps the organisation. 
+Building a fuller picture of the student should help to help them, which in turn helps the organisation.

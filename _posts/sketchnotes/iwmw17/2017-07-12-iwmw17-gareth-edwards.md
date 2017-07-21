@@ -18,6 +18,8 @@ tags:
 cc: BY-SA
 ---
 
+### You Touched It Last: Designing Governance for Devolved Institutions
+
 I was looking forward to Gareth's talk,  despite a pretty dry title, I enjoyed his talk from last year and was expecting good things. I wasn't disappointed - his lovely slides had plenty of good nuggets to take away as a well as a nice introduction to a way of thinking about information management. It was especially interesting to get an [historical perspective][dowding] and see that information management isn’t a new problem, even if the tools are.
 
 Wholeheartedly agreed with some of Gareth’s other exhortations - ‘Don’t devolve design’ and ‘Don’t talk pages’.

@@ -21,4 +21,6 @@ speaker: TomRight
 
 ---
 
+### Student Life 
+
 Tom's talk was a showcase of some of the cracking work that students have created on his watch. He was very generous and explained how much progress the students are making when given the opportunity and a bit of support.

@@ -18,6 +18,8 @@ tags:
 cc: BY-SA
 ---
 
+### High Sights, High Standards
+
 Probably my favourite talk of the whole conference.
 
 Starting from the basic premise that there is too much work for a central web team to do it all the team at St Andrews explained how they've built up their capacity by a thorough programme of standardising how they work, explaining their thinking and educating their users.
@@ -28,4 +30,4 @@ The digital visa concept was one that seemed to impress everyone in the audience
 
 Of particular note was the commitment to produce three blog posts every 2 week sprint, importantly, with time set aside for people to do them. I was impressed with the follow through to produce those posts, and the clear thinking that they are produced for mainly an internal audience with clear aims to support and develop the community they've created.
 
-Overall, a cracking mix of overarching strategy with great examples of how to put it into practice. 
+Overall, a cracking mix of overarching strategy with great examples of how to put it into practice.
