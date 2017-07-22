@@ -1,0 +1,108 @@
+---
+layout: compress
+#using compress layout to take whitespace out
+---
+
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en" itemscope itemtype="http://schema.org/WebPage">
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include meta.html %}
+
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.title }} &middot; {{ site.tagline }}
+      {% else %}
+        {{ page.title }} &middot; {{ site.title }}
+      {% endif %}
+    </title>
+
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
+  <!-- CSS -->
+<link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Bangers|Oxygen:300,700">
+
+<!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/dist/global.min.css"> -->
+
+
+<!-- Icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+<meta name="theme-color" content="#ffffff">
+
+<script type="text/javascript" src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/public/js/jquery.dataTables.js"></script>
+
+
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+
+
+
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+  <script>
+    WebFont.load({
+      google: {
+        families: ['', 'sans-serif']
+      }
+    });
+  </script> -->
+</head>
+
+
+<body class="custom">
+  {% include tag_manager.html %}
+
+    {% include sidebar.html %}
+
+  <div class="container content">
+
+      <main>
+        <article class="page">
+          <h1 class="page-title">{{ page.title }}</h1>
+
+          {{ content }}
+        </article>
+
+      </main>
+
+      <footer class="footer">
+          <small>
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+      </small>
+      </footer>
+
+
+  </div>
+  <!--/div container content -->
+
+</body>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "order": [[ 3, "desc" ]],
+        "paging": false,
+        "columnDefs": [
+          { className: "dt-head-left", "targets": [ 0 ]},
+          { className: "dt-head-left", "targets": [ 1 ]},
+          { className: "dt-head-left", "targets": [ 2 ]},
+          { className: "dt-head-left", "targets": [ 3 ]},
+          { className: "dt-head-left", "targets": [ 4 ]}
+
+        ]
+    } );
+} );
+</script>
+
+</html>
