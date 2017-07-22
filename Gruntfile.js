@@ -31,6 +31,29 @@ module.exports = function(grunt) {
       }
     },
 
+    copy: {
+      development: {
+        files: [
+
+          // Copies javascripts into static/js
+          { expand: true,
+            src: [
+            'bower_components/holderjs/holder.js',
+            'bower_components/jquery/dist/**',
+            'node_modules/datatables.net/js/**'
+            ],
+            dest: 'public/js/.',
+            flatten: true,
+            filter: 'isFile',
+          },
+
+
+        ]
+      },// end of development
+
+    },// end of copy
+
+
     jshint: {
       beforeconcat: ['js/*.js']
     }, // jshint
@@ -118,11 +141,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-push-release');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-shell');
+  grunt.loadNpmTasks('grunt-contrib-copy');
 
   require('load-grunt-tasks')(grunt);
 
   // Default Task is basically a rebuild
-  grunt.registerTask('default', ['concat', 'uglify', 'sass', 'shell', 'watch']);
+  grunt.registerTask('default', ['copy:development', 'concat', 'uglify', 'sass', 'shell', 'watch']);
   grunt.registerTask('min', ['imagemin']);
   grunt.registerTask('dev', ['watch']);
   grunt.registerTask('jekyll', ['sass', 'shell', 'watch']);

@@ -1,7 +1,8 @@
-- title: 'IWMW17'
+- title: IWMW 2017
   date: 2017-07-11
   sketchnotes: /sketchnotes/iwmw17
   image: /iwmw17/iwmw17-intro-thumb.png
+  mode: live
   speaker:
     - boagworld
     - richprowse
@@ -20,8 +21,9 @@
     - stratosf1
     - TomRight
 
-- title: 'WDC2016'
+- title: WDC 2016
   date: 2016-10-07
+  mode: live
   speaker:
     - jukesie
     - rumyra
@@ -31,207 +33,71 @@
     - madebysheppard
     - _beneverad
     - Phishtitz
-
   sketchnotes: /sketchnotes/wdc2016
   image: /wdc2016/wdc2016-lightning-talks-thumb.jpg
 
-- title: 'Creative Mornings Cardiff - Gavin Strange'
+- title: Creative Mornings Cardiff
   date: 2016-08-06
+  mode: live
   speaker: JamFactory
   sketchnotes: /sketchnotes/creative-mornings-gavin-strange.html
   image: creative-morning-gavin-strange-thumb.jpg
 
-- title: 'USW Support Staff Conference 2016'
+- title: USW Support Staff Conference
   date: 2016-07-08
+  mode: live
   speaker:
     - bencalvert
     - RecycleScooters
   sketchnotes: /sketchnotes/support-staff-conference-2016.html
   image: /supportstaff2016/supportstaff2016-ben-calvert-helen-walbey.jpg
 
-- title: 'Requirements Are Hypotheses: How Lean UX Can Help You Develop Better Products'
+- title: IWMW 2016
   date: 2016-06-21
-  speaker: usabilityed
+  mode: live
+  sketchnotes: /sketchnotes/iwmw16
+  image: /iwmw16/iwmw16-roundup-thumb.jpg
   event: iwmw.org/iwmw2016/
   lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-neil-allison.html
-  image: /iwmw16/iwmw16-neil-allison-thumb.jpg
-
-- title: 'Skin deep: Using cosmetic improvement to drive real change'
-  date: 2016-06-21
-  speaker: garius
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-gareth-edwards.html
-  image: /iwmw16/iwmw16-gareth-edwards-thumb.jpg
-
-- title: Leadership 101 – top tips for steering the ship through the seas of change
-  date: 2016-06-21
-  speaker: PlanetClaire
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-claire-gibbons.html
-  image: /iwmw16/iwmw16-claire-gibbons-thumb.jpg
-
-- title: 'Managing change: leading horses to water'
-  date: 2016-06-22
-  speaker: rvtol
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-rob-van-tol.html
-  image: /iwmw16/iwmw16-rob-van-tol-thumb.jpg
-
-- title: 'Building a new university website – an agile content case study'
-  date: 2016-06-22
-  speaker: richprowse
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-richard-prowse.html
-  image: /iwmw16/iwmw16-richard-prowse-thumb.jpg
-
-- title: 'Establishing digital at the heart of the university'
-  date: 2016-06-22
-  speaker: garethjms
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-gareth-saunders.html
-  image: /iwmw16/iwmw16-gareth-saunders-thumb.jpg
-
-- title: Building a digital team from scratch
-  date: 2016-06-22
-  speaker: DuncanBSS
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-duncan-stephen.html
-  image: /iwmw16/iwmw16-duncan-stephen-thumb.jpg
-
-- title: 'Prototyping the digital university'
-  date: 2016-06-22
   speaker:
+    - usabilityed
+    - garius
+    - PlanetClaire
+    - rvtol
+    - richprowse
+    - garethjms
+    - DuncanBSS
     - cscott
     - ahazebroek
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-chris-scott-anja-hazebroek.html
-  image: /iwmw16/iwmw16-chris-scott-anja-hazebroek-thumb.jpg
-
-- title: '100 to 1(ish) – unifying a sprawling web estate'
-  date: 2016-06-22
-  speaker: rvwest
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-richard-west.html
-  image: /iwmw16/iwmw16-richard-west-thumb.jpg
-
-- title: 'The google analytics of things'
-  date: 2016-06-22
-  speaker: mhawksey
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-martin-hawksey.html
-  image: /iwmw16/iwmw16-martin-hawksey-thumb.jpg
-
-- title: "It's time to get personal"
-  date: 2016-06-23
-  speaker: pierotintori
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-piero-tintori.html
-  image: /iwmw16/iwmw16-piero-tintori-thumb.jpg
-
-- title: 'Working with external partners'
-  date: 2016-06-23
-  speaker:
+    - rvwest
+    - mhawksey
+    - pierotintori
     - m8nd1
     - markosimpson
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-mandy-phillips.html
-  image: /iwmw16/iwmw16-mandy-phillips-thumb.jpg
+    - mariekeguy
+    - jukesie
 
-- title: 'Right here; right now: providing the information your students need and your regulator requires'
-  date: 2016-06-23
-  speaker: mariekeguy
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-marieke-guy.html
-  image: /iwmw16/iwmw16-marieke-guy-thumb.jpg
 
-- title: "When your website is a ‘national embarrassment’ the only way is up"
-  date: 2016-06-23
-  speaker: jukesie
-  event: iwmw.org/iwmw2016/
-  lanyrd: /2016/iwmw16/
-  sketchnotes: /sketchnotes/iwmw16-matt-jukes.html
-  image: /iwmw16/iwmw16-matt-jukes-thumb.jpg
-
-- title: "Why So Serious?"
-  date: 2015-05-20
-  speaker: supertastycake
+- title: Port80 2016
+  date: 2016-05-20
+  mode: live
   event: http://port80events.co.uk/event/port-80-2016/
   lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-louise-howells.html
+  sketchnotes: /sketchnotes/port80-2016/
   image: /port80/2016/port80-2016-05-20-louise-howells-thumb.jpg
-
-- title: "Using build tools"
-  date: 2015-05-20
-  speaker: gavD_UK
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-gavin-davies.html
-  image: /port80/2016/port80-2016-05-20-gavin-davies-thumb.jpg
-
-- title: "The uncertainty principle  How to manage fast-moving projects,clients and requirements.
-"
-  date: 2015-05-20
-  speaker: FredAtBootstrap
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-fred-heath.html
-  image: /port80/2016/port80-2016-05-20-fred-heath-thumb.jpg
-
-- title: "Designing accessible web and mobile sites"
-  date: 2015-05-20
-  speaker: GavinAEvans
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-gavin-evans.html
-  image: /port80/2016/port80-2016-05-20-gavin-evans-thumb.jpg
-
-- title: "Imaginative grid systems"
-  date: 2015-05-20
-  speaker: Malarkey
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-andy-clarke.html
-  image: /port80/2016/port80-2016-05-20-andy-clarke-thumb.jpg
-
-- title: "Designing better websites by including clients and their customers from the start"
-  date: 2015-05-20
-  speaker: littlehelli
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-helen-clark.html
-  image: /port80/2016/port80-2016-05-20-helen-clark-thumb.jpg
-
-- title: "Developing for the unknown"
-  date: 2015-05-20
-  speaker: AshNolan_
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-ashley-nolan.html
-  image: /port80/2016/port80-2016-05-20-ashley-nolan-thumb.jpg
-
-- title: "12 weeks, 600 releases and the One Show - Continuous Delivery with BBC Weather Watchers"
-  date: 2015-05-20
-  speaker: jrcryer
-  event: http://port80events.co.uk/event/port-80-2016/
-  lanyrd: http://lanyrd.com/2016/port80/
-  sketchnotes: /sketchnotes/port80-2016-james-cryer.html
-  image: /port80/2016/port80-2016-05-20-james-cryer-thumb.jpg
+  speaker:
+    - supertastycake
+    - gavD_UK
+    - FredAtBootstrap
+    - GavinAEvans
+    - Malarkey
+    - littlehelli
+    - AshNolan_
+    - jrcryer
 
 - title: "Bara Brith Open Data 2016"
   date: 2015-07-27
+  mode: live
   speaker:
     - ldodds
     - JeniT
@@ -239,270 +105,61 @@
   sketchnotes: /sketchnotes/barabrithopendata.html
   image: /iwmw15/iwmw15-welcome-thumb.jpg
 
-- title: "Opening Session: Putting The Web Manager First"
+- title: IWMW 2015
   date: 2015-07-27
-  speaker: ukwebfocus
+  mode: live
   event: iwmw.org/iwmw2015/
   info: iwmw.org/iwmw2015/talks/
   lanyrd: /2015/iwmw15/
   sketchnotes: /sketchnotes/iwmw15-welcome.html
-  image: /iwmw15/iwmw15-welcome-thumb.jpg
-
-- title: "Out With the Old, In With the New: Digital Services at Liverpool John Moores University"
-  date: 2015-07-27
-  speaker: m8nd1
-  event: iwmw.org/iwmw2015/
-  info: iwmw.org/iwmw2015/talks/ibeacons/
-  lanyrd: /2015/iwmw15/
-  sketchnotes: /sketchnotes/iwmw15-mandy-phillips.html
-  image: /iwmw15/iwmw15-mandy-phillips-thumb.jpg
-
-- title: "An Agile Approach to Content"
-  date: 2015-07-27
-  speaker: richprowse
-  event: iwmw.org/iwmw2015
-  info: iwmw2015/talks/an-agile-approach-to-content
-  lanyrd: /2015/iwmw15/
-  sketchnotes: /sketchnotes/iwmw15-richard-prowse.html
-  image: /iwmw15/iwmw15-richard-prowse-thumb.jpg
-
-- title: Claire Gibbons and Ben Butchart - IWMW15
-  date: 2015-07-27
-  text: ibeacons
   speaker:
+    - ukwebfocus
+    - m8nd1
+    - richprowse
     - PlanetClaire
-    - bbutchart
-  event: iwmw.org/iwmw2015/
-  info: iwmw.org/iwmw2015/talks/ibeacons/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-04
-  sketchnotes: /sketchnotes/iwmw15-claire-gibbons-ben-butchart.html
-  image: /iwmw15/iwmw15-claire-gibbons-ben-butchart-thumb.jpg
-
-- title: "The Challenge Is Institutional: Merging Customer Needs With New Operating Realities presented by mike_mcconnell"
-  date: 2015-07-28
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-05
-  info: iwmw.org/iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
-  speaker: mike_mcconnell
-  sketchnotes: /sketchnotes/iwmw15-mike-mcconnell.html
-  image: /iwmw15/iwmw15-mike-mcconnell-thumb.jpg
-- title: "User Experience Design. How Far Will You Go? presented by Paul Boag"
-  date: 2015-07-28
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-06
-  speaker: boagworld
-  sketchnotes: /sketchnotes/iwmw15-paul-boag.html
-  image: /iwmw15/iwmw15-paul-boag-thumb.jpg
-  info: iwmw.org/iwmw2015/talks/user-experience-design-how-far-will-you-go/
-- title: "From Hack Day to Open Day: Building a Tour presented by Unikent WebDev"
-  date: 2015-07-28
-  code: iwmw15-07
-  sketchnotes: /sketchnotes/iwmw15-mark-fendley.html
-  image: /iwmw15/iwmw15-mark-fendley-thumb.jpg
-  info: iwmw.org/iwmw2015/talks/from-hack-day-to-open-day-building-a-tour/
-  speaker: unikentwebdev
-- title: "Marrying Creativity with Management Complexity presented by Sam Sanders and Rob van Tol"
-  date: 2015-07-28
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-08
-  sketchnotes: /sketchnotes/iwmw15-rob-van-tol-sam-sanders.html
-  image: /iwmw15/iwmw15-rob-van-tol-sam-sanders-thumb.jpg
-  info: iwmw.org/iwmw2015/talks/marrying-creativity-with-management-complexity/
-  speaker:
+    - ben-butchart
+    - mike_mcconnell
+    - boagworld
+    - unikentwebdev
     - rvtol
     - ssanders
-
-- title: 'Working with Institutional Web Teams'
-  date: 2015-07-28
-  text: Liverpool and Bradford web teams talking aboiut transformation.
-  speaker:
-    - m8nd1
-    - PlanetClaire
     - paddycallaghan
     - kljhall
     - alaurika
-  event: iwmw.org/iwmw2015/
-  info: iwmw.org/iwmw2015/talks/working-with-bradford/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-08
-  sketchnotes: /sketchnotes/iwmw15-claire-gibbons-mandy-phillips.html
-  image: /iwmw15/iwmw15-claire-gibbons-mandy-phillips-thumb.jpg
-
-- title: "LinkedIn for Higher Education"
-  date: 2015-07-29
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
-  code: iwmw15-09
-  info: iwmw.org/iwmw2015/talks/linkedin-for-higher-education
-  speaker: chardy
-  sketchnotes: /sketchnotes/iwmw15-charles-hardy.html
-  image: /iwmw15/iwmw15-charles-hardy-thumb.jpg
-
-- title: "Integrating Institutional Web Services with Jisc’s ‘Cloud First, Mobile First’ Platform"
-  date: 2015-07-29
-  event: iwmw.org/iwmw2015/
-  lanyrd: /2015/iwmw15/
-  info: iwmw2015/talks/jisc-cloud-first-mobile-first-platform/
-  speaker: michaeldwebb
-  sketchnotes: /sketchnotes/iwmw15-michael.webb.html
-  image: /iwmw15/iwmw15-charles-hardy-thumb.jpg
-
-- title: "Beyond Digital – The Agile University"
-  date: 2015-07-29
-  speaker:
+    - chardy
+    - michaeldwebb
     - nlavery
     - DanBabington
-  event: iwmw.org/iwmw2015/
-  info: iwmw2015/talks/beyond-digital-the-agile-university/
-  lanyrd: /2015/iwmw15/
-  sketchnotes: /sketchnotes/iwmw15-welcome.html
-  image: /iwmw15/iwmw15-welcome-thumb.jpg
 
-- title: Cable Green - OER15 Keynote
+
+- title: Open Education Conference
   date: 2015-04-14
-  text: Cable Green - OER15 Keynote
-  speaker: cgreen
-  image: /thewebis/kier-whitaker-thumb.png
+  mode: live
+  image: /oer15/oer15-2015-04-14-panel-thumb.jpg
   event: oer15.oerconf.org/
   info: oer15.oerconf.org/sessions/keynote-cable-green/
   video: youtu.be/Tpl5Lh9JfEg
   lanyrd: /2015/oer15/
-  code: oer15-01
-  sketchnotes: /sketchnotes/oer15cablegreen.html
-  slides: /docs.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/edit
-- title: OER15 Panel Session
-  date: 2015-04-14
-  text: Panel Session on Open Policy
+  sketchnotes: /sketchnotes/oer15/
   speaker:
     - cgreen
     - txtbks
     - LornaMCampbell
     - atarkowski
-  image: /oer15/oer15-2015-04-14-panel-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/open-education-and-the-broader-open-policy-environment-780/
-  lanyrd: /2015/oer15/
-  code: oer15-02
-  sketchnotes: /sketchnotes/oer15panel.html
-- title: Issues in creating and using video resources for language teaching
-  date: 2015-04-14
-  text: Issues in creating and using video resources for language teaching.
-  speaker: WarwickLanguage
-  image: /oer15/oer15-2015-04-14-teresa-mackinnon-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/issues-in-creating-and-using-video-resources-for-language-teaching-692/
-  lanyrd: /2015/oer15/
-  code: oer15-03
-  sketchnotes: /sketchnotes/oer15teresamackinnon.html
-- date: 2015-04-14
-  title: Policy development to support OER in Wales
-  text: Policy development to support OER in Wales
-  speaker: pbacsich
-  image: /oer15/oer15-2015-04-14-paul-bacsich-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/policy-development-to-support-oer-in-wales-749/
-  lanyrd: /2015/oer15/
-  code: oer15-04
-  sketchnotes: /sketchnotes/oer15paulbacsich.html
-
-- date: 2015-04-14
-  title: Open Government Partnership as a platform for advancing Open Education policy
-  text: Open Government Partnership as a platform for advancing Open Education policy
-  speaker: txtbks
-  image: /oer15/oer15-2015-04-14-nicole-allen-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/open-government-partnership-as-a-platform-for-advancing-open-education-policy-778/
-  lanyrd: /2015/oer15/
-  code: oer15-05
-  sketchnotes: /sketchnotes/oer15nicoleallen.html
-
-- date: 2015-04-14
-  title: Josie Fraser - OER15 Keynote
-  text: Josie Fraser - OER15 Keynote
-  speaker: josiefraser
-  image: /oer15/oer15-2015-04-14-josie-fraser-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/keynote-josie-fraser/
-  lanyrd: /2015/oer15/
-  code: oer15-06
-  sketchnotes: /sketchnotes/oer15josiefraser.html
-  video: youtu.be/sDeEZ_z8XBo
-  slides: docs.google.com/file/d/0BymYUA-4kKX-QUZhd09ud1BHbXM/edit
-
-- date: 2015-04-15
-  title: Sheila MacNeill - OER15 Keynote
-  text: Sheila MacNeill - OER15 Keynote
-  speaker: sheilmcn
-  image: /oer15/oer15-2015-04-15-sheila-macneill-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/keynote-sheila-macneill/
-  lanyrd: /2015/oer15/
-  code: oer15-07
-  sketchnotes: /sketchnotes/oer15sheilamacneill.html
-  video: youtu.be/zcd6PxNvulk
-  slides: docs.google.com/file/d/0BymYUA-4kKX-VC1CbXBpVWc4RTA/edit
-
-- date: 2015-04-15
-  title: The cost of not going open!
-  text: The cost of not going open!
-  speaker:
+    - WarwickLanguage
+    - pbacsich
+    - txtbks
+    - josiefraser
+    - sheilmcn
     - dkernohan
     - vivienrolfe
-  image: /oer15/oer15-2015-04-15766-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/the-cost-of-not-going-open-766/
-  lanyrd: /2015/oer15/
-  code: oer15-08
-  sketchnotes: /sketchnotes/oer15766.html
-
-- date: 2015-04-15
-  title: Two short papers - OER15
-  text: Two short papers - OER15
-  speaker: markpower
-  image: /oer15/oer15-2015-04-15726759-thumb.jpg
-  event: oer15.oerconf.org/
-  lanyrd: /2015/oer15/
-  code: oer15-09
-  sketchnotes: /sketchnotes/oer15726759.html
-  info:
-    - oer15.oerconf.org/sessions/open-science-happens-somewhere-exploring-the-use-of-science-oer-in-schools-726/
-    - oer15.oerconf.org/sessions/opening-up-in-the-fe-and-skills-sector-759/
-
-- date: 2015-04-15
-  title: Short paper and Lightning Talks short papers - OER15
-  text: Short paper and Lightning Talks short papers - OER15
-  speaker:
+    - markpower
     - krustyb1
     - mrnick
     - paulbrichardson
     - daveshorts
     - tbirdcymru
-  image: /oer15/oer15-2015-04-15677735756-thumb.jpg
-  event: oer15.oerconf.org/
-  info:
-    - oer15.oerconf.org/sessions/the-more-things-change-synergy-and-dissonance-in-open-access-oa-and-open-education-oe-677/
-    - oer15.oerconf.org/sessions/raising-institutional-capacity-to-work-with-oer-are-we-pushing-at-an-open-door-735/
-    - oer15.oerconf.org/sessions/reaching-the-world-without-costing-the-earth-futurelearn-moocs-756/
-  lanyrd: /2015/oer15/
-  code: oer15-10
-  sketchnotes: /sketchnotes/oer15677735756.html
-
-- date: 2015-04-15
-  title: Martin Weller Keynote
-  text: Martin Weller Keynote
-  speaker: mweller
-  image: /oer15/oer15-2015-04-15-martin-weller-thumb.jpg
-  event: oer15.oerconf.org/
-  info: oer15.oerconf.org/sessions/keynote-martin-weller/
-  lanyrd: /2015/oer15/
-  code: oer15-11
-  sketchnotes: /sketchnotes/oer15martinweller.html
-  slides: docs.google.com/file/d/0BymYUA-4kKX-d290c3hyTFZhUHc/edit
-  video: youtu.be/ViIKdvWaW5o
+    - mweller
 
 - date: 2015-01-04
   title: "Jeannel King - Draw Forth the Book Inside you"
@@ -510,339 +167,92 @@
   speaker: jeannelking
   image: /jeannel-king-hangout-01-04-2015-thumb.jpg
   code: hangout
+  mode: online
   sketchnotes: /sketchnotes/jeannelking-hangout.html
   video: youtu.be/JBE3-jsu11s
 
 - date: 2014-12-03
-  title: "David Heinemeier Hansson's keynote at Railsconf 2014"
+  title: Railsconf 2014
   text: "David Heinemeier Hansson's keynote at Railsconf 2014"
   speaker: dhh
   image: /dhh-railsconf2014-thumb.gif
   event: www.railsconf.com
   code: railsconf
+  mode: online
   sketchnotes: /sketchnotes/dhhrailsconf2014.html
 
 - date: 2014-11-11
-  title: Gene Simmons and the path to good product design
-  text: Gene Simmons and the path to good product design
-  speaker: craigmarvelley
+  title: Port80 - Winter Localhost 2014
   image: /winterlocalhost2014/craig-marvelly-thumb.png
   event: port80events.co.uk/event/winter-localhost-2014/
   lanyrd: /2014/winter-localhost/
   code: winterlocalhost201401
+  mode: live
   sketchnotes: /sketchnotes/craig-marvelly.html
+  speaker:
+    - craigmarvelley
+    - benjystanton
+    - gavD_UK
+    - olliewells
+    - AustinWaltersUK
 
-- date: 2014-11-11
-  title: Responsive HTML Email
-  text: Responsive HTML Email
-  speaker: benjystanton
-  image: /winterlocalhost2014/benjy-stanton-thumb.png
-  event: port80events.co.uk/event/winter-localhost-2014/
-  lanyrd: /2014/winter-localhost/
-  code: winterlocalhost201402
-  sketchnotes: /sketchnotes/benjy-stanton.html
-
-- date: 2014-11-11
-  title: Hollywood On Demand
-  text: Hollywood On Demand
-  speaker: gavD_UK
-  image: /winterlocalhost2014/gavin-davies-thumb.png
-  event: port80events.co.uk/event/winter-localhost-2014/
-  lanyrd: /2014/winter-localhost/
-  code: winterlocalhost201403
-  sketchnotes: /sketchnotes/gavin-davies.html
-
-- date: 2014-11-11
-  title: What has User Experience ever done for us?
-  text: What has User Experience ever done for us?
-  speaker: olliewells
-  image: /winterlocalhost2014/ollie-wells-thumb.png
-  event: port80events.co.uk/event/winter-localhost-2014/
-  lanyrd: /2014/winter-localhost/
-  code: winterlocalhost201404
-  sketchnotes: /sketchnotes/ollie-wells.html
-
-- date: 2014-11-11
-  title: Finding your web design Niche and Generating Leads there
-  text: Finding your web design Niche and Generating Leads there
-  speaker: AustinWaltersUK
-  image: /winterlocalhost2014/austin-walters-thumb.png
-  event: port80events.co.uk/event/winter-localhost-2014/
-  lanyrd: /2014/winter-localhost/
-  code: winterlocalhost201405
-  sketchnotes: /sketchnotes/austin-walters.html
-
-- date: 2014-10-30
-  title: The Web is knowledge
-  text: The Web is knowledge
-  speaker: fehler
-  image: /thewebis/chris-murphy-thumb.png
+- title: The Web is...
+  date: 2014-10-30
+  image: /thewebis/thewebis-thumb.png
   event: www.theweb.is/
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
   code: thewebis01
-  sketchnotes: /sketchnotes/the-web-is-chris-murphy.html
+  mode: live
+  sketchnotes: /sketchnotes/thewebis/
+  speaker:
+    - fehler
+    - nathan_ford
+    - anna_debenham
+    - seb_ly
+    - hubmum
+    - kier
+    - philhawksworth
+    - Malarkey
+    - davidhieatt
+    - scottjenson
+    - BenjaminHollway
+    - andydavies
+    - USA2DAY
+    - sjenkinson
+    - owen
+    - mr_bingo
+    - brad_frost
 
-- date: 2014-10-30
-  title: The Web is constant
-  text: The Web is constant
-  speaker: nathan_ford
-  image: /thewebis/nathan-ford-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis02
-  sketchnotes: /sketchnotes/the-web-is-nathan-ford.html
-
-- date: 2014-10-30
-  title: The Web is everywhere
-  text: The Web is everywhere
-  speaker: anna_debenham
-  image: /thewebis/anna-debenham-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis03
-  sketchnotes: /sketchnotes/the-web-is-anna-debenham.html
-
-- date: 2014-10-30
-  title: The Web is a great big playground
-  text: The Web is a great big playground
-  speaker: seb_ly
-  image: /thewebis/seb-lee-delisle-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis04
-  sketchnotes: /sketchnotes/the-web-is-seb-lee-delisle.html
-
-- date: 2014-10-30
-  title:  The Web is in the hands of the 97ers
-  text: The Web is in the hands of the 97ers
-  speaker: hubmum
-  image: /thewebis/emma-mulqueeny-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis05
-  sketchnotes: /sketchnotes/the-web-is-emma-mulqueeny.html
-
-- date: 2014-10-30
-  title: The Web is all consuming
-  text: The Web is all consuming
-  speaker: kier
-  image: /thewebis/kier-whitaker-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis06
-  sketchnotes: /sketchnotes/the-web-is-kier-whitaker.html
-
-- date: 2014-10-30
-  title: The Web is made of links
-  text: The Web is made of links
-  speaker: philhawksworth
-  image: /thewebis/phil-hawksworth-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis07
-  sketchnotes: /sketchnotes/the-web-is-phil-hawksworth.html
-
-- date: 2014-10-30
-  title: The Web is a discussion
-  text: The Web is a discussion
-  speaker: Malarkey
-  image: /thewebis/andy-clarke-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis08
-  sketchnotes: /sketchnotes/the-web-is-andy-clarke.html
-
-- date: 2014-10-31
-  title: A Creative Mornings session
-  text: A Creative Mornings session
-  speaker: davidhieatt
-  image: /thewebis/david-hieatt-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis09
-  sketchnotes: /sketchnotes/the-web-is-david-hieatt.html
-
-- date: 2014-10-31
-  title: The Web is like water
-  text: The Web is like water
-  speaker: scottjenson
-  image: /thewebis/scott-jenson-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis10
-  sketchnotes: /sketchnotes/the-web-is-scott-jenson.html
-
-- date: 2014-10-31
-  title: The Web is still young
-  text: The Web is still young
-  speaker: BenjaminHollway
-  image: /thewebis/benjamin-hollway-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis11
-  sketchnotes: /sketchnotes/the-web-is-benjamin-hollway.html
-
-- date: 2014-10-31
-  title: "The Web is too slow, but we can fix that"
-  text: "The Web is too slow, but we can fix that"
-  speaker: andydavies
-  image: /thewebis/andy-davies-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis12
-  sketchnotes: /sketchnotes/the-web-is-andy-davies.html
-
-- date: 2014-10-31
-  title: The Web is turning difficulties into opportunities
-  text: The Web is turning difficulties into opportunities
-  speaker: USA2DAY
-  image: /thewebis/robin-christopherson-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis13
-  sketchnotes: /sketchnotes/the-web-is-robin-christopherson.html
-
-- date: 2014-10-31
-  title: The Web is our responsibility
-  text: The Web is our responsibility
-  speaker: sjenkinson
-  image: /thewebis/sally-jenkinson-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis14
-  sketchnotes: /sketchnotes/the-web-is-sally-jenkinson.html
-
-- date: 2014-10-31
-  title: "The Web is readwrite"
-  text: "The Web is readwrite"
-  speaker: owen
-  image: /thewebis/owen-gregory-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis15
-  sketchnotes: /sketchnotes/the-web-is-owen-gregory.html
-
-- date: 2014-10-31
-  title: The Web is taking itself far too seriously
-  text: The Web is taking itself far too seriously
-  speaker: mr_bingo
-  image: /thewebis/mr-bingo-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis16
-  sketchnotes: /sketchnotes/the-web-is-mr-bingo.html
-
-- date: 2014-10-31
-  title: The Web is progress
-  text: The Web is progress
-  speaker: brad_frost
-  image: thewebis/brad-frost-thumb.png
-  event: www.theweb.is/
-  info: www.theweb.is/
-  lanyrd: /2014/thewebis/
-  code: thewebis17
-  sketchnotes: /sketchnotes/the-web-is-brad-frost.html
-
-- title: 'Who misses playing “Guess Who?”'
-  sketchnotes: /sketchnotes/handheld2013-syd-lawrence.html
-  speaker: sydlawrence
+- title: Handheld 2013
+  date: 2013-11-27
+  mode: live
+  sketchnotes: /sketchnotes/handheld13/
   event: handheldconf.com/
   info: handheldconf.com/
-  code: han13-01
   image: handheld2013/syd-lawrence-handheld2013-thumb.gif
   lanyrd: /2013/handheldconf/
-
-- title: The Long Web
-  sketchnotes: /sketchnotes/handheld2013-jeremy-keith.html
-  speaker: adactio
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-02
-  image: handheld2013/jeremy-keith-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-
-- title: Icon Design Process
-  sketchnotes: /sketchnotes/handheld2013-jon-hicks.html
-  speaker: Hicksdesign
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-03
-  image: handheld2013/jon-hicks-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-  video: http://www.besquare.me/session/icon-design-process/
-
-- title: The Business of Responsive Web Design
-  speaker: markboulton
-  sketchnotes: /sketchnotes/handheld2013-mark-boulton.html
-  info: handheldconf.com/
-  resources: markboulton.co.uk/journal/thebusinessofrwd
-  event: handheldconf.com/
-  code: han13-04
-  image: handheld2013/mark-boulton-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-
-- title: Carefully Everywhere
-  sketchnotes: /sketchnotes/handheld2013-brendan-dawes.html
-  speaker: brendandawes
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-05
-  image: handheld2013/brendan-dawes-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-  video: http://www.besquare.me/session/carefully-everywhere/
-
-- title: When responsive sites work as well as a chocolate iPhone
-  sketchnotes: /sketchnotes/handheld2013-ling-valentine.html
-  speaker: LINGsCARS
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-06
-  image: handheld2013/ling-valentine-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-  video: http://www.besquare.me/session/when-responsive-sites-work-as-well-as-a-chocolate-iphone/
-
-- title: How to call your client an idiot without getting fired
-  speaker: Malarkey
-  sketchnotes: /sketchnotes/handheld2013-andrew-clarke.html
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-08
-  image: handheld2013/andrew-clarke-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-  video: http://www.besquare.me/session/how-to-call-your-client-an-idiot-without-getting-fired/
-
-- title: Ten Commandments of Modern Web Design
-  sketchnotes: /sketchnotes/handheld2013-jeffrey-zeldman.html
-  speaker: zeldman
-  event: handheldconf.com/
-  info: handheldconf.com/
-  code: han13-09
-  image: handheld2013/jeffrey-zeldman-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
+  speaker:
+    - sydlawrence
+    - adactio
+    - hicksdesign
+    - markboulton
+    - brendandawes
+    - LINGsCARS
+    - Malarkey
+    - zeldman
+    - eddiemachado
 
 - title: Handheld 2012
+  date: 2012-11-19
+  mode: live
   sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
   event: www.handheldconf.com/2012
   info: www.besquare.me/conferences/handheld
   code: handheld2013
   image: handheld2012-collected-sketchnotes-thumb.png
   lanyrd: /2012/handheldconf/
+  mode: live
   speaker:
     - aral
     - daveaddey
@@ -857,459 +267,117 @@
     - lesmond
     - roblobue
 
-- title: Why you don’t Need a Social Media Plan and how to Create one Anyway
-  sketchnotes: /sketchnotes/iwmw14-tracy-playle.html
-  speaker: tracyplayle
+- title: IWMW 2014
+  date: 2014-07-16
+  mode: live
+  sketchnotes: /sketchnotes/iwmw14/
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/
-  code: iwmw14-01
-  image: iwmw14/iwmw14-2014-07-16-tracy-playle-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "Digital Adaptation: Time to Untie Your Hands"
-  speaker: boagworld
-  sketchnotes: /sketchnotes/iwmw14-paul-boag.html
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/digital-adaptation-time-to-untie-your-hands/
-  code: iwmw14-02
-  image: iwmw14/iwmw14-2014-07-16-paul-boag-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "Hyper-Connected: Filling the Vacuum by Switching from Blow to Suck"
-  sketchnotes: /sketchnotes/iwmw14-martin-hawksey.html
-  speaker: mhawksey
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/hyper-connected-filling-the-vacuum-by-switching-from-blow-to-suck/
-  code: iwmw14-03
-  image: iwmw14/iwmw14-2014-07-16-martin-hawksey-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: 'Building Cost-Effective, Flexible and Scalable Education Resources Using Google Cloud Platform'
-  sketchnotes: /sketchnotes/iwmw14-sharif-salah.html
-  speaker: sharif_salah
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/building-cost-effective-flexible-and-scalable-education-resources-using-google-cloud-platform/
-  code: iwmw14-04
-  image: iwmw14/iwmw14-2014-07-17-sharif-salah-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "Using the Start-up Playbook to Reboot a big University Website"
-  sketchnotes: /sketchnotes/iwmw14-ross-ferguson.html
-  speaker: rossferg
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/using-the-start-up-playbook-to-reboot-a-big-university-website/
-  code: iwmw14-05
-  image: iwmw14/iwmw14-2014-07-17-ross-ferguson-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: 'Marketing is Dead, Long Live UX'
-  sketchnotes: /sketchnotes/iwmw14-neil-allison.html
-  speaker: usabilityed
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/marketing-is-dead-long-live-ux/
-  code: iwmw14-06
-  image: iwmw14/iwmw14-2014-07-17-neil-allison-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: '“You are all so Weird!” University Sector Analysis and Trends'
-  sketchnotes: /sketchnotes/iwmw14-ranjit-sidhu.html
-  speaker: rssidhu
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/you-are-all-so-weird-university-sector-analysis-and-trends/
-  code: iwmw14-07
-  image: iwmw14/iwmw14-2014-07-17-ranjit-sidhu-thumb.jpg
-  lanyrd: /2014/iwmw14/
-- title: What Does the Data Tell us About uk University web Sites?
-  sketchnotes: /sketchnotes/iwmw14-chris-gutteridge.html
-  speaker: cgutteridge
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/what-does-the-data-tell-us-about-uk-university-web-sites/
-  code: iwmw14-08
-  image: iwmw14/iwmw14-2014-07-17-chris-gutteridge-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "Rebooting myed :Making the portal relevant again"
-  sketchnotes: /sketchnotes/iwmw14-martin-morrey.html
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/rebooting-myed-making-the-portal-relevant-again/
-  code: iwmw14-09
-  speaker: martinmorrey
-  image: iwmw14/iwmw14-2014-07-18-martin-morrey-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "Allocating Work: Providing Tools for Academics"
-  sketchnotes: /sketchnotes/iwmw14-hiten-vaghmaria.html
-  speaker: hiten-vaghmaria
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/allocating-work-providing-tools-for-academics/
-  code: iwmw14-10
-  image: iwmw14/iwmw14-2014-07-18-hiten-vaghmaria-thumb.jpg
-  lanyrd: /2014/iwmw14/
-
-- title: "What is our vision for the institutional web and can we implement that vision?"
-  sketchnotes: /sketchnotes/iwmw14-vision-panel.html
-  event: iwmw.org/iwmw2014/
-  info: iwmw.org/iwmw2014/talks/what-is-our-vision-for-the-institutional-web-and-can-we-implement-that-vision/
-  code: iwmw14-11
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
   lanyrd: /2014/iwmw14/
+  mode: live
   speaker:
+    - tracyplayle
+    - boagworld
+    - mhawksey
+    - sharif_salah
+    - rossferg
+    - usabilityed
+    - rssidhu
+    - cgutteridge
+    - martinmorrey
+    - hiten-vaghmaria
     - emmottion
     - MikeNolan
     - mike_mcconnell
     - traceymilnes
 
-- title: 'Banish your inner critic'
-  sketchnotes: /sketchnotes/port80-2014-denise-jacobs.html
-  speaker: denisejacobs
+
+- title : Port80 2014
+  date: 2014-05-16
+  mode: live
+  sketchnotes: /sketchnotes/port80-2014/
   event: port80events.co.uk/event/port80-2014/
   code: port80-01
   image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
   lanyrd: /2014/port80events/
-- title: 'Designing Evolution'
-  sketchnotes: /sketchnotes/port80-2014-dan-donald.html
-  speaker: hereinthehive
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-02
-  image: port80/2014/port80-2014-05-16-dan-donald-thumb.gif
-  lanyrd: /2014/port80events/
-- title: 'Mastering the dark art of fluid layout'
-  sketchnotes: /sketchnotes/port80-2014-nathan-ford.html
-  speaker: nathan_ford
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-03
-  image: port80/2014/port80-2014-05-16-nathan-ford-thumb.gif
-  lanyrd: /2014/port80events/
-- title: Put yourself in their shoes
-  sketchnotes: /sketchnotes/port80-2014-louise-tierney.html
-  speaker: supertastycake
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-04
-  image: port80/2014/port80-2014-05-16-louise-tierney-thumb.gif
-  lanyrd: /2014/port80events/
-- title: Make them click
-  sketchnotes: /sketchnotes/port80-2014-roy-tomeij.html
-  speaker: roy
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-05
-  image: port80/2014/port80-2014-05-16-roy-tomeij-thumb.gif
-  lanyrd: /2014/port80events/
-- title: Accessibility for Humans
-  sketchnotes: /sketchnotes/port80-2014-kimberley-tew.html
-  speaker: kimberleytew
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-06
-  image: port80/2014/port80-2014-05-16-kimberley-tew-thumb.gif
-  lanyrd: /2014/port80events/
-- title: These are not the droids you're looking for
-  sketchnotes: /sketchnotes/port80-2014-kevin-evans.html
-  speaker: kwe
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-07
-  image: port80/2014/port80-2014-05-16-kevin-evans-thumb.gif
-  lanyrd: /2014/port80events/
-- title: 'Lies, Damned lies and Statistics'
-  sketchnotes: /sketchnotes/port80-2014-matt-jukes.html
-  speaker: jukesie
-  event: port80events.co.uk/event/port80-2014/
-  code: port80-08
-  image: port80/2014/port80-2014-05-16-matt-jukes-thumb.gif
-  lanyrd: /2014/port80events/
+  mode: live
+  speaker:
+    - denisejacobs
+    - hereinthehive
+    - nathan_ford
+    - supertastycake
+    - roy
+    - kimberleytew
+    - kwe
+    - jukesie
+    - Jack_Franklin
+    - andydavies
+    - benjystanton
+    - missrachilli
+    - mattpointblank
+    - paulrobertlloyd
+    - USA2DAY
+    - sophiedennis
 
-- title: Practical JavaScripting
-  sketchnotes: /sketchnotes/port80-sketchnotes-jack-franklin.html
-  speaker: Jack_Franklin
-  event: port80events.co.uk/event/port80-2013
-  code: port80-2013-Jack_Franklin
-  image: port80/2013/port80-2013-05-10-jack-franklin-thumb.gif
-  lanyrd: /2013/port80/
 
-- title: Making Mobile Sites Faster
-  sketchnotes: /sketchnotes/port80-sketchnotes-andy-davies.html
-  code: port80-2013-andydavies
-  speaker: andydavies
-  event: port80events.co.uk/event/port80-2013
-  image: port80/2013/port80-2013-05-10-andy-davies-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: Crafting Animation on the Web
-  sketchnotes: /sketchnotes/port80-sketchnotes-benjy-stanton.html
-  speaker: benjystanton
-  event: port80events.co.uk/event/port80-2013
-  code: port80-2013-benjystanton
-  image: port80/2013/port80-2013-05-10-benjy-stanton-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: How to discover your inner superhero
-  sketchnotes: /sketchnotes/port80-sketchnotes-rachel-shillcock.html
-  code: port80-2013-missrachilli
-  speaker: missrachilli
-  event: port80events.co.uk/event/port80-2013
-  image: port80/2013/port80-2013-05-10-rachel-shillcock-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: Responsive design at the Guardian
-  sketchnotes: /sketchnotes/port80-sketchnotes-matt-andrews.html
-  speaker: mattpointblank
-  event: port80events.co.uk/event/port80-2013
-  code: port80-2013-mattpointblank
-  image: port80/2013/port80-2013-05-10-matt-andrews-thumb.gif
-  lanyrd: /2013/port80/
-  slides: http://mattandrews.info/talks/port80-2013/#/
-
-- title: This is for Everyone
-  sketchnotes: /sketchnotes/port80-sketchnotes-paul-robert-lloyd.html
-  code: port80-2013-paulrobertlloyd
-  speaker: paulrobertlloyd
-  event: port80events.co.uk/event/port80-2013
-  image: port80/2013/port80-2013-05-10-paul-lloyd-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: Everybody Technology - The Power and the Promise
-  sketchnotes: /sketchnotes/port80-sketchnotes-robin-christopherson.html
-  speaker: USA2DAY
-  event: port80events.co.uk/event/port80-2013
-  code: port80-2013-USA2DAY
-  image: port80/2013/port80-2013-05-10-robin-christopherson-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: Working in Harmony
-  sketchnotes: /sketchnotes/port80-sketchnotes-sophie-dennis.html
-  code: port80-2013-sophiedennis
-  speaker: sophiedennis
-  event: port80events.co.uk/event/port80-2013
-  image: port80/2013/port80-2013-05-10-sophie-dennis-thumb.gif
-  lanyrd: /2013/port80/
-
-- title: "Open Education: The Business & Policy Case for OER"
-  sketchnotes: /sketchnotes/iwmw13-cable-green.html
-  speaker: cgreen
+- title: IWMW 2013
+  date: 2013-06-26
+  mode: live
+  sketchnotes: /sketchnotes/iwmw13/
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
   image: iwmw13/iwmw13-open-education-thumb.gif
   lanyrd: /2013/iwmw13/
-
-- title: "Mozilla, Open Badges and a Learning Standard for Web Literacy"
-  sketchnotes: /sketchnotes/iwmw13-doug-belshaw.html
-  speaker: dajbelshaw
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/belshaw/index.html
-  image: iwmw13/iwmw13-mozilla-open-badges-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: "Et tu MOOC? Massive Online Considerations"
-  sketchnotes: /sketchnotes/iwmw13-kyriaki-anagnostopoulou.html
-  speaker: k-anagnostopoulou
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/kyriaki/index.html
-  image: iwmw13/iwmw13-et-tu-mooc-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: Turning Our Attention to Supporting Research Projects
-  sketchnotes: /sketchnotes/iwmw13-amber-thomas.html
-  speaker: ambrouk
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/thomas/index.html
-  image: iwmw13/iwmw13-supporting-research-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: Digital Storytelling
-  sketchnotes: /sketchnotes/iwmw13-digital-storytelling.html
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
+  mode: live
   speaker:
+    - cgreen
+    - dajbelshaw
+    - k-anagnostopoulou
+    - ambrouk
     - sboneham
     - HannaMiet
-  image: iwmw13/iwmw13-digital-storytelling-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: "Stop Trying to Avoid Losing and Start Winning: How BS 8878 Reframes the Accessibility Question"
-  sketchnotes: /sketchnotes/iwmw13-jonathan-hassell.html
-  speaker: jonhassell
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/hassell/index.html
-  image: iwmw13/iwmw13-BS8878-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: Adapting to Responsive Web Design
-  sketchnotes: /sketchnotes/iwmw13-david-cornforth.html
-  speaker: dc86
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
-  image: iwmw13/iwmw13-adapting-to-rwd-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: The Inside-Out University
-  sketchnotes: /sketchnotes/iwmw13-martin-hamilton.html
-  speaker: martin_hamilton
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
-  image: iwmw13/iwmw13-inside-out-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: Working With Developers
-  sketchnotes: /sketchnotes/iwmw13-paul-walk.html
-  speaker: paulwalk
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/walk/index.html
-  image: iwmw13/iwmw13-working-with-developers-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: "What the fcuk just happened then?"
-  sketchnotes: /sketchnotes/iwmw13-ranjit-sidhu.html
-  speaker: rssidhu
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
-  image: iwmw13/iwmw13-wtf-thumb.gif
-  lanyrd: /2013/iwmw13/
-  slides: www.slideshare.net/iwmw/9am-16th-august-2012-what-the-fcuk-just-happened-then
-  video: uniofbath.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6394fac-d4f6-40c3-a5ca-b1720f541b0b
-  code: iwmw13
-
-- title: "Institutional Culture Is Crippling Your Web Strategy!"
-  sketchnotes: /sketchnotes/iwmw13-paul-boag.html
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/boag/index.html
-  image: iwmw13/iwmw13-culture-crippling-thumb.gif
-  lanyrd: /2013/iwmw13/
-  speaker: boagworld
-  code: iwmw13
-
-- title: "Open Up: Open Data in the Public Sector"
-  sketchnotes: /sketchnotes/iwmw13-open-data.html
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
-  image: iwmw13/iwmw13-open-data-thumb.gif
-  lanyrd: /2013/iwmw13/
-  speaker:
+    - jonhassell
+    - dc86
+    - martin_hamilton
+    - paulwalk
+    - rssidhu
+    - boagworld
     - psychemedia
     - mariekeguy
-  code: iwmw13
+    - richprowse
+    - NeilDenny
+    - daigriffiths
 
-- title: IWMW and the birth of a Content Strategist
-  sketchnotes: /sketchnotes/iwmw13-richard-prowse.html
-  speaker: richprowse
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
-  image: iwmw13/iwmw13-content-strategist-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
 
-- title: "The Delicious Discomfort Of Not Knowing: How to Lead Effectively Through Uncertainty"
-  sketchnotes: /sketchnotes/iwmw13-neil-denny.html
-  speaker: NeilDenny
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
-  image: iwmw13/iwmw13-delicious-discomfort-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: The University in a Bind
-  sketchnotes: /sketchnotes/iwmw13-dai-griffiths.html
-  speaker: daigriffiths
-  event: iwmw.ukoln.ac.uk/iwmw2013
-  info: iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
-  image: iwmw13/iwmw13-uni-in-a-bind-thumb.gif
-  lanyrd: /2013/iwmw13/
-  code: iwmw13
-
-- title: Experiences in user centred design at the University of Edinburgh
-  sketchnotes: /sketchnotes/iwmw12-neil-allison.html
-  speaker: usabilityed
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/sessions/allison/index.html
+- title: IWMW 2012
+  date: 2012-06-19
+  mode: live
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12
   lanyrd: /2012/iwmw12/
-
-- title: Data and the Web Manager
-  sketchnotes: /sketchnotes/iwmw12-kevin-ashley.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ashley/index.html
-  image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: kevingashley
-
-- title: "Data Visualisation: A Taster"
-  sketchnotes: /sketchnotes/iwmw12-tony-hirst.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  image: iwmw12/iwmw12-thumb.gif
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/hirst-hawksey/index.html
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
+  mode: live
   speaker:
+    - usabilityed
+    - kevingashley
     - psychemedia
     - mhawksey
+    - aroakley
+    - eadraffan
+    - vonprond
+    - bobscape
+    - dawnellis
+    - helensargan
 
-- title: Key Information Set Data
-  sketchnotes: /sketchnotes/iwmw12-andrew-oakley.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  image: iwmw12/iwmw12-thumb.gif
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/oakley/index.html
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: aroakley
 
-- title: "Beyond WCAG: Experiences in Implementing BS 8878"
-  sketchnotes: /sketchnotes/iwmw12-ea-draffan.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  image: iwmw12/iwmw12-thumb.gif
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/draffan/index.html
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: eadraffan
-
-- title: "Going Online - Do Universities Really Understand the Internet?"
-  sketchnotes: /sketchnotes/iwmw12-von-prond.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/prondzynski/index.html
-  image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: vonprond
-
-- title: "Do I Need an App for That?"
-  sketchnotes: /sketchnotes/iwmw12-rob-borley.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/borley/index.html
-  image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: bobscape
-
-- title: "What Do You Really Want?"
-  sketchnotes: /sketchnotes/iwmw12-dawn-ellis.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/ellis/index.html
-  image: iwmw12/iwmw12-thumb.gif
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: dawnellis
-
-- title: "The Good, the Bad and the Ugly: Two Years of Running a Content Management Service"
-  sketchnotes: /sketchnotes/iwmw12-helen-sargan.html
-  event: iwmw.ukoln.ac.uk/iwmw2012
-  info: http://iwmw.ukoln.ac.uk/iwmw2012/talks/sargan/index.html
-  image: iwmw12/iwmw12-helen-sargan-thumb.gif
-  code: iwmw12
-  lanyrd: /2012/iwmw12/
-  speaker: helensargan
-
-- title: Creative Mornings Cardiff 2014
+- title: Creative Mornings Cardiff
+  date: 2014-06-27
   speaker: markboulton
   sketchnotes: /sketchnotes/creative-morning-jun2014.html
   info: creativemornings.com/talks/mark-boulton/1
   event: creativemornings.com/cities/cdf
   image: creative-morning-jun2014-thumb.png
+  mode: live
 
 - title: When we build
   speaker: wilsonminer
@@ -1318,6 +386,7 @@
   image: 2013-01-07-wilsonminer-build2011-thumb.gif
   sketchnotes: /sketchnotes/when-we-build-sketch-notes.html
   code: build
+  mode: online
 
 - title: Cutting the Mustard
   speaker: tmaslen
@@ -1327,46 +396,57 @@
   sketchnotes: /sketchnotes/cutting-the-mustard-sketchnote.html
   code: mustard
   slides: speakerdeck.com/tmaslen/cutting-the-mustard-future-friendly-browser-support
+  mode: online
 
 - title: Ebooks Presentation
+  date: 2012-10-25
   speaker: sueburnett
   image: ebooks-thumb.gif
   sketchnotes: /sketchnotes/ebooks-presentation.html
   code: ebooks
+  mode: live
 
 - title: Port80 Summer Localhost 2012
+  date: 2012-09-01
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
   image: port80localhost/localhost-2012-08-thumb.gif
   code: localhost_summer_2012
+  mode: live
   speaker:
     - olliewells
     - BenjaminReid
     - RobertMills
 
 - title: Port80 Summer Localhost 2013
+  date: 2013-09-22
   sketchnotes: /sketchnotes/port80-summer-localhost-2013-sketchnotes.html
   image: port80localhost/summer-2013-thumb.gif
   code: localhost_summer_2013
+  mode: live
   speaker:
     - jrcryer
     - brandnatter
     - tomwbond
 
 - title: Port80 Spring Localhost 2014
+  date: 2014-02-27
   sketchnotes: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
   event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2014-02-thumb.gif
   code: localhost_spring_2014
+  mode: live
   speaker:
     - rumyra
     - sturobson
     - garethstrange
 
 - title: "@Media 2005"
+  date: 2005-06-09
   sketchnotes: /sketchnotes/media2005.html
   image: media2005/media2005-sketchnotes-thumb.jpg
   code: media2005
   lanyrd: /2005/atmedia/
+  mode: live
   speaker:
     - Malarkey
     - adactio
@@ -1376,52 +456,39 @@
     - mollydotcom
 
 - title: ODI Lunchtime lecture
+  date: 2013-07-19
   speaker: jenniallen
   sketchnotes: /sketchnotes/ODI-lunchtime-lecture.html
   image: ODI-lunchtime-lecture-13-10-17-thumb.gif
   info: theodi.org/lunchtime-lectures/friday-lunchtime-lecture-which-university-finding-an-answer-via-open-data
   code: odi13-10-17
+  mode: online
 
 - title: The Trap - Documentary by Adam Curtis
   speaker: AdamCurtisBlog
   sketchnotes: /sketchnotes/the-trap-sketchnotes.html
   image: the-trap-pt1-thumb.png
   video: thoughtmaybe.com/the-trap
+  mode: online
 
 - title: The Living Dead - Documentary by Adam Curtis
   speaker: AdamCurtisBlog
   sketchnotes: /sketchnotes/the-living-dead-sketchnotes.html
   image: living-dead-sketchnotes-thumb.png
   video: thoughtmaybe.com/the-living-dead/
+  mode: online
 
-- title: Dafydd Vaughan - GovCampCymru 2014
-  sketchnotes: /sketchnotes/govcampcymru-dafydd-vaughan.html
-  speaker: dafyddbach
-  event: govcampcymru.org
-  code: gccy-01
-  image: govcampcymru2014/govcampcymru2014-dafydd-vaughan-thumb.gif
-  lanyrd: /2014/govcampcymru/
-
-- title: Helia Phoenix - GovCampCymru 2014
-  sketchnotes: /sketchnotes/govcampcymru-helia-phoenix.html
+- title: GovCampCymru 2014
+  date: 2014-09-27
+  sketchnotes: /sketchnotes/govcampcymru/
   speaker: phoenixlily
   event: govcampcymru.org
   code: gccy-02
   image: govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
   lanyrd: /2014/govcampcymru/
-
-- title: Gareth Morlais - GovCampCymru 2014
-  sketchnotes: /sketchnotes/govcampcymru-gareth-morlais.html
-  speaker: digitalst
-  event: govcampcymru.org
-  code: gccy-03
-  image: govcampcymru2014/govcampcymru2014-gareth-morlais-thumb.gif
-  lanyrd: /2014/govcampcymru/
-
-- title: Bill Oates - GovCampCymru 2014
-  sketchnotes: /sketchnotes/govcampcymru-bill-oates.html
-  speaker: wpoates1
-  event: govcampcymru.org
-  code: gccy-04
-  image: govcampcymru2014/govcampcymru2014-bill-thumb.gif
-  lanyrd: /2014/govcampcymru/
+  mode: live
+  speaker:
+    - heliaphoenix
+    - digitalst
+    - wpoates1
+    - dafyddbach

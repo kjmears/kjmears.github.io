@@ -364,3 +364,12 @@ h1.post-category > a {
 .watched li {
   border-bottom: 1px solid #ededed;
 }
+
+#example{
+	border: none;
+}
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+    padding-bottom: 20px
+}

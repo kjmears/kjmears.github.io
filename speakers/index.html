@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: speakers
 title: Speakers
 
 ---
@@ -9,12 +9,35 @@ title: Speakers
 
 </div>
 
-
 <div class="row">
+
+  <table id="example" class="row-border" cellspacing="0" width="100%">
+          <thead>
+              <tr>
+                <th>Name</th>
+                <th>Event</th>
+                <th>Mode</th>
+                <th>Year</th>
+                <th>twitter</th>
+
+              </tr>
+          </thead>
+          <tfoot>
+              <tr>
+                <th>Name</th>
+                <th>Event</th>
+                <th>Mode</th>
+                <th>Year</th>
+                <th>twitter</th>
+
+              </tr>
+          </tfoot>
+          <tbody>
+
+
 
   {% for bio in site.data.speakers %}
 
-          <h2 class="bio-name">{{ bio.name }}</h2>
 
         {% for talk in site.data.events %}
 
@@ -23,12 +46,14 @@ title: Speakers
             {% for multiple in talk.speaker %}
 
               {% if bio.id == multiple %}
+              <tr>
+                <td>{{ bio.name }}</td>
+                <td><a href="..{{ talk.sketchnotes }}">{{ talk.title }}</a></td>
+                <td>{{ talk.mode }}</td>
+                <td>{{ talk.date | date: "%Y" }}</td>
+                <td><a href="https://twitter.com/@{{ bio.twitter }}">{{ bio.twitter }}</a></td>
 
-
-                    <ul>
-                    <li><a href="..{{ talk.sketchnotes }}">{{ talk.title }}</a></li>
-                    </ul>
-
+              </tr>
               {% endif %}
 
             {% endfor %}
@@ -37,8 +62,8 @@ title: Speakers
 
         {% endfor %}
 
-
   {% endfor %}
 
-
+</tbody>
+</table>
 </div>
