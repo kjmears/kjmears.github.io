@@ -11,7 +11,7 @@ cc: BY
 speaker: pbacsich
 image: /oer15/oer15-2015-04-14-paul-bacsich.jpg
 image-thumb: /oer15/oer15-2015-04-14-paul-bacsich-thumb.jpg
-original: /oer15/original/oer15-2015-04-14-paul-bacsich-original.jpg
+image-original: /oer15/original/oer15-2015-04-14-paul-bacsich-original.jpg
 ---
 
 Policy development to support OER in Wales

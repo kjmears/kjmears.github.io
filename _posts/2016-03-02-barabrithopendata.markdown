@@ -6,7 +6,7 @@ date: "2016-03-02"
 category: sketchnotes
 tags: live
 image: /bara-brith-open-data-2016.jpg
-original: /bara-brith-open-data-2016-original.jpg
+image-original: /bara-brith-open-data-2016-original.jpg
 image-thumb: /bara-brith-open-data-2016-thumb.jpg
 cc: BY
 event: govcampcymru.org/barabrithcamp

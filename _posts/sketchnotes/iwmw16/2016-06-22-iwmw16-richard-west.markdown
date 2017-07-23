@@ -7,7 +7,7 @@ title: IWMW16 -Richard West
 date: 2016-06-22
 image: /iwmw16/iwmw16-richard-west.jpg
 image-thumb: /iwmw16/iwmw16-richard-west-thumb.jpg
-original: iwmw16/iwmw16-richard-west-large.jpg
+image-original: iwmw16/iwmw16-richard-west-large.jpg
 info: http://iwmw.org/iwmw2016/talks/100-1ish-unifying-sprawling-web-estate/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

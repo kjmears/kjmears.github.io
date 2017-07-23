@@ -16,7 +16,7 @@ speaker:
 
 image: /oer15/oer15-2015-04-14-panel.jpg
 image-thumb: /oer15/oer15-2015-04-14-panel-thumb.jpg
-original: /oer15/original/oer15-2015-04-14-panel-original.jpg
+image-original: /oer15/original/oer15-2015-04-14-panel-original.jpg
 
 ---
 

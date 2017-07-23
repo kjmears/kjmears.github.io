@@ -7,7 +7,7 @@ date: 2016-05-20
 image: /port80/2016/port80-2016-05-20-louise-howells.jpg
 image-thumb: /port80/2016/port80-2016-05-20-louise-howells-thumb.jpg
 category: sketchnotes
-original: /port80/2016/port80-2016-05-20-louise-howells-original.jpg
+image-original: /port80/2016/port80-2016-05-20-louise-howells-original.jpg
 tags:
 - port80-2016
 - live

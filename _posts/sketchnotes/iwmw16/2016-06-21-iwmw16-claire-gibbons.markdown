@@ -7,7 +7,7 @@ title: IWMW16 - Claire Gibbons
 date: 2016-06-21
 image: /iwmw16/iwmw16-claire-gibbons.jpg
 image-thumb: /iwmw16/iwmw16-claire-gibbons-thumb.jpg
-original: iwmw16/iwmw16-claire-gibbons-large.jpg
+image-original: iwmw16/iwmw16-claire-gibbons-large.jpg
 info: http://iwmw.org/iwmw2016/talks/leadership-101/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

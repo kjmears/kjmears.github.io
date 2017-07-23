@@ -5,7 +5,7 @@ layout: post
 title: IWMW17 Andrew Millar
 date: 2017-07-11 14:25:00
 image: /iwmw17/iwmw17-andrew-millar.png
-original: /iwmw17/iwmw17-andrew-millar-large.png
+image-original: /iwmw17/iwmw17-andrew-millar-large.png
 image-thumb: /iwmw17/iwmw17-andrew-millar-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/

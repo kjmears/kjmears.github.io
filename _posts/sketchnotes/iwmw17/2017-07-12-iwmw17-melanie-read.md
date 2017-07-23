@@ -5,7 +5,7 @@ layout: post
 title: IWMW17 Melanie Read
 date: 2017-07-12 09:40:00
 image: /iwmw17/iwmw17-melanie-read.png
-original: /iwmw17/iwmw17-melanie-read-large.png
+image-original: /iwmw17/iwmw17-melanie-read-large.png
 image-thumb: /iwmw17/iwmw17-melanie-read-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/

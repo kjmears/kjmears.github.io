@@ -5,7 +5,7 @@ layout: post
 title: IWMW17 Ruth Mason, Matthew Castle
 date: 2017-07-12 11:30:00
 image: /iwmw17/iwmw17-ruth-mason-matthew-castle.png
-original: /iwmw17/iwmw17-ruth-mason-matthew-castle-large.png
+image-original: /iwmw17/iwmw17-ruth-mason-matthew-castle-large.png
 image-thumb: /iwmw17/iwmw17-ruth-mason-matthew-castle-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/

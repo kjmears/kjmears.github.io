@@ -11,7 +11,7 @@ code: oer15-07
 speaker: sheilmcn
 image: /oer15/oer15-2015-04-15-sheila-macneill.jpg
 image-thumb: /oer15/oer15-2015-04-15-sheila-macneill-thumb.jpg
-original: /oer15/original/oer15-2015-04-15-sheila-macneill-original.jpg
+image-original: /oer15/original/oer15-2015-04-15-sheila-macneill-original.jpg
 
 ---
 

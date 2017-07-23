@@ -7,7 +7,7 @@ published: true
 title: Ben Calvert and Helen Walbey at the USW Support Staff Conference 2016
 image: /supportstaff2016/supportstaff2016-ben-calvert.jpg
 image-thumb: /supportstaff2016/supportstaff2016-ben-calvert-helen-walbey.jpg
-original: supportstaff2016/supportstaff2016-ben-calvert-large.jpg
+image-original: supportstaff2016/supportstaff2016-ben-calvert-large.jpg
 category: sketchnotes
 speaker:
   - bencalvert

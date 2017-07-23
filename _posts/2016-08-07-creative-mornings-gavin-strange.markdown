@@ -5,7 +5,7 @@ date: "2016-08-07 21:14:33 +0100"
 category: sketchnotes
 tags: live
 image: /creative-morning-gavin-strange.jpg
-original: /creative-morning-gavin-strange-large.jpg
+image-original: /creative-morning-gavin-strange-large.jpg
 image-thumb: /creative-morning-gavin-strange-thumb.jpg
 cc: BY
 event: https://creativemornings.com/cities/cdf

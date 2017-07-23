@@ -365,6 +365,8 @@ h1.post-category > a {
   border-bottom: 1px solid #ededed;
 }
 
+/* some styles for data tables */
+
 #example{
 	border: none;
 }
@@ -372,4 +374,11 @@ h1.post-category > a {
     float: right;
     text-align: right;
     padding-bottom: 20px
+}
+
+/* style for figure element */
+
+figure{
+  margin: 0;
+  padding: 0;
 }

@@ -22,15 +22,30 @@ layout: default
       </p>
   {% endif %}
 
-  {% if page.image %}
-  	<a href="{{ site.baseurl }}/images{{ page.image }}">
+	{% if page.image %}
+		{% if page.image-caption %}
+			<figure>
+				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+				{{ page.image-caption | capitalize }}
+				{% if page.image-original %}
+					<a href="{{ site.baseurl }}/images/{{ page.image-original }}">Large version for download</a>
+				{% endif %}			</figure>
+		{% else %}
+		<figure>
 			<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-		</a>
-  {% endif %}
+			<figcaption>
+				{{ page.category | capitalize }}
+				{% if page.image-original %}
+					<a href="{{ site.baseurl }}/images/{{ page.image-original }}">Large version for download</a>
+				{% endif %}
+			</figcaption>
 
-	{% if page.original %}
-		<a href="{{ site.baseurl }}/images/{{ page.original }}">Large version for download</a>
-	{% endif %}
+		</figure>
+		{% endif %}
+
+		{% endif %}
+
+
 
 	{{ content }}
 </article>

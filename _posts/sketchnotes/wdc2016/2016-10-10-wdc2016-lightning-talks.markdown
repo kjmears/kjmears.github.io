@@ -5,7 +5,7 @@ date: 2016-10-07
 published: true
 image: /wdc2016/wdc2016-lightning-talks.jpg
 image-thumb: /wdc2016/wdc2016-lightning-talks-thumb.jpg
-original: wdc2016/wdc2016-lightning-talks-large.jpg
+image-original: wdc2016/wdc2016-lightning-talks-large.jpg
 category: sketchnotes
 speaker:
   - jukesie

@@ -5,7 +5,7 @@ date: 2016-10-07
 published: true
 image: /wdc2016/wdc2016-dan-edwards.jpg
 image-thumb: /wdc2016/wdc2016-dan-edwards-thumb.jpg
-original: wdc2016/wdc2016-dan-edwards-large.jpg
+image-original: wdc2016/wdc2016-dan-edwards-large.jpg
 category: sketchnotes
 speaker:
   - de

@@ -4,7 +4,7 @@ title: "How to Connect with Nature"
 date: "2016-05-19"
 image: /books/how-to-connect-with-nature.png
 image-thumb: /books/how-to-connect-with-nature-thumb.png
-original: /books/how-to-connect-with-nature-original.png
+image-original: /books/how-to-connect-with-nature-original.png
 category: sketchnotes
 tags: books
 cc: BY-SA

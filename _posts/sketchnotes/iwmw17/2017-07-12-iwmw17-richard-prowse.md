@@ -5,7 +5,7 @@ layout: post
 title: IWMW17 Richard Prowse
 date: 2017-07-12 12:00:00
 image: /iwmw17/iwmw17-richard-prowse.png
-original: /iwmw17/iwmw17-richard-prowse-large.png
+image-original: /iwmw17/iwmw17-richard-prowse-large.png
 image-thumb: /iwmw17/iwmw17-richard-prowse-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/

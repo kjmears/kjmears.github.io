@@ -12,7 +12,7 @@ speaker: WarwickLanguage
 
 image: /oer15/oer15-2015-04-14-teresa-mackinnon.jpg
 image-thumb: /oer15/oer15-2015-04-14-teresa-mackinnon-thumb.jpg
-original: /oer15/original/oer15-2015-04-14-teresa-mackinnon-original.jpg
+image-original: /oer15/original/oer15-2015-04-14-teresa-mackinnon-original.jpg
 
 ---
 Issues in creating and using video resources for language teaching.

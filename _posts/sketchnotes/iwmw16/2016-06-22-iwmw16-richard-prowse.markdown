@@ -7,7 +7,7 @@ title: IWMW16 -Richard Prowse
 date: 2016-06-22
 image: /iwmw16/iwmw16-richard-prowse.jpg
 image-thumb: /iwmw16/iwmw16-richard-prowse-thumb.jpg
-original: iwmw16/iwmw16-richard-prowse-large.jpg
+image-original: iwmw16/iwmw16-richard-prowse-large.jpg
 info: http://iwmw.org/iwmw2016/talks/building-new-bath-ac-uk-agile-content-case-study/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

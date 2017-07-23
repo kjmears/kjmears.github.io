@@ -5,7 +5,7 @@ date: 2016-10-07
 published: true
 image: /wdc2016/wdc2016-nicholas-alpi.jpg
 image-thumb: /wdc2016/wdc2016-nicholas-alpi-thumb.jpg
-original: wdc2016/wdc2016-nicholas-alpi-large.jpg
+image-original: wdc2016/wdc2016-nicholas-alpi-large.jpg
 category: sketchnotes
 speaker:
   - spyou

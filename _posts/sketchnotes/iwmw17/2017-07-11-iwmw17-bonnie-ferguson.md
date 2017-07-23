@@ -5,7 +5,7 @@ layout: post
 title: IWMW17 Bonnie Ferguson
 date: 2017-07-11 14:00:00
 image: /iwmw17/iwmw17-bonnie-ferguson.png
-original: /iwmw17/iwmw17-bonnie-ferguson-large.png
+image-original: /iwmw17/iwmw17-bonnie-ferguson-large.png
 image-thumb: /iwmw17/iwmw17-bonnie-ferguson-thumb.png
 category: sketchnotes
 lanyrd: /2017/iwmw2017/

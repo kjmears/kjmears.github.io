@@ -7,7 +7,7 @@ title: IWMW16 -Neil Allison
 date: 2016-06-21
 image: /iwmw16/iwmw16-neil-allison.jpg
 image-thumb: /iwmw16/iwmw16-neil-allison-thumb.jpg
-original: iwmw16/iwmw16-neil-allison-large.jpg
+image-original: iwmw16/iwmw16-neil-allison-large.jpg
 info: http://iwmw.org/iwmw2016/talks/requirements-hypotheses-lean-ux-can-help-develop-better-products/
 event: iwmw.org/iwmw2016/
 lanyrd: /2016/iwmw16/

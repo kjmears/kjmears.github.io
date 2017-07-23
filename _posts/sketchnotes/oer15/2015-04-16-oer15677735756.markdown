@@ -16,7 +16,7 @@ speaker:
   - tbirdcymru
 image: /oer15/oer15-2015-04-15-677-735-756.jpg
 image-thumb: /oer15/oer15-2015-04-15-677-735-756-thumb.jpg
-original: /oer15/original/oer15-2015-04-15-677-735-756-original.jpg
+image-original: /oer15/original/oer15-2015-04-15-677-735-756-original.jpg
 
 ---
 A short paper and two lightning talks.

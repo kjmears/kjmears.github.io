@@ -5,7 +5,7 @@ date: 2016-10-07
 published: true
 image: /wdc2016/wdc2016-jack-sheppard.jpg
 image-thumb: /wdc2016/wdc2016-jack-sheppard-thumb.jpg
-original: wdc2016/wdc2016-jack-sheppard-large.jpg
+image-original: wdc2016/wdc2016-jack-sheppard-large.jpg
 category: sketchnotes
 speaker:
   - madebysheppard

@@ -8,7 +8,7 @@ category: sketchnotes
 tags: books
 cc: BY-SA
 meta: pat barker, fiction, sketchnotes, the Ghost Road, digital, ipad, 53paper
-original: /books/the-ghost-road-original.png
+image-original: /books/the-ghost-road-original.png
 
 ---
 

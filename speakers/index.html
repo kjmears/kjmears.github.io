@@ -16,9 +16,9 @@ title: Speakers
               <tr>
                 <th>Name</th>
                 <th>Event</th>
-                <th>Mode</th>
+                <th>Type</th>
                 <th>Year</th>
-                <th>twitter</th>
+                <th>Twitter</th>
 
               </tr>
           </thead>
@@ -26,10 +26,9 @@ title: Speakers
               <tr>
                 <th>Name</th>
                 <th>Event</th>
-                <th>Mode</th>
+                <th>Type</th>
                 <th>Year</th>
-                <th>twitter</th>
-
+                <th>Twitter</th>
               </tr>
           </tfoot>
           <tbody>
@@ -49,7 +48,7 @@ title: Speakers
               <tr>
                 <td>{{ bio.name }}</td>
                 <td><a href="..{{ talk.sketchnotes }}">{{ talk.title }}</a></td>
-                <td>{{ talk.mode }}</td>
+                <td>{{ talk.type }}</td>
                 <td>{{ talk.date | date: "%Y" }}</td>
                 <td><a href="https://twitter.com/@{{ bio.twitter }}">{{ bio.twitter }}</a></td>
 

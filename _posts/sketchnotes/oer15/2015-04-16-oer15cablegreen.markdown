@@ -11,7 +11,7 @@ cc: BY
 speaker: cgreen
 image: /oer15/oer15-2015-04-14-cable-green.jpg
 image-thumb: /oer15/oer15-2015-04-14-cable-green-thumb.jpg
-original: /oer15/original/oer15-2015-04-14-cable-green-original.jpg
+image-original: /oer15/original/oer15-2015-04-14-cable-green-original.jpg
 
 ---
 
