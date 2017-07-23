@@ -2,7 +2,7 @@
   date: 2017-07-11
   sketchnotes: /sketchnotes/iwmw17
   image: /iwmw17/iwmw17-intro-thumb.png
-  mode: live
+  type: live
   speaker:
     - boagworld
     - richprowse
@@ -23,7 +23,7 @@
 
 - title: WDC 2016
   date: 2016-10-07
-  mode: live
+  type: live
   speaker:
     - jukesie
     - rumyra
@@ -38,14 +38,14 @@
 
 - title: Creative Mornings Cardiff
   date: 2016-08-06
-  mode: live
+  type: live
   speaker: JamFactory
   sketchnotes: /sketchnotes/creative-mornings-gavin-strange.html
   image: creative-morning-gavin-strange-thumb.jpg
 
 - title: USW Support Staff Conference
   date: 2016-07-08
-  mode: live
+  type: live
   speaker:
     - bencalvert
     - RecycleScooters
@@ -54,7 +54,7 @@
 
 - title: IWMW 2016
   date: 2016-06-21
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/iwmw16
   image: /iwmw16/iwmw16-roundup-thumb.jpg
   event: iwmw.org/iwmw2016/
@@ -63,7 +63,7 @@
     - usabilityed
     - garius
     - PlanetClaire
-    - rvtol
+    - R_van_Tol
     - richprowse
     - garethjms
     - DuncanBSS
@@ -80,7 +80,7 @@
 
 - title: Port80 2016
   date: 2016-05-20
-  mode: live
+  type: live
   event: http://port80events.co.uk/event/port-80-2016/
   lanyrd: http://lanyrd.com/2016/port80/
   sketchnotes: /sketchnotes/port80-2016/
@@ -97,7 +97,7 @@
 
 - title: "Bara Brith Open Data 2016"
   date: 2015-07-27
-  mode: live
+  type: live
   speaker:
     - ldodds
     - JeniT
@@ -107,7 +107,7 @@
 
 - title: IWMW 2015
   date: 2015-07-27
-  mode: live
+  type: live
   event: iwmw.org/iwmw2015/
   info: iwmw.org/iwmw2015/talks/
   lanyrd: /2015/iwmw15/
@@ -121,7 +121,7 @@
     - mike_mcconnell
     - boagworld
     - unikentwebdev
-    - rvtol
+    - R_van_Tol
     - ssanders
     - paddycallaghan
     - kljhall
@@ -134,7 +134,7 @@
 
 - title: Open Education Conference
   date: 2015-04-14
-  mode: live
+  type: live
   image: /oer15/oer15-2015-04-14-panel-thumb.jpg
   event: oer15.oerconf.org/
   info: oer15.oerconf.org/sessions/keynote-cable-green/
@@ -167,7 +167,7 @@
   speaker: jeannelking
   image: /jeannel-king-hangout-01-04-2015-thumb.jpg
   code: hangout
-  mode: online
+  type: online
   sketchnotes: /sketchnotes/jeannelking-hangout.html
   video: youtu.be/JBE3-jsu11s
 
@@ -178,7 +178,7 @@
   image: /dhh-railsconf2014-thumb.gif
   event: www.railsconf.com
   code: railsconf
-  mode: online
+  type: online
   sketchnotes: /sketchnotes/dhhrailsconf2014.html
 
 - date: 2014-11-11
@@ -187,7 +187,7 @@
   event: port80events.co.uk/event/winter-localhost-2014/
   lanyrd: /2014/winter-localhost/
   code: winterlocalhost201401
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/craig-marvelly.html
   speaker:
     - craigmarvelley
@@ -203,7 +203,7 @@
   info: www.theweb.is/
   lanyrd: /2014/thewebis/
   code: thewebis01
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/thewebis/
   speaker:
     - fehler
@@ -226,7 +226,7 @@
 
 - title: Handheld 2013
   date: 2013-11-27
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/handheld13/
   event: handheldconf.com/
   info: handheldconf.com/
@@ -245,14 +245,14 @@
 
 - title: Handheld 2012
   date: 2012-11-19
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
   event: www.handheldconf.com/2012
   info: www.besquare.me/conferences/handheld
   code: handheld2013
   image: handheld2012-collected-sketchnotes-thumb.png
   lanyrd: /2012/handheldconf/
-  mode: live
+  type: live
   speaker:
     - aral
     - daveaddey
@@ -269,13 +269,13 @@
 
 - title: IWMW 2014
   date: 2014-07-16
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/iwmw14/
   event: iwmw.org/iwmw2014/
   info: iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
   lanyrd: /2014/iwmw14/
-  mode: live
+  type: live
   speaker:
     - tracyplayle
     - boagworld
@@ -295,13 +295,13 @@
 
 - title : Port80 2014
   date: 2014-05-16
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/port80-2014/
   event: port80events.co.uk/event/port80-2014/
   code: port80-01
   image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
   lanyrd: /2014/port80events/
-  mode: live
+  type: live
   speaker:
     - denisejacobs
     - hereinthehive
@@ -323,13 +323,13 @@
 
 - title: IWMW 2013
   date: 2013-06-26
-  mode: live
+  type: live
   sketchnotes: /sketchnotes/iwmw13/
   event: iwmw.ukoln.ac.uk/iwmw2013
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
   image: iwmw13/iwmw13-open-education-thumb.gif
   lanyrd: /2013/iwmw13/
-  mode: live
+  type: live
   speaker:
     - cgreen
     - dajbelshaw
@@ -352,11 +352,11 @@
 
 - title: IWMW 2012
   date: 2012-06-19
-  mode: live
+  type: live
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   lanyrd: /2012/iwmw12/
-  mode: live
+  type: live
   speaker:
     - usabilityed
     - kevingashley
@@ -377,7 +377,7 @@
   info: creativemornings.com/talks/mark-boulton/1
   event: creativemornings.com/cities/cdf
   image: creative-morning-jun2014-thumb.png
-  mode: live
+  type: live
 
 - title: When we build
   speaker: wilsonminer
@@ -386,7 +386,7 @@
   image: 2013-01-07-wilsonminer-build2011-thumb.gif
   sketchnotes: /sketchnotes/when-we-build-sketch-notes.html
   code: build
-  mode: online
+  type: online
 
 - title: Cutting the Mustard
   speaker: tmaslen
@@ -396,7 +396,7 @@
   sketchnotes: /sketchnotes/cutting-the-mustard-sketchnote.html
   code: mustard
   slides: speakerdeck.com/tmaslen/cutting-the-mustard-future-friendly-browser-support
-  mode: online
+  type: online
 
 - title: Ebooks Presentation
   date: 2012-10-25
@@ -404,14 +404,14 @@
   image: ebooks-thumb.gif
   sketchnotes: /sketchnotes/ebooks-presentation.html
   code: ebooks
-  mode: live
+  type: live
 
 - title: Port80 Summer Localhost 2012
   date: 2012-09-01
   sketchnotes: /sketchnotes/port80-summer-localhost-2012-sketchnotes.html
   image: port80localhost/localhost-2012-08-thumb.gif
   code: localhost_summer_2012
-  mode: live
+  type: live
   speaker:
     - olliewells
     - BenjaminReid
@@ -422,7 +422,7 @@
   sketchnotes: /sketchnotes/port80-summer-localhost-2013-sketchnotes.html
   image: port80localhost/summer-2013-thumb.gif
   code: localhost_summer_2013
-  mode: live
+  type: live
   speaker:
     - jrcryer
     - brandnatter
@@ -434,7 +434,7 @@
   event: http://port80events.co.uk/localhost-events/
   image: port80localhost/localhost-2014-02-thumb.gif
   code: localhost_spring_2014
-  mode: live
+  type: live
   speaker:
     - rumyra
     - sturobson
@@ -446,7 +446,7 @@
   image: media2005/media2005-sketchnotes-thumb.jpg
   code: media2005
   lanyrd: /2005/atmedia/
-  mode: live
+  type: live
   speaker:
     - Malarkey
     - adactio
@@ -462,21 +462,21 @@
   image: ODI-lunchtime-lecture-13-10-17-thumb.gif
   info: theodi.org/lunchtime-lectures/friday-lunchtime-lecture-which-university-finding-an-answer-via-open-data
   code: odi13-10-17
-  mode: online
+  type: online
 
 - title: The Trap - Documentary by Adam Curtis
   speaker: AdamCurtisBlog
   sketchnotes: /sketchnotes/the-trap-sketchnotes.html
   image: the-trap-pt1-thumb.png
   video: thoughtmaybe.com/the-trap
-  mode: online
+  type: online
 
 - title: The Living Dead - Documentary by Adam Curtis
   speaker: AdamCurtisBlog
   sketchnotes: /sketchnotes/the-living-dead-sketchnotes.html
   image: living-dead-sketchnotes-thumb.png
   video: thoughtmaybe.com/the-living-dead/
-  mode: online
+  type: online
 
 - title: GovCampCymru 2014
   date: 2014-09-27
@@ -486,7 +486,7 @@
   code: gccy-02
   image: govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
   lanyrd: /2014/govcampcymru/
-  mode: live
+  type: live
   speaker:
     - heliaphoenix
     - digitalst
