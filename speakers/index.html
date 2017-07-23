@@ -5,7 +5,7 @@ title: Speakers
 ---
 
 <div class="row">
-  <p>I've collected a (long) list of speakers whose talks, videos, audio , lectures and presentations that I've done sketchnotes for, sorted by year. Play around with the table and the search to find what your'e looking for.</p>
+  <p>I've collected a (long) list of speakers whose talks, videos, audio , lectures and presentations that I've done sketchnotes for, sorted by year. Play around with the table and the search to find what your'e looking for. For any errors, omissions or changes <a href="https://www.twitter.com/@mearso">Twitter is probably your best bet.</a></p>
 
 </div>
 
@@ -19,6 +19,7 @@ title: Speakers
                 <th>Type</th>
                 <th>Year</th>
                 <th>Twitter</th>
+                <th>Website</th>
 
               </tr>
           </thead>
@@ -29,6 +30,7 @@ title: Speakers
                 <th>Type</th>
                 <th>Year</th>
                 <th>Twitter</th>
+                <th>Website</th>
               </tr>
           </tfoot>
           <tbody>
@@ -52,6 +54,12 @@ title: Speakers
                 <td>{{ talk.date | date: "%Y" }}</td>
                 <td><a href="https://twitter.com/@{{ bio.twitter }}">{{ bio.twitter }}</a></td>
 
+                <td>
+                  {% if bio.url %}
+                    <a href="http://{{ bio.url }}">Website</a>
+                  {% endif %}
+
+                </td>
               </tr>
               {% endif %}
 
