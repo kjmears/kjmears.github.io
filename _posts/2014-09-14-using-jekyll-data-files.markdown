@@ -72,18 +72,20 @@ Next I needed a list of all the events that I've sketchnoted. Lucklily they tend
 I've used the term 'event' , what this means for me is a occasion where I've sketchnoted. Maybe my naming could have been better.
 
 As you can see all pretty straightforward.
-*   Title
-*   Link to sketchnote post
-*   Image - what image will is associated with this event - I ususally use the post image, but this can be custom.
-*   speaker ID
-*   Link to the event info - for some events I also use the `info:` field where there is specific info for that talk.
-*   code - enables me to link the event to the post.
+
+-  Title
+-  Link to sketchnote post
+-  Image - what image will is associated with this event - I ususally use the post image, but this can be custom.
+-  speaker ID
+-  Link to the event info - for some events I also use the `info:` field where there is specific info for that talk.
+-  code - enables me to link the event to the post.
 
 Now that I have all this information in data files how to I get them displayed on the site?
 
 That is done with the file `speakers/index.html`
 
 First the simple Jekyll front matter setting the layout and title.
+
 ```
       ---
       layout: page
@@ -94,36 +96,48 @@ First the simple Jekyll front matter setting the layout and title.
 
 Next we get into the mechanics of what's going on. In the following code I create an object called `bio` which loops through the key:value pairs in `speakers.yml` and displays the name. I do a little check for the presence of the `url` and `twitter` info before displaying it. I haven't done any fancyinhg sorting of the data (I don't know how) I've just made sure my speakers.yml is in alphabetical order.
 
-```
-{% for bio in site.data.speakers %}
-<div class="speaker">
+{% highlight liquid %}
 
-<h2 class="bio-name">{{ bio.name }}</h2>
 
-<div class="meta">
-{% if bio.twitter %}
-<p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
-{% endif %}
-{% if bio.url %}
-<p class="website"><a href="{{ bio.url }}">Website</a></p>
-{% endif %}
+{% raw %}
+    {% for bio in site.data.speakers %}
+    <div class="speaker">
 
-</div>
-```
+    <h2 class="bio-name">{{ bio.name }}</h2>
+
+    <div class="meta">
+    {% if bio.twitter %}
+    <p class="twitter"><a href="https://twitter.com/{{ bio.twitter }}">@{{ bio.twitter }}</a></p>
+    {% endif %}
+    {% if bio.url %}
+    <p class="website"><a href="{{ bio.url }}">Website</a></p>
+    {% endif %}
+
+    </div>
+    {% endfor %}
+    {% endraw %}
+
+    {% endhighlight %}
+
 next i do a similar thing for the `events.yml`, accessing the file, but this time checking if the id I've got matches the speaker value. If if does it's then displayed on the page.
 
-```
-{% for talk in site.data.events %}
-{% if bio.id == talk.speaker %}
-<h3>{{ talk.title }}</h3>
-<ul>
-<li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
-<li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
-<li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
-</ul>
-{% endif %}
-{% endfor %}
-```
+{% highlight liquid %}
+
+
+{% raw %}
+    {% for talk in site.data.events %}
+        {% if bio.id == talk.speaker %}
+            <h3>{{ talk.title }}</h3>
+            <ul>
+            <li><a href="{{ talk.url}}">{{ talk.url }}</a></li>
+            <li><a href="{{ talk.sketchnotes }}">Sketchnotes</a></li>
+            <li><a href="{{ talk.reference }}">{{ talk.reference }}</a></li>
+            </ul>
+        {% endif %}
+    {% endfor %}
+{% endraw %}
+
+{% endhighlight %}
 
 A problem I found with the method above is that some of the sketchnotes I've done are combined in one big sketchnote for the whole conference. Rather than going back and splitting each event up, I thought it'd make more sense to make it possible to have multiple speakers at an event. To do this meant a little reading about YAML. The key:value approach of the yml works fine on a one to one, but it's possible to easily have more than one bit of info in the speaker field by like so
 
@@ -134,13 +148,18 @@ A problem I found with the method above is that some of the sketchnotes I've don
       - name three
 ```
 
-At this point I wanted to check what was actually coming into the page via `site.data.events` so by adding `{{ talk }}` to the page like so,
+At this point I wanted to check what was actually coming into the page via `site.data.events` so by adding `{% raw %}{{ talk }}{% endraw %}` to the page like so,
 
-```
-{% for talk in site.data.events %}
-  {{ talk }}
-{% endfor %}
-```
+{% highlight liquid %}
+
+
+{% raw %}
+    {% for talk in site.data.events %}
+      {{ talk }}
+    {% endfor %}
+{% endraw %}
+
+{% endhighlight %}
 
 it displays the whole file in one big block like this
 
@@ -156,12 +175,15 @@ We can compare this with an event with multiple speakers. The speaker IDs inside
 
 This meant I needed to check if there were multiple speakers, with the following code. We can see that in the second line I'm checking if the array exist by putting in the square brackets, and if the array is there I'm then passing the speaker IDs to be checked against the bio.id the same as before.
 
-```
+{% highlight liquid %}
+
+
+{% raw %}
       {% for talk in site.data.events %}
 
-      {% if talk.speaker[] %}
+      {% if talk.speaker != empty %}
 
-      {% for multiple in talk.speaker[] %}
+      {% for multiple in talk.speaker %}
 
       {% if bio.id == multiple %}
 
@@ -201,4 +223,6 @@ This meant I needed to check if there were multiple speakers, with the following
 
       </div>
 
-```
+{% endraw %}
+
+{% endhighlight %}
