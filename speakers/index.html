@@ -9,68 +9,45 @@ title: Speakers
 
 </div>
 
+
+
+
 <div class="row">
+  <table id="speakertable" class="row-border" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+          <th>Name <em>(and link to twitter)</em></th>
+          <th>Sketchnotes</th>
+          <th>Type</th>
+          <th>Year</th>
+        </tr>
+    </thead>
 
-  <table id="example" class="row-border" cellspacing="0" width="100%">
-          <thead>
+    <tbody>
+      {% for speaker in site.data.speakers %}
+        {% for event in site.data.events %}
+          {% if event.speaker != empty %}
+            {% for multiple in event.speaker %}
+              {% if speaker.id == multiple %}
               <tr>
-                <th>Name</th>
-                <th>Event</th>
-                <th>Type</th>
-                <th>Year</th>
-                <th>Twitter</th>
-                <th>Website</th>
-
-              </tr>
-          </thead>
-          <tfoot>
-              <tr>
-                <th>Name</th>
-                <th>Event</th>
-                <th>Type</th>
-                <th>Year</th>
-                <th>Twitter</th>
-                <th>Website</th>
-              </tr>
-          </tfoot>
-          <tbody>
-
-
-
-  {% for bio in site.data.speakers %}
-
-
-        {% for talk in site.data.events %}
-
-          {% if talk.speaker != empty %}
-
-            {% for multiple in talk.speaker %}
-
-              {% if bio.id == multiple %}
-              <tr>
-                <td>{{ bio.name }}</td>
-                <td><a href="..{{ talk.sketchnotes }}">{{ talk.title }}</a></td>
-                <td>{{ talk.type }}</td>
-                <td>{{ talk.date | date: "%Y" }}</td>
-                <td><a href="https://twitter.com/@{{ bio.twitter }}">{{ bio.twitter }}</a></td>
-
                 <td>
-                  {% if bio.url %}
-                    <a href="http://{{ bio.url }}">Website</a>
-                  {% endif %}
+                    {{ speaker.name }}
+                    {% if speaker.twitter %}
+                       (<a href="https://twitter.com/@{{ speaker.twitter }}">{{ speaker.twitter }}</a>)
+                    {% endif %}
+                  </ul>
+
 
                 </td>
+                <td><a href="..{{ event.sketchnotes }}">{{ event.title }}</a></td>
+                <td>{{ event.type }}</td>
+                <td>{{ event.date | date: "%Y" }}</td>
               </tr>
               {% endif %}
-
             {% endfor %}
-
           {% endif %}
-
         {% endfor %}
-
-  {% endfor %}
-
-</tbody>
-</table>
+      {% endfor %}
+    </tbody>
+  </table>
 </div>

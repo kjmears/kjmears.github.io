@@ -90,15 +90,14 @@ layout: compress
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#example').DataTable( {
+    $('#speakertable').DataTable( {
         "order": [[ 3, "desc" ]],
         "paging": false,
         "columnDefs": [
           { className: "dt-head-left", "targets": [ 0 ]},
           { className: "dt-head-left", "targets": [ 1 ]},
           { className: "dt-head-left", "targets": [ 2 ]},
-          { className: "dt-head-left", "targets": [ 3 ]},
-          { className: "dt-head-left", "targets": [ 4 ]}
+          { className: "dt-head-left", "targets": [ 3 ]}
 
         ]
     } );

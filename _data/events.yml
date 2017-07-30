@@ -224,49 +224,6 @@
     - mr_bingo
     - brad_frost
 
-- title: Handheld 2013
-  date: 2013-11-27
-  type: live
-  sketchnotes: /sketchnotes/handheld13/
-  event: handheldconf.com/
-  info: handheldconf.com/
-  image: handheld2013/syd-lawrence-handheld2013-thumb.gif
-  lanyrd: /2013/handheldconf/
-  speaker:
-    - sydlawrence
-    - adactio
-    - hicksdesign
-    - markboulton
-    - brendandawes
-    - LINGsCARS
-    - Malarkey
-    - zeldman
-    - eddiemachado
-
-- title: Handheld 2012
-  date: 2012-11-19
-  type: live
-  sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
-  event: www.handheldconf.com/2012
-  info: www.besquare.me/conferences/handheld
-  code: handheld2013
-  image: handheld2012-collected-sketchnotes-thumb.png
-  lanyrd: /2012/handheldconf/
-  type: live
-  speaker:
-    - aral
-    - daveaddey
-    - laurakalbag
-    - keirwhitaker
-    - amberweinberg
-    - andspo
-    - sicross
-    - gauntface
-    - RobertMills
-    - olliewells
-    - lesmond
-    - roblobue
-
 - title: IWMW 2014
   date: 2014-07-16
   type: live
@@ -298,7 +255,6 @@
   type: live
   sketchnotes: /sketchnotes/port80-2014/
   event: port80events.co.uk/event/port80-2014/
-  code: port80-01
   image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
   lanyrd: /2014/port80events/
   type: live
@@ -349,6 +305,49 @@
     - NeilDenny
     - daigriffiths
 
+- title: Handheld 2013
+  date: 2013-11-27
+  type: live
+  sketchnotes: /sketchnotes/handheld13/
+  event: handheldconf.com/
+  info: handheldconf.com/
+  image: handheld2013/syd-lawrence-handheld2013-thumb.gif
+  lanyrd: /2013/handheldconf/
+  speaker:
+    - sydlawrence
+    - adactio
+    - hicksdesign
+    - markboulton
+    - brendandawes
+    - LINGsCARS
+    - Malarkey
+    - zeldman
+    - eddiemachado
+
+- title: Handheld 2012
+  date: 2012-11-19
+  type: live
+  sketchnotes: /sketchnotes/handheld-2012-sketchnotes.html
+  event: www.handheldconf.com/2012
+  info: www.besquare.me/conferences/handheld
+  code: handheld2013
+  image: handheld2012-collected-sketchnotes-thumb.png
+  lanyrd: /2012/handheldconf/
+  type: live
+  speaker:
+    - aral
+    - daveaddey
+    - laurakalbag
+    - keirwhitaker
+    - amberweinberg
+    - andspo
+    - sicross
+    - gauntface
+    - RobertMills
+    - olliewells
+    - lesmond
+    - roblobue
+
 
 - title: IWMW 2012
   date: 2012-06-19
@@ -380,6 +379,7 @@
   type: live
 
 - title: When we build
+  date: 2013-01-07
   speaker: wilsonminer
   video: www.besquare.me/session/when-we-build/
   event: 2011.buildconf.com
