@@ -22,6 +22,8 @@ layout: default
       </p>
   {% endif %}
 
+	<p>Posted: {{ page.date | date: "%a, %b %d, %Y" }}</p>
+
 	{% if page.image %}
 		{% if page.image-caption %}
 			<figure>
