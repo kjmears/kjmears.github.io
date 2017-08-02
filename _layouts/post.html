@@ -19,7 +19,7 @@ layout: default
         {% for tag in page.tags %}
 					<a href="{{ tag }}"> {{ tag | capitalize }} </a>
 				{% endfor %}
-<p> | Posted: {{ page.date | date: "%a, %b %d, %Y" }}</p>
+ | Posted: {{ page.date | date: "%a, %b %d, %Y" }}
       </p>
   {% endif %}
 
