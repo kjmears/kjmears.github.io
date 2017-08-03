@@ -1,22 +1,17 @@
 ---
 title: index
-desc:
+desc: Resources for Sketchnoting Workshops
 invisible: 1
 date: 16-08-2016
 
 ---
 
-test
 
 {% for article in site.workshops %}
-
       {% if article.invisible == null  %}
-            <h3>
-                  <a href="{{ article.url }}">{{ article.title }}</a>
-            </h3>
-
-            <time>{{ article.date | date_to_string }}</time>
-
+        <h3>
+          <a href="{{ article.url }}">{{ article.title }}</a>
+        </h3>
+        <time>{{ article.date | date_to_string }}</time>
       {% endif %}
-
 {% endfor %}
