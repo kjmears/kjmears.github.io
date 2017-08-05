@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Being open"
+title: "Open Education Practioner badge ideas"
 date: "2015-04-22"
 published: true
 image-thumb: /oep/oep-badge.jpg
 cc: BY
+category: blog
 
 ---
 
