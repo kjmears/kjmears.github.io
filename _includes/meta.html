@@ -9,12 +9,11 @@
 <meta name="twitter:url" content="http://www.mearso.co.uk/"/>
 <meta name="twitter:card" content="summary"/>
 
+
+<meta name="keywords" content="{{ page.tags | join: ', '  }}, {{ page.categories }}, {{ page.keywords | join: ', ' }}">
+
 {% if page.meta  %}
-
-<meta name="description" content="{{ page.meta }}">
-
+  <meta name="description" content="{{ page.meta }}">
 {% else %}
-
-<meta name="description" content="{{ page.excerpt | strip_html }} {{ page.tags[0]}}">
-<meta name="keywords" content="{{ page.tags | join: ', '  }} {{ page.categories }}">
+  <meta name="description" content="{{ page.excerpt | strip_html }} {{ page.tags[0]}}">
 {% endif %}
