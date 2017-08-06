@@ -7,6 +7,7 @@ date: 2017-07-12 09:00:00
 image: /iwmw17/iwmw17-carley-hollis.png
 image-original: /iwmw17/iwmw17-carley-hollis-large.png
 image-thumb: /iwmw17/iwmw17-carley-hollis-thumb.png
+image-caption: "High Sights, High Standards"
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -17,8 +18,6 @@ tags:
   - live
 cc: BY-SA
 ---
-
-### High Sights, High Standards
 
 Probably my favourite talk of the whole conference.
 

@@ -7,6 +7,7 @@ date: 2017-07-13 09:00:00
 image: /iwmw17/iwmw17-piero-tintori.png
 image-original: /iwmw17/iwmw17-piero-tintori-large.png
 image-thumb: /iwmw17/iwmw17-piero-tintori-thumb.png
+image-caption: 5 Conversion Techniques that Higher Ed Can Learn From eCommerce
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -17,8 +18,6 @@ tags:
   - live
 cc: BY-SA
 ---
-
-### 5 Conversion Techniques that Higher Ed Can Learn From eCommerce
 
 Despite the slightly linkbait title, Piero managed to cram quite a lot of practical things to try in a short space of time, not going into tons of depth, but a really handy starting g point of things to try.
 

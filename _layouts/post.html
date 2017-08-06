@@ -23,30 +23,26 @@ layout: default
       </p>
   {% endif %}
 
-	
+
 
 	{% if page.image %}
 		{% if page.image-caption %}
 			<figure>
 				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-				{{ page.image-caption | capitalize }}
-				{% if page.image-original %}
-					<a href="{{ site.baseurl }}/images/{{ page.image-original }}">Large version for download</a>
-				{% endif %}			</figure>
+				<em>{{ page.category | capitalize }} : {{ page.image-caption }}</em>
+			</figure>
 		{% else %}
-		<figure>
-			<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-			<figcaption>
-				{{ page.category | capitalize }}
-				{% if page.image-original %}
-					<a href="{{ site.baseurl }}/images/{{ page.image-original }}">Large version for download</a>
-				{% endif %}
-			</figcaption>
-
-		</figure>
+			<figure>
+				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+				<figcaption>
+					{{ page.category | capitalize }}
+				</figcaption>
+			</figure>
 		{% endif %}
-
+		{% if page.image-original %}
+			<a href="{{ site.baseurl }}/images/{{ page.image-original }}" class="download"> Large version for download</a>
 		{% endif %}
+	{% endif %}
 
 
 

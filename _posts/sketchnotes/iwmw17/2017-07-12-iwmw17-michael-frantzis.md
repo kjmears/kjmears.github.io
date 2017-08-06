@@ -7,6 +7,7 @@ date: 2017-07-12 14:00:00
 image: /iwmw17/iwmw17-michael-frantzis.png
 image-original: /iwmw17/iwmw17-michael-frantzis-large.png
 image-thumb: /iwmw17/iwmw17-michael-frantzis-thumb.png
+image-caption: "Students as Humans: Understanding and Segmenting the Real Student Experience"
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -17,8 +18,6 @@ tags:
   - live
 cc: BY-SA
 ---
-
-### Students as Humans: Understanding and Segmenting the Real Student Experience
 
 Interesting range over ways in which universities can understand Student behaviour better, by thinking a bit more about their experiences at university and what might be best for them as individuals, with some ideas how that might be achieved. [Bloom's sigma 2 problem] sounds mysterious, but looks interesting.
 

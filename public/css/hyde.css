@@ -379,6 +379,12 @@ h1.post-category > a {
 /* style for figure element */
 
 figure{
-  margin: 0;
+  margin: 0 0 0 0;
   padding: 0;
+}
+
+.download{
+  display: block;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
 }

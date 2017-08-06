@@ -7,6 +7,7 @@ date: 2017-07-12 11:30:00
 image: /iwmw17/iwmw17-ruth-mason-matthew-castle.png
 image-original: /iwmw17/iwmw17-ruth-mason-matthew-castle-large.png
 image-thumb: /iwmw17/iwmw17-ruth-mason-matthew-castle-thumb.png
+image-caption: Oxford Mosaic – A Web Publishing Platform for the Future
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -19,8 +20,6 @@ tags:
   - live
 cc: BY-SA
 ---
-
-### Oxford Mosaic – A Web Publishing Platform for the Future
 
 This felt similar to the Cardiff talk in explaining a real world problem they faced - A scary security situation caused by lots of sites - and how they are dealing with it. I almost felt they covered too much. There were tantalising things about how the Lean Startup book was influential, how they were rebuilding a live product  and the development setup to enable them to ship to product every 2 weeks.
 

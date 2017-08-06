@@ -8,6 +8,7 @@ date: 2017-07-13  11:00
 image: /iwmw17/iwmw17-christopher-gutteridge.png
 image-original: /iwmw17/iwmw17-christopher-gutteridge-large.png
 image-thumb: /iwmw17/iwmw17-christopher-gutteridge-thumb.png
+image-caption: The Life Academic
 category: sketchnotes
 lanyrd: /2017/iwmw17
 event: iwmw.org/iwmw2017
@@ -21,6 +22,4 @@ speaker: cgutteridge
 
 ---
 
-### The Life Academic 
-
-A very different t flavour of talk this time. A really interesting  and useful explanation of the life academic - getting an insight into why that academic you've asked for 'content' is taking a while to get back to you was really good.
+A very different flavour of talk this time. A really interesting  and useful explanation of the life academic - getting an insight into why that academic you've asked for 'content' is taking a while to get back to you was really good.

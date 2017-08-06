@@ -7,6 +7,7 @@ date: 2017-07-11 14:00:00
 image: /iwmw17/iwmw17-bonnie-ferguson.png
 image-original: /iwmw17/iwmw17-bonnie-ferguson-large.png
 image-thumb: /iwmw17/iwmw17-bonnie-ferguson-thumb.png
+image-caption: "The UK’s European University in a Time of Brexit"
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -18,9 +19,9 @@ tags:
 cc: BY-SA
 ---
 
-### The UK’s European University in a Time of Brexit
+Interesting opening around the particular effect of Brexit on the very European facing University of Kent. The University has taken a conscious decision to continue emphasising it's commitment to 'remain European'.
 
-Interesting opening around the particular effect of Brexit on the very European facing University of Kent. The University has taken a conscious decision to continue emphasising it's commitment to 'remain European'. Brexit wasn't the only change to the landscape that Bonnie mentioned. The influence of sponsorship from external corporations and the possible effects on course structures, outcomes and how they are perceived has the potential to have a profound change on the sector.
+Brexit wasn't the only change to the landscape that Bonnie mentioned. The influence of sponsorship from external corporations and the possible effects on course structures, outcomes and how they are perceived has the potential to have a profound change on the sector.
 
 Touching on the those things then led on to the concept of 'Anti fragile'. From a [book by Massim Taleb][book]. Part of the idea is that some things benefit from shocks and stresses, thriving in the face of disorder, uncertainty and similar phenomena. Called Antigfragile in the absence of an existing direct opposite to fragile, Bonnie explained how it might be an interesting concept to think in terms of organisations that need to innovate to survive.  
 

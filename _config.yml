@@ -5,7 +5,7 @@ permalink:           none
 title:               mearso
 tagline:             Personal Website of Kevin Mears
 url:                 http://www.mearso.co.uk
-paginate:            10
+paginate:            20
 paginate_path:  "/blog/page:num/"
 baseurl:
 highlighter:         rouge

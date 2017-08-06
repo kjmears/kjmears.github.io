@@ -21,11 +21,9 @@ title: Blog
 
             {% endfor %}
       {% endif %}
-
-
     </p>
 
-      {{ post.excerpt }}
+      {{ post.excerpt | remove: '<h3>' | remove: '</h3>' }}
 
   {% endfor %}
 

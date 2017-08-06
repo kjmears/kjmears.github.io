@@ -8,7 +8,9 @@ published: true
 meta: "Diving into very basic data as an exercise in spreadsheets"
 ---
 
-For reasons unknown to even me, I was looking at the [UCISA][ucisa] website whilst watching an interesting stream from the event held recently. Whilst browsing around the site I began to be curious about the organisation and started thinking about the structure of it; all the special interest groups and subsequent committees that Higher Education organisations seem to love. My curiosity coalesced around the question of how representative of the sector the organisation is.
+For reasons unknown to even me, I was looking at the [UCISA][ucisa] website whilst watching an interesting stream from the event held recently.
+
+Whilst browsing around the site I began to be curious about the organisation and started thinking about the structure of it; all the special interest groups and subsequent committees that Higher Education organisations seem to love. My curiosity coalesced around the question of how representative of the sector the organisation is.
 
 I ended up learning all about the association and it's memberships
 

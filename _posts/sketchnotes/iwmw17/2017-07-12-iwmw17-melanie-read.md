@@ -7,6 +7,7 @@ date: 2017-07-12 09:40:00
 image: /iwmw17/iwmw17-melanie-read.png
 image-original: /iwmw17/iwmw17-melanie-read-large.png
 image-thumb: /iwmw17/iwmw17-melanie-read-thumb.png
+image-caption: Making Digital Change Happen
 category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
@@ -17,9 +18,6 @@ tags:
   - live
 cc: BY-SA
 ---
-
-
-### Making Digital Change Happen
 
 Melanie's talk was quite a departure from St Andrews' since she explained how much restructure and change that the university has undergone, and that she has been tasked with sorting out a pretty big mess.
 
