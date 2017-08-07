@@ -2,10 +2,8 @@
 layout: post
 published: true
 title: '@media2005 Sketchnotes'
-image: /media2005/media2005-sketchnotes.jpg
-image-thumb: /media2005/media2005-sketchnotes-thumb.jpg
-author: mearso
-author_email: mearso@mearso.com
+image: /atmedia/media2005-sketchnotes.jpg
+image-thumb: /atmedia/media2005-sketchnotes-thumb.jpg
 homepage: true
 category: sketchnotes
 tag: live

@@ -56,19 +56,11 @@ html {
 .sidebar {
   text-align: center;
   padding:    1rem 1rem;
-  color:      white;
+  color:      #d28445;
   /*background-image: url("/img/pattern-white-grey.gif");*/
   font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   font-size: 1.7rem;
-  text-shadow:
-  3px 3px 0 #000,
-  /* Simulated effect for Firefox and Opera
-     and nice enhancement for WebKit */
- -1px -1px 0 #000,
-  1px -1px 0 #000,
- -1px  1px 0 #000,
-  1px  1px 0 #000;
-
+  letter-spacing: 0.1rem;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -311,17 +303,10 @@ section {
 .page-title, .post-category {
   font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   margin-top: 0;
-  color:      white;
+  color:      #6a9fb5;
   font-size: 2.5rem;
   text-transform: uppercase;
-  text-shadow:
-  3px 3px 0 #000,
-  /* Simulated effect for Firefox and Opera
-     and nice enhancement for WebKit */
- -1px -1px 0 #000,
-  1px -1px 0 #000,
- -1px  1px 0 #000,
-  1px  1px 0 #000;
+  letter-spacing: 0.1rem;
 }
 
 
@@ -337,10 +322,10 @@ h1.post-category > a:focus {
 }
 
 
-h1.post-category > a {
+/*h1.post-category > a {
   color:white !important;
   text-decoration: none !important;
-}
+}*/
 
 
 .sidebar > div > form > div > button {
@@ -387,4 +372,8 @@ figure{
   display: block;
   margin-bottom: 1.5rem;
   border-bottom: 1px solid #eee;
+}
+
+.social {
+  text-align: right;
 }
