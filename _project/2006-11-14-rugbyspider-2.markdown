@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: false
+published: true
 title: RugbySpider
 author: mearso
 author_login: mearso

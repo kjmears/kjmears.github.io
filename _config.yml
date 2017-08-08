@@ -43,6 +43,9 @@ collections:
   workshops:
     description: "Workshops"
     output: true
+  styleguide:
+    description: "Styleguide"
+    output: true
 
 # Setting some defaults for collections - layouts, collection information.
 # with more to follow
@@ -61,3 +64,9 @@ defaults:
     values:
       layout: workshop
       info: Workshops
+    scope:
+      path: ""
+      type: styleguide
+    values:
+      layout: default
+      info: Styleguide
