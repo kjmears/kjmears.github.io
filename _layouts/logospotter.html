@@ -9,9 +9,9 @@ layout: default
     <h1 itemprop="name" id="post-title">{{ post.title }}</h1>
   </header>
 
-  {% include posted.html %}
+  {% include logospotter-posted.html %}
 
-  <img itemprop="image" src="./images/{{ page.image}}" alt="" />
+  <img itemprop="image" src="/images/logospotter/{{ page.image}}" alt="" />
 
   <div id="post-content">
     <span itemprop="articleBody">
@@ -50,7 +50,7 @@ layout: default
 
     <p id="post-meta">Tagged {{ tags_content }}</p>
 
-    {% include extras.html %}
+    {% include logospotter-extras.html %}
 
   </div>
 

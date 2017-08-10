@@ -43,8 +43,9 @@ collections:
   workshops:
     description: "Workshops"
     output: true
-  workshops:
+  logospotter:
     description: "Logospotter"
+    output: true
   styleguide:
     description: "Styleguide"
     output: true
@@ -72,7 +73,9 @@ defaults:
     values:
       layout: logospotter
       info: Logospotter
+    scope:
+      path: ""
       type: styleguide
     values:
-      layout: default
+      layout: styleguide
       info: Styleguide
