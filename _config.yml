@@ -45,6 +45,8 @@ collections:
     output: true
   workshops:
     description: "Logospotter"
+  styleguide:
+    description: "Styleguide"
     output: true
 
 # Setting some defaults for collections - layouts, collection information.
@@ -70,3 +72,7 @@ defaults:
     values:
       layout: logospotter
       info: Logospotter
+      type: styleguide
+    values:
+      layout: default
+      info: Styleguide

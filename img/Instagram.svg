@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="29.0566192%" cy="99.7668773%" fx="29.0566192%" fy="99.7668773%" r="100.78975%" id="radialGradient-1">
+            <stop stop-color="#FFD776" offset="0%"></stop>
+            <stop stop-color="#F3A554" offset="24.63%"></stop>
+            <stop stop-color="#F15C3C" offset="37.93%"></stop>
+            <stop stop-color="#D94867" offset="53.94%"></stop>
+            <stop stop-color="#C32F87" offset="69.95%"></stop>
+            <stop stop-color="#7D63A7" offset="91.22%"></stop>
+            <stop stop-color="#5C6CB3" offset="98.52%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Icons" transform="translate(0.000000, -192.000000)">
+            <g id="Instagram" transform="translate(0.000000, 192.000000)"></g>
+        </g>
+        <g id="Instagram-logo-2016" transform="translate(1.000000, 1.000000)">
+            <g id="Group">
+                <path d="M21.9539535,17.0883721 C21.9539535,19.7334884 19.8204651,21.8772093 17.1855814,21.8772093 L4.8144186,21.8772093 C2.17953488,21.8772093 0.0460465116,19.7334884 0.0460465116,17.0883721 L0.0460465116,4.80930233 C0.0460465116,2.16418605 2.17953488,0.0204651163 4.8144186,0.0204651163 L17.1906977,0.0204651163 C19.8255814,0.0204651163 21.9590698,2.16418605 21.9590698,4.80930233 L21.9590698,17.0883721 L21.9539535,17.0883721 Z" id="Shape" fill="url(#radialGradient-1)"></path>
+                <g transform="translate(3.632558, 3.376744)">
+                    <path d="M14.3348837,10.6093023 C14.3348837,12.9106053 12.6099816,14.5906977 10.3534884,14.5906977 L4.38139535,14.5906977 C2.12974739,14.5906977 0.4,12.9153115 0.4,10.6093023 L0.4,4.6372093 C0.4,2.33590632 2.12490216,0.655813953 4.38139535,0.655813953 L10.3534884,0.655813953 C12.6051363,0.655813953 14.3348837,2.33120018 14.3348837,4.6372093 L14.3348837,10.6093023 L14.3348837,10.6093023 Z" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M10.3674419,7.62325581 C10.3283776,9.28073603 9.02402462,10.6232558 7.36744186,10.6232558 C5.71003324,10.6232558 4.36744186,9.28073603 4.36744186,7.62325581 C4.36744186,5.96692136 5.71003324,4.57766829 7.36744186,4.62325581 C9.38516471,4.6838803 10.4006057,5.97541833 10.3674419,7.62325581 L10.3674419,7.62325581 Z" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="11.5" cy="3.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
