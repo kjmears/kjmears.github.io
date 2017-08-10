@@ -1,0 +1,12 @@
+{% if page.wiki  %}
+<p>Read the <a href="http://en.wikipedia.org/wiki/{{ page.wiki }}">Wikipedia entry</a>
+{% else %}
+<p>
+{% endif %}
+Visit <a href="http://{{ page.website}}">website</a>
+
+{% if page.brand  %}
+Read the <a href="{{ page.brand }}">brand guidelines</a></p>
+{% else %}
+</p>
+{% endif %}

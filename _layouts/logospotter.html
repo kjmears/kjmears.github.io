@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% assign post = page %}
+
+<article itemscope itemtype="http://schema.org/Article">
+
+  <header id="post-header">
+    <h1 itemprop="name" id="post-title">{{ post.title }}</h1>
+  </header>
+
+  {% include posted.html %}
+
+  <img itemprop="image" src="./images/{{ page.image}}" alt="" />
+
+  <div id="post-content">
+    <span itemprop="articleBody">
+      {{ content }}
+    </span>
+
+
+    {% if post.tags.size > 0 %}
+        {% capture tags_content %}
+          {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>
+          {% else %}<i class="fa fa-tags"></i>
+          {% endif %}:
+        {% endcapture %}
+
+
+        {% for post_tag in post.tags %}
+            {% for data_tag in site.data.tags %}
+                {% if data_tag.slug == post_tag %}
+                    {% assign tag = data_tag %}
+                {% endif %}
+            {% endfor %}
+
+            {% if tag %}
+                {% capture tags_content_temp %}
+                  {{ tags_content }} <a href="{{ site.baseurl }}/{{ tag.slug }}/">{{ tag.name }}</a>
+                  {% if forloop.last == false %}, {% endif %}
+                {% endcapture %}
+
+                {% assign tags_content = tags_content_temp %}
+
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        {% assign tags_content = '' %}
+    {% endif %}
+
+    <p id="post-meta">Tagged {{ tags_content }}</p>
+
+    {% include extras.html %}
+
+  </div>
+
+</article>
