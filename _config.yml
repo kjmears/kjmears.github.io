@@ -46,6 +46,7 @@ collections:
   logospotter:
     description: "Logospotter"
     output: true
+    output_tags: true 
   styleguide:
     description: "Styleguide"
     output: true

@@ -16,3 +16,24 @@ sitemap: false
   <li><a class="internal" href="{{t | downcase | replace:" ","-"  }}">{{t | downcase | replace:" ","-" }}</a> has {{ posts | size }} posts</li>
 {% endfor %}
 </ul>
+
+Tags in use in logospotter collection
+
+{% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
+
+{% for tag in tags %}
+  <a href="{{ tag }}">{{ tag }}</a>
+{% endfor %}
+
+
+<!-- {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
+{% for tag in tags %}
+  <h3>{{ tag }}</h3>
+  <ul>
+  {% for review in site.logospotter %}
+    {% if review.tags contains tag %}
+    <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %} -->

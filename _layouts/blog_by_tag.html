@@ -5,6 +5,8 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p>{{ content }}</p>
 
+<h2>test - {{ site.logospotter.files}}</h2>
+
 <div>
 
     {% if site.tags[page.tag] %}
@@ -20,16 +22,3 @@ layout: default
        {% endif %}
     </ul>
 </div>
-
-
-{% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
-{% for tag in tags %}
-  <h3>{{ tag }}</h3>
-  <ul>
-  {% for note in site.logospotter %}
-    {% if note.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %}
