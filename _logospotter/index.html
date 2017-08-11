@@ -1,6 +1,7 @@
 ---
 layout: default
 meta: A collection of logo reviews
+invisible: 1
 ---
 
 <div class="home">
@@ -10,19 +11,22 @@ meta: A collection of logo reviews
 
 
 <ul class="taglist">
-	{% assign sorted_pages = (site.posts | sort: 'id') %}
-	{% for blob in sorted_pages %}
+	{% assign sorted_pages = (site.logospotter | sort: 'id') %}
+	{% for review in sorted_pages %}
+	{% if review.invisible == null %}
 
 
 	<li>
-		<a href="{{ blob.url | prepend: site.baseurl }}" class="img">
-			<img src="/images/logospotter/thumbs/{{ blob.image}}" alt="" />
+		<a href="{{ review.url }}" class="img">
+			<img src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail" />
 		</a>
 	</li>
+	{% endif %}
 
 	{% endfor %}
 
 </ul>
+
 
 
 </div>

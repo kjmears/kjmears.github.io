@@ -1,5 +1,4 @@
 ---
-layout: default
 title: University of Aberdeen
 excerpt: Complex (and colourful) shield design allied to strong and sure typography for an ancient University.
 date: 2010-03-27 19:47:13 +00:00

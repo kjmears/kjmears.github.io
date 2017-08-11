@@ -54,26 +54,25 @@ collections:
 # with more to follow
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: project
     values:
       layout: project
       info: College Project
-    scope:
+  - scope:
       path: ""
       type: workshops
     values:
       layout: workshop
       info: Workshops
-    scope:
+  - scope:
       path: ""
       type: logospotter
     values:
       layout: logospotter
       info: Logospotter
-    scope:
+  - scope:
       path: ""
       type: styleguide
     values:
