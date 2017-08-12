@@ -1,0 +1,109 @@
+- slug: brand
+  name: Brand Guidelines
+
+- slug: blue
+  name: Blue
+- slug: red
+  name: Red
+- slug: orange
+  name: Orange
+- slug: purple
+  name: Purple
+- slug: mono
+  name: Monocolour
+- slug: yellow
+  name: Yellow
+- slug: green
+  name: Green
+- slug: grey
+  name: Grey
+
+
+- slug: wales
+  name: Welsh
+- slug: scotland
+  name: Scottish
+- slug: irish
+  name: Irish
+- slug: english
+  name: English
+
+- slug: northeast
+  name: North East
+- slug: northwest
+  name: North West
+- slug: yorkshumber
+  name: Yorkshire and the Humber
+- slug: eastmidlands
+  name: East Midlands
+- slug: westmidlands
+  name: West Midlands
+- slug: east
+  name: East of England
+- slug: london
+  name: London
+- slug: southeast
+  name: South East
+- slug: southwest
+  name: South West
+
+- slug: crest
+  name: Crest
+- slug: abstract
+  name: Abstract
+- slug: circle
+  name: Circle
+
+- slug: animal
+  name: Animal
+- slug: shield
+  name: Shield
+
+- slug: sansserif
+  name: Sans-serif
+- slug: serif
+  name: Serif
+- slug: script
+  name: Script
+- slug: uppercase
+  name: Uppercase
+- slug: lowercase
+  name: Lowercase
+- slug: typographic
+  name: Typographic
+- slug: bi
+  name: Bi-lingual
+
+
+- slug: russell-group
+  name: Russell Group
+- slug: 1994-group
+  name: 1994-group
+- slug: million+
+  name: Million +
+- slug: ua
+  name: University Alliance
+- slug: yorks
+  name: Yorkshire Universities
+- slug: gw4
+  name: GW4
+- slug: m5
+  name: M5 Universities
+- slug: ccuc
+  name: Cathederals Group
+- slug: plateglass
+  name: Plateglass University
+
+- slug: red-brick
+  name: Red Brick University
+
+- slug: whiterose
+  name: White Rose University Consortium
+- slug: ses
+  name: "Science and Engineering South (SES)"
+- slug: earc
+  name: Eastern Academic Research Consortium
+- slug: ncuk
+  name: The Northern Consortium (NCUK)
+- slug: n8
+  name: N8 Research Parnership

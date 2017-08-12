@@ -4,8 +4,10 @@ layout: default
 
 
 
-<article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  
+<article class="post">
+	 <h1 class="post-category">
+		 <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a> {{ page.title }}
+	 </h1>
+
   {{ content }}
 </article>

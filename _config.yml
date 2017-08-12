@@ -43,21 +43,39 @@ collections:
   workshops:
     description: "Workshops"
     output: true
+  logospotter:
+    description: "Logospotter"
+    output: true
+    output_tags: true 
+  styleguide:
+    description: "Styleguide"
+    output: true
 
 # Setting some defaults for collections - layouts, collection information.
 # with more to follow
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: project
     values:
       layout: project
       info: College Project
-    scope:
+  - scope:
       path: ""
       type: workshops
     values:
       layout: workshop
       info: Workshops
+  - scope:
+      path: ""
+      type: logospotter
+    values:
+      layout: logospotter
+      info: Logospotter
+  - scope:
+      path: ""
+      type: styleguide
+    values:
+      layout: styleguide
+      info: Styleguide

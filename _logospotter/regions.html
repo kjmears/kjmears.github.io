@@ -1,0 +1,59 @@
+---
+layout: default
+meta: A collection of logo reviews
+title: Logos by region
+invisible: 1
+---
+Deciding to group logos by region(and country) made me wonder about existing regions. Sure enough, the [ONS](https://www.ons.gov.uk/methodology/geography/geographicalproducts/namescodesandlookups/namesandcodeslistings/namesandcodesforadministrativegeography) use regions, and after navigating some pretty detailed and technical articles I found what are called GSS Geographical Codes.
+
+<h2>England by region</h2>
+
+{% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
+
+<h3>North East</h3>
+{% for tag in tags %}
+
+  {% for review in site.logospotter %}
+    {% if review.tags contains tag %}
+
+      {% if tag == "northeast" %}
+        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+      {% endif %}
+
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+<h3>North West</h3>
+
+{% for tag in tags %}
+
+  {% for review in site.logospotter %}
+    {% if review.tags contains tag %}
+
+      {% if tag == "northwest" %}
+        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+      {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endfor %}
+
+<h3>Wales</h3>
+
+{% for tag in tags %}
+  <ul class="list-unstyled">
+  {% for review in site.logospotter %}
+    {% if review.tags contains tag %}
+      {% if tag == "wales" %}
+        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+
+
+{% endfor %}

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1 class="post-category">
+ <a href="/sketchnotes">Sketchnotes</a> {{ page.title }}
+</h1>
+
+<p>{{ content }}</p>
+
+<section>
+	{% for post in site.tags[page.tag] %}
+			{% include panel.html %}
+	{% endfor %}
+</section>

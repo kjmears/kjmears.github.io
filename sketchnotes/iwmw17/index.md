@@ -1,7 +1,9 @@
 ---
-layout: page
-title: IWMW17 Sketchnotes
+layout: blog_by_tag_sketchnotes
+category: sketchnotes
+title: IWMW17
 homepage: true
+tag: iwmw17
 ---
 
 
@@ -20,15 +22,6 @@ I had so many good conversations with people in other Universities, seeing that 
 Digital transformation was again on the agenda, but with people at very different stages and different approaches to make it work for them, neatly summarised by Stratos from Edinburgh -
 
 > Anyone can copy your strategy, but nobody can copy your culture
-
-
-<section>
-  {% assign sorted = (site.tags.iwmw17 | sort: 'date') %}
-	{% for post in sorted%}
-	{% include panel.html %}
-	{% endfor %}
-
-</section>
 
 
 *[HE]: Higher Education

@@ -1,0 +1,36 @@
+---
+layout: default
+meta: A collection of logo reviews
+invisible: 1
+---
+
+
+<header>
+	<h1 class="post-category">
+	 Logospotter
+ </h1>
+</header>
+
+<p>A collection of reviews and information about logos used by UK Universities. I thought it would be interesting, educational and enjoyable to gather examples and research a little more about the logos and the particular demands of designing for this sector.
+	Turns out, it took way longer than I thought</p>
+
+	<div class="gallery">
+	{% assign sorted_pages = (site.logospotter | sort: 'id') %}
+	{% for review in sorted_pages %}
+	{% if review.invisible == null %}
+		<figure class="gallery__item">
+			<a href="{{ review.url }}" class="img">
+				<img src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail" />
+			</a>
+		</figure>
+	{% endif %}
+
+	{% endfor %}
+
+	</div>
+
+
+
+<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

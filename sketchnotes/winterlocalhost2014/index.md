@@ -1,14 +1,9 @@
 ---
-layout: page
-title: Winter Localhost 2014 Sketchnotes
-
+layout: blog_by_tag_sketchnotes
+category: sketchnotes
+title: Winter Localhost 2014
+tag: winterlocalhost2014
 ---
-
-
-<section>{% for post in site.tags.winterlocalhost2014 %}
-			{% include panel.html %}
-	{% endfor %}
-		</section>
 
 
 Collected sketchnotes from the last localhost of 2014.

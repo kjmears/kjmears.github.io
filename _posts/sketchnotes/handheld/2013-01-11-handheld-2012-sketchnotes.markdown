@@ -8,7 +8,7 @@ image: /handheld2012-collected-sketchnotes.png
 image-thumb: /handheld2012-collected-sketchnotes-thumb.png
 category: sketchnotes
 tags:
-- handheld
+- handheld12
 - live
 homepage: true
 

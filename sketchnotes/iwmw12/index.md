@@ -1,7 +1,8 @@
 ---
-layout: page
-title: IWMW2012 Sketchnotes
-
+layout: blog_by_tag_sketchnotes
+category: sketchnotes
+title: IWMW2012
+tag: iwmw12
 redirect_from:
 - "/sketchnotes/sketchnoting-at-iwmw12.html"
 
@@ -17,10 +18,4 @@ I've now made them all available on Flickr, and this is one that combines them a
 
 You can see them all at <a href="http://www.flickr.com/photos/mearso/sets/72157630408951280/">The IWMW flickr set.</a>
 
-<p>Collection of sketchnotes done watching videos of various descriptions</p>
-
-<section>
-{% for post in site.tags.iwmw12 %}
-			{% include panel.html %}
-	{% endfor %}
-	</section>
+Collection of sketchnotes done watching videos of various descriptions

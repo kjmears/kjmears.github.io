@@ -5,7 +5,7 @@ date: 2013-12-06 11:35:18.000000000 +00:00
 image: /start-before-youre-ready.png
 image-alt: start before you're ready
 image-thumb: /start-before-youre-ready-thumb.png
-
+category: blog
 ---
 
 I recently read [Levelling up][level] by <a href="https://twitter.com/iamashley">@iamashely</a>, and thought it might be nice to write about it's effect on me.

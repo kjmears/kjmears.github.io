@@ -1,0 +1,38 @@
+<p>
+
+  <time datetime="{{ post.date | date_to_xmlschema }}">
+    <meta itemprop="datePublished" content="{{ post.date | date: '%b. %d, %Y' }}">
+  </time>
+
+  {% assign d = page.date | date: "%-d" %}
+  Posted {{ page.date | date: "%b" }}
+    {% case d %}
+      {% when "1" or "21" or "31" %}
+        {{ d }}st
+      {% when "2" or "22" %}
+        {{ d }}nd
+      {% when "3" or "23" %}
+        {{ d }}rd
+      {% else %}
+        {{ d }}th
+    {% endcase %}
+  {{ page.date | date: "%Y" }}
+
+  {% if page.updated %}
+    {% assign d = page.updated | date: "%-d" %}
+    Updated {{ page.updated | date: "%b" }}
+      {% case d %}
+        {% when "1" or "21" or "31" %}
+          {{ d }}st
+        {% when "2" or "22" %}
+          {{ d }}nd
+        {% when "3" or "23" %}
+          {{ d }}rd
+        {% else %}
+          {{ d }}th
+      {% endcase %}
+    {{ page.updated | date: "%Y" }}
+  {% endif %}
+</p>
+
+<!-- https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th/18938806#18938806 -->

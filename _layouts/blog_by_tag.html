@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1 class="post-category">
+ <a href="/logospotter">Logospotter</a>
+</h1>
+
+<h2>{{ page.title }}</h2>
+<p>{{ content }}</p>
+
+
+<div>
+
+
+
+    {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
+    {% for tag in tags %}
+      <ul class="list-unstyled">
+      {% for review in site.logospotter %}
+        {% if review.tags contains tag %}
+          {% if tag == page.tag %}
+            <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endfor %}
+</div>
