@@ -29,11 +29,11 @@ In a development befitting an institution with a [long estabished tradition of t
 
 'Rdg Swift' is a fairly quirky serif face, with some hefty wedge shaped terminals and serifs, set off by a large x-height.
 
-<img src="./images/25.gif" alt="University of reading font  &#039;swift&#039;" title="University of reading font  &#039;swift&#039;" width="450" height="58" class="alignnone size-full wp-image-640" />
+<img src="/images/logospotter/25.gif" alt="University of reading font  &#039;swift&#039;" title="University of reading font  &#039;swift&#039;" width="450" height="58" class="alignnone size-full wp-image-640" />
 
 'Rdg Vesta' is a reasonably narrow face with some tapered elements, reminding me of a compressed optima.
 
-<img src="./images/26.gif" alt="University of reading font  &#039;Rdg Vesta&#039;" title="University of reading font  &#039;Rdg Vesta&#039;" width="450" height="64" class="alignnone size-full wp-image-641" />
+<img src="/images/logospotter/26.gif" alt="University of reading font  &#039;Rdg Vesta&#039;" title="University of reading font  &#039;Rdg Vesta&#039;" width="450" height="64" class="alignnone size-full wp-image-641" />
 
 Together these faces are used extensively, providing a range of options and the idea of providing easy and practical steps for anyone to acquire the fonts might make the task of enforcing the brand a more manageable one.
 

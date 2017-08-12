@@ -20,6 +20,6 @@ id: bournemouth
 
 Reminds me of an American college with it's confident and bold lettering, and the choice to eschew the traditional shields and crests in favour of strong graphic device. An intriguing contrast between the very direct 'B' and the more involved and maze-like pattern. A pattern that made the Moscow Olympic logo spring to mind up as an association.
 
-<img src="./images/69.gif" alt="Moscow Olympic Logo" title="Moscow Olympic Logo" width="400" height="350" class="alignnone size-full wp-image-525" />
+<img src="/images/logospotter/69.gif" alt="Moscow Olympic Logo" title="Moscow Olympic Logo" width="400" height="350" class="alignnone size-full wp-image-525" />
 
 The decision to keep it simply a typographic solution then lends itself (maybe even requires) a variety of ideas and approaches. Some examples are given by the agency that worked on the brand - [Radley Yeldar](http://ry.com/what-we-do/brand/bournemouth-university.aspx)

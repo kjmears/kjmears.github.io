@@ -29,7 +29,7 @@ Accompanied by a change of name Ulster have engaged in an endearing bit of retro
 
 The only thing I'm unsure about is if the 'bird' part of the 'U' is maybe a little far away, feeling a little disconnected. Interestingly, in the stacked, vertical version it seems to be ok flying free.
 
-![](./images/ulster-stacked.gif)
+![](/images/logospotter/ulster-stacked.gif)
 
 The device works well in plenty of colours, so much so that the gold is one of of my least favourite. That's a minor quibble with a logo that seems very considered within a branding approach and system.
 
@@ -39,7 +39,7 @@ Good to see screen based media examples and suggestions in the guidelines.
 
 ## Previous Logo
 
-![](./images/ulster-old.gif)
+![](/images/logospotter/ulster-old.gif)
 
 The graphic element of the logo is the combination of two letter U's interlocking on a background of 3 colours. The U's are from a srif font, with one smaller than the other. The white one bleeds to the edge of the blue box, making the serifs look almost triangular. The light blue U in the foreground is more intact, but has an odd green patch appended on the top. If there's some significance to the shapes created by the interlocking and negative space I'm afraid it's lost on me. It seems overly fussy, and a distracting rendering of two letters.
 

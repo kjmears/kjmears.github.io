@@ -25,7 +25,7 @@ As one would probably expect from such an established old institution, the trust
 
 The colours in the shield look a little bit primary for my taste, lending it a clip art feel. A much more interesting approach is taken by the black and white version of the logo.
 
-![](./images/st-andrews-bw.gif)
+![](/images/logospotter/st-andrews-bw.gif)
 
 the textures lend a more restrained and dare I say, ancient feel.
 

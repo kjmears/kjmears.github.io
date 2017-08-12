@@ -24,11 +24,11 @@ id: lboro
 
 Before I could get to write my review of the Loughborough logo I chanced up the ongoing saga of their rebrand, subsequent pause and new proposal.
 
-![](./images/lboro-old.gif)
+![](/images/logospotter/lboro-old.gif)
 
 The soon to be old logo is an interesting geometric take on the shield motif that cleverly incorporates an 'L' as negative space. Looking older than it's 1996 creation it feels like a 60s plate-glass university logo. No bad thing to my mind, and it clearly engendered some loyalty at the University.
 
-![](./images/lboro-octagon.png)
+![](/images/logospotter/lboro-octagon.png)
 
 <caption>The logo that generated all the fuss</caption>
 
@@ -40,6 +40,6 @@ The new identity is pretty bold, though all those rounded corners make for an ev
 
 Also on that page is the proposal for a new crest based logo (now in use).
 
-![](./images/lboro.gif)
+![](/images/logospotter/lboro.gif)
 
 Ironically, the combination of the shield/crest in the proposal and the new typeface (A little [DIN-esque](http://idsgn.org/posts/know-your-type-din/) ) works well, even if the detail in the shield is tricky to render. I like the way that [Durham](dur.html) managed their shield and let the white bleed out.

@@ -40,7 +40,7 @@ in the comments in [this article](http://www.coventrytelegraph.net/news/warwick-
 
 I have to admit I'm a little confused which is the actual official logo. The Gradient filled triangles that seem to be the logo, don't make an appearance on the website or social media accounts of the University. That confusion doesn't seem to be an auspicious start for the new identity.
 
-![](./images/warwick.jpg)
+![](/images/logospotter/warwick.jpg)
 
 Unlike the article on [Underconsideration](http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_university_of_warwick.php#.Vd6RZtNViko) I quite like the horizontal bar that anchors the 'w' device on screens. It seems to me that the logo (the flat version at least) has been designed with a edges of screens in mind and works well as a consistent edge device on the website, though it seems to drop 'The University of Warwick' quite quickly from sections of the site. It feels like a sub-brand that works better than the main logo. The 'logo as window' trope is also in danger of being overdone.
 
@@ -48,7 +48,7 @@ In the graident heavy version, the triangles feel a little inspid and the type w
 
 ## Previous logo
 
-![](./images/warwick-old.gif)
+![](/images/logospotter/warwick-old.gif)
 
 Set in what appears to be Trajan Regular for 'the university of' and then perhaps a custom variant for the larger Warwick text. The inscriptional font brings to mind all the usual associations of age, experience and tradition. In this case there is a certain liveliness created by the long tail of the R and the very sharp serifs seem to be breaking out at angles.
 

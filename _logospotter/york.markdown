@@ -34,7 +34,7 @@ The decision to evolve and retain the best of the previous logo is a good one, a
 
 ## Previous Review
 
-![](./images/york-old.gif)
+![](/images/logospotter/york-old.gif)
 
 ### A Balanced and lively approach
 

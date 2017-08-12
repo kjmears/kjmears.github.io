@@ -29,7 +29,7 @@ An improvment on the overly plain previous logo, and on safe ground, conforming 
 
 ## Previous logo
 
-![](./images/brunel-old.gif)
+![](/images/logospotter/brunel-old.gif)
 
 ### Straightforward and simple
 

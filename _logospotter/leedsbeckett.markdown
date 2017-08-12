@@ -27,12 +27,12 @@ The University changed it's name in September 2014, to 'Leeds Beckett University
 
 ## Older review
 
-<img src="./images/leedsmet.gif" alt="Leeds Met Article Image Logo"/>
+<img src="/images/logospotter/leedsmet.gif" alt="Leeds Met Article Image Logo"/>
 
 Leeds Met logo is made of people.
 
 If you look closely (and I hope you [enjoyed the reference](http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Movie_Quotes)), you can see representations of the human figure in various states of motion, which combine to make up a rose. You can see this more clearly in the previous version of the logo, which perhaps suggests that the new version is aiming to emphasise yorkshire rose's prominence rather than the more generic people. Oddly enough, I found that once I've seen the people in the logo, I now have a little trouble seeing it as a rose.
 
-<img src="./images/59.gif" alt="Leeds Met Article Image Logo" title="Leeds Met Article Image"/>
+<img src="/images/logospotter/59.gif" alt="Leeds Met Article Image Logo" title="Leeds Met Article Image"/>
 
 Set in all lower case and displayed around the rose, the text is condensed Helvetica Neue Condensed leading to a vaguely utilitarian feel. Not sure about the alignment the text - I feel that a strong vertical alignment might have provided a better contrast with the looser flower style.

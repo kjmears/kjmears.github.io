@@ -35,7 +35,7 @@ Rendered like it is, the shield is pretty badge-like. Accompanied by [Foral Pro]
 
 ## Older logo
 
-![](./images/keele-old.gif)
+![](/images/logospotter/keele-old.gif)
 
 Strangely disparate logo. The illustrative part seems to function independently of the typography.
 

@@ -27,7 +27,7 @@ The type is more legible than the previous effort, but it doesn't feel like ther
 
 ## Previous Review
 
-![](./images/cumbria-old.gif)
+![](/images/logospotter/cumbria-old.gif)
 
 Extremely simple logo consisting of a plain rendering of the University of Cumbria in what looks like a variation of Garamond, with the addition of a set of six leaves in place of the dot over the last i. Reminiscent of a nature related organisation I presume the leaves are a reflection of the very rural character and concerns of the university. Not sure how well it works since there's no real clue of an educational angle. I couldn't see if there was any significance in the numbers of leaves (perhaps campuses?).
 

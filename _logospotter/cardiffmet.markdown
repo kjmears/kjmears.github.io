@@ -33,7 +33,7 @@ The marque (as the guidelines call it) is an elegant and modern take on the trad
 
 ## Previous logo
 
-![](./images/uwic.gif)
+![](/images/logospotter/uwic.gif)
 
 Typographic only treatment of the letters that make up University of Wales Institute Cardiff, which it's commonly abbreviated to.
 

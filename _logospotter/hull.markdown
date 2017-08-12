@@ -24,7 +24,7 @@ Multiple elements taken from the university crest designed by Sir Algernon Tudor
 
 The older version of Hull's logo shown here uses an egyptian style panel where the elements look like heiroglyphics.
 
-<img src="./images/32.gif" alt="University-of-Hull Old Logo" title="University-of-Hull Old Logo" width="211" height="118" class="alignnone size-full wp-image-623" />
+<img src="/images/logospotter/32.gif" alt="University-of-Hull Old Logo" title="University-of-Hull Old Logo" width="211" height="118" class="alignnone size-full wp-image-623" />
 
 ### Typography
 

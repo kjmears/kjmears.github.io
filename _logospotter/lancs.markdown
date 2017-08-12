@@ -23,7 +23,7 @@ id: lancs
 
 Big change from the old 'Atari' style logo to a more traditional and generic approach.
 
-![](./images/lancs-old.gif)
+![](/images/logospotter/lancs-old.gif)
 
 Unusual in that the shield is placed to the right of the text. The colour combination of red and a rather insipid gray, means the bottom half of the shield fades to the background. The placement of the red roses and book in the shield also creates an odd face, that once seen is hard to shake. (For more in that vein, have a look the great [Faces in things](https://twitter.com/facespics) twitter feed.)
 

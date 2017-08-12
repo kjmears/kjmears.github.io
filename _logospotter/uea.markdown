@@ -34,4 +34,4 @@ The choice of [Gotham](http://typedia.com/explore/typeface/gotham/) is a good on
 
 An interesting typographic exercise with negative space the sharp logo is a big contrast with the previous UEA logo, shown below, which evokes a late 60s futuristic vision and was distinctive in it's simplicity and boldness. Perhaps indicative of the university seeking a repositioning away from it's 60s roots, the new one strikes me as a touch on the delicate side in comparison.
 
-<img src="./images/37.jpg" alt="University-of-East-Anglia Old Logo" title="University-of-East-Anglia Old Logo"/>
+<img src="/images/logospotter/37.jpg" alt="University-of-East-Anglia Old Logo" title="University-of-East-Anglia Old Logo"/>

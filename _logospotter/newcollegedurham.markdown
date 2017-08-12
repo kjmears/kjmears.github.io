@@ -20,6 +20,6 @@ id: newcollegedurham
 
 A seventies tinged logo reminding me of the old plymouth logo and has the feel of the angular polytechnic logos of that time.
 
-<img src="./images/plymouth-old.jpg" alt="University-of-Plymouth" />
+<img src="/images/logospotter/plymouth-old.jpg" alt="University-of-Plymouth" />
 
 The stacked parallograms are a mysterious shape which I guess are intended to be dynamic in a generic sort of way that works in a dated sort of way.

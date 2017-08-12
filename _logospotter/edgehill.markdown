@@ -27,7 +27,7 @@ Whilst I was looking for examples of this new logo I discovered [these gems](htt
 
 ## Previous logo
 
-![](./images/edgehill-old.gif)
+![](/images/logospotter/edgehill-old.gif)
 
 The logo uses an abstract device that with four curved wedges in graduated tones of a greenish blue.
 

@@ -32,6 +32,6 @@ Which I'm not entirely sure about. At present it seems there are some intriguing
 
 On the university website, a different and much tighter logo is used that eschews the graphic signifiers and is content to present a shield and the location.
 
-<img src="./images/48.png" alt="University-of-Dundee Article Image" title="University-of-Dundee Article Image" />
+<img src="/images/logospotter/48.png" alt="University-of-Dundee Article Image" title="University-of-Dundee Article Image" />
 
 Sometimes the well worn path might be better.

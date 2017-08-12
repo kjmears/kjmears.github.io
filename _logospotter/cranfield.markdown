@@ -29,7 +29,7 @@ A big upgrade from the old logo.
 
 ## Previous logo
 
-![](./images/cranfield-old.gif)
+![](/images/logospotter/cranfield-old.gif)
 
 ### Retro future treatment
 

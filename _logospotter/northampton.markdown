@@ -22,7 +22,7 @@ id: northampton
 
 The Northampton logo has an interesting approach, explained with this diagram from the corporate guidelines.
 
-<img src="./images/northampton-Article.gif" alt="University-of-Northampton-Article" title="University-of-Northampton-Article" width="460" height="113" />
+<img src="/images/logospotter/northampton-Article.gif" alt="University-of-Northampton-Article" title="University-of-Northampton-Article" width="460" height="113" />
 
 As you can see an attempt has been made to incorporate a few elements and meanings into the logo, it only really works if the letters function as letters first and foremost. Good idea to incorporate a graphic based obliquely on something important and relevant to the town, but trying to mangle the letters 'n' and 'u' into a pre-existing shape seems a step too far.
 

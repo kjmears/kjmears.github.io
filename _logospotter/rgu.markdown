@@ -24,7 +24,7 @@ Evolution more than revolution for the RGU logo. In this case the revolution mea
 
 ## Older review
 
-![](./images/rgu-old.gif)
+![](/images/logospotter/rgu-old.gif)
 
 The following areas were identified in the corporate guidelines, outlining the rationale for the changes to the name and the logo.
 
