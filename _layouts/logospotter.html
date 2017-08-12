@@ -5,11 +5,14 @@ layout: default
 
 <article itemscope itemtype="http://schema.org/Article">
 
-  <header id="post-header">
-    <h1 itemprop="name" id="post-title">{{ post.title }}</h1>
+  <header>
+    <h1 class="post-category">
+     <a href="/logospotter">Logospotter</a>
+   </h1>
+    <h2 itemprop="name" id="post-title">{{ post.title }}</h2>
   </header>
 
-<h2>{{ post.tags }}</h2>
+
   {% include logospotter-posted.html %}
 
   <img itemprop="image" src="/images/logospotter/{{ page.image}}" alt="" />
@@ -56,3 +59,36 @@ layout: default
   </div>
 
 </article>
+
+<!-- https://gist.github.com/johnfmorton/6c395361d259b23409ee6559fd909d5c -->
+
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% if page.collection %}
+  {% assign  document = site[the_collection] | sort: 'id'  %}
+{% endif %}
+
+{% for links in document %}
+{% if forloop.first %}
+	{% assign first = links %}
+{% endif %}
+{% if forloop.last %}
+	{% assign last = links %}
+{% endif %}
+  {% if links.title == page.title %}
+	{% unless forloop.first %}
+		{% assign prevurl = prev.url %}
+	{% endunless %}
+	{% unless forloop.last %}
+		{% assign next = document[forloop.index] %}
+		{% assign nexturl = next.url %}
+	{% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+{% assign firsturl = first.url %}
+{% assign lasturl = last.url %}
+
+{% if prevurl %}<a href="{{prevurl}}" class="prev">Prev</a>{% else %}<a href="{{lasturl}}" class="prev">Prev</a>{% endif %}<br />
+
+{% if nexturl %}<a href="{{nexturl}}" class="nxt">Next</a>{% else %}<a href="{{firsturl}}" class="prev">Next</a>{% endif %}
