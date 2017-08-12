@@ -13,27 +13,26 @@ sitemap: false
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-  <li><a class="internal" href="{{t | downcase | replace:" ","-"  }}">{{t | downcase | replace:" ","-" }}</a> has {{ posts | size }} posts</li>
+
+  <li><a href="{{t | downcase | replace:" ","-"  }}">{{t | downcase | replace:" ","-" }}</a> has {{ posts | size }} posts</li
+
+    <h3>{{ posts[2].category }}</h3>
 {% endfor %}
 </ul>
 
-Tags in use in logospotter collection
+<p>{{ site.tags }}</p>
+
+
+
+<h3>Tags in use in logospotter collection
+</h3>
 
 {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
 
 {% for tag in tags %}
+{% assign t = tag | first %}
+{% assign site.logospotter.posts = tag | last %}
+<li><a href="{{t | downcase | replace:" ","-"  }}">{{t | downcase | replace:" ","-" }}</a> has {{ site.logospotter.posts | size }} posts</li>
+
   <a href="{{ tag }}">{{ tag }}</a>
 {% endfor %}
-
-
-<!-- {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
-{% for tag in tags %}
-  <h3>{{ tag }}</h3>
-  <ul>
-  {% for review in site.logospotter %}
-    {% if review.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %} -->

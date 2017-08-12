@@ -5,4 +5,4 @@ tag: bi
 permalink: bi/
 ---
 
-Bi lingual logos
+Bi-lingual logos

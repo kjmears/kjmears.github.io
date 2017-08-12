@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag_sketchnotes
+tag: iwmw15
 category: sketchnotes
-title: Presentations
-tag: presentations
+title: IWMW15
 ---

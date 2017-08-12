@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Ebooks Presentation Sketchnotes
+title: Ebooks Presentation
 image: /ebooks.png
 image-thumb: /ebooks-thumb.gif
 category: sketchnotes

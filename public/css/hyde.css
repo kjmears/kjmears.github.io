@@ -304,7 +304,7 @@ section {
 .page-title, .post-category {
   font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
   margin-top: 0;
-  color:      #268bd2;
+  color:      #444;
   font-size: 2.5rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -433,4 +433,31 @@ figure{
     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
+}
+
+.taglist li {
+  display: inline;
+}
+
+.gallery {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-align-content: center;
+	align-content: center;
+	background-color: #fff;
+}
+
+.gallery__item {
+	margin: 0;
+	padding: 1%;
+	width: 33%;
 }

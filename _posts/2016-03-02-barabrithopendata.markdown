@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Bara Brith Open Data Sketchnotes"
+title: "Bara Brith Open Data Event"
 date: "2016-03-02"
-
 category: sketchnotes
-tags: live
+tags:
+  - live
 image: /bara-brith-open-data-2016.jpg
 image-original: /bara-brith-open-data-2016-original.jpg
 image-thumb: /bara-brith-open-data-2016-thumb.jpg

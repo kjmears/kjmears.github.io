@@ -1,14 +1,8 @@
 ---
-layout: page
+layout: blog_by_tag_sketchnotes
+category: sketchnotes
 title: OER 2015 - Mainstreaming Open Education
-
+tag: oer15
 ---
 
 Had an enjoyable, interesting and fruitful day at the [OER15 Conf](https://oer15.oerconf.org/) where I managed to capture a flavour of the talks.
-
-<section>
-	{% for post in site.tags.oer15 %}
-			{% include panel.html %}
-	{% endfor %}
-
-</section>

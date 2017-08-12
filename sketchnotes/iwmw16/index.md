@@ -1,6 +1,8 @@
 ---
-layout: page
-title: IWMW16 Sketchnotes
+layout: blog_by_tag_sketchnotes
+category: sketchnotes
+title: IWMW16
+tag: iwmw16
 homepage: true
 ---
 

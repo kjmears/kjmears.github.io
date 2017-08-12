@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: logospotter
 invisible: 1
 title: About
 date: 2011-11-01 09:00:48 +00:00
