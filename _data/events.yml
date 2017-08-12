@@ -111,7 +111,7 @@
   event: iwmw.org/iwmw2015/
   info: iwmw.org/iwmw2015/talks/
   lanyrd: /2015/iwmw15/
-  sketchnotes: /sketchnotes/iwmw15-welcome.html
+  sketchnotes: /sketchnotes/iwmw15
   speaker:
     - ukwebfocus
     - m8nd1
@@ -232,7 +232,6 @@
   info: iwmw.org/iwmw2014/talks/why-you-dont-need-a-social-media-plan-and-how-to-create-one-anyway/
   image: iwmw14/iwmw14-vision-panel-thumb.jpg
   lanyrd: /2014/iwmw14/
-  type: live
   speaker:
     - tracyplayle
     - boagworld
@@ -257,7 +256,6 @@
   event: port80events.co.uk/event/port80-2014/
   image: port80/2014/port80-2014-05-16-denise-jacobs-thumb.gif
   lanyrd: /2014/port80events/
-  type: live
   speaker:
     - denisejacobs
     - hereinthehive
@@ -285,7 +283,6 @@
   info: iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html
   image: iwmw13/iwmw13-open-education-thumb.gif
   lanyrd: /2013/iwmw13/
-  type: live
   speaker:
     - cgreen
     - dajbelshaw
@@ -333,7 +330,6 @@
   code: handheld2013
   image: handheld2012-collected-sketchnotes-thumb.png
   lanyrd: /2012/handheldconf/
-  type: live
   speaker:
     - aral
     - daveaddey
@@ -355,7 +351,6 @@
   event: iwmw.ukoln.ac.uk/iwmw2012
   image: iwmw12/iwmw12-thumb.gif
   lanyrd: /2012/iwmw12/
-  type: live
   speaker:
     - usabilityed
     - kevingashley
@@ -481,14 +476,13 @@
 - title: GovCampCymru 2014
   date: 2014-09-27
   sketchnotes: /sketchnotes/govcampcymru/
-  speaker: phoenixlily
   event: govcampcymru.org
   code: gccy-02
   image: govcampcymru2014/govcampcymru2014-helia-phoenix-thumb.gif
   lanyrd: /2014/govcampcymru/
   type: live
   speaker:
-    - heliaphoenix
+    - phoenixlily
     - digitalst
     - wpoates1
     - dafyddbach
