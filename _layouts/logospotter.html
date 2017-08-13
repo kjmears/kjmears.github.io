@@ -7,13 +7,13 @@ layout: default
 
   <header>
     <h1 class="post-category">
-     <a href="/logospotter">Logospotter</a>
+     <a href="/logospotter">Logospotter</a> Review
    </h1>
     <h2 itemprop="name" id="post-title">{{ post.title }}</h2>
   </header>
 
 
-  {% include logospotter-posted.html %}
+
 
   <img itemprop="image" src="/images/logospotter/{{ page.image}}" alt="" />
 
@@ -22,6 +22,7 @@ layout: default
       {{ content }}
     </span>
 
+  {% include logospotter-posted.html %}
 
     {% if post.tags.size > 0 %}
         {% capture tags_content %}
@@ -89,6 +90,8 @@ layout: default
 {% assign firsturl = first.url %}
 {% assign lasturl = last.url %}
 
-{% if prevurl %}<a href="{{prevurl}}" class="prev">Prev</a>{% else %}<a href="{{lasturl}}" class="prev">Prev</a>{% endif %}<br />
+{% if prevurl %}
+<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}<a href="{{lasturl}}" class="btn btn-default prev">Prev</a>{% endif %}
 
-{% if nexturl %}<a href="{{nexturl}}" class="nxt">Next</a>{% else %}<a href="{{firsturl}}" class="prev">Next</a>{% endif %}
+{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}<a href="{{firsturl}}" class="btn btn-default prev">Next</a>
+{% endif %}

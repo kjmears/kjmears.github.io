@@ -457,7 +457,12 @@ figure{
 }
 
 .gallery__item {
-	margin: 0;
+	/*margin: 0;
 	padding: 1%;
-	width: 33%;
+	width: 33%;*/
+}
+
+.nxt, .prev{
+  font-weight: bold;
+margin: 0 auto;
 }
