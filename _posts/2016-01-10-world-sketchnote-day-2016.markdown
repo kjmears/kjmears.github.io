@@ -1,7 +1,8 @@
 ---
-layout: blog
+layout: post
 title: "World Sketchnote Day 2016"
 date: "2016-01-10"
+category: sketchnotes
 ---
 
 [![](http://sketchnotearmy.com/storage/post-images/wsd-logo-200px.png?__SQUARESPACE_CACHEVERSION=1451666769957)](http://sketchnotearmy.com/world-sketchnote-day/)

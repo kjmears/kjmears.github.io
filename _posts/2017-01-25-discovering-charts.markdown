@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Designing charts to learn about designing charts"
 date: "2017-01-25"
 tags: data

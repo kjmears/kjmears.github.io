@@ -1,12 +1,9 @@
 ---
-
 layout: post
 title: Apple Presentation Slides
 image: /apple-slides/apple.gif
 image-thumb: /apple-slides/apple-thumb.gif
 category: slides
-
-
 ---
 
 This week included my most favourite thing which is to be asked to come up with some illustrations. I tend to default to what seems to becoming my 'style'; Mainly, I think becauseI can do them pretty quickly and give people the chance to see how I'm thinking.
