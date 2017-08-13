@@ -9,11 +9,10 @@ layout: default
     <h1 class="post-category">
      <a href="/logospotter">Logospotter</a> Review
    </h1>
+
+    {% include logospotter-posted.html %}
     <h2 itemprop="name" id="post-title">{{ post.title }}</h2>
   </header>
-
-
-
 
   <img itemprop="image" src="/images/logospotter/{{ page.image}}" alt="" />
 
@@ -22,7 +21,7 @@ layout: default
       {{ content }}
     </span>
 
-  {% include logospotter-posted.html %}
+
 
     {% if post.tags.size > 0 %}
         {% capture tags_content %}
@@ -53,7 +52,7 @@ layout: default
         {% assign tags_content = '' %}
     {% endif %}
 
-    <p id="post-meta">Tagged {{ tags_content }}</p>
+    <p id="post-meta"><em>Tagged</em> {{ tags_content }}</p>
 
     {% include logospotter-extras.html %}
 

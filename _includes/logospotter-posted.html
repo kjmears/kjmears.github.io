@@ -5,7 +5,7 @@
   </time>
 
   {% assign d = page.date | date: "%-d" %}
-  Posted {{ page.date | date: "%b" }}
+  Posted<strong> {{ page.date | date: "%b" }}
     {% case d %}
       {% when "1" or "21" or "31" %}
         {{ d }}st
@@ -16,11 +16,11 @@
       {% else %}
         {{ d }}th
     {% endcase %}
-  {{ page.date | date: "%Y" }}
+  {{ page.date | date: "%Y" }}</strong>
 
   {% if page.updated %}
     {% assign d = page.updated | date: "%-d" %}
-    Updated {{ page.updated | date: "%b" }}
+    Updated<strong> {{ page.updated | date: "%b" }}
       {% case d %}
         {% when "1" or "21" or "31" %}
           {{ d }}st
@@ -31,7 +31,7 @@
         {% else %}
           {{ d }}th
       {% endcase %}
-    {{ page.updated | date: "%Y" }}
+    {{ page.updated | date: "%Y" }}</strong>
   {% endif %}
 </p>
 
