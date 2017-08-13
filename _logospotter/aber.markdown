@@ -28,20 +28,20 @@ In common with lots of universities, Aberystwyth uses a shield which has been de
 
 <!-- more -->
 
-bq. The main features are:
-
-*   Two red dragons which symbolise the optimism of Victorian
-north and south Wales
-
-*   An Open Book - symbolising the world of learning
-
-*   Eagle or Phoenix rising open-winged above a flaming tower
-
-*   symbolising, perhaps, the rebirth of the College after the
-fire of 1885
-
-*   The legend 'Nid Byd, Byd Heb Wybodaeth' - 'A World Without
-Knowledge, is No World’
+> The main features are:
+>
+> *   Two red dragons which symbolise the optimism of Victorian
+> north and south Wales
+>
+> *   An Open Book - symbolising the world of learning
+>
+> *   Eagle or Phoenix rising open-winged above a flaming tower
+>
+> *   symbolising, perhaps, the rebirth of the College after the
+> fire of 1885
+>
+> *   The legend 'Nid Byd, Byd Heb Wybodaeth' - 'A World Without
+> Knowledge, is No World’
 
 ### Nod to tradition
 
