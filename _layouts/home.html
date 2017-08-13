@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<article class="post">
+	 <h1 class="post-category">
+		 {{ page.title }}
+	 </h1>
+
+	{{ content }}
+</article>
+
+<aside class="related">
+	  {% if page.event %}
+			<div class="event-meta">
+				<h3>About the Event</h3>
+				<ul>
+		      {% if page.event %}
+		        <li>
+							<a href="http://{{ page.event }}">Event Website</a>
+						</li>
+					{% endif %}
+
+					{% if page.info %}
+		        <li>
+							<a href="{{ page.info }}">Event Info</a>
+						</li>
+		      {% endif %}
+
+		      {% if page.video %}
+		        <li>
+							<a href="http://{{ page.video }}">Event Video</a>
+						</li>
+		      {% endif %}
+
+					{% if page.lanyrd %}
+						<li>
+							<a href="http://lanyrd.com{{ page.lanyrd }}">Lanyrd</a>
+						</li>
+					{% endif %}
+
+		      {% if page.slides %}
+		        <li>
+							<a href="http://{{ page.slides }}">Slides</a>
+						</li>
+		      {% endif %}
+				</ul>
+
+		  </div>
+	{% endif %}
+
+	{% if page.speaker %}
+		{% include speaker-info.html %}
+	{% endif %}
+
+
+	<div class="cc-meta">
+		{% if page.cc %}
+		{% if page.cc == 'BY' %}
+			{% include CC_BY.html %}
+		{% endif %}
+
+		{% if page.cc == 'BY-SA' %}
+			{% include CC_BY-SA.html %}
+		{% endif %}
+
+		{% if page.cc == 'BY-NC-SA' %}
+			{% include CC_BY-NC-SA.html %}
+		{% endif %}
+
+		{% else %}
+			{% include licence.html %}
+		{% endif %}
+	</div>
+
+</aside>
