@@ -28,3 +28,12 @@
 {% else %}
   <meta name="description" content="{{ page.excerpt | strip_html }} {{ page.tags[0]}}">
 {% endif %}
+
+<meta property="article:publisher" content="{{ site.author.url }}"/>
+<meta property="article:tag" content="information design"/>
+<meta property="article:tag" content="practical advice"/>
+<meta property="article:tag" content="sketching"/>
+<meta property="article:tag" content="sketchnotes"/>
+<meta property="article:tag" content="visual note-taking"/>
+<meta property="article:published_time" content="{{ page.date }}"/>
+<meta property="og:updated_time" content="{{ page.updated }}"/>
