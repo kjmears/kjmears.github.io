@@ -34,33 +34,59 @@ keywords:
 
   {% endfor %}
 
-  <!-- Pagination links -->
+
   <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}
+    <ul>
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+          <li>
+            <a href="/">&laquo;</a>
+          </li>
+        {% else %}
+          <li>
+            <a href="/blog/page{{paginator.previous_page}}">&laquo;</a>
+          </li>
+        {% endif %}
+      {% else %}
+        <li class="disabled">
+          <a href="#">&laquo;</a>
+        </li>
+      {% endif %}
+      {% if paginator.page == 1 %}
+        <li class="active">
+          <a href="#">1</a>
+        </li>
+      {% else %}
+        <li>
+          <a href="/">1</a>
+        </li>
+      {% endif %}
+      {% for count in (2..paginator.total_pages) %}
+        {% if count == paginator.page %}
+          <li class="active">
+            <a href="#">{{count}}</a>
+          </li>
+        {% else %}
+          <li>
+            <a href="/blog/page{{count}}">{{count}}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      {% if paginator.next_page %}
+        <li>
+          <a href="/blog/page{{paginator.next_page}}">&raquo;</a>
+        </li>
+      {% else %}
+        <li class="disabled">
+          <a href="#">&raquo;</a>
+        </li>
+      {% endif %}
+    </ul>
   </div>
+
 
 </div>
 
 
-<aside class="taglist">
-  <!-- showing categories -->
-
-  <ul>
-      {% for cat in site.categories %}
-          <li><a href="/{{ cat[0] }}">{{ cat[0] }}</a></li>
-      {% endfor %}
-  </ul>
-
-</aside>
 
 </div><!-- end of row -->
