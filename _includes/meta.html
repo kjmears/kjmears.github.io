@@ -8,10 +8,11 @@
 
 <!-- Twitter card info -->
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="{{ page.excerpt | strip_html }}"/>
-<meta name="twitter:site" content="http://www.mearso.co.uk/"/>
+<meta name="twitter:site" content="@mearso"/>
+<meta name="twitter:title" content="{{ page.title | strip_html }}"/>
+<meta name="twitter:description" content="{{ page.excerpt | strip_html }}"/>
 <meta name="twitter:image" content="{{ page.image }}"/>
-
+<meta name="twitter:image:alt" content=""/>
 
 <meta name="keywords" content="{{ page.tags | join: ', '  }}, {{ page.categories }}, {{ page.keywords | join: ', ' }}">
 
