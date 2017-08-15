@@ -22,11 +22,3 @@ I captured some of the wisdom of the panel at the end of the always excellent IW
 	and finally it was great to see so many examples of Change management underpinned by solid theory and on the ground activity.
 
 	Who'd have thought I'd be writing a sentence like that a few years ago ;-)</p>
-
-<section>
-
-	{% for post in site.tags.iwmw16 %}
-	{% include panel.html %}
-	{% endfor %}
-
-</section>
