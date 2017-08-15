@@ -30,7 +30,7 @@ keywords:
       {% endif %}
     </p>
 
-      {{ post.excerpt | remove: '<h3>' | remove: '</h3>' }}
+      <p>{{ post.excerpt | strip_html }}</p>
 
   {% endfor %}
 

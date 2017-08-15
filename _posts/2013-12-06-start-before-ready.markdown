@@ -6,9 +6,12 @@ image: /start-before-youre-ready.png
 image-alt: start before you're ready
 image-thumb: /start-before-youre-ready-thumb.png
 category: blog
+excerpt: "Reading Levelling up by Ashely Baxter"
 ---
 
 I recently read [Levelling up][level] by <a href="https://twitter.com/iamashley">@iamashely</a>, and thought it might be nice to write about it's effect on me.
+
+<!-- more -->
 
 I found the article a lovely exhortation to just get started. round about the same time I saw the work of [Chris Piascik][pias] which was obviously the stars aligning to make me stop procrastinating and start doing that thing I've been meaning to do for ages.
 
