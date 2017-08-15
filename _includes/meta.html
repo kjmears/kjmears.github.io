@@ -5,9 +5,12 @@
 <meta property="og:type" content="website"/>
 <meta itemprop="name" content="{{ site.tagline }}"/>
 <meta itemprop="url" content="http://www.mearso.co.uk/"/>
-<meta name="twitter:title" content="{{ site.tagline }}"/>
-<meta name="twitter:url" content="http://www.mearso.co.uk/"/>
+
+<!-- Twitter card info -->
 <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="{{ page.excerpt | strip_html }}"/>
+<meta name="twitter:site" content="http://www.mearso.co.uk/"/>
+<meta name="twitter:image" content="{{ page.image }}"/>
 
 
 <meta name="keywords" content="{{ page.tags | join: ', '  }}, {{ page.categories }}, {{ page.keywords | join: ', ' }}">
