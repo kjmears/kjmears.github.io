@@ -1,0 +1,19 @@
+---
+layout: default
+meta: A collection of Illustrations
+invisible: 1
+---
+
+<header>
+	<h1 class="post-category">
+	 Illustrations
+ </h1>
+</header>
+
+all about the slides
+
+<section>
+	{% for post in site.illustration %}
+			{% include panel.html %}
+	{% endfor %}
+</section>

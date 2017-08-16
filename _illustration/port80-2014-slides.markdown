@@ -1,13 +1,12 @@
 ---
-
-layout: post
+layout: collection
 published: true
 title: Port80 2014 Slides
 date: 2014-05-17
 image:
 image-thumb: /port80slides/thumb.gif
-category: slides
 homepage: true
+category: illustration
 
 ---
 

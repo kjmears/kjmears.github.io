@@ -16,7 +16,7 @@ Ths one included lots of the usual scribbles - the picture here is an example of
 
 This one also included the excellent Handheld conference which [I sketchnoted like the wind](/sketchnotes/handheld13/)
 
-This week included my most favourite thing which is to be asked to come up with [some illustrations]({% post_url 2014-02-14-apple-slides %}). I tend to default to what seems to becoming my 'style'; Mainly, I think becauseI can do them pretty quickly and give people the chance to see how I'm thinking.
+This week included my most favourite thing which is to be asked to come up with [some illustrations][slides]. I tend to default to what seems to becoming my 'style'; Mainly, I think becauseI can do them pretty quickly and give people the chance to see how I'm thinking.
 
 <section>
 <div class="panel">
@@ -29,3 +29,5 @@ This week included my most favourite thing which is to be asked to come up with 
 
 	</div>
 </section>
+
+[slides]: http://www.mearso.co.uk
