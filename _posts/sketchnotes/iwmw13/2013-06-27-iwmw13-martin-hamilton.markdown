@@ -7,7 +7,7 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-inside-out.gif
 image-thumb: /iwmw13/iwmw13-inside-out-thumb.gif
 category: sketchnotes
-reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html
+reference: "http://iwmw.ukoln.ac.uk/iwmw2013/talks/hamilton/index.html"
 tags:
   - iwmw13
   - live

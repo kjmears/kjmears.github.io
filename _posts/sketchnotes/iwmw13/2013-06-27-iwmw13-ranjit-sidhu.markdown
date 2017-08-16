@@ -7,8 +7,7 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-wtf.gif
 image-thumb: /iwmw13/iwmw13-wtf-thumb.gif
 category: sketchnotes
-reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html
-bio-twitter: rssidhu
+reference: "http://iwmw.ukoln.ac.uk/iwmw2013/talks/sidhu/index.html"
 tags:
   - iwmw13
   - live

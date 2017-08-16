@@ -10,10 +10,15 @@ layout: default
 <p>{{ content }}</p>
 
 
-<ul class="list-unstyled">
-{% for post in site.tags[page.tag] %}
+<div class="blogposts">
+  <!-- This loops through the paginated posts -->
+  {% for post in site.tags[page.tag] %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="author">
+      <span class="date">{{ post.date | date_to_string }}</span>
+    </p>
 
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {{ post.excerpt }}
 
-{% endfor %}
-</ul>
+  {% endfor %}
+</div>

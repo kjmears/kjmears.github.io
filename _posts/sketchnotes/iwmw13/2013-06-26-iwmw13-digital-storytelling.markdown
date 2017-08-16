@@ -7,7 +7,7 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-digital-storytelling.gif
 image-thumb: /iwmw13/iwmw13-digital-storytelling-thumb.gif
 category: sketchnotes
-reference: http://iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
+reference: "http://iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html"
 tags:
   - iwmw13
   - live

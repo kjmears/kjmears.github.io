@@ -7,8 +7,7 @@ date: 2013-07-02
 image: /iwmw13/iwmw13-content-strategist.gif
 image-thumb: /iwmw13/iwmw13-content-strategist-thumb.gif
 category: sketchnotes
-reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html
-bio: http://contentbear.co.uk/
+reference: "http://iwmw.ukoln.ac.uk/iwmw2013/talks/prowse/index.html"
 tags:
   - iwmw13
   - live
