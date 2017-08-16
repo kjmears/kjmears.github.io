@@ -12,6 +12,7 @@ bio: http://contentbear.co.uk/
 tags:
   - iwmw13
   - live
+  - iwmw
 speaker: richprowse
 ---
 

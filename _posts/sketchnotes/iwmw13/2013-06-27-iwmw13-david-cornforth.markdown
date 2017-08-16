@@ -11,6 +11,8 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/cornforth/index.html
 tags:
   - iwmw13
   - live
+  - iwmw
+2013-06-26-iwmw13-welcome.markdown
 
 speaker: dc86
 ---

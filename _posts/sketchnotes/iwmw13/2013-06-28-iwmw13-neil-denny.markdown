@@ -10,6 +10,7 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/denny/index.html
 category: sketchnotes
 tags:
   - iwmw13
+  - iwmw
   - live
 
 speaker: NeilDenny

@@ -11,6 +11,7 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html
 tags:
   - iwmw13
   - live
+  - iwmw
 
 speaker:
   - HannaMiet

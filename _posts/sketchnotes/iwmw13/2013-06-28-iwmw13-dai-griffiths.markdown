@@ -11,6 +11,7 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/talks/griffiths/index.html
 tags:
   - iwmw13
   - live
+  - iwmw
 code: iwmw13
 
 speaker: daigriffiths

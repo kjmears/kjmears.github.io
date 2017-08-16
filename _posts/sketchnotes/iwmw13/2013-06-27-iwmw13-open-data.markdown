@@ -11,6 +11,7 @@ reference: http://iwmw.ukoln.ac.uk/iwmw2013/sessions/hirst-guy/index.html
 tags:
   - iwmw13
   - live
+  - iwmw
 
 speaker:
   - psychemedia

@@ -12,6 +12,7 @@ bio: http://boagworld.com/
 tags:
   - iwmw13
   - live
+  - iwmw
 
 speaker: boagworld
 ---
