@@ -4,6 +4,8 @@ published: true
 title: You are here
 date: 2005-03-29 22:33:00.000000000 +01:00
 category: blog
+tags: thoughts
+excerpt: a nice trip to the design museum
 ---
 
 

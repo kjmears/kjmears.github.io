@@ -2,7 +2,8 @@
 layout: post
 title: "Fun with Google Sheets and APIs"
 date: "2017-01-05"
-tags: data
+tags:
+  - data
 category: blog
 meta: "Using APIs with Google sheets and Jekyll"
 ---

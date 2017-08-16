@@ -1,7 +1,7 @@
 ---
 layout: blog_by_tag_cat
 title: 'Articles tagged with Data'
-tag: jekyll
+tag: data
 permalink: /blog/data/
 category: blog
 ---

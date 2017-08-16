@@ -1,6 +1,8 @@
 ---
 layout: post
 published: true
+category: blog
+tags: thoughts
 title: Strategic CSS Managment
 excerpt: ! 'My thoughts on the very interesting @media presentation on the managment
   of the css design process. '
@@ -18,4 +20,4 @@ For this session the different approaches of the speakers called for different r
 
 This is the original drawing
 
-![](/images/drawings/178.jpg)
+![Drawing of speakers at conference](/images/atmedia/178.jpg)

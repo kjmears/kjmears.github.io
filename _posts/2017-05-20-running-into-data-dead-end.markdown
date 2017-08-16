@@ -2,7 +2,8 @@
 layout: post
 title: "Running into a Data dead end."
 date: "2017-05-25"
-tags: data
+tags:
+  - data
 category: blog
 published: true
 

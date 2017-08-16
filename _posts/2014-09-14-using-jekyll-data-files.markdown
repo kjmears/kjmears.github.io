@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-
 title: "Using Jekyll data files"
 date: 2014-09-14
 category: blog

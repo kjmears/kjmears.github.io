@@ -2,7 +2,8 @@
 layout: post
 title: "Designing charts to learn about designing charts"
 date: "2017-01-25"
-tags: data
+tags:
+  - data
 category: blog
 published: true
 meta: "Learning some more about designing charts with Adobe Illustrator and Google Sheets"
