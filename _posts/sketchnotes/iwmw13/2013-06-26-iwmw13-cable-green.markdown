@@ -9,9 +9,9 @@ image: /iwmw13/iwmw13-open-education.gif
 reference: "http://iwmw.ukoln.ac.uk/iwmw2013/talks/green/index.html"
 category: sketchnotes
 tags:
-  - iwmw13
-  - iwmw
-  - live
+    - iwmw13
+    - iwmw
+    - live
 cc: BY-SA
 speaker: cgreen
 
