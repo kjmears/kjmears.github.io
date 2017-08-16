@@ -5,7 +5,9 @@ published: true
 title: "Using Jekyll data files"
 date: 2014-09-14
 category: blog
-tags: data
+tags:
+  - jekyll
+  - data
 
 ---
 

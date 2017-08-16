@@ -8,9 +8,6 @@ meta: IWMW17 Blog Post and Sketchnotes
 image: /iwmw17/iwmw17-intro-thumb.png
 ---
 
-
-{{ page }}
-
 ### Round up
 
 The conference was excellent again this year - given the challenges of Brexit, and broader changes to the HE sector it was more upbeat than might have been expected. It seemed that there wasn’t much doom and gloom - instead people seemed to be confident in their abilities to meet the challenges. Mainly by building relationships and collaborating with people across the various organisations

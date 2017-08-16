@@ -6,6 +6,7 @@ image: /start-before-youre-ready.png
 image-alt: start before you're ready
 image-thumb: /start-before-youre-ready-thumb.png
 category: blog
+tags: thoughts
 excerpt: "Reading Levelling up by Ashely Baxter"
 ---
 
