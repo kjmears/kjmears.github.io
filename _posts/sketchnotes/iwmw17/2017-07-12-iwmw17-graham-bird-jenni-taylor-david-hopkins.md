@@ -13,12 +13,12 @@ category: sketchnotes
 lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
 speaker:
-  - jennijuniper
-  - mrgrahambird
+    - jennijuniper
+    - mrgrahambird
 tags:
-  - iwmw17
-  - iwmw
-  - live
+    - iwmw17
+    - iwmw
+    - live
 cc: BY-SA
 ---
 

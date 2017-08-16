@@ -13,9 +13,9 @@ category: sketchnotes
 lanyrd: /2017/iwmw17
 event: iwmw.org/iwmw2017
 tags:
-  - iwmw17
-  - iwmw
-  - live
+    - iwmw17
+    - iwmw
+    - live
 
 cc: BY-SA
 speaker: TomRight

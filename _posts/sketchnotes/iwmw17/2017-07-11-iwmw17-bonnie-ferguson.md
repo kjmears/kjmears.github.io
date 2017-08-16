@@ -13,9 +13,9 @@ lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
 speaker: bon_ferguson
 tags:
-  - iwmw17
-  - iwmw
-  - live
+    - iwmw17
+    - iwmw
+    - live
 cc: BY-SA
 ---
 

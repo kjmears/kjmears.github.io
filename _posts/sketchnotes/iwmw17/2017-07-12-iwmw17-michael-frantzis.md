@@ -13,13 +13,13 @@ lanyrd: /2017/iwmw2017/
 event: iwmw.org/iwmw2017
 speaker: mfrantzis
 tags:
-  - iwmw17
-  - iwmw
-  - live
+    - iwmw17
+    - iwmw
+    - live
 cc: BY-SA
 ---
 
-Interesting range over ways in which universities can understand Student behaviour better, by thinking a bit more about their experiences at university and what might be best for them as individuals, with some ideas how that might be achieved. [Bloom's sigma 2 problem] sounds mysterious, but looks interesting.
+Interesting range over ways in which universities can understand Student behaviour better, by thinking a bit more about their experiences at university and what might be best for them as individuals, with some ideas how that might be achieved. [Bloom's sigma 2 problem][bloom] sounds mysterious, but looks interesting.
 
 Building a fuller picture of the student should help to help them, which in turn helps the organisation.
 

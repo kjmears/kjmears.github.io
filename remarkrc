@@ -5,7 +5,9 @@
         "no-html": false,
         "maximum-line-length": 649,
         "emphasis-marker": "_",
-        "strong-marker": "*"
+        "strong-marker": "*",
+        "remark-lint-heading-style": 'atx',
+        "no-literal-urls": false
     }
   },
   "settings": {
