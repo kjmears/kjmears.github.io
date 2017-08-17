@@ -22,8 +22,9 @@ sass:
 # About/contact
 author:
   name:              Kevin Mears
-  url:               https://twitter.com/mearso
+  url:               http://www.mearso.co.uk
   email:             mearso@gmail.com
+  twitter:           mearso
 
 # Custom vars
 github:
