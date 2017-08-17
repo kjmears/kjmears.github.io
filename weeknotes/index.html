@@ -1,0 +1,32 @@
+---
+layout: default
+meta: A collection of Weeknotes
+invisible: 1
+---
+
+<header>
+	<h1 class="post-category">
+	 Weeknotes
+ </h1>
+</header>
+
+	<ul class="list-unstyled">
+	{% assign sorted_pages = (site.weeknotes | sort "date") %}
+	{% for weeknote in sorted_pages %}
+	{% if weeknote.invisible == null %}
+		<li>
+
+			<a href="{{ weeknote.url }}">
+				{{ weeknote.title }}
+			</a>
+			- 	{{ weeknote.date | date: "%e %b %Y" }}
+		</li>
+	{% endif %}
+
+	{% endfor %}
+
+	</div>
+
+
+
+<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>

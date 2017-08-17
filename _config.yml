@@ -54,7 +54,9 @@ collections:
   illustration:
     description: "Illustration"
     output: true
-
+  weeknotes:
+    description: "Weeknotes"
+    output: true
 # Setting some defaults for collections - layouts, collection information.
 # with more to follow
 
@@ -89,3 +91,9 @@ defaults:
     values:
       layout: default
       info: illustration
+  - scope:
+      path: ""
+      type: weeknotes
+    values:
+      layout: weeknotes
+      info: weeknotes
