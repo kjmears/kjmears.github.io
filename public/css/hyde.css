@@ -58,7 +58,7 @@ html {
   padding:    1rem 1rem;
   color:      #d28445;
   /*background-image: url("/img/pattern-white-grey.gif");*/
-  font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
+  font-family: 'Bangers',"Helvetica Neue", Helvetica, Arial, Gadget, sans-serif;
   font-size: 1.3rem;
   letter-spacing: 0.1rem;
 }
@@ -313,8 +313,7 @@ section {
 }
 
 .page-title, .post-category {
-  font-family: 'Bangers',"Arial Black","Arial Bold",Gadget,sans-serif;
-  margin-top: 0;
+  font-family: 'Bangers',"Helvetica Neue", Helvetica, Arial, Gadget, sans-serif;  margin-top: 0;
   color:      #444;
   font-size: 2.5rem;
   text-transform: uppercase;
