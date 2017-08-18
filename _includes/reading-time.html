@@ -1,0 +1,21 @@
+{% comment %}
+  Paste within a post layout. Change `content` to `page.content` if used within a layout file.
+{% endcomment %}
+
+
+<!--
+{% capture wordcount %}
+  {{ page.content | number_of_words | minus: 50 }}
+{% endcapture %}
+{% unless wordcount contains "-" %}
+  {{ wordcount | plus: 50 | append: " words" }}
+{% endunless %} -->
+
+<em>
+{% capture words %}
+  {{ page.content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 180 | divided_by: 180 | ceil | | prepend: "approx. " | append: " min read" }}
+{% endunless %}
+</em>

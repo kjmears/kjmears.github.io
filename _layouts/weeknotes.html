@@ -3,16 +3,23 @@ layout: default
 ---
 {% assign post = page %}
 
+
+<div class="row">
 <article itemscope itemtype="http://schema.org/Article">
 
 	<header>
     <h1 class="post-category">
      <a href="/weeknotes">Weeknotes</a>
-		 {{ post.title }}
+		 {{ post.title | downcase | replace: 'weeknote', '#' }}
    </h1>
 
     {% include logospotter-posted.html %}
+
+
   </header>
+
+
+
 
   <div id="post-content">
     <span itemprop="articleBody">
@@ -56,3 +63,5 @@ layout: default
 
 {% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}<a href="{{firsturl}}" class="btn btn-default prev">Next</a>
 {% endif %}
+
+</div>

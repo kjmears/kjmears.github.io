@@ -21,7 +21,7 @@ id: bishopg
 
 Very recently becoming a university has meant a change for the logo of the wonderfully named Bishop Grosseteste University.
 
-![](images/bishop_grosseteste_old.gif)
+![](images/logospotter/bishop_grosseteste_old.gif)
 
 
 The old logo was an entertaining solution to a pretty tortuous name, using a nice combination of type and negative space. Even managing to suggest the shape of a [bishop's crosier](http://en.wikipedia.org/wiki/Crosier).

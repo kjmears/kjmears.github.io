@@ -457,6 +457,8 @@ figure {
   display: inline;
 }
 
+/*in use in the logospostter collection */
+
 .gallery {
 	display: -webkit-flex;
 	display: flex;
