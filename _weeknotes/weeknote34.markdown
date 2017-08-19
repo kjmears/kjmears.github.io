@@ -1,5 +1,5 @@
 ---
-title: Weeknote-34
+title: Weeknote 34
 date: 2017-08-19T2:09:00+00:00
 ---
 
@@ -16,3 +16,9 @@ After some initial discussions it all went a bit quiet, and then was restarted w
 I set about redoing it first, using Word. I know that wouldn't be the first choice of tool to redesign something, but the process is about making some good design decisions, and then implementing them. In this case Word was the right tool. 
 
 I did some basic cleaning up by putting the information in an order that made more sense for the administrative purpose of the document, and then made it all much more readable. Simple enough, but satisfying nonetheless. 
+
+Witn the basic design done, the next part was how to get it made and implemented into the system. It's this kind of implementation that can be alternatively infuriating - when it's all going wrong and you feel stupid, and satisfying - when you feel clever for having worked it out and see the results. 
+
+For this bit of work it involved working out how a gem that creates a PDF works and how to replicate the layout so that it can be automatically generated. It took me a while to learn how but it's still pretty cool to have a system generate things and drop in dynamic data - never gets old. 
+
+So that was the majority of my week. 
