@@ -21,7 +21,7 @@ Designing Data charts is something I've always been interested in, and done occa
 
 Armed with some info about what I watched, and when I watched I had a think on how to present it.  My initial sketches were pretty basic, but the idea was to represent when I watched films throughout the year.
 
-![](/images/charts-post/chart-sketch.jpg)
+![](/images/charts-post/chart-sketch.png)
 *Sketching an idea*
 
 Trying to pack as much info elegantly into a chart, I thought I could represent the length of a movie with the width of a bar, placing it at the right place to represent the start time. As a sidenote, when searching for information on how to create certain types of charts within Excel or Google sheets I found it tricky to know what to look for. Turns out, the chart I’m describing above is sometimes called a [Priestley Timeline][timeline], is similar to a floating bar graph or a Gantt chart.
