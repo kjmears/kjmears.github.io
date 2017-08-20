@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Non Stop"
+date: "2017-08-20 18:55:32 +0100"
+image: /books/non-stop.png
+image-thumb: /books/non-stop-thumb.png
+image-original: /books/non-stop-original.png
+category: sketchnotes
+tags: books
+cc: BY-SA
+meta: Brian Aldiss, Sci-Fi, sketchnotes, books
+---
+
+
+Took a while to get going, but the second half picked up. Suberbly well thought out and explained setting and great how it all came together. Much like 'Hothouse' it struck me as pretty promising film adaption material.

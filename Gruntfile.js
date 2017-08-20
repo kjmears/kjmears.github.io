@@ -88,6 +88,22 @@ module.exports = function(grunt) {
       }
     },
 
+    image_resize: {
+      resize: {
+          options: {
+            width: 100,
+            height: 100,
+            overwrite: true
+          },
+          files: [{
+            expand: true,
+            cwd: 'images/',
+            src: ['**/*.{png,jpg,gif}'],
+            dest: 'test',
+          }]
+        }
+    },
+
     watch: {
 
       options: {
@@ -141,6 +157,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-push-release');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-shell');
+  grunt.loadNpmTasks('grunt-image_resize');
   grunt.loadNpmTasks('grunt-contrib-copy');
 
   require('load-grunt-tasks')(grunt);
@@ -148,6 +165,7 @@ module.exports = function(grunt) {
   // Default Task is basically a rebuild
   grunt.registerTask('default', ['copy:development', 'concat', 'uglify', 'sass', 'shell', 'watch']);
   grunt.registerTask('min', ['imagemin']);
+  grunt.loadNpmTasks('resize', ['image_resize']);
   grunt.registerTask('dev', ['watch']);
   grunt.registerTask('jekyll', ['sass', 'shell', 'watch']);
 };
