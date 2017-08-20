@@ -17,7 +17,7 @@ invisible: 1
 		<li>
 
 			<a href="{{ weeknote.url }}">
-				{{ weeknote.title }}
+				{{ weeknote.title | capitalize }}
 			</a>
 			- 	{{ weeknote.date | date: "%e %b %Y" }}
 		</li>
