@@ -1,6 +1,6 @@
 ---
 
-title: "weeknote30"
+title: "weeknote 30"
 date: "2017-03-19 19:57:35 +0000"
 
 
