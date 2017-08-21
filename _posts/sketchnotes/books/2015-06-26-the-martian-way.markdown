@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Martian Way Sketchnotes"
+title: "The Martian Way"
 date: "2015-06-26"
 image: /the-martian-way.jpg
 image-thumb: /the-martian-way-thumb.jpg

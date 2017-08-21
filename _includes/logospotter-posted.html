@@ -5,7 +5,8 @@
   </time>
 
   {% assign d = page.date | date: "%-d" %}
-  Posted<strong> {{ page.date | date: "%b" }}
+  Posted<strong>
+      {{ page.date | date: "%a" }}
     {% case d %}
       {% when "1" or "21" or "31" %}
         {{ d }}st
@@ -16,11 +17,13 @@
       {% else %}
         {{ d }}th
     {% endcase %}
+        {{ page.date | date: "%b" }}
   {{ page.date | date: "%Y" }}</strong>
 
   {% if page.updated %}
     {% assign d = page.updated | date: "%-d" %}
-    Updated<strong> {{ page.updated | date: "%b" }}
+    Updated<strong>
+      {{ page.date | date: "%a" }}
       {% case d %}
         {% when "1" or "21" or "31" %}
           {{ d }}st
@@ -31,8 +34,11 @@
         {% else %}
           {{ d }}th
       {% endcase %}
+    {{ page.updated | date: "%b" }}
     {{ page.updated | date: "%Y" }}</strong>
   {% endif %}
+
+  {% include reading-time.html %}
 </p>
 
 <!-- https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th/18938806#18938806 -->

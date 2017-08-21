@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Blind Assassin Sketchnotes"
+title: "The Blind Assassin"
 date: "2015-06-17"
 image: /the-blind-assassin.jpg
 image-thumb: /the-blind-assassin-thumb.jpg

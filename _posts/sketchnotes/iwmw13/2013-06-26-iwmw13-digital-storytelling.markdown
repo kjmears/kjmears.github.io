@@ -9,13 +9,13 @@ image-thumb: /iwmw13/iwmw13-digital-storytelling-thumb.gif
 category: sketchnotes
 reference: "http://iwmw.ukoln.ac.uk/iwmw2013/sessions/boneham/index.html"
 tags:
-  - iwmw13
-  - live
-  - iwmw
+    - iwmw13
+    - live
+    - iwmw
 
 speaker:
-  - HannaMiet
-  - sboneham
+    - HannaMiet
+    - sboneham
 
 ---
 

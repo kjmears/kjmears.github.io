@@ -1,48 +1,67 @@
 ---
 layout: default
 ---
-<article class="post">
-	{% if page.category %}
-	 <h1 class="post-category"><a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a></h1>
-	{% endif %}
-
-	<h2 class="post-title">{{ page.title }}</h2>
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-
-	{% if page.tags %}
-			<p>
-				Tagged:
-				{% for tag in page.tags %}<a href="{{ tag }}"> {{ tag | capitalize }} </a> {% endfor %}
-			</p>
-	{% else %}
-
-	{% endif %}
-
-	{% if page.image %}
-		<a href="{{ site.baseurl }}/images{{ page.image }}"><img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}"></a>
-	{% endif %}
-
-	{% if page.original %}
-		<a href="{{ site.baseurl }}/images/{{ page.original }}">Large version for download</a>
-	{% endif %}
+{% assign post = page %}
 
 
-	{{ content }}
+<div class="row">
+<article itemscope itemtype="http://schema.org/Article">
+
+	<header>
+    <h1 class="post-category">
+     <a href="/weeknotes">Weeknotes</a>
+		 {{ post.title | downcase | replace: 'weeknote', '#' }}
+   </h1>
+
+    {% include logospotter-posted.html %}
+
+
+  </header>
+
+
+
+
+  <div id="post-content">
+    <span itemprop="articleBody">
+      {{ content }}
+    </span>
+  </div>
+
 </article>
 
-<aside class="related">
+<!-- https://gist.github.com/johnfmorton/6c395361d259b23409ee6559fd909d5c -->
 
-		<div class="weeknotes">
-				<ul>
-					{% for post in site.categories.weeknotes limit:5  %}
-					<li>
-						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | capitalize }}</a>
-					</li>
-					{% endfor %}
-					<li><a href="/weeknotes">All weeknotes</a></li>
-				</ul>
-		</div>
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% if page.collection %}
+  {% assign  document = site[the_collection] | sort: 'date'  %}
+{% endif %}
 
-</aside>
+{% for links in document %}
+{% if forloop.first %}
+	{% assign first = links %}
+{% endif %}
+{% if forloop.last %}
+	{% assign last = links %}
+{% endif %}
+  {% if links.title == page.title %}
+	{% unless forloop.first %}
+		{% assign prevurl = prev.url %}
+	{% endunless %}
+	{% unless forloop.last %}
+		{% assign next = document[forloop.index] %}
+		{% assign nexturl = next.url %}
+	{% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+{% assign firsturl = first.url %}
+{% assign lasturl = last.url %}
+
+{% if prevurl %}
+<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}<a href="{{lasturl}}" class="btn btn-default prev">Prev</a>{% endif %}
+
+{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}<a href="{{firsturl}}" class="btn btn-default prev">Next</a>
+{% endif %}
 
 </div>

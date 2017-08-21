@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Psychopath Test Sketchnotes"
+title: "The Psychopath Test"
 date: "2015-08-05"
 image: /books/the-psychopath-test.jpg
 image-thumb: /books/the-psychopath-test-thumb.jpg

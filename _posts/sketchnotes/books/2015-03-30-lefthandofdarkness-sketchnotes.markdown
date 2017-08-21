@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Left Hand of Darkness -Sketchnotes"
+title: "Left Hand of Darkness"
 date: "2015-03-30"
 image: /left-hand-of-darkness.jpg
 image-thumb: /left-hand-of-darkness-thumb.jpg
