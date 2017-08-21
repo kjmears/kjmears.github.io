@@ -15,14 +15,13 @@ layout: default
 
     {% include logospotter-posted.html %}
 
-
   </header>
-
-
-
 
   <div id="post-content">
     <span itemprop="articleBody">
+			{% if post.summary %}
+			<h2>{{ post.summary }}</h2>
+			{% endif %}
       {{ content }}
     </span>
   </div>

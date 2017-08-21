@@ -15,10 +15,12 @@ invisible: 1
 	{% for weeknote in sorted_pages %}
 	{% if weeknote.invisible == null %}
 		<li>
-
 			<a href="{{ weeknote.url }}">
 				{{ weeknote.title | capitalize }}
 			</a>
+			{% if weeknote.summary %}
+			<strong>{{ weeknote.summary }}</strong>
+			{% endif %}
 			- 	{{ weeknote.date | date: "%e %b %Y" }}
 		</li>
 	{% endif %}
