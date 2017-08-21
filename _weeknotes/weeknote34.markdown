@@ -3,6 +3,8 @@ title: Weeknote 34
 date: 2017-08-19T2:09:00+00:00
 ---
 
+##Unplanned but focused
+
 An unexpected job that came in this week that turned out to be quite enjoyable. 
 
 One of the system we have is to enable students to print off a PDF certificate that they can then take to a local council to get a discount off their council tax. It's quite an important document, and thankfully it's been an automatic process where students press a button once they're logging in to our portal and get sent the document, replacing an old system where stacks of letters were manually printed off and the. Students had to come and collect the one with their name on. 
