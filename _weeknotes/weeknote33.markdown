@@ -1,10 +1,7 @@
 ---
-
 title: "weeknote 33"
 date: "2017-04-10 16:48:02 +0100"
-
-
-
+summary: Two steps forward one step back
 ---
 
 The hard reality of speccing a system and tying to get it built hit this week. I've talked previously about the idea of functioning prototypes as a method for communicating clearly and testing ideas rapidly - faced with the reality of constraints has involved rethinking some of our design ideas. Whilst this can be a bit disheartening I have to remind myself that it's part of the process, and I have no reason in the many years I've been doing this to think that it'll be anything different. Finding out that you need to rethink and redesign can be a chore if you've mentally moved to other things.
