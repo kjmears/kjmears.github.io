@@ -2,7 +2,17 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/Article">
+{%
+	include JSON-LD-blog.html
+	headline=page.title
+	genre=page.category
+	keywords=page.keywords
+	content=page.content
+	link=page.permalink
+	date=page.date
+%}
+
+<article class="post">
 	{% if page.category %}
 	 <h1 class="post-category" itemprop="name" id="post-title">
 		 <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>
