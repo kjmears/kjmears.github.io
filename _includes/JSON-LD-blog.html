@@ -13,6 +13,7 @@
    "url":"http://www.mearso.co.uk",
    "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
    "about":"{{ page.image-caption }}",
+   "dateModified":"{{ page.date }}",
    "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}",
    "author":{
       "@type":"Person",
@@ -23,21 +24,24 @@
       ]
    },
    "publisher":{
-      "@type":"Person",
-      "name":"Kevin Mears",
-      "sameAs":[
-        "https://twitter.com/{{ site.author.twitter }}",
-        "https://plus.google.com/u/0/+kevinmears"
-      ]
+     "@type":"organization",
+     "name":"Kevin Mears",
+     "logo":"{{ site.url }}android-chrome-256x256.png"
+     "sameAs":[
+       "https://twitter.com/{{ site.author.twitter }}",
+       "https://plus.google.com/u/0/+kevinmears"
+     ]
    },
    "image":{
-   "@type":"ImageObject",
-   "thumbnailUrl":"{{ site.url }}{{ page.image-thumb }}",
-   "contentUrl":"{{ site.url }}{{ page.image }}"
+      "@type":"ImageObject",
+      "thumbnailUrl":"{{ site.url }}/images{{ page.image-thumb }}",
+      "width":"400px",
+      "height":"200px",
+      "url":"{{ site.url }}/images{{ page.image-thumb }}"
    },
-   "recordedAt":{
-   "@type":"Event",
-   "url":"http://{{ page.event }}"
-   }
+   "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+  }
 }
 </script>
