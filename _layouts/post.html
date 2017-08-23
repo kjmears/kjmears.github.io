@@ -2,6 +2,16 @@
 layout: default
 ---
 
+{%
+	include JSON-LD-blog.html 
+	headline=page.title
+	genre=page.category
+	keywords=page.keywords
+	content=page.content
+	link=page.permalink
+	date=page.date
+%}
+
 <article class="post">
 	{% if page.category %}
 	 <h1 class="post-category">

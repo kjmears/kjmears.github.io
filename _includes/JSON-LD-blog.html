@@ -1,0 +1,35 @@
+{% assign wordcount = include.content | number_of_words %}
+
+<script type="application/ld+json">
+{
+   "@context":"http://schema.org",
+   "@type":"BlogPosting",
+   "headline":"{{ include.headline }}",
+   "genre":"{{ include.category }}",
+   "keywords":"{{ include.keywords }}",
+   "wordCount":"{{ wordcount }}",
+   "url":"http://www.mearso.co.uk",
+   "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
+   "author":{
+      "@type":"Person",
+      "name":"Kevin Mears",
+      "sameAs":[
+        "https://twitter.com/{{ site.author.twitter }}",
+        "https://plus.google.com/u/0/+kevinmears"
+      ]
+   },
+   "publisher":{
+      "@type":"Person",
+      "name":"Kevin Mears",
+      "sameAs":[
+        "https://twitter.com/{{ site.author.twitter }}",
+        "https://plus.google.com/u/0/+kevinmears"
+      ]
+   },
+   "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"http://www.mearso.co.uk"
+   },
+   "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}"
+}
+</script>
