@@ -14,7 +14,7 @@ layout: default
 
 <article class="post">
 	{% if page.category %}
-	 <h1 class="post-category" itemprop="name" id="post-title">
+	 <h1 class="post-category" id="post-title">
 		 <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>
 		 {{ page.title }}
 	 </h1>
@@ -37,12 +37,12 @@ layout: default
 	{% if page.image %}
 		{% if page.image-caption %}
 			<figure>
-				<img itemprop="image" src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
 				<em>{{ page.category | capitalize }} : {{ page.image-caption }}</em>
 			</figure>
 		{% else %}
 			<figure>
-				<img itemprop="image" src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
 				<figcaption>
 					{{ page.category | capitalize }}
 				</figcaption>
@@ -54,9 +54,9 @@ layout: default
 	{% endif %}
 
 
-  <span itemprop="articleBody">
+
 		{{ content }}
-	</span>
+
 </article>
 
 <aside class="related">
