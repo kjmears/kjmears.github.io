@@ -12,7 +12,8 @@
    "wordCount":"{{ wordcount }}",
    "url":"http://www.mearso.co.uk",
    "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
-   "about":"{{ page.image-caption }}"
+   "about":"{{ page.image-caption }}",
+   "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}",
    "author":{
       "@type":"Person",
       "name":"Kevin Mears",
@@ -37,11 +38,6 @@
    "recordedAt"{
    "@type":"Event",
    "url":"http://{{ page.event }}"
-   },
-   "mainEntityOfPage":{
-      "@type":"WebPage",
-      "@id":"http://www.mearso.co.uk/{{ include.link }}"
-   },
-   "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}"
+   }
 }
 </script>
