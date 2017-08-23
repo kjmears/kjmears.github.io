@@ -26,7 +26,12 @@
    "publisher":{
      "@type":"organization",
      "name":"Kevin Mears",
-     "logo":"{{ site.url }}android-chrome-256x256.png",
+     "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}android-chrome-256x256.png",
+        "width": "256px",
+        "height": "256px"
+      },
      "sameAs":[
        "https://twitter.com/{{ site.author.twitter }}",
        "https://plus.google.com/u/0/+kevinmears"
