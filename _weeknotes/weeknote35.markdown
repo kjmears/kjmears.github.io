@@ -16,7 +16,7 @@ I'd had an email asking for our activities around accessibility for a strategic 
 
 The avenue that I enjoyed this week was learning about [JSON-LD][jsonld]. I've been interested in [Schema.org][schema] but in practice, found marking up existing HTML with all the attributes made it much more difficult to follow whe in was distributed through the markup. Once I read a little about JSON-LD then it was time to add it to my own site as a away to learn how to mark a subject I know a little about (me).
 
-I used the [lovely artcile][jekylljson] by Paul D'Ambra to get me started, and throuroughly enjoyed getting in touch with my inner librarian. Looking forward to going crazy marking up as much as I can find using my new found confidence.
+I used the [lovely article][jekylljson] by Paul D'Ambra to get me started, and throuroughly enjoyed getting in touch with my inner librarian. Looking forward to going crazy marking up as much as I can find using my new found confidence.
 
 [lighthouse]: https://developers.google.com/web/tools/lighthouse/
 [jsonld]: https://json-ld.org/
