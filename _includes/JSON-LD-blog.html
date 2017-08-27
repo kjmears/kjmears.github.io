@@ -16,13 +16,8 @@
    "dateModified":"{{ page.date }}",
    "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}",
    "author":{
-      "@type":"Person",
-      "name":"Kevin Mears",
-      "sameAs":[
-        "https://twitter.com/{{ site.author.twitter }}",
-        "https://plus.google.com/u/0/+kevinmears"
-      ]
-   },
+              {% include JSON-person.html%}
+            },
    "publisher":{
      "@type":"organization",
      "name":"Kevin Mears",
