@@ -3,7 +3,8 @@ title: Weeknote 35
 date: 2017-08-26T18:57:27.114Z
 summary: Structure, all about structure.
 keywords: Weeknotes Thoughts data JSON-LD
-
+season: 03
+episode: 08
 ---
 
 I wrote last week about how some work came in that ended up giving some useful shape to the week and made for an enjoyably focused week. Well, the start of this week was quite different. I found it quite difficult to work out which of the things on our big list to tackle next. It'd be pretty easy to pick the one I fancied doing the most, but trying to be reactive to the general sense of what is the most pressing thing to attend I was looking for the overall roadmap for context. Not a bad idea you might think, but the roadmap is also one of the things in progress, and that was dependent on others who are understandably pre-occupied with the Clearing activity happening at the moment.

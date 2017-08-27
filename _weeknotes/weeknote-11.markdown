@@ -2,7 +2,8 @@
 
 title: "Weeknote 11"
 date: 2014-05-24 17:48:49 +0100
-comments: false
+season: 01
+episode: 11
 
 
 
@@ -15,4 +16,3 @@ The sketching theme continued with me trying to make some sense of content requi
 To complete my hattrick of UX sketching I then scribbled whilst me and a colleague worked out some user behaviours and what destinations made sense. It felt like a useful piece of work. It wasn't quite the UX Comics that recent follow [@almostexact](https://twitter.com/almostexact) has been [talking about](http://www.almostexact.com/2013/06/how-to-make-your-first-ux-comic-uxscotland-slides/) and have got me very intrigued. Just looking for opportunties to get started.
 
 Other things that cropped up were an interesting discussion about a recent university redesign that is [worth a look](http://collegewebeditor.com/blog/index.php/archives/2014/05/15/whats-wrong-with-the-redesigned-bucknell-university-website/) (the article and the redesign).
-

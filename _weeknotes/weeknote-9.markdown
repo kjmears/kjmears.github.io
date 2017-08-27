@@ -2,8 +2,9 @@
 
 title: "weeknote 9"
 date: 2014-05-12 20:47:31 +0100
-comments: false
- 
+season: 01
+episode: 09
+
 
 
 ---
@@ -21,8 +22,7 @@ I wasn't in work this past week, so vacillated about whether to do a weeknote. I
 	Planted plants.
 	Made raised beds for veg.
 	Fixed some skirting.
-	
+
 With varying degrees of competency. I think therein lies the problem - when you're working on your own house you have to live with all the little mistakes that you'll inevitably make, and that can be mighty aggravating, but you have to make the mistakes. Despite the quote above, the DIY never goes as smoothly as the illustrations in the big book of DIY.
 
 At least I made it through the week with all my fingers intact and not too much swearing.
-

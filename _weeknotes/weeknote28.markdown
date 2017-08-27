@@ -3,7 +3,8 @@
 title: "Weeknote 28"
 date: "2017-02-20"
 
-
+season: 03
+episode: 01
 ---
 
 Been trying to bring some order and action to Ed and my discussions about styleguides, pattern libraries and design documentation this week. We've talked for a long time about our need for some or all of the above, and we're finally getting started on making it happen. I'm particularly trying to avoid the 'fresh start' scenario whereby I start out with big ideas and then get frustrated that they aren't happening immediately. I'm trying to be much more realistic and incremental with this one.

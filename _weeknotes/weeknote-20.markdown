@@ -2,10 +2,8 @@
 
 title: Weeknote 20
 date: 2014-07-30 16:22:09 +0100
-comments: false
-
-
-
+season: 01
+episode: 20
 
 ---
 

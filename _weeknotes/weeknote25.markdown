@@ -3,7 +3,8 @@
 title: weeknote 25
 date: "2016-08-05 15:47:02 +0100"
 
-
+season: 02
+episode: 02
 
 image: /weeknotes/weeknote25.png
 caption: Working out what to do next.

@@ -2,10 +2,8 @@
 
 title: "weeknote 14"
 date: 2014-06-15 17:58:34 +0100
-comments: false
-
-
-
+season: 01
+episode: 14
 
 ---
 
@@ -14,4 +12,3 @@ Been thinking a lot about some of the traditional deliverables produced by UX th
 After a good session with some of our content people I've a better understanding of their ideas, and made a start on them
 
 Also did a little android icon work - which makes a good break from layout work, as well as another diagram of how one of our systems setups work - sounds dull to most people but I find it an interesting challenge - to try to capture relationships in a meaningful way.
-

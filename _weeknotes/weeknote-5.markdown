@@ -2,9 +2,11 @@
 
 title: "weeknote 5"
 date: 2014-04-13 17:18:33 +0100
-comments: false
+season: 01
+episode: 01
 
-
+season: 01
+episode: 05
 
 ---
 

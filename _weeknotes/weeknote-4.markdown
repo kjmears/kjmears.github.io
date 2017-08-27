@@ -2,9 +2,9 @@
 
 title: Weeknote 4
 date: 2014-04-04 21:04:49 +0100
-comments: false
 
-
+season: 01
+episode: 04
 
 ---
 
@@ -20,4 +20,3 @@ In other news, Textdrive finally died, which required me to go a bit faster than
 I also did what I call 'nesting'. Ever since my teens, I've felt the urge to reorganise my space. It used to be my bedroom, and now is my study. In a futile attempt to arrive at the optimum layout, I rearrange books, stationary desks, IT and anything else I think might do the trick. As a consequence, this time my drawing board has had some room made for it which is leading to more drawing, which I'm very happy about.
 
 I nearly forgot, but [@pip](https://twitter.com/pip) finally posted the [guest blog post](http://blogs.bath.ac.uk/digital/2014/04/03/an-outside-view/) I wrote for the lovely people at the [University of Bath Digital Marketing and Comms Team](https://twitter.com/uniofbathdmc)
-

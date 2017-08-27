@@ -2,7 +2,8 @@
 
 title: "weeknote 13"
 date: 2014-06-08 19:19:25 +0100
-comments: false
+season: 01
+episode: 13
 
 
 

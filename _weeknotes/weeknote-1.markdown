@@ -2,8 +2,11 @@
 layout: weeknotes
 title: "Weeknote 1"
 date: 2014-03-14 12:10:56 +0000
-comments: false
+season: 01
+episode: 01
 published: true
+season: 01
+episode: 01
 ---
 
 

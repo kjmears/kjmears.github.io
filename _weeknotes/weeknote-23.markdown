@@ -2,10 +2,8 @@
 
 title: Weeknote 23
 date: 2014-10-14
-comments: false
-
-
-
+season: 01
+episode: 23
 
 ---
 

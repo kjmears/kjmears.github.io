@@ -2,7 +2,8 @@
 
 title: "Weeknote 8"
 date: 2014-05-06 07:05:28 +0100
-comments: false
+season: 01
+episode: 08
 
 
 
@@ -12,9 +13,9 @@ According to my todo list I did about 50 things in the days around the launch of
 
 Despite the best laid plans it always seems to be a mad dash to get jobs done, further complicated by what seems to be the endless holidays around Easter this year.
 
-We've launched a new site for [our presence in London](http://southwales.ac.uk/london/). It was fun to do something new. Using a fairly bold approach we're trying to put our propositions more upfront. One very enjoyable (even essential) aspect was that we managed to get much more content up front than we are normally used to which meant we were able to give things that bit more attention rather than designing templates to be filled in later. 
+We've launched a new site for [our presence in London](http://southwales.ac.uk/london/). It was fun to do something new. Using a fairly bold approach we're trying to put our propositions more upfront. One very enjoyable (even essential) aspect was that we managed to get much more content up front than we are normally used to which meant we were able to give things that bit more attention rather than designing templates to be filled in later.
 
-I think we've made progress on communicating the wisdon of 'content first' but there's a marked contrast between the attitude to a printed brochure and a website. People know that there's a point of no return where the content has to go to the presses whereas the relative ease of changing websites is both a blessing and curse - especially during the crucial period leading up to a launch when final decisions should be made. 
+I think we've made progress on communicating the wisdon of 'content first' but there's a marked contrast between the attitude to a printed brochure and a website. People know that there's a point of no return where the content has to go to the presses whereas the relative ease of changing websites is both a blessing and curse - especially during the crucial period leading up to a launch when final decisions should be made.
 
 It can be very tempting to put tricky decisions off until after launch with the best intention of revisiting them, but after the fevered activity of a launch (we made it with minutes to spare), they rarely have the same urgency.
 

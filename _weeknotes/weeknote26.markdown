@@ -4,7 +4,8 @@ title: weeknote 26
 date: "2016-08-27"
 
 
-
+season: 02
+episode: 03
 
 ---
 

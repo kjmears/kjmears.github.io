@@ -4,7 +4,8 @@ title: "weeknote 27"
 date: "2016-09-17 14:55:30 +0100"
 
 
-
+season: 02
+episode: 04
 
 ---
 

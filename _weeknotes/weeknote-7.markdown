@@ -2,7 +2,8 @@
 
 title: "Weeknote 7"
 date: 2014-04-27 20:49:53 +0100
-comments: false
+season: 01
+episode: 01
 
 
 

@@ -3,7 +3,8 @@
 title: "weeknote 31"
 date: "2017-03-26 20:13:20 +0100"
 
-
+season: 03
+episode: 04
 
 ---
 

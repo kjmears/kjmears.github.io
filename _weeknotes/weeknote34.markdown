@@ -2,6 +2,8 @@
 title: Weeknote 34
 date: 2017-08-19T2:09:00+00:00
 summary: Unplanned but focused
+season: 03
+episode: 07
 ---
 
 An unexpected job that came in this week that turned out to be quite enjoyable.

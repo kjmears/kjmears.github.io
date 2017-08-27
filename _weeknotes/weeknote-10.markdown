@@ -2,7 +2,8 @@
 
 title: "weeknote 10"
 date: 2014-05-19 18:47:27 +0100
-comments: false
+season: 01
+episode: 10
 
 
 
@@ -20,7 +21,4 @@ So, I'll talk about Port80 instead. The lineup of speakers that Joel put togethe
 
 [Roy](http://roytomeij.com/) Introduced us to the dark arts of psychology and how we can use it, whilst [Kevin Evans](https://twitter.com/kwe) Talked about iBeacons, technology and the attendent cans of worms we open when using them - quoting the queen in the process.
 
-I managed to speak to quite a few lovely and interesting people and I'd definitely encourage anyone who doesn't consider themselves to be a 'networking' type of person to just say hello - it really is that simple. 
-
-
- 
+I managed to speak to quite a few lovely and interesting people and I'd definitely encourage anyone who doesn't consider themselves to be a 'networking' type of person to just say hello - it really is that simple.

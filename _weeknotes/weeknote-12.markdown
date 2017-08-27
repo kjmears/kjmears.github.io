@@ -2,7 +2,8 @@
 
 title: "weeknote 12"
 date: 2014-06-01 18:03:40 +0100
-comments: false
+season: 01
+episode: 12
 
 
 
@@ -10,7 +11,7 @@ comments: false
 
 Mainly working on the thorny issue of a how to design a course page. We have lots of detailed information about a course. As you'd expect for a product that people are paying lots of money for they need lots of information to be happy about the decision they make. (prevent buyers remorse)
 
-In addition to offering the information in a clear, concise way (which is much underrated) there is also the need to Engage with people and make the idea of studying that course with us a real prospect. 
+In addition to offering the information in a clear, concise way (which is much underrated) there is also the need to Engage with people and make the idea of studying that course with us a real prospect.
 
 How to strike that balance of visually rich, inspirational and aspirational content, with things like profiles of lecturers, real student stories and ideas of careers paths, and the more mundane but essential info has been what I've been working on.
 

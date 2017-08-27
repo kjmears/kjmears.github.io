@@ -2,10 +2,12 @@
 
 title: "Weeknote 2"
 date: 2014-03-21 23:20:02 +0000
-comments: false
+season: 01
+episode: 01
 
 published: true
-
+season: 01
+episode: 02
 
 
 ---

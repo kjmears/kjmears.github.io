@@ -2,7 +2,8 @@
 
 title: Weeknote 21
 date: 2014-08-12 06:55:23 +0100
-comments: false
+season: 01
+episode: 21
 
 
 

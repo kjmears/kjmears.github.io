@@ -2,7 +2,8 @@
 
 title: Weeknote 24
 date: 2016-07-29
-comments: false
+season: 02
+episode: 01
 
 
 

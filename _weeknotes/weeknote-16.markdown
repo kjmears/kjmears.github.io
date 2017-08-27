@@ -2,10 +2,8 @@
 
 title: "weeknote 16"
 date: 2014-06-30 19:53:10 +0100
-comments: false
-
-
-
+season: 01
+episode: 16
 ---
 
 The big task this week was sitting round the table with our marketing and content people to thrash out what design templates will be needed for our upcoming work. The idea was to come out of the meeting with a direction for how many design templates we are likely to need and what content types will go on them. A corollary of that is having to be much clearer about what our content types actually are.

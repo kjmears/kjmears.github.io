@@ -2,10 +2,8 @@
 
 title: "Weeknote 17"
 date: 2014-07-07 20:34:41 +0100
-comments: false
-
-
-
+season: 01
+episode: 17
 
 ---
 

@@ -2,9 +2,8 @@
 
 title: "weeknote 3"
 date: 2014-03-28 21:56:07 +0000
-comments: false
-
-
+season: 01
+episode: 03
 
 ---
 
