@@ -14,15 +14,13 @@ invisible: 1
 	{% assign sorted_pages = (site.weeknotes | sort "date") %}
 	{% for weeknote in sorted_pages %}
 	{% if weeknote.invisible == null %}
-		<li>
-			<a href="{{ weeknote.url }}">
-				{{ weeknote.title | capitalize }}
-			</a>
-			{% if weeknote.summary %}
-			<strong>{{ weeknote.summary }}</strong>
-			{% endif %}
-			- 	{{ weeknote.date | date: "%e %b %Y" }}
-		</li>
+
+	<li>
+		<a href="{{ weeknote.url }}">
+			{{ weeknote.title | capitalize }}
+		</a>
+- {{ weeknote.date | date: "%e %b %Y" }}
+
 	{% endif %}
 
 	{% endfor %}
