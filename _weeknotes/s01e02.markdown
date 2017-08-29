@@ -1,11 +1,9 @@
 ---
 
-title: "Weeknote 2"
+title: "Setting up"
 date: 2014-03-21 23:20:02 +0000
 season: 01
 episode: 01
-
-
 ---
 
 After a day off with sniffles, what could be more enjoybale than a morning trying to get various versions of django to play nicely on my machine? Lots of things I'm sure. Getting heartily sick of faffing around and reluctant to invest too much time into the ins and outs of python, I started looking and virtualenv, as a way to better quarantine different verisons of django.

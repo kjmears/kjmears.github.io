@@ -1,6 +1,6 @@
 ---
 layout: weeknotes
-title: "Weeknote 1"
+title: "Starting Weeknotes"
 date: 2014-03-14 12:10:56 +0000
 season: 01
 episode: 01

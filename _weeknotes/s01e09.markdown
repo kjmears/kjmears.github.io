@@ -1,11 +1,9 @@
 ---
 
-title: "weeknote 9"
+title: "DIY"
 date: 2014-05-12 20:47:31 +0100
 season: 01
 episode: 09
-
-
 
 ---
 

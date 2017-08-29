@@ -1,10 +1,7 @@
 ---
 
-title: "weeknote 5"
+title: "Implementing"
 date: 2014-04-13 17:18:33 +0100
-season: 01
-episode: 01
-
 season: 01
 episode: 05
 
@@ -12,7 +9,7 @@ episode: 05
 
 A belated post this week, since a Friday off messed with my routine.
 
-This week I took part in a content strategy session where we talked about new approaches that we want to take with the content that we have and create a new framework for the conent that we create in the future. It was a good day with plenty to think about. The most gratifying part was the enthusiasm to make sure that the strategy informs how we actually work. All too often they can be full of lofty ambitions but light on the tactics of implementation.
+This week I took part in a content strategy session where we talked about new approaches that we want to take with the content that we have and create a new framework for the content that we create in the future. It was a good day with plenty to think about. The most gratifying part was the enthusiasm to make sure that the strategy informs how we actually work. All too often they can be full of lofty ambitions but light on the tactics of implementation.
 
 In fact, that focus on implementing ideas fully, rather than just having them was something I took from [Dave Addey's talk at handheld 2012](http://www.besquare.me/session/so-you-have-an-app-idea/) - worth a look.
 

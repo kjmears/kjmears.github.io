@@ -2,7 +2,7 @@
 date: 2017-08-26T18:57:27.114Z
 title: Structure, all about structure.
 keywords: Weeknotes Thoughts data JSON-LD
-season: "04"
+season: 04
 episode: 02
 ---
 

@@ -1,11 +1,9 @@
 ---
 
-title: "weeknote 10"
+title: "Out and about in Newport"
 date: 2014-05-19 18:47:27 +0100
 season: 01
 episode: 10
-
-
 
 ---
 

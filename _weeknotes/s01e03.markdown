@@ -1,6 +1,6 @@
 ---
 
-title: "weeknote 3"
+title: "Optimistic nitty gritty"
 date: 2014-03-28 21:56:07 +0000
 season: 01
 episode: 03
@@ -15,4 +15,4 @@ Heard a little more about some of nice content strategy work that is about to ha
 
 Helped out a little on the iOS version of our new app, though none of my ideas made it in - which was totally the right thing to do.
 
-Still developing some ideas for a new site, and hoping that I can wean the customer off the reliance on navigationn on the new site. Thousands of hours must have been expended over the years discussing navigation.
+Still developing some ideas for a new site, and hoping that I can wean the customer off the reliance on navigation on the new site. Thousands of hours must have been expended over the years discussing navigation.
