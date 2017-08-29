@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Blocks in Progress
 author: mearso
 author_login: mearso

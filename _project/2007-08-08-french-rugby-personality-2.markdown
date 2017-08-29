@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: French Rugby Personality
 author: mearso
 author_login: mearso

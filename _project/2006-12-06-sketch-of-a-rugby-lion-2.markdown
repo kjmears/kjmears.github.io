@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Sketch of a Rugby Lion
 image: /project/200.jpg
 date: 2006-12-06 16:26:32.000000000 +00:00

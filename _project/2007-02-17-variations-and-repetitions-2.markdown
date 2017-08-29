@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Variations and repetitions
 author: mearso
 author_login: mearso

@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Self Portrait
 author: mearso
 author_login: mearso

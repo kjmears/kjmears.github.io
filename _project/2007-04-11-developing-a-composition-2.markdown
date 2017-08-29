@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Developing a composition
 author: mearso
 author_login: mearso

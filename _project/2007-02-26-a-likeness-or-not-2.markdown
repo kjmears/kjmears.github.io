@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: A likeness or not?
 author: mearso
 author_login: mearso

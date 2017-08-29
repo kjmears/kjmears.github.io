@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: More detailed Maori Style drawing
 author: mearso
 author_login: mearso

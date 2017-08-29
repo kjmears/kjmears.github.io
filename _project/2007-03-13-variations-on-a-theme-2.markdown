@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Variations on a theme
 author: mearso
 author_login: mearso

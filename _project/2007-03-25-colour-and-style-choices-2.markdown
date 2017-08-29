@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Colour and style choices
 author: mearso
 author_login: mearso

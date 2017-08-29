@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Simple shapes repeated
 author: mearso
 author_login: mearso

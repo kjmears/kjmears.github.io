@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: England v South Africa in progress
 author: mearso
 author_login: mearso

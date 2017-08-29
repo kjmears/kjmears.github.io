@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Thinking about next steps
 author: mearso
 author_login: mearso

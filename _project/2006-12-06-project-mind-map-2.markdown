@@ -1,7 +1,7 @@
 ---
 
 status: pending
-published: true
+published: false
 title: Project Mind Map
 author: mearso
 image: /project/199.jpg
