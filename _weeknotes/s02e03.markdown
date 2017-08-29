@@ -1,0 +1,17 @@
+---
+
+title: Easing back in
+date: "2016-08-27"
+season: 02
+episode: 03
+---
+
+Been on hols, and haven't quite embedded the weeknote habit enough to write up holidays in the same way. To reflect on this week is to get back into the groove, which has been mainly picking up little support jobs. They're not uninteresting - for example one this week was adding some classes to a page to cope with different amounts of thumbnails on a page. It sounds fairly mundane, but I think it was enough thinking to ease me back into work. Some of the other work was chasing up an error on our search collections which involved a little problem solving and updating some details. Not really design work, but a good example of the kind of job that it would be more work to explain than to do.
+
+Some of the harder thinking this week was dipping my toe into html email, something I've managed to avoid up to now, thinking that it is likely to be a tangle of nasty code and compromises. It may be, but I'm hoping not.
+
+The most fun stuff of the week is a chance to draw some processes and plans with a view to creating an actionable visual resource to help people to buy in to the latest student experience strategy. I really enjoyed the sitting down and working out a format and am now into the mechanics of coming up with good visuals and an overall consistent style. Great fun, and I hope it comes through in the final work. At this stage it looks like a chance to try working directly on the iPad.
+
+Away from the desk, I've been getting back into two fun activities - watching films, and recording my watching of them. I managed to watch five films this week and have decided that a sentence or two after I watch them will help to fix them in my memory. You can see the list for this year over at ['watched'][film]
+
+[film]:/watched

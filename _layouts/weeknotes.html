@@ -10,7 +10,7 @@ layout: default
 	<header>
     <h1 class="post-category">
      <a href="/weeknotes">Weeknotes</a>
-		 {{ post.title | downcase | replace: 'weeknote', '#' }}
+		 Season {{ post.season | downcase }} Episode {{ post.episode }}
    </h1>
 
     {% include logospotter-posted.html %}
@@ -19,9 +19,17 @@ layout: default
 
   <div id="post-content">
     <span itemprop="articleBody">
-			{% if post.summary %}
-			<h2>{{ post.summary }}</h2>
+
+			{% if page.image %}
+					<figure>
+						<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+						<em>{{ page.image-caption }}</em>
+					</figure>
 			{% endif %}
+
+
+			<h2>{{ post.title }}</h2>
+
       {{ content }}
     </span>
   </div>

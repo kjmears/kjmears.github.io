@@ -1,0 +1,16 @@
+---
+
+title: "Forgot again"
+date: "2016-09-17 14:55:30 +0100"
+season: 02
+episode: 04
+
+---
+
+Managed to miss a week by completely forgetting.
+
+The last two weeks have been less creating things and more auditing things. We've decided to wrestle with a big chunk of our technical debt over the coming months, and the first part of that process is examining more closely just how much debt we've racked up. We have lots of sites on one platform, with lots of editors and multiple designs, that we need to address for various reasons.
+
+As we've now decided to deal with the problem it's fallen to me, with my librarian tendencies to trawl around our systems and collate how many there are, how active and how important they are so we can break the work up into doable chunks over a reasonable period.
+
+It felt good to make a start on the work, and useful to get more concrete information about what lies ahead. Looking again at sites that have developed over the years it's a good reminder just how many people use and rely on what we've helped create, and a very good boost to reconnect with our users.

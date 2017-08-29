@@ -1,0 +1,16 @@
+---
+
+title: Empty containers
+date: 2014-09-07
+season: 01
+episode: 22
+
+---
+
+I forgot. Is the answer to why I haven't done a weeknote for over a month. That and the fact that I find writing quite hard. Worthwhile and satisfying, but hard.
+
+So thanks to my trusty todo list (which I've managed to use in a meaningful way for the first time over the last few months) I can see how occupied I've been.
+
+The final push is on at the moment for the but piece of work we have committed to deliver by next week, and setting aside the extremely optimistic schedule, I've been working hard to plough through tons of CSS and Javascript issue, and often revisiting design solutions that have to be rethought in the face of changes, additions or rethink to the content.
+
+It's been frustrating at times to be back in the position of designing empty containers for undefined 'content', but one good thing about the approach to a launch deadline is that even though it's pressured and stressful, you do get through a lot of work. Already I have one eye on how we can iterate on the work we are about to release into the wild, which will also no doubt be informed by the reception and evaluation that is to come.
