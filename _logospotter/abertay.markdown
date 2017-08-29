@@ -3,7 +3,7 @@
 title: Abertay University
 excerpt: A strong modern serif, standing on its own.
 date: 2010-08-09 21:53:27 +01:00
-updated: 2017-01-23
+last_modified_at: 2017-01-23
 
 tags:
 - mono

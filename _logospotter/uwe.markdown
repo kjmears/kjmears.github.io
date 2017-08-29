@@ -3,7 +3,7 @@
 title: University of the West of England
 excerpt: A solid logo outshone by the rest of the brand
 date: 2010-07-05 08:20:00 +01:00
-updated: 2016-07-09
+last_modified_at: 2016-07-09
 
 tags:
 - english
