@@ -1,6 +1,6 @@
 ---
 
-title: "weeknote 14"
+title: "Diagrams"
 date: 2014-06-15 17:58:34 +0100
 season: 01
 episode: 14

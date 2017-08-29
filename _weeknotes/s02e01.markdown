@@ -1,12 +1,9 @@
 ---
 
-title: Weeknote 24
+title: Difficult second season
 date: 2016-07-29
 season: 02
 episode: 01
-
-
-
 
 ---
 

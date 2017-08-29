@@ -1,6 +1,6 @@
 ---
 
-title: Weeknote 23
+title: Back on the horse
 date: 2014-10-14
 season: 01
 episode: 23

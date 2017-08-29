@@ -1,11 +1,9 @@
 ---
 
-title: "weeknote 15"
+title: "Three day week"
 date: 2014-06-21 17:15:30 +0100
 season: 01
 episode: 15
-
-
 
 ---
 

@@ -1,12 +1,9 @@
 ---
 
-title: "weeknote 12"
+title: "Happy designing"
 date: 2014-06-01 18:03:40 +0100
 season: 01
 episode: 12
-
-
-
 ---
 
 Mainly working on the thorny issue of a how to design a course page. We have lots of detailed information about a course. As you'd expect for a product that people are paying lots of money for they need lots of information to be happy about the decision they make. (prevent buyers remorse)

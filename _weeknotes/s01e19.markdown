@@ -1,12 +1,9 @@
 ---
 
-title: "weeknote 19"
+title: "Fired up"
 date: 2014-07-20 22:26:46 +0100
 season: 01
 episode: 19
-
-
-
 
 ---
 

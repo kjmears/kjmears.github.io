@@ -1,12 +1,9 @@
 ---
 
-title: weeknote 26
+title: Easing back in
 date: "2016-08-27"
-
-
 season: 02
 episode: 03
-
 ---
 
 Been on hols, and haven't quite embedded the weeknote habit enough to write up holidays in the same way. To reflect on this week is to get back into the groove, which has been mainly picking up little support jobs. They're not uninteresting - for example one this week was adding some classes to a page to cope with different amounts of thumbnails on a page. It sounds fairly mundane, but I think it was enough thinking to ease me back into work. Some of the other work was chasing up an error on our search collections which involved a little problem solving and updating some details. Not really design work, but a good example of the kind of job that it would be more work to explain than to do.
