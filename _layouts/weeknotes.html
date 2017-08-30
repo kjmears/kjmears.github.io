@@ -66,9 +66,9 @@ layout: default
 {% assign lasturl = last.url %}
 
 {% if prevurl %}
-<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}<a href="{{lasturl}}" class="btn btn-default prev">Prev</a>{% endif %}
+<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}{% endif %}
 
-{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}<a href="{{firsturl}}" class="btn btn-default prev">Next</a>
+{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}
 {% endif %}
 
 </div>

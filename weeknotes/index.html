@@ -10,10 +10,58 @@ invisible: 1
  </h1>
 </header>
 
+<h2>Season 04</h2>
+ <ol reversed class="watched">
+
+{% assign sorted = site.weeknotes | reverse %}
+ {% for weeknote in sorted %}
+
+	{% if weeknote.season == 4 %}
+	<li>
+	 <a href="{{ weeknote.url }}">
+		 {{ weeknote.title | capitalize }}
+	 </a>
+	- {{ weeknote.date | date: "%e %b %Y" }}
+	 </li>
+	{% endif %}
+	{% endfor %}
+ </ol>
+
+
+
+ <h2>Season 03</h2>
+	<ol reversed class="watched">
+	{% for weeknote in sorted %}
+
+	 {% if weeknote.season == 3 %}
+	 <li>
+		<a href="{{ weeknote.url }}">
+			{{ weeknote.title | capitalize }}
+		</a>
+	 - {{ weeknote.date | date: "%e %b %Y" }}
+		</li>
+	 {% endif %}
+	 {% endfor %}
+ </ol>
+
+ <h2>Season 02</h2>
+	 <ol reversed class="watched">
+	 {% for weeknote in sorted %}
+
+		{% if weeknote.season == 2 %}
+		<li>
+		 <a href="{{ weeknote.url }}">
+			 {{ weeknote.title | capitalize }}
+		 </a>
+		- {{ weeknote.date | date: "%e %b %Y" }}
+	 </li>
+		{% endif %}
+		{% endfor %}
+	</ol>
 
 <h2>Season 01</h2>
-	<ol class="watched">
-	{% for weeknote in site.weeknotes %}
+	<ol reversed class="watched">
+	{% for weeknote in sorted %}
 
 	 {% if weeknote.season == 1 %}
 	 <li>
@@ -25,48 +73,3 @@ invisible: 1
 	 {% endif %}
 	 {% endfor %}
  </ol>
-
- <h2>Season 02</h2>
- 	<ol class="watched">
- 	{% for weeknote in site.weeknotes %}
-
- 	 {% if weeknote.season == 2 %}
- 	 <li>
- 	 	<a href="{{ weeknote.url }}">
- 	 		{{ weeknote.title | capitalize }}
- 	 	</a>
- 	 - {{ weeknote.date | date: "%e %b %Y" }}
-  	</li>
- 	 {% endif %}
- 	 {% endfor %}
-  </ol>
-
-  <h2>Season 03</h2>
-   <ol class="watched">
-   {% for weeknote in site.weeknotes %}
-
-    {% if weeknote.season == 3 %}
-    <li>
-     <a href="{{ weeknote.url }}">
-       {{ weeknote.title | capitalize }}
-     </a>
-    - {{ weeknote.date | date: "%e %b %Y" }}
-     </li>
-    {% endif %}
-    {% endfor %}
-  </ol>
-
-   <h2>Season 04</h2>
-    <ol class="watched">
-    {% for weeknote in site.weeknotes %}
-
-     {% if weeknote.season == 4 %}
-     <li>
-      <a href="{{ weeknote.url }}">
-        {{ weeknote.title | capitalize }}
-      </a>
-     - {{ weeknote.date | date: "%e %b %Y" }}
-      </li>
-     {% endif %}
-     {% endfor %}
-    </ol>
