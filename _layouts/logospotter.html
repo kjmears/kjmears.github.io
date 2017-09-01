@@ -5,7 +5,9 @@ layout: default
 
 <div class="row">
 
-<article itemscope itemtype="http://schema.org/Article">
+
+
+<article>
 
   <header>
     <h1 class="post-category">
@@ -14,17 +16,13 @@ layout: default
 
     {% include logospotter-posted.html %}
 
-    <h2 itemprop="name" id="post-title">{{ post.title }}</h2>
+    <h2 id="post-title">{{ post.title }}</h2>
   </header>
 
-  <img itemprop="image" src="/images/logospotter/{{ page.image}}" alt="" />
+  <img src="/images/logospotter/{{ page.image}}" alt="" />
 
   <div id="post-content">
-    <span itemprop="articleBody">
       {{ content }}
-    </span>
-
-
 
     {% if post.tags.size > 0 %}
         {% capture tags_content %}
@@ -99,3 +97,5 @@ layout: default
 {% endif %}
 
 </div>
+
+  {% include JSON-logospotter.html %}

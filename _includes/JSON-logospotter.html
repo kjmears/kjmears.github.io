@@ -1,0 +1,49 @@
+<div class="content container">
+      <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Review",
+  "author": "{{ site.author.name }}",
+  "headline": "{{ page.title }}",
+  "image": "{{ site.url }}/images/logospotter/{{ page.image }}",
+  "thumbnailUrl": "{{ site.url }}/images/logospotter/thumbs/{{ page.image }}",
+  "description": "{{ page.content }}",
+  "keywords": "University Logo Review, Design, Logos, Critique",
+  "publisher":{
+      "@type":"organization",
+      "name": "{{ site.author.name }}",
+      "additionalName": "Mearso",
+      "url": "{{ site.author.url }}",
+      "logo": {
+         "@type": "ImageObject",
+         "url": "http://www.mearso.co.uk/android-chrome-256x256.png",
+         "width": "256px",
+         "height": "256px"
+   },
+   "sameAs": [
+     "{{ site.author.twitter }}",
+     "{{ site.author.linkedin }}",
+     "{{ site.author.instagram }}",
+     "{{ site.author.google }}",
+     "http://staff.southwales.ac.uk/users/952-kjmears"
+   ]
+},
+  "itemReviewed": [
+  {
+    "@type": "creativeWork",
+    "copyrightHolder":"{{ page.title }}",
+    "thumbnailUrl": "{{ site.url }}/images/logospotter/thumbs/{{ page.image }}",
+    "publisher": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "{{ page.title }}",
+          "sameAs": [
+            "http://{{ page.website }}",
+            "https://en.wikipedia.org/wiki/{{ page.wiki }}"
+          ]
+        }
+      ]
+    }
+  ]
+}
+</script>
