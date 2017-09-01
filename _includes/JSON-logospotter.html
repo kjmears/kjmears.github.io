@@ -30,7 +30,6 @@
   "itemReviewed": [
   {
     "@type": "creativeWork",
-    "copyrightHolder":"{{ page.title }}",
     "thumbnailUrl": "{{ site.url }}/images/logospotter/thumbs/{{ page.image }}",
     "publisher": [
         {
@@ -41,7 +40,17 @@
             "https://en.wikipedia.org/wiki/{{ page.wiki }}"
           ]
         }
-      ]
+      ],
+      "copyrightHolder": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "{{ page.title }}",
+            "sameAs": [
+              "http://{{ page.website }}",
+              "https://en.wikipedia.org/wiki/{{ page.wiki }}"
+            ]
+          }
+        ]
     }
   ]
 }
