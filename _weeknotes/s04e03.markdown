@@ -1,0 +1,43 @@
+---
+date: "2017-09-03 18:16:39 +0100"
+title: Quiet office, noisy headphones.
+season: 04
+episode: 03
+---
+
+Feeling quite pleased that I managed to write decent daynotes to make this weeknote easier, since I now have a stinking cold and it perks me up to essentially collate what a fitter and healther me wrote when things were fresh.
+
+### Tuesday
+
+Very empty office today as lots of people use up annual leave to look after kids, go interesting places or just potter around. It left me free to work on something that I'm realising I quite enjoy that almost no-one else does - documentation. This is more the beginning stages of clearing out an overgrown and unruly wiki, so it's more slash and burn than anything at the moment but I think I appreciate good documentation because when I've been trying to do something online and can't make sense of a stack overflow thread, I'll jump on clear documentation like a hungry man. It's also a great way to clarify your thoughts.
+
+I am someone who used to read the Adobe manuals of an evening for pleasure (they don't make 'em like they used to) and would explore what was possible and then think how I could apply it. So I did a bit of that.
+
+Then I started working through some of the tasks that came out of a very useful meeting from last week where we dealt with old todos. We reviewed a ton of things hanging around in Basecamp and if we didn't do it in 9 months, then it wasn't
+
+- A - a priority
+- B - important
+- or C clear enough
+
+So we made decisions. I know, decisions. In a meeting.
+
+Dealt with a few support calls and did a Pull Request properly, by running the site locally and checking it, not the quick glance at a seemingly simple enough change that is so tempting when speed is valued so much in development.
+
+### Wednesday
+
+I made a conscious effort before leaving work yesterday to get straight into the most pressing task on my todo list, and managed to stick to that. Had a good day working through options to redesign a part of our course pages to showcase the various NSS scores per course.
+
+The day was spent mainly working through some basic ideas and taking screenshots so I can have a good look tomorrow and see which design works best. We want it to stand out and be useful but not take over the page. The 'goldilocks' problem.
+
+As an aside I'm getting a lot out of following the changes to Chrome Web Dev tools, and I saw a tweet about using it to take screenshots. Was news to me, but I feel like I'm starting to understand the power of the tool. It was super handy for all those screenshots today. Also did a bit of helping on our wiki, and had to resist the urge to say 'I'll do it. I need to let other people contribute and let them make mistakes too. Agile, innit.
+
+
+### Thursday
+
+Still working on the design for an information banner on course pages, though I've done enough variations to get me thinking, I now need to get the screenshots in shape to make a few judgements on them. - ideally, I'd compare all the versions in a browser, but this stage is about thinning out things that I can quickly see don't work, and being able to share them.
+
+The rest of the day was helping out a relative newbie to Markdown, and it was fun to see someone gradually see the light.
+
+### Friday
+
+Almost everyone away on leave, meaning I managed to concentrate on presenting what I've done this week. A selection of designs shared for feedback and consideration. In the afternoon, had a good wide ranging chat about with a couple of our devs - good to chat to engaged and enthused colleagues. It was good for me to see that I wasn't alone in think ing that we'd done a pretty job on a recent project. The product didn't exist in March and is now live and hosts lots of Induction Timetables for freshers and returning students. It wasn't smooth sailing all the way, and teh timescales were pretty tight. It was great to have a passionate driver (I suppose you'd call them a product owner) keeping up the necessary momentum to get things done.
