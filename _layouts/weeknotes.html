@@ -3,9 +3,19 @@ layout: default
 ---
 {% assign post = page %}
 
+{%
+	include JSON-LD-blog.html
+	headline=page.title
+	genre=page.category
+	keywords=page.keywords
+	content=page.content
+	link=page.permalink
+	date=page.date
+%}
+
 
 <div class="row">
-<article itemscope itemtype="http://schema.org/Article">
+<article>
 
 	<header>
     <h1 class="post-category">
@@ -18,7 +28,7 @@ layout: default
   </header>
 
   <div id="post-content">
-    <span itemprop="articleBody">
+    <span>
 
 			{% if page.image %}
 					<figure>
