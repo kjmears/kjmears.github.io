@@ -1,15 +1,15 @@
 ---
 date: "2017-09-10"
-title: One fine day. 
+title: One fine day.
 season: 04
 episode: 04
 ---
 
-## Monday 
+## Monday
 
-Started the day quickly looking into some data vocabularies around course information. Seems nuts to me to be embarking on a big exercise in creating new systems to,manage course workflows and information without a pretty good look at the existing work people have done with things like schematic.org, Heidi plus and XCRI-CAP, to name a few. It's such an exhausting task to think really hard about definitions and come up with them that using sector standards has the twin benefit of saving effort and fitting with others. So I chucked my tuppence into the debate and found the fascinating big course data dictionary that looks like great place to start. Though no doubt people will find reasons why our org is special and why edge case 'x' torpedoes everything.  
+Started the day quickly looking into some data vocabularies around course information. Seems nuts to me to be embarking on a big exercise in creating new systems to,manage course workflows and information without a pretty good look at the existing work people have done with things like [schema.org][schema], HESA [Common Data Language][common] plus and [XCRI-CAP][xcri], to name a few. It's such an exhausting task to think really hard about definitions and come up with them that using sector standards has the twin benefit of saving effort and fitting with others. So I chucked my tuppence into the debate and found the fascinating big course data dictionary that looks like great place to start. Though no doubt people will find reasons why our org is special and why edge case 'x' torpedoes everything.  
 
-Afternoon was spent releasing the work I did last week, and making some last minute adjustments. It's always the way that I notice things just before it goes into the system ready to deploy. I hope it's not just me that does that. 
+Afternoon was spent releasing the work I did last week, and making some last minute adjustments. It's always the way that I notice things just before it goes into the system ready to deploy. I hope it's not just me that does that.
 
 Off for the rest of the week, so will be intriguing to see if I daynote leave days in the same day as work days. As I write that I make it sound like it's out of my hands. Strange.
 
@@ -17,3 +17,6 @@ Off for the rest of the week, so will be intriguing to see if I daynote leave da
 
 It's now Sunday as I write this weeknote consisting of one day's work and a big blank where I didn't write any leisure daynotes. I guess I've got mooching around the house and fettling with bikes nailed, so don't need to write notes to help me get better!
 
+[schema]: http://schema.org/
+[common]: https://www.hesa.ac.uk/innovation/language
+[xcri]: https://www.xcri.alanpaull.co.uk/
