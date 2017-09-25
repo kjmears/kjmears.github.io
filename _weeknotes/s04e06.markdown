@@ -1,0 +1,32 @@
+---
+date: "2017-09-25"
+title: Changes
+season: 04
+episode: 06
+---
+## Monday
+
+Finished up accessibility report for a strategic plan that gets discussed and agree in a yearly meeting. The hope is that it isn't box ticking exercise and that it does mean something. The list of things for us to attend to that came out of this work is certainly real enough, and we need to get it done. A less altruistic and political motive for getting that done is to call out people here who are getting away with not doing it. If they are they shouldn't be.
+
+## Tuesday
+
+Paired up to troubleshoot a pesky JavaScript show and hide problem. I wasn't most forensic of approaches to work it out, but we got there in the end. Turns out we needed to add a class to make the bootstrap collapse work. It only manifested on iPad, and we missed it in testing. So that is another reminder to get a more systematic test for our components, and then write them down.
+
+Also seemed a more talky day where we discussed some of the implications losing our devops genius.  Turns out you have to pay them! It's likely that that will need to be a rethink on how that work is divided up, since recruiting people to join the team seems a particularly [Sisyphean][sis] task.
+
+## Wednesday
+
+Some Pull Requests for the latest deploy to our main website - involved a bit of setting up of Docker to run it locally, including the regular reminder to myself that 'I really should do this more often'.
+
+Took some time to make a start on some of our design guidelines and standards. Started with the accessibility statement and which standards we should be working to. Section 508 is a common one, but not sure how relevant that is for us. Downloaded [BS8878][bs8878] - which is pretty comprehensive - so in the process of investigating what statement to publish. Once we say what we do we need to do it. These guidelines have been stalled in a started state for a while now, and we need to bite the bullet and get something out there if it isn't going to die a death by being placed in the 'nice to have' pile.
+
+## Thursday
+
+Managed to tear myself away from support and incremental development tasks to continue work on our design system. it was mainly some beginnings of documents, but been needing to make a start. Even just deleting stuff that we know we don't have yet was useful to enable me to concebtrate on what we do have and get that in a publishable state.
+
+## Friday
+
+Took a day off to help get youngest offspring packed up and ready to go to University. A big life change for all concerned which I fully expect to take a while to sink in.
+
+[bs8878]: http://www.hassellinclusion.com/bs8878/
+[sis]: https://en.wikipedia.org/wiki/Sisyphus
