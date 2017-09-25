@@ -5,25 +5,25 @@ season: 04
 episode: 05
 ---
 
-## Monday
+### Monday
 A day of mainly doing Pull Requests for style changes, which involves getting local development environments setup by and testing the code. Also working out the thorny issue of what extent we can Influence an externally supplied product. always tricky to work out what we can or should change.
 
-## Tuesday
+### Tuesday
 
 Excellent afternoon of pair designing, which I found really useful to get over the hump of starting a design. The process of talking through ideas and what we think will work or not makes it a pretty efficient and enjoyable process. In this case the work is more about improving a design within the constraints of a third party system and getting to something usable and accessible - which the previous idea suggested wasn't.
 Special mention for the joy of a first ride with new biking gadgetry - this time a mammoth waterproof rack pack for all the cycling geeks to salivate over.
 
-## Wednesday
+### Wednesday
 
 Wrapped up the presentation of the design we almost finished this morning, and then. Started looking into the possibility of applying to be involved in what looks like a nice opportunity - working with HESA on a project to work with sector data and come up with new outputs for the sector to use. I think to showcase what is possible with all the HE data they are now collecting. Looks like an interesting thing - I vacillated a little over applying then thought it better to talk myself into something than out of it - that's how good things happen.
 
 Afternoon was a bit of a right off because I needed to do some first-aid admin and the exciting task of restocking my first aid kit, followed by a First Responder meeting. It sounds more dramatic than it is I'm just trained to use a defibrillator and some specialised kit to respond on campus if there is medical emergency.  And even medical emergency skills need some admin.
 
-## Thursday
+### Thursday
 
 Wrote the application to the HESA work around data in the sector, so wondering how that goes. Always tricky writing summaries of your skills and experience. It'd be nice you could say instead - 'let me show you what I can do'. Would be fascinating to be involved, and I feel a little more confident these days that I have something to offer. To that end, I got back in to kicking the tyres of Tableau Public - which was fun. Rest of the day seemed to disappear on little things. Putting it down as team building.
 
-## Friday
+### Friday
 
 Made a bit of progress writing up an accessibility report for some of our sites,  it it took way longer than I expected to come up with a concise way of explaining what is currently working and what we need to improve for a non technical audience and report. Still not done, and it's gonna require a lot more explanatory text than I first thought.
 
