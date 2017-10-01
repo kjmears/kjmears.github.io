@@ -1,0 +1,16 @@
+---
+date: "2017-10-01"
+title: End of an era
+season: 04
+episode: 07
+---
+
+For this edition of the weeknotes the day by day format doesn't really work since there are just two main things this week; one influencing the other. The momentous event of this week is the departure of a close friend and work colleague for 17 years. As a super tenacious and talented devops person, the twin pull of a better salary and more interesting challenge at ONS has prized him away, and our loss is very much their gain. I'm sure that it hasn't really sunk in that he is actually leaving despite me working with him to get as much as we can documented before he left. So will probably revisit this subject in the coming weeks.
+
+My activity this week has been trying as hard as I can to to foresee some of the issues we might face, and on a more personal level try to see it as a new start as well as an ending. An opportunity to refocus some of my activity, and learn to be more judicious what I let myself be concerned about.
+
+I get a kick out of thinking that I’m creating something useful when working through our wiki, though not everyone is as committed, which is a bit disappointing, but It's certainly not wasted effort, and perhaps leading by example will eventually pay dividends.
+
+In a tangential development to the wiki documentation we launched the very tentative first steps of Design guide this week, and it felt good to release even the most basic docs as it started the ball rolling.
+
+Also had the first of my meetings on the Advisory Group for this next year's IWMW event, and was intrigued by the new ways of working being suggested for the committee this year - it feels like I might be challenged to get out of my comfort zone this year, which every productivity guru says is a good thing, right?
