@@ -1,0 +1,14 @@
+---
+date: "2017-10-15"
+title: Schooling
+season: 04
+episode: 09
+---
+For the first time in what seems like ages, I spent the bulk of my week focused on learning some new things. I bought Rachel Andrew's [new book][cssbook] and devoted some time to working through it. It was a real pleasure, even though I'm a bot out of practice at the focus required to concentrate and take in new things. Thankfully, it's really clearly written and sets out a range of CSS methods - wider than just saying CSS Grid is the future.
+
+Aside from the usual puzzles of support calls, the big event for me was being accepted as a volunteer on a new project which will take me some way out of my comfort zone, so now I'm at the 'OMG what have I let myself in for' phase - which will hopefully pass soon.
+
+In some way these seemingly uneventful weeks might be the best - where I manage to steer clear of distracting ruminations on processes and get stuck in to the work.
+
+
+[cssbook]: https://abookapart.com/products/the-new-css-layout
