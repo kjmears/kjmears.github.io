@@ -1,0 +1,21 @@
+---
+date: "2017-11-05"
+title: Taming a todo list
+season: 04
+episode: 10
+---
+
+As I write this weeknote I've just spent a few happy hours messing around - possibly procrastinating - with my todo list, which is in the rather nerdy format of a text file and using the todo.txt convention. I've been looking at a slightly more systematic approach to how I use the syntax to reflect how I work and ways to improve my monitoring of what I do. It seems that the todo.txt syntax is basd on the GTD ideas around contexts, but they don't really work for me as is, so I've tried to adapt them to how the work comes in and a way of thinking about it that helps me see it clearly and get it done - which is after all, the point.
+
+When organising like this, it's very easy to talk yourself out of the plan with a few edge cases and end up worse off than before - I hope I've avoided that. A good product of that tweaking is that I now have some easier ways to summarise my week of done tasks, which will help when I come to write my weeknote. I'm always amazed by the amount that other people seem to remember to put in their notes, though it does seem to me that the weeknote format does tend to favour jobs that have large components of discussions, meetings and interactions (or maybe that's just the type of people who want to write them). I'm finding sitting at a desk designing with CSS is a challenge to turn into an interesting weeknote.
+
+I finished off a session of designing and released it for feedback, whilst trying to learn lessons from [Mike Monteiro][mike] (don't ask if someone likes what you've done). Followed by preparation for the big adventure on Tuesday
+
+Was up at 04:30 to get a train to Manchester to attend a [JISC Data Analytics Lab][lab] project kick-off. Spent the day learning about Data, meeting lots of clever people who know more about the field than I do. They say it's good to get out of one's comfort zone, so by that measure it must be doing me a power of good. Enjoyed the day, and will be intruiged and excited when we get started in earnest this Thursday in Birmingham.
+
+Rest of the week was getting back into some design whilst embryonic thoughts about data were swirling around. My volunteering on the project also provoked a desire to get to grips with my todo list, which has grown pretty large. It itself that isn't really a problem, but I was anxious to feel like there was is some kind of order and not just an amorphous lumo of things to do. I guess the coming weeks of online team sprints will see how well that pans out.
+
+
+
+[mike]: https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c
+[lab]: https://www.jisc.ac.uk/rd/get-involved/be-a-part-of-our-analytics-labs
