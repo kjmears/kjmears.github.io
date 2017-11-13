@@ -2,7 +2,7 @@
 
 title: "Loughborough University"
 date: 2015-06-20
-last_modified_at: 2016-08-24
+updated: 2016-08-24
 published: true
 tags:
 - eastmidlands

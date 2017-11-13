@@ -3,7 +3,7 @@ id: salford
 
 title: University of Salford
 date: 2010-07-07 22:31:33 +01:00
-last_modified_at: 2015-08-20
+updated: 2015-08-20
 
 tags:
 - english

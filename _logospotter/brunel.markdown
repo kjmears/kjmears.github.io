@@ -3,7 +3,7 @@
 title: Brunel University
 excerpt: Typographic only treatment using a light coloured lowercase Futura to state the name as the most important element.
 date: 2010-05-17 20:58:55 +01:00
-last_modified_at: 2015-08-27
+updated: 2015-08-27
 
 tags:
 - english

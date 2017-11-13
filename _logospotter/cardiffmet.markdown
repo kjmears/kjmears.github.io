@@ -3,7 +3,7 @@
 title: Cardiff Metropolitan University
 
 date: 2010-04-12 20:39:23 +01:00
-last_modified_at: 2015-08-10
+updated: 2015-08-10
 
 tags:
 - wales

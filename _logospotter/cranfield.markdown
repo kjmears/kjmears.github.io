@@ -3,7 +3,7 @@
 title: Cranfield University
 excerpt: Typographic only logo with ligatures and italics as part of a retro future design scheme.
 date: 2010-05-19 20:37:08 +01:00
-last_modified_at: 2016-07-17
+updated: 2016-07-17
 
 tags:
 - english

@@ -3,7 +3,7 @@
 title: Bath Spa University
 excerpt: A simplified shield and water accompanying a straightforward approach to typography.
 date: 2010-04-08 20:11:01 +01:00
-last_modified_at: 2015-08-17
+updated: 2015-08-17
 
 tags:
 
@@ -25,7 +25,7 @@ id: bathspa
 
 'Chiselled' apparently.
 
-It's often aeasy to mock the overblown language you find in branding guidelines, but I particularly like the silliness of this passage.
+It's often easy to mock the overblown language you find in branding guidelines, but I particularly like the silliness of this passage.
 
 > We’re classical ... and contemporary;
 > tranquil... as well as vibrant;

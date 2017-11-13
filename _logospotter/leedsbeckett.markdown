@@ -3,7 +3,7 @@
 title: Leeds Beckett University
 excerpt: Subliminal images in a lively logo.
 date: 2010-09-27
-last_modified_at: 2016-07-14
+updated: 2016-07-14
 
 tags:
 - english

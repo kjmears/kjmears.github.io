@@ -4,7 +4,7 @@ id: cumbria
 title: University of Cumbria
 excerpt: Very simple rural theme for a small university.
 date: 2010-08-02 22:27:39 +01:00
-last_modified_at: 2017-01-23
+updated: 2017-01-23
 
 tags:
 - english

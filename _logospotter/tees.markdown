@@ -3,7 +3,7 @@
 title: "Teesside University"
 date: 2015-06-20
 published: true
-last_modified_at: 2016-12-20
+updated: 2016-12-20
 
 tags:
 - northeast

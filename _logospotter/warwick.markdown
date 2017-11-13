@@ -3,7 +3,7 @@
 title: University of Warwick
 excerpt: No doubt about the location from this classical yet lively logo.
 date: 2010-08-17 17:20:00 +01:00
-last_modified_at: 2015-08-27
+updated: 2015-08-27
 
 tags:
 - english
