@@ -3,6 +3,8 @@
 title: University of Northampton
 excerpt: Out of the ordinary shield shape slightly let down by trying to do too much.
 date: 2010-09-03 21:42:03 +01:00
+updated: 2017-11-14
+
 
 tags:
 - english
@@ -19,6 +21,14 @@ image: northampton.gif
 website: www.northampton.ac.uk
 id: northampton
 ---
+
+## Updated
+
+The new Northampton logo is a big departure from the previous one (below). Giving up on the pictorial shield full of obscure local references, they've instead gone for a purely tyopgraphic solution. The 'U', 'O' and N' are certainly very bold, but unfortunately my brain keeps trying to spell out the word 'Uno' rather than intended U-o-N. The supporting text is really needed (as is the case with most University logos), which give it a feel of a partially realised idea. I can see how it might work integrated across campaigns and media, but feels a bit thin on it's own.
+
+## Older Review
+
+![](/images/logospotter/northampton-old.gif)
 
 The Northampton logo has an interesting approach, explained with this diagram from the corporate guidelines.
 
