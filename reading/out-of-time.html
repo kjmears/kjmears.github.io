@@ -1,0 +1,22 @@
+---
+layout: default
+title: Out of Time
+sitemap: false
+---
+
+<ul>
+    
+        {% assign sorted = (site.data.books.outoftime ) ) %}
+        {% for book in sorted %}
+        <li>
+    
+                <strong>{{ book.title }}</strong> <em>{{ book.author_1 }}</em>
+                {% if book.amazon_url != null %}<a href="{{ book.amazon_url }}">Amazon</a>{% endif %}
+
+        </li>
+        {% endfor %}
+    
+    </ul>
+
+
+    
