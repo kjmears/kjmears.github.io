@@ -1,0 +1,30 @@
+---
+date: "2017-11-26"
+title: Geeting round to it.
+season: 04
+episode: 11
+---
+
+After a couple of weeks where I've been remiss in writing my weeknotes - mainly cos I've been using ny todo list with renewed vigour - here's what I can remember.
+
+## Monday
+
+Working remotely on the data labs project I've volunteered for. It's been interesting to get my head round working in this way and the main focus on the project has been trying to work out decent User Stories to inform the Data requests we need to make. We need to do them now to have the data we need for when we get to start experimenting with dashboards and innovative ways to present the data we will have. I was keen to get drawing as a way that works for me to get some ideas on paper - usually the best place for them, rather than rattling round in my head. Now that we have some reasonably defined user stories we can start answering some questiosn with the dashboards - though I am still a bit anxious that my Tabkeau skills are way off what I think is needed; which I why I also took some time to follow a couple of tutorials about how to read certain types of charts. I'm convinced that for all the lovely dashboards out there, lots of people don't really take the time to learn how to read a chart, almost an assumption that it will be obvious. 
+
+## Tuesday
+
+Was mainly working through little support calls and admin tasks. Mopping up after things have been delivered or decisions been made takes time.
+
+## Wednesday
+
+Made some changes to a system to allow our search to display people's photos on our search results, which first involved getting the app running, which I haven't done for many months, but thanks to marvel of Docker that went well. I then had to work out the changes to make - not straightforward, since again, I had to remember why it is I hate using HAML. I worked it out and got the change deployed - which was all very satisfying. Had a strange moment when an email came in with a big chunk of possible dev and design work that I'd only been thinking about the night before. It was a 'That project we did before will probably come back round again soon' - and lo and behold the next day it did!
+
+## Thursday 
+
+This was a day of tackling some accessibility issues that were raised by a mini-audit I did a few months back, and I thought I'd bite the bullet. I'm not an accessibility specialist so digging and understanding the issue first can sometimes be the hardest bit. With the changes that needed to be made - they weren't too complicated fixes of stuff that should have already been done, so it was good to get round to it. It felt like a proper and productive use of my time to do something that is low profile, but If we didn't do it who would? Alos managed to take a peek at some clever Microsoft Azure videos - really intruiging for what looks like our big investment in Power BI.
+
+## Friday
+
+Is the same spirit as yesterday of finally tackling old todo items I worked from home and finally goit round to watching most of the Power BI videos that I've been meaning to for a while - It was great to devote some time to it, and certainly more efficient that some random, unfocused poking around PowerBI desktop.
+
+All in all, a good solid week of dealing with todo list clutter, but as I write I've just added a big chunk of work that was dumped on us this week, and I suspect they'll be hanging around in my list for a bit before I get near them. That's ok though - the confidence of picking things up from my list means I feel less and less bad aboiut things habging around as I can see progress happening every week, and I remind myself that we can't do it all at once.
