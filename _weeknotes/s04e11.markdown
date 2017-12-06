@@ -1,6 +1,6 @@
 ---
 date: "2017-11-26"
-title: Geeting round to it.
+title: Geting round to it.
 season: 04
 episode: 11
 ---
