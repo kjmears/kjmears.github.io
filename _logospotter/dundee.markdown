@@ -3,6 +3,7 @@
 title: University of Dundee
 excerpt: An unusual and not entirely successful twist on the usual coat of arms
 date: 2010-08-12 22:11:53 +01:00
+updated: 2017-12-06
 
 tags:
 - crest
@@ -18,7 +19,20 @@ image: dundee.gif
 wiki: University_of_Dundee
 website: www.dundee.ac.uk
 id: dundee
+brand: https://www.dundee.ac.uk/brand/design-guidelines/visual-identity/
 ---
+
+## Updated
+
+The new Dundee logo is a product of a pretty thorough rinsing through the corporate branding washing machine. It's come a bit faded, but all shiny and new. Especially impressive are the resources that place the logo at the centre of a well executed design system that goes into great detail about how to get all the elements that make up a brand. [Well worth a read][system]
+
+An severe pruning of the old logo, but with the familiar shield/type combo that is so popular in the sector. It does seem a slightly odd choice to top align the text to the shield which gives the impression of it just being a but too big, and jutting out the bottom of the whole thing.
+
+Almost antiseptically clean, an example of logo that is designed to play a supporting role in a larger more comprehensive system.
+
+## Older Review
+
+![](/images/logospotter/dundee-old.gif)
 
 Standard university crest, drawn in a very pale way that makes it look almost like clip art. Accompanied by some puzzling graphics device, that come with an pretty literal explanation.
 
@@ -35,3 +49,5 @@ On the university website, a different and much tighter logo is used that eschew
 <img src="/images/logospotter/48.png" alt="University-of-Dundee Article Image" title="University-of-Dundee Article Image" />
 
 Sometimes the well worn path might be better.
+
+[system]: https://www.dundee.ac.uk/brand/design-guidelines/visual-identity/
