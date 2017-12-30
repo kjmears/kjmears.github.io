@@ -1,0 +1,65 @@
+---
+layout: post
+title: "2017 in lists"
+date: "2017-12-28 20:18:30 +0000"
+category: blog
+published: true
+tags:
+  - thoughts
+---
+
+I consumed some media this year. I've listed some of the things that stood out. I'll probably consume some more next year.
+
+## Books
+
+I [read 18 books this year][books], mostly non-fiction, though I'm never quite sure how to include all the dipping in and out of reference books that I do. I have some lovely picture books that are a reliable and comforting source of pleasure so a special mention has to go to the 'Illustrated History of World War II' which I picked up in a charity shop. Lots of lovely (if standard for the time) illustrations, photos, maps alongside pretty concise text. It occurred to me that I've yet to see a reference website include all those static elements as nicely as they are combined in a good old fashioned book. Or it could just be me getting misty eyed and nostalgic.
+
+On to the best 3 of the year -
+
+1. [Grayson Perry by Jacky Klein][grayson]
+2. [Hothouse Brian Aldiss][aldiss]
+3. [In Defence of Food Michael Pollan][pollan]
+
+## Films
+
+When it comes to films, I think my use of star ratings doesn't have the required rigour to be much use - it's more a general guidance to how I felt immediately after watching the film, and so looking at the big list I've logged this year I can see some I would rate higher now and vice versa. Being realistic, I write sentence long reviews over on [letterboxd][letterboxd] - Which is great for trawling around and adding to a watchlist.
+
+1. [Only lovers left alive][lovers]
+2. [Nightcrawler][night]
+3. [The Diving Bell and the Butterfly][bell]
+4. [Ratcatcher][rat]
+5. [Oldboy][oldboy]
+
+Were the ones I rated highest this year, and I had a tendency to watch actors in bursts - hence a rash of Tilda Swinton. It was hard to pick out of my long [watched list][watched] - One great thing about actively maintaining a watchlist is that not much dross gets on there.
+
+## TV
+
+A deliberate focus on films at the expense of the box set means outside of the usual box set blockbusters I didn't really commit to many. I watched Game of Thrones and enjoyed getting swept along. I re-watched the The Wire, as any sensible person would. The Ken Burns Vietnam War documentary was essential watching. All in all I think it's worked better for me, trawling the rich history of film for things to watch rather than binging on Box Sets. Especially when they end up as boring and repetitive as The Walking Dead.
+
+## Podcasts
+
+No groundbreaking discoveries here, just excellent history with [In Our Time][time] from Radio 4, [Short Cuts][cuts] by Josie Long, again on Radio 4 were charmingly curated gems, Desert Island Discs is great to discover characters you'd never normally come across, [Adam Buxton][buxton] is a very funny man, and asks rather good questions too.
+
+## Miscellaneous
+
+All the above were the standard end of year categories, but special mention must go to all the people I follow on Instagram that jollyed me up throughout the year. I'll leave the quantifying that to the algorithms that will eventually rule us all.
+
+From a work point of view, I'm not brave enough to put my ambitions for the year out there like [Jukesie][ambitions], though I did manage a reasonable run of [weeknotes][weeknotes] before I ran out of steam, and will hope to revive that in the New Year.
+
+
+[books]: /reading/
+[letterboxd]: https://letterboxd.com/
+[watched]: /watched/
+[time]: http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads
+[cuts]: http://www.bbc.co.uk/programmes/b01mk3f8
+[buxton]: http://adam-buxton.co.uk/ad/category/adam-buxton-podcast/
+[grayson]: http://amzn.to/2wXX8JJ
+[aldiss]: http://amzn.to/2tZZ4Pz
+[pollan]: http://amzn.to/2E8Tlg4
+[lovers]: https://letterboxd.com/film/only-lovers-left-alive/
+[night]: https://letterboxd.com/film/nightcrawler/
+[bell]: https://letterboxd.com/film/the-diving-bell-and-the-butterfly/
+[rat]: https://letterboxd.com/film/ratcatcher/
+[oldboy]: https://letterboxd.com/film/oldboy/
+[ambitions]: https://medium.com/@jukesie/2018-ambitions-ad2cb541c742
+[weeknotes]: /weeknotes
