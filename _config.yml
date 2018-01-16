@@ -34,10 +34,11 @@ github:
   repo:              https://github.com/kjmears/kjmears.github.io
 
 # Gems
-gems:
+plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jekyll-paginate
+- jekyll-feed
 
 # Collections
 collections:

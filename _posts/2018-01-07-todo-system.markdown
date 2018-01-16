@@ -6,6 +6,8 @@ category: blog
 published: true
 tags:
   - thoughts
+
+meta: "Article outlining my todo.txt method."
 ---
 
 
