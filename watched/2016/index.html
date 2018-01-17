@@ -1,0 +1,22 @@
+---
+layout: page
+title: Watched in 2016
+published: true
+sitemap: false
+---
+
+<h2>Watched in 2016</h2>
+
+
+<ol reversed class="watched">
+	{% assign sorted = site.data.films2016 | reverse: %}
+	{% for film in sorted %}
+		<li>
+			<em>{{ film.watched  | date: "%b %-d" }} </em> - <strong>{{ film.title }}</strong> {% if film.notes %}
+			<br> {{ film.notes }} {% endif %}
+			<br>
+			<a href="https://www.themoviedb.org/movie/{{ film.tmdb_id }}">Lookup on The Movie Database</a>
+		</li>
+	{% endfor %}
+
+</ol>

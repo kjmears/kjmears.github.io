@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Watched
+title: Watched in 2017
 published: true
 sitemap: false
 ---
 
-<h2>Watched in 2018</h2>
+<h2>Watched in 2017</h2>
 
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2018 | reverse: %}
+	{% assign sorted = site.data.films2017 | reverse: %}
 	{% for film in sorted %}
 		<li>
 			<em>{{ film.watched | date: "%b %-d" }} </em> - <strong>{{ film.title }}</strong> {% if film.notes %}
@@ -20,12 +20,3 @@ sitemap: false
 	{% endfor %}
 
 </ol>
-
-
-</hr>
-
-<h2><a href="/watched/2017">Watched in 2017</a></h2>
-
-<hr>
-
-<h2><a href="/watched/2016">Watched in 2016</a></h2>
