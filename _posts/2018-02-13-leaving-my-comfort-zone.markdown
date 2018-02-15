@@ -60,20 +60,20 @@ When I finally got to this bit I was a little conflicted - I was excited at work
 
 However in the time available we decided to stick to a simple line chart to illustrate the data points which shows the rise - especially when you show just Firsts awarded. It was pretty clear that some insitutions were showing high percentage increases in the volume of firsts awarded - but that point about volume is important. For example grade inflation could go up a lot at a University because they've had a large increase in graduates - digging into the data unearths these things, so I found it a great exercise - to start visualising something which then make you pose questions about what you see. I built the first part of a dashboard - about as far as my new skill took me and then it was developed further by the rest of the team. It was a good sign to start exploring the data and see which subjects were inflating the most in an organistaion - the presentation of the info was encouraging curiousity.
 
-In the end I was pretty pleased with what I managed to achieve in the time available and really look forward to what the next teams through the process manage to do.
-
-
+In the end I was pleased with what I managed to achieve in the time available and really look forward to what the next teams through the process manage to do.
 
 (decide what image I can show here)
 
 ### Digital Collaboration
 
-I've mentioned time constraints on the project and it's worth mentioning how things were set up. The team met first in a face to face kick off meeting in Manchester where were also introduced to the whole project and given user stories to start on.
+I've mentioned time constraints on the project and it's worth mentioning how things were set up. The team met first in a face to face kick off meeting in Manchester where were also introduced to the whole project and given user stories to start on. We then started the work in ernest with a Face to Face meeting, followed by online sprints that were a day of getting on with task from the Trello board, bookended by Skype meetings.  In total we had 4 face to face and 8 online sessions, and looking back, the team managed to do a lot of work with such a timeboxed way of working.
 
 ### Understanding Policy and the Digital Landscape
 
-[jiscref: https://www.jisc.ac.uk/guides/data-visualisation]
+This one of the core compentencies was interesting, I'd say that this one depended most of the meeting the rest of the team and drawing on the experience of people who do this for a day job and were taking the opportunity to explore the edges of their respective areas.
 
+
+[jiscref]: https://www.jisc.ac.uk/guides/data-visualisation]
 [heidiplus]: https://www.hesa.ac.uk/services/heidi-plus
 [labs]: https://business-intelligence.ac.uk/analytics-labs/
 [search]: https://www.google.co.uk/search?q=grade+inflation
