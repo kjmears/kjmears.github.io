@@ -6,5 +6,5 @@ source 'https://rubygems.org'
 # gem 'jekyll-redirect-from', '~> 0.7.0'
 gem "sass"
 gem 'github-pages'
-# gem 'jekyll-paginate'
+gem 'jekyll-paginate'
 # gem 'link-checker'

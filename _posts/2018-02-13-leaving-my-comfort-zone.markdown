@@ -32,7 +32,7 @@ As you'd expect from a body serving the HE sector, there was a clear set of lear
 
 ### Agile Working
 
-The way of working was described as Agile, but without any particular adherence to a particular framework. The team I was placed on had a Product Owner, and a Scrum Master, and we would work in a series of daily sprints to enable everyone to contribute whilst not taking them away from their respective posts. 
+The way of working was described as Agile, but without any particular adherence to a particular framework. The team I was placed on had a Product Owner, and a Scrum Master, and we would work in a series of daily sprints to enable everyone to contribute whilst not taking them away from their respective posts.
 
 We used [Basecamp][basecamp] and [Trello][trello] for our project management tools. Of all the competencies I felt this was one I was most experienced with, but even this had a few surprises. I've used basecamp a lot and am pretty comfortable with it - it's great for sharing files and then discussing them, but that didn't seem to happen much - Likely because people were restricting their work on the sprint days (more on those later) and I guess wanted to get into the work rather than the meta tasks around the work.
 
@@ -62,9 +62,12 @@ When I finally got to this bit I was a little conflicted - I was excited at work
 
 However in the time available we decided to stick to a simple line chart to illustrate the data points which shows the rise - especially when you show just Firsts awarded. It was pretty clear that some institutions were showing high percentage increases in the volume of firsts awarded - but that point about volume is important. For example grade inflation could go up a lot at a University because they've had a large increase in graduates - digging into the data unearths these things, so I found it a great exercise - to start visualising something which then make you pose questions about what you see. I built the first part of a dashboard - about as far as my new skill took me and then it was developed further by the rest of the team. It was a good sign to start exploring the data and see which subjects were inflating the most in an organisation - the presentation of the info was encouraging curiosity.
 
-In the end I was pleased with what I managed to achieve in the time available and really look forward to what the next teams through the process manage to do.
+I've drawn an approximation of what we built, as all the real dashboards are restricted to people with the appropriate access.
 
-(decide what image I can show here)
+![dashboard-sketch](/images/dashboard-sketch.png)
+*Sketches of dashboard*
+
+In the end I was pleased with what I managed to achieve in the time available and really look forward to what the next teams through the process manage to do.
 
 ### Digital Collaboration
 
@@ -74,9 +77,9 @@ I've mentioned time constraints on the project and it's worth mentioning how thi
 
 This one of the core competencies was interesting, I'd say that this one depended most of the meeting the rest of the team and drawing on the experience of people who do this for a day job and were taking the opportunity to explore the edges of their respective areas. I learnt a lot of those pesky acronyms. The dashboards we produced and those of the other teams really opened my eyes to how much data has been collected about students, staff and universities, and connecting that data up is leading to some useful insights. As the dashboards mature and dare I say a new generation of planners emerges, I can see how the use of dashboards will become central to people's work. You can see some examples of this on the [WonkHE Data][wonkhedata] section of the site
 
-## Overall 
+## Overall
 
-In summary the project was pretty demanding, taking me out my comfort zone on multiple areas. It was a little stressful at times during the online sprints when I started the day not feeling that I was up to the task, or I was unclear how to proceed. The agile concept of asking if anyone had blockers was handy but of limited value when the answer was to start work, and keep going. At the end of most days I was reasonably satisfied with my effort, and the face to face days were very productive. I probably didn't get to do as much Tableau hands on as I expected, but could see that wrangling the data was crucial groundwork. 
+In summary the project was pretty demanding, taking me out my comfort zone on multiple areas. It was a little stressful at times during the online sprints when I started the day not feeling that I was up to the task, or I was unclear how to proceed. The agile concept of asking if anyone had blockers was handy but of limited value when the answer was to start work, and keep going. At the end of most days I was reasonably satisfied with my effort, and the face to face days were very productive. I probably didn't get to do as much Tableau hands on as I expected, but could see that wrangling the data was crucial groundwork.
 
 I met some lovely, helpful and clever people and got some great insights into how to develop useful Business Intelligence products - something I hope to bring back to the day job. It looks like we'll be using a different set of products to do our BI, but most of what I've learnt is transferrable and the wider perspective is very relevant.
 
@@ -85,7 +88,6 @@ I guess there's something to be said for volunteering without overthinking it an
 Oh, and I couldn't help but do a drawing of the team.
 
 ![team illustration](/images/Team4Thunderbirds.png)
-
 
 [jiscref]: https://www.jisc.ac.uk/guides/data-visualisation]
 [trello]: https://trello.com/
