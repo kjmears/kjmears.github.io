@@ -15,7 +15,7 @@ invisible: 1
 	Turns out, it took way longer than I thought</p>
 
 	<div class="gallery">
-	{% assign sorted_pages = (site.logospotter | sort: 'id') %}
+	{% assign sorted_pages = site.logospotter | sort: 'id' %}
 	{% for review in sorted_pages %}
 	{% if review.invisible == null %}
 		<figure class="gallery__item">
