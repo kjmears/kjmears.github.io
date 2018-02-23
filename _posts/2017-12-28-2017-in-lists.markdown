@@ -52,7 +52,7 @@ From a work point of view, I'm not brave enough to put my ambitions for the year
 [watched]: /watched/
 [time]: http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads
 [cuts]: http://www.bbc.co.uk/programmes/b01mk3f8
-[buxton]: http://adam-buxton.co.uk/ad/category/adam-buxton-podcast/
+[buxton]: http://adam-buxton.co.uk/podcasts
 [grayson]: http://amzn.to/2wXX8JJ
 [aldiss]: http://amzn.to/2tZZ4Pz
 [pollan]: http://amzn.to/2E8Tlg4
