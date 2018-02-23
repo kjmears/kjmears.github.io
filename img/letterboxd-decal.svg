@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>letterboxd-decal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="letterboxd-decal" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M207.272727,418.8 L207.272727,180 L163.636364,180 L163.636364,120 L321.818182,120 L321.818182,180 L278.181818,180 L278.181818,419.345455 L376.309091,419.345455 L376.309091,353.890909 L447.272727,353.890909 L447.272727,480 L163.636364,480 L163.636364,418.8 L207.272727,418.8 L207.272727,418.8 Z M0,300 C0,465.709091 134.290909,600 300,600 C465.709091,600 600,465.709091 600,300 C600,134.290909 465.709091,0 300,0 C134.290909,0 0,134.290909 0,300 L0,300 L0,300 Z" id="Fill-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
