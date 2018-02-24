@@ -9,7 +9,7 @@ published: true
 meta: "Learning some more about designing charts with Adobe Illustrator and Google Sheets"
 ---
 
-In my [previous blog post](../blog/Google-sheets-and-APIs.html) I explained how I've been logging my film watching with a google spreadsheet hooked up to some simple tools, now I'll describe how I took that info and turned it into a visually appealing chart.
+In my [previous blog post](/blog/Google-sheets-and-APIs.html) I explained how I've been logging my film watching with a google spreadsheet hooked up to some simple tools, now I'll describe how I took that info and turned it into a visually appealing chart.
 
 ## Onto the next step - deciding how to explore and visualise the ‘data’
 
@@ -21,12 +21,12 @@ Designing Data charts is something I've always been interested in, and done occa
 
 Armed with some info about what I watched, and when I watched I had a think on how to present it.  My initial sketches were pretty basic, but the idea was to represent when I watched films throughout the year.
 
-![](/images/charts-post/chart-sketch.png)
+![chart sketch](/images/charts-post/chart-sketch.png)
 *Sketching an idea*
 
 Trying to pack as much info elegantly into a chart, I thought I could represent the length of a movie with the width of a bar, placing it at the right place to represent the start time. As a sidenote, when searching for information on how to create certain types of charts within Excel or Google sheets I found it tricky to know what to look for. Turns out, the chart I’m describing above is sometimes called a [Priestley Timeline][timeline], is similar to a floating bar graph or a Gantt chart.
 
-![](/images/charts-post/floating-bars-example.png)
+![Floating Bars Example](/images/charts-post/floating-bars-example.png)
 *Mapping movies in a month*
 
 As you can see when using this method it works reasonably well to show a distribution of what I watched in a month, but the differences in film length aren't that obvious.  Also, distributing the films over the course of a month in this way doesn't seem that economical a use of the space. Another property I though would be interesting to try to show was the ratings that I've been giving films as I watched them. I used the height of the bar to represent how many stars I gave a film, so a very thin bar would be a poor rating, - but again, it was difficult to discern the information especially since I seem to rate most films within a narrow range. The colours are also an attempt to load the chart with extra information - unsucessfully representing years. (Note to self - really must learn more about the pros and cons of using colours in charts).
@@ -51,7 +51,7 @@ Up to this point I've been using rough charts in the spreadsheet, but whilst it'
 
 Illustrator has a pretty basic table interface to paste the data into, and then you have a range of common chart types to choose from. In this case a simple vertical bar chart was going to be fine as a starting point. Once the data is and Illustrator has drawn it's version of the chart, the next step is to ungroup the chart, this making it possible to add some shine to the chart (without obscuring the important bits). In my case, I've overlaid some white lines to make each instance of a watched film more distinct. I've colour-coded the days of the week, though I'm sure there must be a lot more to think about when doing that - something to search and learn more about.
 
-![](/images/charts-post/weekdays-watched-chart.png)
+![Chart of watched films](/images/charts-post/weekdays-watched-chart.png)
 *141 films in 2016 : The days I watched them on*
 
 So there you have it - a pretty simple chart with a little care taken to make it a little nicer. Way more thinking and discovery has gone into it than it appears, and it's given me a huge appreciation of the work involved in much greater feats of data visualisation. Everybody has to start somewhere though and a healhy dose of Narcissism combined with Curiousity help me have fun with data and charts and learn a lot on the way.

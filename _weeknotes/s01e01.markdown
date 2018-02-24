@@ -16,7 +16,7 @@ Based on looking at various people's weeknotes [Zak Mensah](http://www.zakmensah
 
 So this week has felt quite disjointed, with a days leave in the middle, bookended by the minor sniffles of a cold. I managed to print - no mean feat from my Mac to the heavily PC centric print queue system we have in work. I've tried out a simple 'menu' item instead of the ubiquitous 'hamburger' responsive nav on a new website that's recently launched. Been working on tidying templates for News and Events on the self same site.
 
-Been working on [UHOVI](http://www.uhovi.ac.uk) tidying up various django templates. Also coincided with me looking at the interesting static site generator [Cactus](http://cactusformac.com/docs/). Created an early static page as a testbed for some new ideas about how we present our courses and subject at the university. The idea is that us designers here at the university might be able to get signed off designs that work well as functional deliverables for our developers to work on.
+Been working on [UHOVI](http://www.uhovi.ac.uk) tidying up various django templates. Also coincided with me looking at the interesting static site generator Cactus. Created an early static page as a testbed for some new ideas about how we present our courses and subject at the university. The idea is that us designers here at the university might be able to get signed off designs that work well as functional deliverables for our developers to work on.
 
 As part of looking at other work I needed to be able to switch django versions and that took more time than I would have liked.
 

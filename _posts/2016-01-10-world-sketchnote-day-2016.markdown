@@ -9,7 +9,7 @@ tags:
 image-thumb: /wsd-logo-400px_thumb.png
 ---
 
-[![](http://sketchnotearmy.com/storage/post-images/wsd-logo-200px.png?__SQUARESPACE_CACHEVERSION=1451666769957)](http://sketchnotearmy.com/world-sketchnote-day/)
+[![Sketchnote day logo](http://sketchnotearmy.com/storage/post-images/wsd-logo-200px.png?__SQUARESPACE_CACHEVERSION=1451666769957)](http://sketchnotearmy.com/world-sketchnote-day/)
 
 As it's [World Sketchnote Day 2016](http://sketchnotearmy.com/world-sketchnote-day/) tomorrow, I couldn't let it go by un-mentioned. Looks like it will be a day full of enthusiasm and evangelism for sketchnoting.
 
@@ -37,9 +37,9 @@ Over the years I've been lucky enough to attend some great conferences and I've 
 
 Sometimes, I've started a sketchnote with the knowledge that I will be sharing it, and I have to be careful that it doesn't kill it. The pressure to create something more finished and presentable can easily rob the sketchnote of the very individuality and energy that makes them work for you (and often the very thing that intrigues other people). The line between illustration and sketchnote can be pretty blurred sometime.
 
-I've been lucky enough that the lovely people at [Five Simple Steps](http://www.fivesimplesteps.com) asked me to put some of what I've learnt into a little book that might help people get started with sketchnotes, and following my own advice I've decide to..
+I've been lucky enough that the lovely people at Five Simple Steps asked me to put some of what I've learnt into a little book that might help people get started with sketchnotes, and following my own advice I've decide to..
 
-![]({{ base-url }}/images/books/the-ghost-road.png)
+![The Ghost Road sketchnotes]({{ base-url }}/images/books/the-ghost-road.png)
 
 ## Trying new things
 

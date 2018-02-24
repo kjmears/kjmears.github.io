@@ -2,7 +2,7 @@
 layout: workshop
 title: "Open University Workshop"
 date: "2016-07-07 15:29:43 +0100"
-permalink: /ouworkshop
+permalink: /ou-workshop
 sitemap: false
 ---
 

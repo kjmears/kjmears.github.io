@@ -34,4 +34,4 @@ All of that story about the mundane day to day of my work is to illustrate how a
 
 [level]: http://24ways.org/2013/levelling-up/
 [pias]: http://www.flickr.com/photos/chrispiascik/7981177508/
-[wget]: http://en.wikipedia.org/wiki/Wge
+[wget]: http://en.wikipedia.org/wiki/Wget

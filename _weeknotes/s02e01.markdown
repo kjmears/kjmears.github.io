@@ -29,7 +29,7 @@ I also worked out that I find it really hard to work on more that one screen. Th
 [interest]:https://productforthepeople.xyz/
 [todo]:http://todotxt.com/
 [footnotes]:https://medium.com/@jukesie/friday-footnotes-8-e368a86038a2#.myxftqppj
-[gerry]:http://www.gerrymcgovern.com/new-thinking/testing-not-issue-not-enough-money-or-time
+[gerry]:http://gerrymcgovern.com/testing-is-not-an-issue-of-not-enough-money-or-time/
 [tricks]:https://css-tricks.com/design-systems-building-future/
 [drasner]:http://codepen.io/sdras/
 [codepen]:http://codepen.io/

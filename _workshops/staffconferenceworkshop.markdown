@@ -23,7 +23,7 @@ date: "2016-07-07"
 
 - Carolyn Sewell [Sketchnote Process](https://www.flickr.com/photos/pedestriantype/13147894804/in/album-72157621779073329/)
 - Eva-Lotta Lam [Travel Sketchnotes](http://secretsfromtheroad.com/)
-- Craighton Berman [Colorful Sketchnotes for display](http://studio.craightonberman.com/TEDxSANJOSE-2012)
+- Craighton Berman [Colorful Sketchnotes for display](http://studio.craightonberman.com/TEDxSANJOSE)
 - Eleanor Beer [How to manage lots of colours](http://www.eleanorbeer.com/blog/sketchnotes-personalised-innovation-conference/)
 - Gerrem Lamson [Great separation of areas and use of pictures](http://www.gerrenlamson.com/blog/2014/09/aea-austin-2014-sketchnotes/)
 - Mike Rhode [Author of a great book on sketchnoting](https://www.flickr.com/photos/rohdesign/collections/72157602798339521/)

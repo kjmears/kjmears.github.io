@@ -17,6 +17,6 @@ Having said that I then wanted an example of the info graphics that is currently
 
 [there]: http://www.designmuseum.org/
 [minard]: http://www.edwardtufte.com/tufte/posters
-[beck]: :http://www.amazon.co.uk/exec/obidos/ASIN/1854141686/mearso-21/202-4842468-4891847
-[iso]: :http://www.fulltable.com/iso/is12.html
-[vig]: :http://subway.com.ru/maps/1972.htm
+[beck]: http://www.amazon.co.uk/exec/obidos/ASIN/1854141686/mearso-21/202-4842468-4891847
+[iso]: http://www.fulltable.com/iso/is12.html
+[vig]: http://subway.com.ru/maps/1972.htm

@@ -11,6 +11,7 @@ baseurl:
 highlighter:         rouge
 markdown:            kramdown
 exclude:             [Gemfile, Gemfile.lock, '*.json', '*.rb', README.md, '.mdastrc', '.htmlhintrc', '.scss-lint.yml', '/node_modules/*', Gruntfile.js, bower_components]
+port: 4500
 
 # Assets
 #
