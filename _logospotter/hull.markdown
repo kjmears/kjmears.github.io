@@ -3,28 +3,26 @@
 title: University of Hull
 excerpt: Multiple references to coat of arms, in a monotone mark that jars slightly.
 date: 2010-06-13 21:14:28 +01:00
+updated: 2018-02-25
 
 tags:
 - english
 - crest
-- brand
 - mono
 - serif
-
 - yorkshumber
 
 wiki: University_of_Hull
 website: www.hull.ac.uk
 image: hull.gif
-brand: http://www2.hull.ac.uk/PDF/UoH_starter_kit_1.3_050609.pdf
 id: hull
 ---
 
 Multiple elements taken from the university crest designed by Sir Algernon Tudor-Craig in 1928. The symbols are the torch for learning, the rose for Yorkshire, the ducal coronet from the arms of the City of Hull, the fleur-de-lys for Lincolnshire and the dove, symbolising peace, from the arms of Thomas Ferens. Such a range of elements signifying such specific things provides a challenge when seeking to refer to a coat of arms, since each must presumably be given equal weight. Hull have tackled this problem by rendering them in a flat style that reminds me of a dingbat font.
 
-The older version of Hull's logo shown here uses an egyptian style panel where the elements look like heiroglyphics.
+The older version of Hull's logo shown here uses an Egyptian style panel where the elements look like hieroglyphics.
 
-<img src="/images/logospotter/32.gif" alt="University-of-Hull Old Logo" title="University-of-Hull Old Logo" width="211" height="118" class="alignnone size-full wp-image-623" />
+![Old Logo](/images/logospotter/hull-old.gif)
 
 ### Typography
 

@@ -3,6 +3,7 @@
 title: Buckinghamshire New University
 excerpt: A swirling conjunction of marks and angular typography
 date: 2010-04-21 21:52:10 +01:00
+updated: 2018-02-25
 
 tags:
 - english
@@ -18,7 +19,7 @@ tags:
 image: bucks.gif
 website: bucks.ac.uk
 wiki: Buckinghamshire_New_University
-brand: http://bucks.ac.uk/about_us/corporate_identity/
+brand: http://bucks.ac.uk/about-us/our-structure/professional-services/marketing-and-student-recruitment/corporate-identity
 
 id: bucks
 ---

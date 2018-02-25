@@ -24,7 +24,7 @@ I think the shape itself is a pretty appealing, with now jarring sharp angles or
 
 The most interesting information gleaned from the guidelines is the system of specific graphic devices designed to use the logo in an illustrative capacity.
 
-<img src="images/uel-lockup.gif" alt="uel-lockup"/>
+![UEL logo device](/images/logospotter/uel-lockup.gif)
 
 Called the 'river lockup' the plectrum is combined with a representation of the River Thames made up of multiple coloured circles. Apparently reprsenting a journey of transformation, there are detailed explanations and variations for many different combinations.
 

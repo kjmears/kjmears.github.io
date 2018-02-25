@@ -25,7 +25,7 @@ id: cardiffmet
 
 ## Updated logo
 
-The very helpful [Brand Guideline PDF](http://issuu.com/uwicpublications/docs/brand_guidelines) introduces the rather lovely [Galaxie Copernicus](https://vllg.com/constellation/galaxie-copernicus) which has been paired with the equally nice [Altis](http://fontdeck.com/typeface/altis)
+The very helpful [Brand Guideline PDF](http://issuu.com/uwicpublications/docs/brand_guidelines) introduces the rather lovely [Galaxie Copernicus](https://vllg.com/constellation/galaxie-copernicus) which has been paired with the equally nice [Altis](https://www.myfonts.com/fonts/typolar/altis/)
 
 With regard to the new logo, the simplified crest is a great example of how to update what can often be fairly clumsy renderings of crests. The different weights of type in the marque are a nice touch, emphasising a key selling point for the University - It's cardiff location.
 

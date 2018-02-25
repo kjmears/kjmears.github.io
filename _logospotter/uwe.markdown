@@ -27,7 +27,7 @@ The [New brand](http://www1.uwe.ac.uk/aboutus/departmentsandservices/professiona
 
 ## Previous Logo and review
 
-![](images/uwe-old.gif)
+![Old UWE logo](/images/logospotter/uwe-old.gif)
 
 
 A bold square with a curve and triangle that suggests a compass or sundial. It almost doesn't matter what the mark is meant to signify, in practice it functions as an abstract postage stamp device that type elements are able to hang off.

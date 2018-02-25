@@ -3,18 +3,17 @@
 title: "London Business School"
 date: 2016-07-02
 published: true
+updated: 2018-02-25
 
 tags:
 - london
 - blue
 - red
 - sansserif
-- brand
 
 wiki: London_Business_School
 website: www.london.edu
 image: london.edu.gif
-brand: http://clubs.london.edu/student_docs/doc_89444_56b345c825b1560dac266dc49941a408.pdf
 id: ljmu
 
 ---

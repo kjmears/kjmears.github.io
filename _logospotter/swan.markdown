@@ -25,6 +25,6 @@ The shield shape is suggested by two calligraphic marks at the top and bottom. I
 
 For the bi-lingual element of the logo, the two parts are given roughly equal weight and prominence, both placed beneath the shield.
 
-Modern sans-serif typeface adds to the informal feel. A very curvy and modulated typeface, [Cosmos](http://www.linotype.com/261345/cosmos-family.html?subviewmode=FONTS&samplestr=abcdefghijklmnopqrstuv) has some extreme changes in strokes and a large x-height, setting a fresh yet quirky tone.
+Modern sans-serif typeface adds to the informal feel. A very curvy and modulated typeface, [Cosmos](https://www.myfonts.com/fonts/berthold/cosmos-pro/) has some extreme changes in strokes and a large x-height, setting a fresh yet quirky tone.
 
-Proabably one element too far (the dragon)betraying a lack of focus in an otherwise fresh take on a university logo.
+Probably one element too far (the dragon)betraying a lack of focus in an otherwise fresh take on a university logo.

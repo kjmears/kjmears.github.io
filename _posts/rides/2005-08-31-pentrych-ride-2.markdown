@@ -4,7 +4,7 @@ published: true
 title: Pentrych Ride
 date: 2005-08-31 12:46:00.000000000 +01:00
 category: rides
-image: /rides/141.jpg
+image: /rides/pentyrch.jpg
 image-thumb: /rides/pentrych-thumb.jpg
 
 ---

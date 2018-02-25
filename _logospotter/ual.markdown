@@ -21,6 +21,6 @@ A common theme for arts focused organisations is a fairly plain modernist style 
 
 It this case, it's plain lower case Helvetica fulfilling the role. In conjunction with the full name of the organisation (all in lower case) it works with out being interesting OR objectionable. Hardly a resounding success or abject failure.
 
-[Creative Review article](http://www.creativereview.co.uk/cr-blog/2012/june/ual-identity-pentagram) covering some of the applications and ideas behind the rebrand.
+[Creative Review article (now archived)](http://www.creativereview.co.uk/cr-blog/2012/june/university-of-the-arts-london-identity/) covering some of the applications and ideas behind the rebrand.
 
-[An interesting comparison of two Arts University branding approaches](http://www.communicatemagazine.co.uk/archive/164-march-2013/4591-brandrebrand-a-head-to-head-of-two-arts-universities)
+[An interesting comparison of two Arts University branding approaches - via the web archive](https://web.archive.org/web/20160311134012/http://www.communicatemagazine.co.uk/archive/164-march-2013/4591-brandrebrand-a-head-to-head-of-two-arts-universities)

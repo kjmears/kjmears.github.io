@@ -6,7 +6,6 @@ date: 2010-04-13 22:15:53 +01:00
 
 tags:
 - english
-- brand
 - 1994-group
 - blue
 - serif
@@ -16,7 +15,6 @@ tags:
 wiki: http://en.wikipedia.org/wiki/University_of_Surrey
 website: surrey.ac.uk
 image: surrey.gif
-brand: http://www.surrey.ac.uk/brand/
 id: surrey
 ---
 

@@ -5,7 +5,6 @@ date: 2010-03-27 19:47:13 +00:00
 
 tags:
 - crest
-- brand
 - shield
 - scotland
 - serif
@@ -15,7 +14,6 @@ tags:
 
 wiki:  University_of_Aberdeen
 image: aberdeen.gif
-brand: http://www.abdn.ac.uk/staffnet/working-here/university-logo-1212.php
 website: www.aberdeen.ac.uk
 id: abdn
 

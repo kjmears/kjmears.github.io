@@ -13,4 +13,4 @@ code: mustard
 
 Sketchnote from Tom Maslen talk at Responsive Day Out - on besquare
 
-Watched Tom Maslen's talk at <a href="http://responsiveconf.com">Responsive Day out</a> on <a href="http://www.besquare.me/session/cutting-the-mustard/">Besquare</a>, and these are my sketchnotes.
+Watched Tom Maslen's talk at <a href="http://responsiveconf.com">Responsive Day out</a> online, and these are my sketchnotes.

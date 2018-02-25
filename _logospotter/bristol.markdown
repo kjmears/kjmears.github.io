@@ -3,11 +3,11 @@
 title: University of Bristol
 excerpt: An action packed logo with strong imagery that slightly overpowers the refined type.
 date: 2010-06-02
+updated: 2018-02-25
 
 tags:
 - english
 - crest
-- brand
 - uppercase
 - serif
 - red
@@ -20,11 +20,11 @@ tags:
 image: bristol.gif
 wiki: University_of_Bristol
 website: www.bristol.ac.uk
-brand: http://www.bristol.ac.uk/visualidentity/logo.html
+
 id: bristol
 ---
 
-From the [online guidelines](http://www.bristol.ac.uk/visualidentity/logo.html)
+From the online guidelines (back in 2010 before they disappeared)
 
 > The graphic block is derived from the University coat of arms, with icons representing the University's founders and benefactors – sun for Wills, dolphin for Colston, horse for Fry. The ship and the castle are based on the medieval city seal of Bristol. The open book of learning completes the graphic block. The logotype is Bembo, a serene and versatile typeface cut in 1929 and with Renaissance origins
 

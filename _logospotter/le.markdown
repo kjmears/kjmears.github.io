@@ -21,6 +21,6 @@ id: le
 ---
 [Coverage of the new logo](https://www2.le.ac.uk/institution/new-logo) - A change from the previous logo
 
-![](images/le-old.gif)
+![Old Logo](/images/logospotter/le-old.gif)
 
 the new one is a much clearer rendering of elements from the university shield with some standard uppercase serif. A nice touch is the coloured text, matching the colour in the shield, helping to make a safe choice work well by being executed well.

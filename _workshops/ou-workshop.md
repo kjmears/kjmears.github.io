@@ -54,7 +54,7 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 
 ## Resources
 
-##[My brand new pocketguide to sketchnoting](http://www.fivesimplesteps.com/products/sketchnoting)
+## My brand new pocketguide to sketchnoting
 
 An ebook expanding on some of the things we touched on in the workshop.
 

@@ -3,18 +3,17 @@
 title: "University of Huddersfield"
 date: 2016-06-05
 published: true
+updated: 2018-02-25
 
 tags:
 - blue
 - yorkshumber
-- brand
 - ua
 - ncuk
 
 wiki: University_of_Huddersfield
 website: www.hud.ac.uk
 image: hud.gif
-brand: https://www.hud.ac.uk/media/universityofhuddersfield/content/documents/BM%20Brand%20Guidelines-1.pdf
 id: hud
 ---
 
