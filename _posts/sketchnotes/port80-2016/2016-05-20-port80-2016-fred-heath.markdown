@@ -6,7 +6,7 @@ title: Port80 2016 Fred Heath Sketchnotes
 date: 2016-05-20
 image: /port80/2016/port80-2016-05-20-fred-heath.jpg
 image-thumb: /port80/2016/port80-2016-05-20-fred-heath-thumb.jpg
-image-original: /port80/2016/port80-2016-05-20-fred-heath-original.jpg
+image-original: /port80/2016/port80-2016-fred-heath-original.jpg
 category: sketchnotes
 tags:
 - port80-2016

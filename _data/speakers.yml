@@ -29,8 +29,8 @@
 
 - id: k-anagnostopoulou
   name: Kyriaki Anagnostopoulou
-  url: "www.bath.ac.uk/learningandteaching/about/staff/k-anagnostopoulou.html"
-
+  url: www.bath.ac.uk
+  
 - id: kevingashley
   name: Kevin Ashley
   twitter: kevingashley
@@ -114,7 +114,7 @@
   id: paddycallaghan
   twitter: paddycallaghan
   linkedin: https://uk.linkedin.com/pub/matthew-callaghan/10/a19/8b7
-  url: http://www.bradford.ac.uk/
+  url: www.bradford.ac.uk/
 
 - name: Ben Calvert
   id: bencalvert
@@ -142,7 +142,7 @@
 - id: littlehelli
   name: Helen Clark
   twitter: littlehelli
-  url: http://www.clarkcx.com/
+  url: www.clarkcx.com/
 
 - id: dc86
   name: David Cornforth
@@ -222,17 +222,16 @@
 - id: GavinAEvans
   name: Gavin Evans
   twitter: GavinAEvans
-  url: http://www.digitalaccessibilitycentre.org/
+  url: www.digitalaccessibilitycentre.org/
 
 - id: kwe
   name: Kevin Evans
   twitter: kwe
-  url: kwevans.com
 
 - id: _beneverad
   name: Ben Everard
-  twitter: _beneverad
-  url: beneverad.co.uk
+  twitter: _beneverard
+  url: beneverard.co.uk
 
 - id: feather
   name: Derek Featherstone
@@ -242,7 +241,7 @@
 - id: unikentwebdev
   name: Mark Fendley
   twitter: unikentwebdev
-  url: logs.kent.ac.uk/webdev
+  url: blogs.kent.ac.uk/webdev
 
 - id: bon_ferguson
   name: Bonnie Ferguson
@@ -344,7 +343,7 @@
 - id: FredAtBootstrap
   name: Fred Heath
   twitter: FredAtBootstrap
-  url: http://www.bootstrap.me.uk/
+  url: www.bootstrap.me.uk/
 
 - id: dhh
   name: David Heinemeier Hansson
@@ -540,7 +539,7 @@
 - id: AshNolan_
   name: Ashley Nolan
   twitter: AshNolan_
-  url: http://trykickoff.com/
+  url: trykickoff.com/
 
 - id: MikeNolan
   name: Mike Nolan
@@ -616,7 +615,7 @@
 - id: sharif_salah
   name: Sharif Salah
   twitter: sharif_salah
-  url: https://plus.google.com/103057053147910473099/about
+  url: plus.google.com/103057053147910473099/about
 
 - name: Sam Sanders
   id: ssanders
@@ -627,7 +626,7 @@
 - id: garethjms
   name: Gareth Saunders
   twitter: garethjms
-  url: http://blog.garethjmsaunders.co.uk
+  url: www.garethjmsaunders.co.uk/
 
 - id: cscott
   name: Chris Scott
@@ -668,7 +667,7 @@
 - id: DuncanBSS
   name: Duncan Stephen
   twitter: DuncanBSS
-  url: http://duncanstephen.co.uk
+  url: duncanstephen.co.uk
 
 - id: garethstrange
   name: Gareth Strange
@@ -739,7 +738,7 @@
 - id: olliewells
   name: Ollie Wells
   twitter: olliewells
-  url: www.linkedin.com/in/olliewells
+  url: https://www.linkedin.com/in/olliewells
 
 - id: hiten-vaghmaria
   name: Hiten Vaghmaria
@@ -776,7 +775,7 @@
 
 - id: kier
   name: Kier Whitaker
-  twitter: kierwhitaker
+  twitter: keirwhitaker
   url: keirwhitaker.com
 
 - id: TomRight

@@ -6,7 +6,7 @@ title: Port80 2016 Gavin Evans Sketchnotes
 date: 2016-05-20
 image: /port80/2016/port80-2016-05-20-gavin-evans.jpg
 image-thumb: /port80/2016/port80-2016-05-20-gavin-evans-thumb.jpg
-image-original: /port80/2016/port80-2016-05-20-gavin-evans-original.jpg
+image-original: /port80/2016/port80-2016-gavin-evans-original.jpg
 category: sketchnotes
 tags:
 - port80-2016

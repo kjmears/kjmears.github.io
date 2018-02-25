@@ -20,4 +20,4 @@ I've seen Ruth talk [once before][localhost], when she talked about the fiendish
 
 Nice demos and good to see what digital pioneers are bringing back from the fronteer.
 
-[localhost]:http://localhost:4000/sketchnotes/port80-spring-localhost-2014-sketchnotes.html
+[localhost]: /sketchnotes/port80-spring-localhost-2014-sketchnotes.html
