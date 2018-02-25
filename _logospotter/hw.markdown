@@ -3,7 +3,7 @@
 title: Heriot-Watt University
 excerpt: Monotone and tightly organised with a little angle and tension.
 date: 2010-06-07 21:32:48 +01:00
-updated: 2017-11-13
+last_modified_at: 2017-11-13
 
 tags:
 - brand

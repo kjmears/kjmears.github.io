@@ -3,7 +3,7 @@
 title: Bournemouth University
 excerpt: Sometimes it's better to keep it simple. A bold logo with variations provided by different treatments - a very modern trend.
 date: 2011-05-12 20:52:51 +01:00
-updated: 2018-02-25
+last_modified_at: 2018-02-25
 
 tags:
 - english

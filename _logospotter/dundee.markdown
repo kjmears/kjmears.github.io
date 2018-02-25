@@ -3,7 +3,7 @@
 title: University of Dundee
 excerpt: An unusual and not entirely successful twist on the usual coat of arms
 date: 2010-08-12 22:11:53 +01:00
-updated: 2017-12-06
+last_modified_at: 2017-12-06
 
 tags:
 - crest

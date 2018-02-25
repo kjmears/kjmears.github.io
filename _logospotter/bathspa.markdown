@@ -3,7 +3,7 @@
 title: Bath Spa University
 excerpt: A simplified shield and water accompanying a straightforward approach to typography.
 date: 2010-04-08 20:11:01 +01:00
-updated: 2015-08-17
+last_modified_at: 2015-08-17
 
 tags:
 

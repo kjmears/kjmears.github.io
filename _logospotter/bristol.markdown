@@ -3,7 +3,7 @@
 title: University of Bristol
 excerpt: An action packed logo with strong imagery that slightly overpowers the refined type.
 date: 2010-06-02
-updated: 2018-02-25
+last_modified_at: 2018-02-25
 
 tags:
 - english

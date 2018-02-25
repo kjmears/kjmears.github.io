@@ -3,7 +3,7 @@
 title: Anglia Ruskin University
 excerpt: Formerly Anglia Polytechnic
 date: 2013-01-29 21:45:38 +00:00
-updated: 2018-02-25
+last_modified_at: 2018-02-25
 
 tags:
 - english

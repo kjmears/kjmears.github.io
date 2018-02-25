@@ -4,7 +4,6 @@ title: "Leaving my comfort zone"
 date: "2018-02-21"
 category: blog
 published: true
-sitemap: false
 tags:
   - thoughts
   - data

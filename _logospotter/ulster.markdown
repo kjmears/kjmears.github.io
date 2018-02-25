@@ -3,7 +3,7 @@
 title: Ulster University
 
 date: 2010-09-13 19:26:01 +01:00
-updated: 2015-08-20
+last_modified_at: 2015-08-20
 
 tags:
 - brand

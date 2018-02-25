@@ -3,7 +3,7 @@
 title: "University of Portsmouth"
 date: 2015-06-20
 published: true
-updated: 2017-11-18
+last_modified_at: 2017-11-18
 
 tags:
 - southwest

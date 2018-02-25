@@ -3,7 +3,7 @@
 title: "University Campus Suffolk"
 date: 2016-05-04
 published: true
-updated: 2018-02-05
+last_modified_at: 2018-02-05
 
 tags:
 - east

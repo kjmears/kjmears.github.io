@@ -4,7 +4,7 @@ published: true
 title: University of York
 excerpt: A typographic mark with contrast and balance
 date: 2015-03-12
-updated: 2016-11-12
+last_modified_at: 2016-11-12
 tags:
 - english
 - russell-group

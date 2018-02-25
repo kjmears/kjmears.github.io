@@ -45,9 +45,9 @@ manifest_display: standalone
 # Gems
 plugins:
 - jekyll-redirect-from
-- jekyll-sitemap
 - jekyll-paginate
 - jekyll-feed
+- jekyll-sitemap
 
 # Collections
 collections:
