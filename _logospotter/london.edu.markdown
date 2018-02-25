@@ -3,7 +3,7 @@
 title: "London Business School"
 date: 2016-07-02
 published: true
-updated: 2018-02-25
+last_modified_at: 2018-02-25
 
 tags:
 - london

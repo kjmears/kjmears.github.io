@@ -2,7 +2,7 @@
 
 title: Robert Gordon University
 date: 2010-07-06 22:52:58 +01:00
-updated: 2015-08-11
+last_modified_at: 2015-08-11
 
 tags:
 - sansserif

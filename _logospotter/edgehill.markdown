@@ -3,7 +3,7 @@
 title: Edge Hill University
 excerpt: Clean and dynamic abstract swirl, neatly realised.
 date: 2010-05-24 21:42:31 +01:00
-updated: 2015-08-25
+last_modified_at: 2015-08-25
 
 tags:
 - english

@@ -20,8 +20,8 @@
         {{ page.date | date: "%b" }}
   {{ page.date | date: "%Y" }}</strong>
 
-  {% if page.updated %}
-    {% assign d = page.updated | date: "%-d" %}
+  {% if page.last_modified_at %}
+    {% assign d = page.last_modified_at | date: "%-d" %}
     Updated<strong>
       {{ page.date | date: "%a" }}
       {% case d %}
@@ -34,8 +34,8 @@
         {% else %}
           {{ d }}th
       {% endcase %}
-    {{ page.updated | date: "%b" }}
-    {{ page.updated | date: "%Y" }}</strong>
+    {{ page.last_modified_at | date: "%b" }}
+    {{ page.last_modified_at | date: "%Y" }}</strong>
   {% endif %}
 
   {% include reading-time.html %}
