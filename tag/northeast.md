@@ -2,5 +2,5 @@
 layout: blog_by_tag
 title: 'Articles by tag: North East'
 tag: northeast
-permalink: northeast/
+permalink: /logospotter/northeast/
 ---
