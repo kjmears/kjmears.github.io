@@ -21,7 +21,7 @@ brand: http://www.reading.ac.uk/dps/visualidentity/dps2-visualidentity.aspx
 id: reading
 ---
 
-The reading logo uses the familiar motif of a shield and the coat of arms has a longer lineage than I was [originally aware of](http://www.reading.ac.uk/about/about-coatofarms.aspx) Small touches of modern tastes have led to the shield accquiring some subtle softening of the corners. The wordmark of the logo uses the university sans serif, complete with the long straight extender? of the 'R' which is used as a graphic device elswehere.
+The reading logo uses the familiar motif of a shield and the coat of arms has a longer lineage than I was [originally aware of](http://www.reading.ac.uk/15/about/about-coatofarms.aspx) Small touches of modern tastes have led to the shield accquiring some subtle softening of the corners. The wordmark of the logo uses the university sans serif, complete with the long straight extender? of the 'R' which is used as a graphic device elswehere.
 
 ### Typography
 

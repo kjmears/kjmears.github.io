@@ -7,7 +7,6 @@ date: 2011-07-04 21:38:18 +01:00
 tags:
 - english
 - sansserif
-- brand
 - ua
 - uppercase
 
@@ -17,7 +16,6 @@ tags:
 image: bradford.gif
 wiki: University_of_Bradford
 website: www.brad.ac.uk
-brand: http://www.bradford.ac.uk/media/marketingandcommunications/UOB-Visual-Identity-Guidelines.pdf
 id: bradford
 ---
 

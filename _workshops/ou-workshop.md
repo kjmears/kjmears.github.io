@@ -31,7 +31,7 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 
 #### Craighton Berman
 
-[Colorful Sketchnotes for display](http://studio.craightonberman.com/TEDxSANJOSE-2012)
+[Colorful Sketchnotes for display](http://studio.craightonberman.com/TEDxSANJOSE)
 
 #### Eleanor Beer
 

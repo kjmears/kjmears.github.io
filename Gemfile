@@ -7,5 +7,5 @@ source 'https://rubygems.org'
 gem "sass"
 gem 'github-pages'
 gem 'jekyll-paginate'
+gem 'rake'
 gem 'html-proofer'
-# gem 'link-checker'

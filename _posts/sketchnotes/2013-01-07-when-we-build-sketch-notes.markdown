@@ -13,4 +13,4 @@ code: build
 
 ---
 
-Drew some sketchnotes whilst watching the much recommended 'When we build' talk by <a href="http://wilsonminer.com" title="Wilsonminer.com">Wilson Miner</a>on the pretty handy <a href="http://www.besquare.me/session/when-we-build/" title="Besquare video">Besquare site</a>.
+Drew some sketchnotes whilst watching the much recommended 'When we build' talk by <a href="http://wilsonminer.com" title="Wilsonminer.com">Wilson Miner</a>on <a href="https://vimeo.com/34017777" title="Vimeo video">Vimeo</a>.

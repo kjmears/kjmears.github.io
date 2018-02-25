@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Apple Presentation Slides
-image: /apple-slides/apple.gif
+image: apple-slides/apple.gif
 image-thumb: /apple-slides/apple-thumb.gif
 category: illustration
 ---

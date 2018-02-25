@@ -3,7 +3,7 @@ layout: collection
 published: true
 title: Port80 2014 Slides
 date: 2014-05-17
-image:
+image: /port80slides/witch.gif
 image-thumb: /port80slides/thumb.gif
 homepage: true
 category: illustration
@@ -11,8 +11,6 @@ category: illustration
 ---
 
 I attended the [Port80 2014](http://port80events.co.uk/event/port80-2014/) conference, and very good it was too. You can see my sketchnotes [on this page]({{ site.baseurl }}/sketchnotes/port80-2014/), but I also had the fun task of creating slides for my good friend and colleague Kevin Evans. I'm not sure if he's made his slidedeck available, but here are the drawings I had fun doing.
-
-<img src="{{ site.baseurl }}/images/port80slides/witch.gif" alt="witch-drawing" />
 
 <img src="{{ site.baseurl }}/images/port80slides/burn.gif" alt="burning-at-the-stake-drawing" />
 

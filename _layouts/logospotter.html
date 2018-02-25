@@ -19,7 +19,11 @@ layout: default
     <h2 id="post-title">{{ post.title }}</h2>
   </header>
 
-  <img src="/images/logospotter/{{ page.image}}" alt="" />
+
+  {% assign alt =  page.image | remove: ".gif" %}
+
+  <img src="/images/logospotter/{{ page.image}}" alt="{{ alt }} logo" />
+
 
   <div id="post-content">
       {{ content }}

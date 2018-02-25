@@ -17,6 +17,6 @@ So, I'll talk about Port80 instead. The lineup of speakers that Joel put togethe
 
 [Louise](http://louisetierney.co.uk/) Gave us a timely reminder to work harder for our users, and dovetailing with that [Kimberley](http://kimberleytew.com/) gave an illuminating talk showing just how hard disabled users are sometimes made to work.
 
-[Roy](http://roytomeij.com/) Introduced us to the dark arts of psychology and how we can use it, whilst [Kevin Evans](https://twitter.com/kwe) Talked about iBeacons, technology and the attendent cans of worms we open when using them - quoting the queen in the process.
+[Roy](https://roytomeij.com/) Introduced us to the dark arts of psychology and how we can use it, whilst [Kevin Evans](https://twitter.com/kwe) Talked about iBeacons, technology and the attendant cans of worms we open when using them - quoting the queen in the process.
 
 I managed to speak to quite a few lovely and interesting people and I'd definitely encourage anyone who doesn't consider themselves to be a 'networking' type of person to just say hello - it really is that simple.

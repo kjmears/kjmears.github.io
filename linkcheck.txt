@@ -1,0 +1,8 @@
+Running ["ScriptCheck", "LinkCheck", "ImageCheck"] on ["./_site"] on *.html... 
+
+
+Checking 2142 external links...
+Ran on 555 files!
+
+
+htmlproofer 3.7.6 | Error:  HTML-Proofer found 92 failures!
