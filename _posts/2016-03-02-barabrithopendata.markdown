@@ -9,7 +9,6 @@ image: /bara-brith-open-data-2016.jpg
 image-original: /bara-brith-open-data-2016-original.jpg
 image-thumb: /bara-brith-open-data-2016-thumb.jpg
 cc: BY
-event: govcampcymru.org/barabrithcamp
 lanyrd: /2016/opendata/
 speaker:
   - symroe

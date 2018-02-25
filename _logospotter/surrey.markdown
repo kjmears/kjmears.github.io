@@ -12,13 +12,13 @@ tags:
 - southeast
 - animal
 
-wiki: http://en.wikipedia.org/wiki/University_of_Surrey
+wiki: University_of_Surrey
 website: surrey.ac.uk
 image: surrey.gif
 id: surrey
 ---
 
-A golden stag holding a key with a gently authoritative word-mark, it's a big improvement on the previous typographic logo. This logo, able to to be modern but comfortable in displaying traditional elements in a new way. A selection of quotes from the styleguide make the purpose of the new mark explicit, even if the last quote is over-egging the pudding a bit!
+A golden stag holding a key with a gently authoritative word-mark, it's a big improvement on the previous typographic logo. This logo, able to to be modern but comfortable in displaying traditional elements in a new way. A selection of quotes from the style guide make the purpose of the new mark explicit, even if the last quote is over-egging the pudding a bit!
 
 > The new logo and identity for the University of Surrey has been created to reflect our strong heritage whilst at the same time looking forward to the bold future the University has to offer.
 
@@ -32,7 +32,7 @@ A successful exercise in taking existing imagery from crest and making it modern
 
 Thanks to the impressively comprehensive style guidelines we find the text is set in [Baker Signet Regular](http://typedia.com/explore/typeface/baker-signet/), an inscriptional face that has lovely subtle modulation of curves offset by the calligraphic sharpness of spurs throughout - particularly on the S and E. The softer curves of the Y also end the words gently.
 
-If I had to choose clothes to match this font, I think I'd choose a 1970s safari shirt:- something stylish and relaxed, serious yet wordly. So, an original choice for a University, that fits very well with the other distiguished element of the logo.
+If I had to choose clothes to match this font, I think I'd choose a 1970s safari shirt:- something stylish and relaxed, serious yet wordly. So, an original choice for a University, that fits very well with the other distinguished element of the logo.
 
 ### A graphic treatment
 

@@ -58,7 +58,7 @@ Lovely example of sketchnote journalling. The structured questions are a great f
 
 An ebook expanding on some of the things we touched on in the workshop.
 
-[![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)](http://www.fivesimplesteps.com/products/sketchnoting)
+[![Pocketguide Cover](/images/ou-workshop/pocketguide-cover.jpg)
 
 ### Further/Extra Reading
 
