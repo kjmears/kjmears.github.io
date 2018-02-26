@@ -10,6 +10,7 @@ tags:
 - uppercase
 - sansserif
 - mono
+- bi
 
 wiki: Royal_Welsh_College_of_Music_%26_Drama
 website: www.rwcmd.ac.uk
