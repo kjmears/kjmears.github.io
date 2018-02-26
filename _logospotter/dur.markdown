@@ -31,10 +31,10 @@ Durham University (the trading name of the University of Durham) Is the new bran
 
 Extensive use of the University purple and some negative space flattens the logo, unifying the elements from the original, with it's <a href="http://en.wikipedia.org/wiki/Canton_(heraldry)">canton</a> upgraded to a full quarter in the newer graphic. The new version tightens up a few aspects:-
 
-*   The Lions are simplified.
-*   The chevron is linked to the cross where previously it was contained.
-*   The inner part of the cross has softened corners.
-*   and the exterior of the shield is also given a curve.
+- The Lions are simplified.
+- The chevron is linked to the cross where previously it was contained.
+- The inner part of the cross has softened corners.
+- and the exterior of the shield is also given a curve.
 
 The softening of the <a href="http://en.wikipedia.org/wiki/Cross_pattée">Cross Patee</a> may be a conscious decision to tone down what can be a symbol with slightly martial connotations, and that aspect works well. The strengthening of the cross by reversing it out of the shield is also successful, but I think the softening has gone a little too far with the overall shape of the shield - a sharper edge along the top might have provided more contrast.
 
