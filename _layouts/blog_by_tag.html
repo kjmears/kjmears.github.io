@@ -6,6 +6,53 @@ layout: default
  <a href="/logospotter">Logospotter</a>
 </h1>
 
+<p>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      <meta itemprop="datePublished" content="{{ post.date | date: '%b. %d, %Y' }}">
+    </time>
+  
+    {% if page.date %}
+    {% assign d = page.date | date: "%-d" %}
+    Posted<strong>
+        {{ page.date | date: "%a" }}
+      {% case d %}
+        {% when "1" or "21" or "31" %}
+          {{ d }}st
+        {% when "2" or "22" %}
+          {{ d }}nd
+        {% when "3" or "23" %}
+          {{ d }}rd
+        {% else %}
+          {{ d }}th
+      {% endcase %}
+          {{ page.date | date: "%b" }}
+    {{ page.date | date: "%Y" }}</strong>
+    {% endif %}
+
+  
+    {% if page.last_modified_at %}
+      {% assign d = page.last_modified_at | date: "%-d" %}
+      Updated<strong>
+        {{ page.date | date: "%a" }}
+        {% case d %}
+          {% when "1" or "21" or "31" %}
+            {{ d }}st
+          {% when "2" or "22" %}
+            {{ d }}nd
+          {% when "3" or "23" %}
+            {{ d }}rd
+          {% else %}
+            {{ d }}th
+        {% endcase %}
+      {{ page.last_modified_at | date: "%b" }}
+      {{ page.last_modified_at | date: "%Y" }}</strong>
+    {% endif %}
+  
+    {% include reading-time.html %}
+  </p>
+
+
 <h2>{{ page.title }}</h2>
 <p>{{ content }}</p>
 
@@ -16,15 +63,17 @@ layout: default
 
     {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
     {% for tag in tags %}
-      <ul class="list-unstyled">
+
       {% for review in site.logospotter %}
         {% if review.tags contains tag %}
           {% if tag == page.tag %}
-
-            <li><a href="{{ site.baseurl }}{{ review.url }}">          <img src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail" />{{ review.title }}</a></li>
+            <div class="Media Media--center">
+              <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+              <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+            </div>
           {% endif %}
         {% endif %}
       {% endfor %}
-      </ul>
+     
     {% endfor %}
 </div>

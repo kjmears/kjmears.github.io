@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: blog_by_tag
 meta: A collection of logo reviews
 title: Logos by region
+date: 2018-02-26
 invisible: 1
 ---
 Deciding to group logos by region(and country) made me wonder about existing regions. Sure enough, the [ONS](https://www.ons.gov.uk/methodology/geography/geographicalproducts/namescodesandlookups/namesandcodeslistings/namesandcodesforadministrativegeography) use regions, and after navigating some pretty detailed and technical articles I found what are called GSS Geographical Codes.
@@ -13,167 +14,192 @@ Deciding to group logos by region(and country) made me wonder about existing reg
 <h3>South West</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "southwest" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
+
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>South East</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "southeast" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
+
 {% endfor %}
 
 <h3>West Midlands</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "westmidlands" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>East Midlands</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "eastmidlands" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>London</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "london" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>Yorks & Humber</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "yorkshumber" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>North East</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "northeast" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>North West</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "northwest" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>East</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "east" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>Wales</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "wales" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>
       {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>Scotland</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "scotland" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
-      {% endif %}
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>      {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
 
 <h3>Irish</h3>
 
 {% for tag in tags %}
-  <ul class="list-unstyled">
+
   {% for review in site.logospotter %}
     {% if review.tags contains tag %}
       {% if tag == "irish" %}
-        <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
-      {% endif %}
+  <div class="Media Media--center">
+  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+  </div>      {% endif %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
