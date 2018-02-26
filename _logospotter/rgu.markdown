@@ -24,14 +24,14 @@ Evolution more than revolution for the RGU logo. In this case the revolution mea
 
 ## Older review
 
-![](/images/logospotter/rgu-old.gif)
+![Old RGU logo](/images/logospotter/rgu-old.gif)
 
 The following areas were identified in the corporate guidelines, outlining the rationale for the changes to the name and the logo.
 
-*   Increased prominence given to our locatIon
-*   Removal of the definitive article
-*   Increased legibility of our coat of arms elements
-*   Application of a new corporate colour to help distinguish our identity
+* Increased prominence given to our locatIon
+* Removal of the definitive article
+* Increased legibility of our coat of arms elements
+* Application of a new corporate colour to help distinguish our identity
 
 I particularly like the very strong roundel where the parts of the University coat of arms have been brought together in a monochrome diagram that reminds me a little of a sporting badge. This feel is created by the strong uppercase around the imagery. The bespoke font (called Gordon) are is a compressed sans-serif that works well in the confines of the circle. The Os and Ds reminded me of DIN Mittelschrift and when "looking at the [DIN variations](http://new.myfonts.com/fonts/adobe/din-schriften/) one can see it's almost a combination of both.
 
