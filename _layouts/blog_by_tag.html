@@ -20,7 +20,8 @@ layout: default
       {% for review in site.logospotter %}
         {% if review.tags contains tag %}
           {% if tag == page.tag %}
-            <li><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></li>
+
+            <li><a href="{{ site.baseurl }}{{ review.url }}">          <img src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail" />{{ review.title }}</a></li>
           {% endif %}
         {% endif %}
       {% endfor %}
