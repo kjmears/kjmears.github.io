@@ -7,12 +7,9 @@ date: 2012-01-23 10:39:20 +00:00
 tags:
 - english
 - sansserif
-
 - green
-
 - yorkshumber
 - ccuc
-
 
 image: yorksj.gif
 wiki: York_St_John_University

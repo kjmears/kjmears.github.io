@@ -29,9 +29,9 @@ A radical change for Warwick, which has been accompanied by what now seems to be
 Described variously, as
 
 > like a mid '00's video editing software branding.
-
+>
 > like a dance school logo than a symbol of a higher education institution
-
+>
 > like a downmarket nightclub
 
 in the comments in [this article](http://www.coventrytelegraph.net/news/warwick-university-students-react-shockingly-9112204), however a more [considered take on the whole branding process](http://theboar.org/2015/08/02/an-experts-take-on-the-warwick-rebranding/) is provided via the [petition](https://www.change.org/p/halt-the-re-branding-of-the-university-of-warwick) to halt the branding.

@@ -9,7 +9,6 @@ tags:
 - english
 - russell-group
 - green
-
 - yorkshumber
 - typographic
 - plateglass
@@ -31,10 +30,9 @@ Updated logo is an slighlty conservative evolution of the previous one. The plea
 
 The decision to evolve and retain the best of the previous logo is a good one, and one would hope that makes the task of implementing the change a more manageable one.
 
-
 ## Previous Review
 
-![](/images/logospotter/york-old.gif)
+![Old York Logo](/images/logospotter/york-old.gif)
 
 ### A Balanced and lively approach
 
