@@ -46,7 +46,7 @@ Overall, seems like a novel approach on the type undermined by a loss of nerve.
 
 ### Not a heraldic shield this time
 
-![](/images/logospotter/bathspa-old.gif)
+![Old logo](/images/logospotter/bathspa-old.gif)
 
 A modern and simplified interpretation of a shield with waves intersecting and reversing out. I presume that the waves refer to the hot water spa that Bath is famous for. The blue and grey (or silver, as it's referred to in the guidelines) makes for a very light logo. One that reminds me of beauty or health products; the washed out feel is avoided in the black and white version which is altogether stronger.
 
@@ -58,12 +58,11 @@ The wordmark of the logo uses DIN to continue the almost antiseptically clean fe
 
 When used on the website, the shield is accompanied by text rendered in Arial, making a bolder and dare I say a more confident mark.
 
-<img src="/images/logospotter/15.jpg" alt="Bath Spa Article Image - blue" />
+![Bath Spa Article Image - blue](/images/logospotter/15.jpg)
 
 On the cover of the prospectus the shield is used without the close proximity of the text and it gains some stature by being a little enigmatic.
 
-<img src="/images/logospotter/16.jpg" alt="Bath Spa Logo"/>
-
+![Bath Spa Logo](/images/logospotter/16.jpg)
 ### Summary
 
 Without the obvious visual shorthand of heraldry to draw upon, Bath Spa have gone for a modern almost pictographic device, which draws upon a different tradition of flat colours and graphic shapes used by newer institutions. I think more versatile and successful in monochrome.

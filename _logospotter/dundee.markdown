@@ -32,7 +32,7 @@ Almost antiseptically clean, an example of logo that is designed to play a suppo
 
 ## Older Review
 
-![](/images/logospotter/dundee-old.gif)
+![Old logo](/images/logospotter/dundee-old.gif)
 
 Standard university crest, drawn in a very pale way that makes it look almost like clip art. Accompanied by some puzzling graphics device, that come with an pretty literal explanation.
 
@@ -46,7 +46,7 @@ Which I'm not entirely sure about. At present it seems there are some intriguing
 
 On the university website, a different and much tighter logo is used that eschews the graphic signifiers and is content to present a shield and the location.
 
-<img src="/images/logospotter/48.png" alt="University-of-Dundee Article Image" title="University-of-Dundee Article Image" />
+![University-of-Dundee Article Image](/images/logospotter/48.png)
 
 Sometimes the well worn path might be better.
 

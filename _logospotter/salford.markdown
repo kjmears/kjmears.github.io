@@ -34,7 +34,7 @@ I couldn't work out the clean sans serif that is used, but the condensed and sli
 
 ## Previous logo
 
-![](/images/logospotter/salford-old.gif)
+![Old Logo](/images/logospotter/salford-old.gif)
 
 Tidying up exercise on Salford's roundel described in the corporate guidelines. The supporting text around the Lion [in a pose called rampant](http://en.wikipedia.org/wiki/Attitude_(heraldry)) has been made bolder, larger and simpler, whilst also removing some ornamentation. Like the simplicity of just one lion. A strong character in a dynamic pose free of distractions alludes to the history suggested by a coat of arms, without labouring the point. The circular shape is a strong mark when done with simply and with confidence. Was reminded me of the [Midland Bank Griffin](http://www.logorip.com/)
 

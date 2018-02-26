@@ -25,7 +25,7 @@ id: hw
 An evolved version of the logo, that gets rid of the 'tab' graphic and lets it all hang together more simply. A good decision.
 
 
-![](/images/logospotter/hw-old.gif)
+![Old Logo](/images/logospotter/hw-old.gif)
 
 ## Older Review
 

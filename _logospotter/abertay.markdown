@@ -30,12 +30,12 @@ And there you have it - which is a little unfair. The new version doesn't conden
 
 One detail I thought worked well was the use of an outlined version of the crest on the website, which reversed out of the strong colour used there shows a light touch for something that is repeated across the site.
 
-![](/images/logospotter/abertay-on-red.gif)
+![Outlined logo](/images/logospotter/abertay-on-red.gif)
 
 
 ## Previous Review
 
-![](/images/logospotter/abertay-old.gif)
+![Old logo](/images/logospotter/abertay-old.gif)
 
 A typographic only logo from Abertay University, that uses a [slab serif face, Serifa](http://typedia.com/explore/typeface/serifa/) to state the basic information simply, with the kind of modern voice that paradoxically, a 1960s can provide. The modern serif is direct, strong and clear. A clear break with the name and crest based logo the university had previously.
 

@@ -29,7 +29,7 @@ The 'UP' construction is fairly appealing with some trendy colour overlays, thou
 
 ## Old logo
 
-![](/images/logospotter/port-old.gif)
+![Old logo](/images/logospotter/port-old.gif)
 
 Called spheres and half-spheres in the logo guidelines, maybe they are a nod to Portsmouth's naval history, suggesting portholes on ships. The arrangement just about suggests a 'P'- stretched to breaking point, and so needs the accompanying text which looks to be [Univers](http://www.myfonts.com/fonts/linotype/univers/).
 
@@ -37,4 +37,4 @@ I like the ultra light weight on top of the heavy word.
 
 [video]: https://vimeo.com/225819392
 [announcement]: http://www.port.ac.uk/realising-the-vision/major-projects/universityrebrand/
-[shield]: /shield/
+[shield]: /logospotter/shield/

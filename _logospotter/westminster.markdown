@@ -13,7 +13,6 @@ tags:
 - sansserif
 
 published: true
-
 image: westminster.gif
 wiki: University_Of_Westminster
 website: www.westminster.ac.uk

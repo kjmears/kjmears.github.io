@@ -11,13 +11,12 @@ homepage: true
 cc: BY
 
 ---
-
 Sketchnotes from Open Knowledge Foundation Booksprint 3rd September 2013
 
 From opening talk by Phil Barker and some of my initial ideas about Open Education
 
-<a href="{{ site.baseurl }}/images/OKFBooksprint/data.gif"><img src="{{ site.baseurl }}/images/OKFBooksprint/data.gif"></a>
+![Booksprint Sketchnotes]({{ site.baseurl }}/images/OKFBooksprint/data.gif)
 
-<a href="{{ site.baseurl }}/images/OKFBooksprint/pedagogy.gif"><img src="{{ site.baseurl }}/images/OKFBooksprint/pedagogy.gif"></a>
+![Booksprint Sketchnotes]({{ site.baseurl }}/images/OKFBooksprint/pedagogy.gif)
 
-<a href="{{ site.baseurl }}/images/OKFBooksprint/resources.gif"><img src="{{ site.baseurl }}/images/OKFBooksprint/resources.gif"></a>
+![Booksprint Sketchnotes]({{ site.baseurl }}/images/OKFBooksprint/resources.gif)

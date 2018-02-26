@@ -15,8 +15,8 @@ So, I'll talk about Port80 instead. The lineup of speakers that Joel put togethe
 
 [Dan](http://hereinthehive.com/) has obviously thought long and hard about content and making it truly responsive, rather than just sprinkling some media query fairy dust. I liked the way [Nathan](http://artequalswork.com/) explained how integral layout is to content, and showed how it has been considered throughout history.
 
-[Louise](http://louisetierney.co.uk/) Gave us a timely reminder to work harder for our users, and dovetailing with that [Kimberley](http://kimberleytew.com/) gave an illuminating talk showing just how hard disabled users are sometimes made to work.
+Louise Tierney Gave us a timely reminder to work harder for our users, and dovetailing with that [Kimberley](http://kimberleytew.com/) gave an illuminating talk showing just how hard disabled users are sometimes made to work.
 
-[Roy](https://roytomeij.com/) Introduced us to the dark arts of psychology and how we can use it, whilst [Kevin Evans](https://twitter.com/kwe) Talked about iBeacons, technology and the attendant cans of worms we open when using them - quoting the queen in the process.
+[Roy](https://roy.io/) Introduced us to the dark arts of psychology and how we can use it, whilst [Kevin Evans](https://twitter.com/kwe) Talked about iBeacons, technology and the attendant cans of worms we open when using them - quoting the queen in the process.
 
 I managed to speak to quite a few lovely and interesting people and I'd definitely encourage anyone who doesn't consider themselves to be a 'networking' type of person to just say hello - it really is that simple.

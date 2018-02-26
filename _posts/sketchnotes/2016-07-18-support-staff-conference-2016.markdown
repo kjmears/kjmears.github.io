@@ -20,7 +20,7 @@ cc: BY-SA
 
 My first time of attending the Support Staff Conference in the University of South Wales, saw me listen to a talk by Ben Calvert, The Pro Vice-Chancellor for Learning, Teaching and Student Experience. It was a lot more interesting than his rather dry title would lead you to expect.
 
-![](/images/supportstaff2016/supportstaff2016-helen-walbey.jpg)
+![Sketchnotes of talk](/images/supportstaff2016/supportstaff2016-helen-walbey.jpg)
 
 <a href="/images/supportstaff2016/supportstaff2016-helen-walbey-large.jpg">Large version for download</a>
 
