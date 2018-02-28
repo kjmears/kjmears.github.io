@@ -3,12 +3,15 @@
 {
   "@context": "http://schema.org",
   "@type": "Review",
-  "author": "{{ site.author.name }}",
-  "headline": "{{ page.title }}",
+  "headline": "{{ page.title }} Logo Review",
   "image": "{{ site.url }}/images/logospotter/{{ page.image }}",
   "thumbnailUrl": "{{ site.url }}/images/logospotter/thumbs/{{ page.image }}",
   "description": "Review of logo for {{ page.title }}",
   "keywords": "University Logo Review, Design, Logos, Critique",
+  "author":{
+    "@type":"person",
+      "name":"{{ site.author.name }}"
+      },
   "publisher":{
       "@type":"organization",
       "name": "{{ site.author.name }}",
