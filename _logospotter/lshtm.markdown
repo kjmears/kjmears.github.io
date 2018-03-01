@@ -3,7 +3,6 @@
 title: "London School of Hygiene & Tropical Medicine"
 date: 2016-07-09
 published: true
-last_modified_at: 2018-02-25
 
 tags:
 - london

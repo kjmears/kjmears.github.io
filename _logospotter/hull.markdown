@@ -3,7 +3,6 @@
 title: University of Hull
 excerpt: Multiple references to coat of arms, in a monotone mark that jars slightly.
 date: 2010-06-13 21:14:28 +01:00
-last_modified_at: 2018-02-25
 
 tags:
 - english

@@ -3,7 +3,6 @@
 title: University of Sheffield
 excerpt: A distinguished and definite no nonsense logo that manages to introduce life with typography.
 date: 2010-07-20 21:59:57 +01:00
-last_modified_at: 2018-02-25
 id: shef
 
 tags:

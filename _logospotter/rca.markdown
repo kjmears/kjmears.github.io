@@ -2,7 +2,7 @@
 
 title: Royal College of Art
 date: 2013-10-08 07:12:37 +01:00
-last_modified_at: 2018-02-25
+
 tags:
 - english
 - crest

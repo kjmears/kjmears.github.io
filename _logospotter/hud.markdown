@@ -3,7 +3,6 @@
 title: "University of Huddersfield"
 date: 2016-06-05
 published: true
-last_modified_at: 2018-02-25
 
 tags:
 - blue

@@ -3,7 +3,6 @@
 title: Buckinghamshire New University
 excerpt: A swirling conjunction of marks and angular typography
 date: 2010-04-21 21:52:10 +01:00
-last_modified_at: 2018-02-25
 
 tags:
 - english
