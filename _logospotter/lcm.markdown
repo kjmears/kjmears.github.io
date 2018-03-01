@@ -3,15 +3,15 @@
 title: "Leeds College of Music"
 date: 2016-06-27
 published: true
-last_modified_at: 2018-03-011
+last_modified_at: 2018-03-01
 
 tags:
 - english
-- circle
 - yorkshumber
 - sansserif
 - uppercase
 - mono
+- typographic
 
 
 wiki: Leeds_College_of_Music

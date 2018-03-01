@@ -6,16 +6,17 @@ published: true
 
 tags:
 - london
-- red
 - serif
 - shield
 - crest
 - animal
+- brand
 
 wiki: Birkbeck,_University_of_London
 website: www.bbk.ac.uk
 image: bbk.gif
 id: bbk
+brand: http://www.bbk.ac.uk/staff-information/digital-standards/visual-id
 ---
 
 A nod to it's long history as a night school with candles and an Owl in the shield accompanied by a quirky half-moon over as a dot on the 'i'.
