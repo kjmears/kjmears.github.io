@@ -21,7 +21,7 @@ id: ucs
 
 ## Updated
 
-Very thorough [write up][brandnew] [the Brand New Blog][bn]. Much better than the old logo, and the brand guidelines go to town to showcase the brand. Very much in the a new University mold, and refreshing to see one being bold and confident without trying to be too clever.
+Very thorough [write up][brandnew]on [the Brand New Blog][bn]. Much better than the old logo, and the brand guidelines go to town to showcase the brand. Very much in the a new University mold, and refreshing to see one being bold and confident without trying to be too clever.
 
 ## Older Review
 

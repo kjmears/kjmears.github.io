@@ -15,7 +15,7 @@ Deciding to group logos by region(and country) made me wonder about existing reg
 
 {% for tag in tags %}
 
-  {% for review in site.logospotter %}
+  {% for review in site.logospotter | sort: title %}
     {% if review.tags contains tag %}
       {% if tag == "southwest" %}
 
