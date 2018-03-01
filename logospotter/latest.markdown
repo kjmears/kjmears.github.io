@@ -26,11 +26,10 @@ date: 2018-02-29
   <a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a>
      
 
-
   {% assign d = review.last_modified_at | date: "%-d" %}
   <em>
     Updated
-      {{ review.date | date: "%a" }}
+      {{ review.last_modified_at | date: "%a" }}
       {% case d %}
         {% when "1" or "21" or "31" %}
           {{ d }}st

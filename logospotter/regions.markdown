@@ -15,17 +15,16 @@ Deciding to group logos by region(and country) made me wonder about existing reg
 
 {% for tag in tags %}
 
-  {% for review in site.logospotter | sort: title %}
-    {% if review.tags contains tag %}
-      {% if tag == "southwest" %}
+{% for review in site.logospotter %}
+  {% if review.tags contains tag %}
+    {% if tag == "southwest" %}
 
-  <div class="Media Media--center">
-  <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
-  <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
-  </div>
-
-      {% endif %}
+<div class="Media Media--center">
+<img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+<p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
+</div>
     {% endif %}
+  {% endif %}
   {% endfor %}
 {% endfor %}
 
