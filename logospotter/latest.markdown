@@ -5,15 +5,28 @@ title: Last updated
 date: 2018-02-29
 
 ---
+
+
+   
+
+
+ 
+
+
   {% assign sorted_pages = site.logospotter | sort: 'last_modified_at'  %}
   {% assign reversed = sorted_pages | reverse %}
 
 	{% for review in reversed %}
 	{% if review.invisible == null %}
+
+      {% if review.last_modified_at %}
   <div class="Media Media--center">
   <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
   <p class="Media-body">
   <a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a>
+     
+
+
   {% assign d = review.last_modified_at | date: "%-d" %}
   <em>
     Updated
@@ -29,9 +42,12 @@ date: 2018-02-29
           {{ d }}th
       {% endcase %}
     {{ review.last_modified_at | date: "%b" }}
-    {{ review.last_modified_at | date: "%Y" }}</em>
+    {{ review.last_modified_at | date: "%Y" }}
+    </em>
     </p>
   </div>
+{% endif %}
+  
 
 	{% endif %}
 
