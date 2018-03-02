@@ -8,7 +8,6 @@ tags:
 - shield
 - scotland
 - serif
-- blue
 - red
 - yellow
 

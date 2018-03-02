@@ -4,6 +4,7 @@ title: "Leeds College of Music"
 date: 2016-06-27
 published: true
 last_modified_at: 2018-03-01
+promo: true
 
 tags:
 - english

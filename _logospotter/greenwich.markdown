@@ -3,6 +3,7 @@
 title: University of Greenwich
 date: 2013-10-06 19:30:19 +01:00
 last_modified_at: 2018-03-01
+promo: true
 
 tags:
 - english

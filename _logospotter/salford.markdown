@@ -18,7 +18,7 @@ tags:
 image: salford.gif
 wiki: University_of_Salford
 website: www.salford.ac.uk
-brand: http://www.salford.ac.uk/about-us/corporate-information/corporate-identity
+brand: http://www.salford.ac.uk/about-us/corporate-information/corporate-identity/toolkit
 
 ---
 

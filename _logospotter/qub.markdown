@@ -4,7 +4,7 @@ title: "Queen's University Belfast"
 date: 2016-06-28
 published: true
 last_modified_at: 2018-02-05
-
+promo: true
 tags:
 - irish
 - russell-group
