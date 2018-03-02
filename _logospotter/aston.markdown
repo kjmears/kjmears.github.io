@@ -12,6 +12,7 @@ tags:
 - abstract
 - plateglass
 - ncuk
+- brand
 - orange
 
 
@@ -19,6 +20,7 @@ website: aston.ac.uk
 wiki: Aston_university
 image: aston.gif
 id: aston
+brand: http://www.aston.ac.uk/EasysiteWeb/getresource.axd?AssetID=259619&type=Full&servicetype=Attachment
 ---
 
 Starkly geometric logo with the main feature a solid triangle arranged at an angle. At first I assumed, unfairly, that the triangle was an arbitrary and uninspired attempt to inject some dynamism, but on reading the University's style guide I learnt that it refers to the well known [Aston Triangle](http://en.wikipedia.org/wiki/Aston_Triangle). Nice to find that nugget, but I guess that most people don't have access to the styleguide and will just take it at face value.(The link I found the styleguide at appears not to be working now 2010-04-18).
