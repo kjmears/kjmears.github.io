@@ -9,6 +9,7 @@ tags:
   - data
 
 meta: "Article about working on JISC Data Analytics Project"
+homepage: true
 ---
 I've recently volunteered to take part in a [JISC funded project][labs] around developing data dashboards. This blog post is my way of making sense of what I did, how it went and what I learnt.
 Before I talk about my efforts I need to explain a little about the context. The two organisations supporting this activity are

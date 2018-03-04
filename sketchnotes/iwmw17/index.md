@@ -6,6 +6,7 @@ homepage: true
 tag: iwmw17
 meta: IWMW17 Blog Post and Sketchnotes
 image: /iwmw17/iwmw17-intro-thumb.png
+homepage: true
 ---
 
 ### Round up
