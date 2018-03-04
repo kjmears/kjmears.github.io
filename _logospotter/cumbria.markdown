@@ -12,6 +12,7 @@ tags:
 - green
 - ccuc
 - northeast
+- nature
 
 image: cumbria.gif
 wiki: University_of_Cumbria

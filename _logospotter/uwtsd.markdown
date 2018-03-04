@@ -11,6 +11,7 @@ tags:
 - sansserif
 - bi
 - crest
+- yellow
 
 wiki: University_of_Wales_Trinity_Saint_David
 website: www.uwtsd.ac.uk

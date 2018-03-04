@@ -14,6 +14,7 @@ tags:
 - ncuk
 - n8
 - red-brick
+- typographic
 
 wiki: University_of_Manchester
 website: www.manchester.ac.uk

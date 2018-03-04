@@ -11,6 +11,7 @@ tags:
 - uppercase
 - serif
 - brand
+- mono
 
 
 wiki: Leeds_College_of_Art

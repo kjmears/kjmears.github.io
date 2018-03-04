@@ -7,6 +7,7 @@ published: true
 tags:
 - london
 - purple
+- typographic
 - sansserif
 
 wiki: Royal_Veterinary_College

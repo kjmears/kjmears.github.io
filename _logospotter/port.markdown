@@ -11,6 +11,8 @@ tags:
 - purple
 - sansserif
 - brand
+- blue
+- uppercase
 
 wiki: University_of_Portsmouth
 website: www.port.ac.uk

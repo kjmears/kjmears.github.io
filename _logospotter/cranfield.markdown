@@ -11,6 +11,7 @@ tags:
 - serif
 - southeast
 - circle
+- typographic
 
 image: cranfield.gif
 wiki: Cranfield_university

@@ -16,6 +16,8 @@ tags:
 - n8
 - serif
 - script
+- crest
+- shield
 
 image: york.gif
 wiki: University_of_York

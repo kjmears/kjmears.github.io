@@ -8,6 +8,9 @@ last_modified_at: 2016-12-20
 tags:
 - northeast
 - ua
+- sansserif
+- typographic
+- orange
 
 wiki: Teesside_University
 website: www.tees.ac.uk

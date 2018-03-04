@@ -9,6 +9,7 @@ tags:
 - purple
 - sansserif
 - bi
+- nature
 
 wiki: University_of_the_Highlands_and_Islands
 website: www.uhi.ac.uk

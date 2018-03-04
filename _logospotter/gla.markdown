@@ -15,6 +15,7 @@ tags:
 - serif
 - animal
 - brand
+- nature
 
 wiki: University_of_Glasgow
 website: www.gla.ac.uk

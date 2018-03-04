@@ -10,6 +10,7 @@ tags:
 - uppercase
 - sansserif
 - brand
+- nature
 
 wiki: SOAS,_University_of_London
 website: www.soas.ac.uk

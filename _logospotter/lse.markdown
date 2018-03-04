@@ -9,6 +9,7 @@ tags:
 - russell-group
 - red
 - sansserif
+- uppercase
 
 wiki: London_School_of_Economics
 website: www.lse.ac.uk

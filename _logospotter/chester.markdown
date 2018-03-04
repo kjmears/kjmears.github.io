@@ -9,6 +9,7 @@ tags:
 - shield
 - ccuc
 - crest
+- red
 
 wiki: University_of_Chester
 website: www.chester.ac.uk

@@ -10,6 +10,7 @@ tags:
 - green
 - yorkshumber
 - ccuc
+- nature
 
 image: yorksj.gif
 wiki: York_St_John_University

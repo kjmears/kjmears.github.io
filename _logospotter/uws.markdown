@@ -9,6 +9,7 @@ tags:
 - scotland
 - typographic
 - serif
+- uppercase
 
 
 wiki: University_of_the_West_of_Scotland

@@ -9,6 +9,7 @@ tags:
 - yorkshumber
 - ua
 - ncuk
+- abstract
 
 wiki: University_of_Huddersfield
 website: www.hud.ac.uk

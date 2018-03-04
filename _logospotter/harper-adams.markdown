@@ -8,6 +8,7 @@ tags:
 - blue
 - yellow
 - sansserif
+- animal
 
 wiki: Harper_Adams_University
 website: www.harper-adams.ac.uk

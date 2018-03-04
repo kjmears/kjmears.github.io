@@ -11,7 +11,7 @@ tags:
 - sansserif
 - shield
 - million+
-
+- typographic
 - eastmidlands
 - blue
 - uppercase

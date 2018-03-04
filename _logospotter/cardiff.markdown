@@ -13,6 +13,7 @@ tags:
 - uppercase
 - gw4
 - bi
+- typographic
 
 wiki: Cardiff_University
 website: www.cardiff.ac.uk

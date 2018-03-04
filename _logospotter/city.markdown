@@ -11,6 +11,7 @@ tags:
 - shield
 - red
 - crest
+- uppercase
 
 wiki: City_University_London
 website: www.city.ac.uk

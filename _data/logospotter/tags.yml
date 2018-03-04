@@ -56,6 +56,8 @@
 
 - slug: animal
   name: Animal
+- slug: nature
+  name: Nature
 - slug: shield
   name: Shield
 

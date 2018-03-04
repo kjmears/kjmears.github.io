@@ -10,6 +10,7 @@ tags:
 - southwest
 - uppercase
 - sansserif
+- typographic
 
 image: bournemouth.gif
 website: www.bournemouth.ac.uk
