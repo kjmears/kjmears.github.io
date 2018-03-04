@@ -9,8 +9,6 @@ tags:
 image-thumb: /wsd-logo-400px_thumb.png
 ---
 
-[![Sketchnote day logo](http://sketchnotearmy.com/storage/post-images/wsd-logo-200px.png?__SQUARESPACE_CACHEVERSION=1451666769957)](http://sketchnotearmy.com/world-sketchnote-day/)
-
 As it's [World Sketchnote Day 2016](http://sketchnotearmy.com/world-sketchnote-day/) tomorrow, I couldn't let it go by un-mentioned. Looks like it will be a day full of enthusiasm and evangelism for sketchnoting.
 
 ## Early beginnings
