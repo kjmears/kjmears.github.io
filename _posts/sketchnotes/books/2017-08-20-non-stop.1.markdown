@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Non Stop"
-date: "2017-08-20 18:55:32 +0100"
+date: "2018-03-05"
 image: /books/non-stop.png
 image-thumb: /books/non-stop-thumb.png
 image-original: /books/non-stop-original.png
