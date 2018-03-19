@@ -9,7 +9,6 @@ last_modified_at: 2017-11-14
 tags:
 - english
 - sansserif
-- shield
 - million+
 - typographic
 - eastmidlands
