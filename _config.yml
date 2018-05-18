@@ -4,7 +4,7 @@ permalink:           none
 # Setup
 title:               mearso
 tagline:             Personal Website of Kevin Mears
-url:                 http://www.mearso.co.uk
+url:                 "https://www.mearso.co.uk"
 paginate:            20
 paginate_path:  "/blog/page:num/"
 baseurl:
@@ -23,7 +23,7 @@ sass:
 # About/contact
 author:
   name:              Kevin Mears
-  url:               http://www.mearso.co.uk
+  url:               "https://www.mearso.co.uk"
   email:             mearso@gmail.com
   twitter:           https://twitter.com/mearso
   instagram:         https://www.instagram.com/mearso/
