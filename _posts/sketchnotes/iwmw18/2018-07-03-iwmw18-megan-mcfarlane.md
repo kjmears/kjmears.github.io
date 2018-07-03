@@ -9,7 +9,6 @@ image: /iwmw18/iwmw18-megan-mcfarlane.png
 original: /iwmw18/iwmw18-megan-mcfarlane.png
 image-thumb: /iwmw18/iwmw18-megan-mcfarlane-thumb.png
 category: sketchnotes
-lanyrd: /2018/iwmw18
 event: iwmw.org/iwmw2018
 tags: iwmw18
 cc: BY-SA
