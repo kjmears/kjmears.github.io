@@ -4,7 +4,7 @@ published: false
 layout: post
 type: pages
 title: IWMW18-megan-mcfarlane
-date: 2018-07-03T2:09:00+00:00
+date: 2018-07-03
 image: /iwmw18/iwmw18-megan-mcfarlane.png
 original: /iwmw18/iwmw18-megan-mcfarlane.png
 image-thumb: /iwmw18/iwmw18-megan-mcfarlane-thumb.png
