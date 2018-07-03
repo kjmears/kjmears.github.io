@@ -4,7 +4,7 @@ published: false
 layout: post
 type: pages
 title: IWMW18-padma-gillen
-date: 2018-07-03T2:09:00+00:00
+date: 2018-07-03
 image: /iwmw18/iwmw18-padma-gillen.png
 original: /iwmw18/iwmw18-padma-gillen.png
 image-thumb: /iwmw18/iwmw18-padma-gillen-thumb.png
