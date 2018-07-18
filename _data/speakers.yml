@@ -56,6 +56,11 @@
   twitter: mr_bingo
   url: www.mr-bingo.org.uk
 
+- name: Adrian Binzaru
+  linkedin: https://www.linkedin.com/in/adrian-binzaru-91133530/
+  url: www.geckoengage.com
+  id: abinzaru
+
 - id: mrgrahambird
   name: Graham Bird
   twitter: mrgrahambird
@@ -285,6 +290,15 @@
   twitter: PlanetClaire
   url: blogs.brad.ac.uk/web-team/
 
+- name: Padma Gillen
+  id: padmasaysblah
+  twitter: padmasaysblah
+  url: www.llibertat.co.uk
+
+- name: Ayala Gordon
+  id: AyalaGordon
+  twitter: AyalaGordon
+
 - id: cgreen
   name: Cable Green
   twitter: cgreen
@@ -436,6 +450,11 @@
   twitter: dkernohan
   url: followersoftheapocalyp.se/
 
+- id: alisonkerwin
+  name: Alison Kerwin
+  twitter: alisonkerwin
+  linkedin: https://t.co/IepKNQg02Z
+
 - name: Niall Lavery
   id: nlavery
 
@@ -479,6 +498,11 @@
   name: Ruth Mason
   twitter: Ruth_Q
 
+- name: Keith McDonald
+  id: writingprivacy
+  twitter: writingprivacy
+  url: writingprivacy.com
+
 - id: WarwickLanguage
   name: Teresa MacKinnon
   twitter: WarwickLanguage
@@ -494,6 +518,10 @@
   twitter: mike_mcconnell
   url: www.abdn.ac.uk
   linkedin: https://www.linkedin.com/profile/view?id=38138344
+
+- name: Megan McFarlane
+  id: meganalicemcf
+  linkedin: http://www.linkedin.com/in/meganalicemcfarlane/
 
 - id: HannaMiet
   name: Hannah Miettinen
@@ -535,6 +563,11 @@
   name: Chris Murphy
   twitter: fehler
   url: monographic.org
+
+- id: davemusson
+  name: Dave Musson
+  twitter: davemusson
+  url: davemusson.com
 
 - id: AshNolan_
   name: Ashley Nolan
@@ -631,6 +664,7 @@
 - id: cscott
   name: Chris Scott
   linkedin: https://www.linkedin.com/in/chrisscott3
+  twitter: chrisscott3
   url: headscape.co.uk
 
 - id: madebysheppard
@@ -653,6 +687,11 @@
   twitter: markosimpson
   linkedin: https://uk.linkedin.com/in/markssimpson
   url: www.mando.agency
+
+- name: Russell Sneezum
+  linkedin: https://www.linkedin.com/in/russell-sneezum-98427486/
+  url: www.siteimprove.co.uk
+  id: rsneezum
 
 - id: andspo
   name: Andrew Spooner
@@ -766,6 +805,10 @@
   twitter: michaeldwebb
   url: www.jisc.ac.uk
   linkedin: https://www.linkedin.com/profile/view?id=27670425
+
+- name: Jane Van de Ban
+  id: jane-van-de-ban
+  linkedin: https://www.linkedin.com/in/jane-van-de-ban-3304612b/
 
 - name: Richard West
   id: rvwest
