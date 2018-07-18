@@ -12,7 +12,10 @@ image-caption: Building a Collaborative Culture in an Institution
 category: sketchnotes
 lanyrd: /2017/iwmw17
 event: iwmw.org/iwmw2017
-tags: iwmw17
+tags:
+    - iwmw17
+    - iwmw
+    - live
 cc: BY-SA
 speaker: stratosf1
 
