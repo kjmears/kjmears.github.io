@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-jenni-taylor
 date: 2018-07-13
 image: /iwmw18/iwmw18-jenni-taylor.jpg
-original: /iwmw18/iwmw18-jenni-taylor.jpg
+image-original: /iwmw18/iwmw18-jenni-taylor.jpg
 image-thumb: /iwmw18/iwmw18-jenni-taylor-thumb.jpg
 image-caption: "Resurrecting the Content King"
 category: sketchnotes

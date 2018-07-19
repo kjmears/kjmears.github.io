@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-chris-scott-jane-van-de-ban
 date: 2018-07-11
 image: /iwmw18/iwmw18-chris-scott-jane-van-de-ban.jpg
-original: /iwmw18/iwmw18-chris-scott-jane-van-de-ban.jpg
+image-original: /iwmw18/iwmw18-chris-scott-jane-van-de-ban.jpg
 image-thumb: /iwmw18/iwmw18-chris-scott-jane-van-de-ban-thumb.jpg
 image-caption: "Telling the Birkbeck Story: How Customer Journey Mapping Helped Us Develop Our New Approach To Web"
 category: sketchnotes

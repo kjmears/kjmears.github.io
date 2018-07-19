@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-ayala-gordon-padma-gillen
 date: 2018-07-13
 image: /iwmw18/iwmw18-ayala-gordon-padma-gillen.jpg
-original: /iwmw18/iwmw18-ayala-gordon-padma-gillen.jpg
+image-original: /iwmw18/iwmw18-ayala-gordon-padma-gillen.jpg
 image-thumb: /iwmw18/iwmw18-ayala-gordon-padma-gillen-thumb.jpg
 image-caption: "User Needs, Content Design and Culture Change: Digital Transformation at the University of Southampton"
 category: sketchnotes

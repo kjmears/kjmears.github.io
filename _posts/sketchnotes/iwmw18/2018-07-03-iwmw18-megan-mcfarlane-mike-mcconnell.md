@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-megan-mcfarlane-mike-mcconnell
 date: 2018-07-03
 image: /iwmw18/iwmw18-megan-mcfarlane-mike-mcconnell.jpg
-original: /iwmw18/iwmw18-megan-mcfarlane-mike-mcconnell.jpg
+image-original: /iwmw18/iwmw18-megan-mcfarlane-mike-mcconnell.jpg
 image-thumb: /iwmw18/iwmw18-megan-mcfarlane-mike-mcconnell-thumb.jpg
 image-caption: "Student Recruitment Enquiries in CRM"
 category: sketchnotes

@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-Panel
 date: 2018-07-12
 image: /iwmw18/iwmw18-panel.jpg
-original: /iwmw18/iwmw18-panel.jpg
+image-original: /iwmw18/iwmw18-panel.jpg
 image-thumb: /iwmw18/iwmw18-panel-thumb.jpg
 image-caption: "Blending Internal and External Services"
 category: sketchnotes

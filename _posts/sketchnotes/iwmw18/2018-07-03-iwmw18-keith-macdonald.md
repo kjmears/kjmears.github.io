@@ -6,7 +6,7 @@ type: pages
 title: IWMW18-keith-macdonald
 date: 2018-07-13
 image: /iwmw18/iwmw18-keith-macdonald.jpg
-original: /iwmw18/iwmw18-keith-macdonald.jpg
+image-original: /iwmw18/iwmw18-keith-macdonald.jpg
 image-thumb: /iwmw18/iwmw18-keith-macdonald-thumb.jpg
 image-caption: "Hands off – it’s ours! Taking back the reins"
 category: sketchnotes

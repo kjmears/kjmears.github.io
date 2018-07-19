@@ -11,6 +11,7 @@ image-thumb: /iwmw18/iwmw18-alison-kerwin-thumb.jpg
 image-caption: "Things I wish I'd known"
 category: sketchnotes
 event: iwmw.org/iwmw2018
+info: "http://iwmw.org/iwmw2018/talks/10-things-i-wish-id-known-earlier-in-my-career/"
 keywords: Sketchnotes IWMW Conference
 speaker: alisonkerwin
 tags:
