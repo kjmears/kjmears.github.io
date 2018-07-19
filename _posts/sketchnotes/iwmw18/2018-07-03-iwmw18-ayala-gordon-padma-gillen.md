@@ -4,7 +4,7 @@ published: true
 layout: post
 type: pages
 title: IWMW18-ayala-gordon-padma-gillen
-date: 2018-07-13
+date: 2018-07-18
 image: /iwmw18/iwmw18-ayala-gordon-padma-gillen.jpg
 image-original: /iwmw18/iwmw18-ayala-gordon-padma-gillen.jpg
 image-thumb: /iwmw18/iwmw18-ayala-gordon-padma-gillen-thumb.jpg

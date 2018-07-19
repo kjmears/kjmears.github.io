@@ -4,7 +4,7 @@ published: true
 layout: post
 type: pages
 title: IWMW18-jenni-taylor
-date: 2018-07-13
+date: 2018-07-18
 image: /iwmw18/iwmw18-jenni-taylor.jpg
 image-original: /iwmw18/iwmw18-jenni-taylor.jpg
 image-thumb: /iwmw18/iwmw18-jenni-taylor-thumb.jpg

@@ -4,7 +4,7 @@ published: true
 layout: post
 type: pages
 title: IWMW18-alison-kerwin
-date: 2018-07-11
+date: 2018-07-18
 image: /iwmw18/iwmw18-alison-kerwin.jpg
 image-original: /iwmw18/iwmw18-alison-kerwin.jpg
 image-thumb: /iwmw18/iwmw18-alison-kerwin-thumb.jpg
