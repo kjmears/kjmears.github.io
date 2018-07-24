@@ -20,7 +20,7 @@ tags:
 cc: BY-SA
 ---
 
-Another case study about content. There was a consitent theme emerging of content out of control, lack of expertise across the org added to the very unique needs of such a federated University. Got a big thumbs up from me for the
+Another case study about content. There was a consistent theme emerging of content out of control, lack of expertise across the org added to the very unique needs of such a federated University. Got a big thumbs up from me for the
 
 > Leave document culture behind.
 

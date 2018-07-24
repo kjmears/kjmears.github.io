@@ -24,4 +24,4 @@ tags:
     - live
 cc: BY-SA
 ---
-Interesting perpectives on this panel. This conference has always been great for having sponsors that are a million miles away from a hard sell, and a few came and gave their advice on how to work with external people. Treating suppliers like people and making some effort to include them in a meaningful way meand you actually get more out of the whole relationship. Who knew?
+Interesting perpectives on this panel. This conference has always been great for having sponsors that are a million miles away from a hard sell, and a few came and gave their advice on how to work with external people. Treating suppliers like people and making some effort to include them in a meaningful way means you actually get more out of the whole relationship. Who knew?

@@ -20,4 +20,4 @@ tags:
 cc: BY-SA
 ---
 
-Big finish for the conference with a cracking talk, ending the conference on a nicely evangelisitic note. ALso loved the way that it wasn't just an exhortation, but there were examples of Jenni and her team putting theri own advice into pratice.
+Big finish for the conference with a cracking talk, ending the conference on a nicely evangelistic note. Also loved the way that it wasn't just an exhortation, but there were examples of Jenni and her team putting their own advice into practice.
