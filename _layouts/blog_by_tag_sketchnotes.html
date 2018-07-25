@@ -9,7 +9,7 @@ layout: default
 <p>{{ content }}</p>
 
 <section>
-	{% for post in site.tags[page.tag] %}
+	{% for post in site.tags[page.tag] reversed %}
 			{% include panel.html %}
 	{% endfor %}
 </section>

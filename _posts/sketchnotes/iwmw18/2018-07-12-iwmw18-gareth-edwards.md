@@ -31,8 +31,6 @@ Gareth also cited some [research][paper] into task switching, which then got me 
 
 I don't think I've done the talk much justice, but if you head on over to the [talk page][talk] you can get the slides and the full talk. Well worth your time - if you can concentrate for long enough!
 
-
-
 [paper]: https://dl.acm.org/citation.cfm?id=985715
 [wiki]: https://en.wikipedia.org/wiki/Task_switching_(psychology)
 [talk]: http://iwmw.org/iwmw2018/talks/understanding-invisible-labour/
