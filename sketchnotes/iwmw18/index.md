@@ -19,6 +19,8 @@ The theme this year was 'Streamlining Digital' but I'm not entirely sure how acc
 
 This year's edition provided a personal and unexpected highlight for me. The organisers have always been good at trying innovative ideas and formats, so this year the idea of lightning talks was given a go. The idea was to get some volunteers to get up and talk to the whole crowd for 5mins on any subject of their choosing. Being a member of the organising committee, when it looked like we might need some fallback in case volunteers weren't forthcoming I said I'd give it a go despite a pretty strong aversion to public speaking.
 
+*Update* - The video of my Lightning Talk is [now available][tube] so you can see for yourself.
+
 Predictably enough, it then occupied my mind intermittently, with the faint idea that I could always back out. Fortunately for me, Alison's talk and lots of encouraging people got me over the hump so I went and talked for 5 mins about why drawing is good for you and everyone should give it a go. By the end of that long 5 minutes the jelly in my legs eased, my voice began to lose it's quiver and I actually started to enjoy it. It was a revelation for me; made possible by the community of my peers. People came up and said lovely things afterwards [(and on twitter)][wakelet], which I guess meant I did ok. The format was a great fit for such a supportive and friendly conference.
 
 #### Masterclasses and Workshops
@@ -48,3 +50,4 @@ It was tempting to write a ton of vague aspirational things, but on reflection t
 [book]: https://amzn.to/2zPdLwP
 [geeky]: /blog/todo-system.html
 [blog]: https://website-programme-blog.is.ed.ac.uk/ux-scotland-2018-write-up/
+[tube]: https://youtu.be/ZeIJ1dttkuE
