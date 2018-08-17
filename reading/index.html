@@ -5,28 +5,50 @@ published: true
 sitemap: false
 ---
 
-
-
-<h2>Read in 2017</h2>
+<h2>
+	Read in 2018</h2>
 
 
 <ol reversed class="watched">
 
-	{% assign sorted = site.data.books.books2017 | reverse  %}
-	{% for book in sorted %}
+	{% assign sorted = site.data.books.books2018 | reverse %} {% for book in sorted %}
 	<li>
 
 
-		<strong>{{ book.title }}</strong> <em>{{ book.author_1 }}</em> Finished: {{ book.date_finished | date: "%b %-d" }}
-		{% if book.amazon_link != null %}<a href="{{ book.amazon_link }}">Amazon</a>{% endif %}
-		
-		{% if book.notes %}
+		<strong>{{ book.title }}</strong>
+		<em>{{ book.author_1 }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} {% if book.amazon_link != null %}
+		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}
 		<p>
 			{{ book.notes }}
 		</p>
-		{% endif %}
-		{% if book.biblio %}<a href="{{ book.biblio }}">More Info</a>{% endif %}
-		
+		{% endif %} {% if book.biblio %}
+		<a href="{{ book.biblio }}">More Info</a>{% endif %}
+
+	</li>
+	{% endfor %}
+
+</ol>
+
+
+<h2>
+	Read in 2017</h2>
+
+
+<ol reversed class="watched">
+
+	{% assign sorted = site.data.books.books2017 | reverse %} {% for book in sorted %}
+	<li>
+
+
+		<strong>{{ book.title }}</strong>
+		<em>{{ book.author_1 }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} {% if book.amazon_link != null %}
+		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}
+		<p>
+			{{ book.notes }}
+		</p>
+		{% endif %} {% if book.biblio %}
+		<a href="{{ book.biblio }}">More Info</a>{% endif %}
+
 	</li>
 	{% endfor %}
 
@@ -35,31 +57,30 @@ sitemap: false
 <div class="row">
 	<h2>Finished in 2016</h2>
 
-<ol reversed class="watched">
+	<ol reversed class="watched">
 
-	{% assign sorted = site.data.books.books2016 %}
-	{% for book in sorted %}
-	<li>
-		{% if book.amazon != null %}
+		{% assign sorted = site.data.books.books2016 %} {% for book in sorted %}
+		<li>
+			{% if book.amazon != null %}
 
-			<strong><a href="{{ book.amazon }}">{{ book.title }}</a></strong>
+			<strong>
+				<a href="{{ book.amazon }}">{{ book.title }}</a>
+			</strong>
 			<em>{{ book.author }}</em>
 
-		{% else %}
+			{% else %}
 
 			<strong>{{ book.title }}</strong>
 
-		{% endif %}
+			{% endif %} {% if book.notes %}
+			<p>
+				{{ book.notes }}
+			</p>
 
-		{% if book.notes %}
-		<p>
-			{{ book.notes }}
-		</p>
-
-		{% endif %}
+			{% endif %}
 
 
-	</li>
-	{% endfor %}
-</ul>
+		</li>
+		{% endfor %}
+		</ul>
 </div>
