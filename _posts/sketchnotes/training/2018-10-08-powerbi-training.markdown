@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "support staff conference 2016"
-date: 2018-10-09
-published: false
-
+date: 2018-10-24
 published: true
 title: Power BI Dashboard Design Training
-image: 
-image-thumb: 
-image-original: 
+image: /training/powerbitraining.jpg
+image-thumb: /training/powerbitraining-thumb.jpg
+image-original: /training/powerbitraining-large.jpg
 category: sketchnotes
 speaker:
-  - ianstuart
+  - IanStuart_
 tags:
   - live
+  - training
+
 
 cc: BY-SA
 ---
