@@ -4,6 +4,12 @@
   type: live
   speaker: IanStuart_
 
+- title: ITIL Training
+  date: 2018-09-24
+  sketchnotes: /sketchnotes/itil-training.html
+  type: live
+  speaker: MarkJanDrenth
+
 - title: IWMW 2018
   date: 2018-07-11
   image: /iwmw18/iwmw18-intro-thumb.png

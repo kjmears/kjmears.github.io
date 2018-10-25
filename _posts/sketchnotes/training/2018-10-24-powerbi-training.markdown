@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "support staff conference 2016"
-date: 2018-10-24
+date: 2018-10-08
 published: true
 title: Power BI Dashboard Design Training
 image: /training/powerbitraining.jpg
