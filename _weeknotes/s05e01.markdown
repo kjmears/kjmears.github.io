@@ -1,0 +1,45 @@
+---
+date: "2018-12-03"
+title: Nagging Feeling
+season: 05
+episode: 01
+---
+
+It's just over a year since I last wrote a Weeknote, but for some reason the idea to start the pratice up again has taken root.
+
+A lot has happened in work in the last 12 months and particularly in the last 4 months. I think the stuff I'm now doing would make for pretty interesting weeknotes, as I'm doing a lot of things that are unfamiliar to me, so I'll be wrestling with that and laying it all out in weeknotes will help to make sense of it all.
+
+Monday started well with a meeting with two lecturers answering my niave questions about what technology they use to deliver teaching and learning. It was useful to identify gaps where the specific needs of their subject area aren't currently catered for that well, and great to get ideas on future directions. It was also very energising to meet commited, clever and ethusiastic people. 
+
+Another meeting - this time a more specific task at hand and more of a watching brief - not really part of the future role, but in this case I was stepping in in the absence of anyone else in the right role
+
+Afternoon RAG rating session to complete with developers and that worked pretty well - especially that we finally found a use for the big touchscreen in the room.
+
+Tuesday 
+
+Long session of with Academic registry (part two) 
+
+I was reasonably pleased with my contribution - asking how many people in the room had actually used the sytem we were all discussing and planning.
+
+Had Digital Roadmap Meeting
+
+The purpose of which was to discuss what contributions I needed to provide to some slides for an important presentation. Slightly frustrating in that I thought I had a reasonable ide of what was required, but as is often the case, when one gets down to the work, it throws up questions. In the end I relied on the trusty technique of do every option I think is relevant and let the recipient choose what they need. Not that efficient, and a good motivation to get better at getting things clearer
+
+Wednesday : 2018-12-05 
+==========================
+x 2018-12-05 2018-11-30 get spreadsheet of business plan programmes +businessplan @comms
+x 2018-12-05 2018-12-03 tidy rag results +capability @writing
+x 2018-12-05 2018-12-03 prepare for Registry roadmap meeting +roadmap @meeting
+x 2018-12-05 2018-12-05 work on the away day write up +awayday @design
+x 2018-12-05 2018-12-05 create ecosystem RAG slides for Nath +roadmap @design
+x 2018-12-05 2018-12-05 create ecosystem PowerBI reports +roadmap @design
+x 2018-12-05 2018-12-05 create vague message slides +roadmap @design
+x 2018-12-05 2018-12-05 meet Nath and Susanne +roadmap @meeting
+==========================
+Thursday : 2018-12-06 
+==========================
+x 2018-12-06 2018-12-05 finish awayday write up +awayday @writing
+==========================
+Saturday : 2018-12-08 
+==========================
+x 2018-12-08 2018-12-08 goto Trefforest Away day +awayday @meeting
