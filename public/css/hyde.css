@@ -378,6 +378,11 @@ figure {
   margin: 0 0 0 0;
   padding: 0;
 }
+figcaption {
+  font-style: italic;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+}
 
 .download{
   display: block;
@@ -471,11 +476,7 @@ figure {
 	background-color: #fff;
 }
 
-.gallery__item {
-	/*margin: 0;
-	padding: 1%;
-	width: 33%;*/
-}
+
 
 .nxt, .prev{
   font-weight: bold;
