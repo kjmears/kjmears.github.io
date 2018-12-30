@@ -2,7 +2,7 @@
 
 title: University of Winchester
 excerpt: "A shield - how exciting."
-date: 2011-11-28 19:53:41 +00:00
+date: 2011-11-28
 last_modified_at: 2018-02-28
 
 tags:

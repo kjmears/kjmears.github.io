@@ -1,7 +1,7 @@
 ---
 layout: blog_by_tag
 meta: A roundup of University logos
-date: 2018-03-02
+date: 2018-12-30
 title: About the project
 
 ---
@@ -12,13 +12,13 @@ Perhaps you're interested in those who have [animals][animals] in their logo? Pl
 
 ### Recently updated
 
-  {% assign sorted_pages = site.logospotter | sort: 'last_modified_at' %}
+{% assign sorted_pages = site.logospotter | sort: 'last_modified_at'  %}
   {% assign reversed = sorted_pages | reverse %}
 
 	{% for review in reversed %}
 	{% if review.invisible == null %}
 
-      {% if review.last_modified_at and review.promo%}
+      {% if review.last_modified_at %}
   <div class="Media Media--center">
   <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
   <p class="Media-body">

@@ -2,9 +2,8 @@
 id: salford
 
 title: University of Salford
-date: 2010-07-07 22:31:33 +01:00
+date: 2010-07-07
 last_modified_at: 2018-12-30
-
 tags:
 - english
 - sansserif
@@ -14,6 +13,7 @@ tags:
 - red
 - typographic
 - ncuk
+- shield
 
 image: salford.gif
 wiki: University_of_Salford

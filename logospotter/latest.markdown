@@ -5,15 +5,7 @@ title: Last updated
 date: 2018-02-29
 
 ---
-
-
-   
-
-
- 
-
-
-  {% assign sorted_pages = site.logospotter | sort: 'last_modified_at'  %}
+{% assign sorted_pages = site.logospotter | sort: 'last_modified_at'  %}
   {% assign reversed = sorted_pages | reverse %}
 
 	{% for review in reversed %}
