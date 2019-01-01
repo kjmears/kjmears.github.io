@@ -56,9 +56,6 @@ Illustrator has a pretty basic table interface to paste the data into, and then 
 
 So there you have it - a pretty simple chart with a little care taken to make it a little nicer. Way more thinking and discovery has gone into it than it appears, and it's given me a huge appreciation of the work involved in much greater feats of data visualisation. Everybody has to start somewhere though and a healhy dose of Narcissism combined with Curiousity help me have fun with data and charts and learn a lot on the way.
 
-
-
-
 [futurelearn]: https://www.futurelearn.com/courses/learn-to-code
 [stack]: http://stackoverflow.com/questions/12125847/counting-number-of-occurrences-in-column
 [timeline]: https://en.wikipedia.org/wiki/A_New_Chart_of_History

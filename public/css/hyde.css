@@ -396,6 +396,12 @@ figcaption {
 }
 
 
+#chart-div {
+  width:inherit;
+  height:inherit;
+  border: 2px solid slateblue;
+  }
+}
 /* button styles nicked from bootstrap */
 
 .btn {

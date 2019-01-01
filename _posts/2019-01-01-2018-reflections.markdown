@@ -1,0 +1,61 @@
+---
+layout: post
+title: "2018 Reflections"
+date: "2019-01-01"
+category: blog
+published: true
+tags:
+  - thoughts
+  - data
+meta: "Article reflecting on 2018"
+homepage: true
+---
+
+So common as to be a cliché, here are some of my reflections from the last year that I hope will help me process what has been a particularly interesting year professionally.
+
+I've written [elsewhere][else] about how I use the [TODO.txt][todo] format to get things done, and it felt like this year I was reasonably consistent in my use of the list, so thought that would give me a decent place to start when reviewing the year.
+
+## Almost Data
+
+I started with a file with all the tasks I've done this year. I used some brute force to manually export the file into a csv format so I could get a proper look at it in a spreadsheet. (as an aside, this year has really been the year of the spreadsheet for me this year). I needed to then tidy up some things to make it readable, though not so much that it changed the data - Though whole point is to look at what I _did_, not what I _think_ I did.
+
+Once that minor bit of wrangling was done I could have a look at the year in tasks. It's easier to see in the actual spreadsheet, but it's pretty obvious that one project dominated the year, and there were _lots_ of smaller things. Looking at how I've categorised things it turns out that some of the issue might be with how I'm grouping things, as I can see projects that are similar or different facets of a wider piece of work. Seeing all the projects laid out like certaininly makes it more obvious where the useful grouping might be.
+
+{% include figure.html file="/images/2019review/2018projecttasks.jpg" description="Tasks by Project" %}
+
+Similarly, looking at how I've organised my tasks by activities tells me that I need to tighten up some of these definitions - for example I have 'email' and 'phone' as activities, but I've latterly been including 'comms' as a more catch all activity since our use of Microsoft Teams and similar are changing how communications are happening. Also looking at the numbers it appears I was in a lot of meetings - but I'm including that tasks where I prepare for, and produce outcomes as well as me meeting as well as being present. I think it's important to recognise the overhead of a meeting culture is more than just people in a room.
+
+{% include figure.html file="/images/2019review/2018activitytasks.png" description="Tasks by Activity" %}
+
+## Impressions
+
+This year started with a hands-on design project where I enjoyed the challenge of getting in to a solid, if incomplete set of requirements and working out some sensible ways to interface with the features getting built. We got rather bogged down with a tricky process which reflected an (in hindsight) overly ambitious set of processes set by the business. Despite the frustration of not getting a finished product out the door it was still useful to plough on through the design work and we got to produce prototypes. In the end the prototypes were the mechanism by which people began to see that the things we were trying to do were perhaps a case of running before walking. Better to catch that early in the project than later, and putting things in front of people to show the complexity rather than have it all abstracted away in a spreadsheet was probably new to some people. The value of getting things for people to interact with couldn't be understated.
+
+That work being paused overlapped with a new Head of IT joining and shaking things up. As part of that I've been trying to contribute some of the experience Ive built up over the years and a willingness to try new things together to have a crack at a field entirely new to me. Namely, Enterprise Architecture - More specifically, Business Capability Modelling. It's been a steep but gratifying learning curve so far, made much easier by a UCISA led [project][he] that gave us a great jumping off point. It also helped that the new director was influential in the project, so I could get reasonably up to speed quite quickly.
+
+The last few months have coincided with a pretty frentic pace in the department, and the xmas break has been a much needed chance to recharge and take stock before jumping back in - and hopefully, at a more sustainable pace.
+
+## Acronyms galore
+
+One activity that isn't covered by by todo list that perhaps should have been has been the amount of acronyms that I've had to learn in the last few months. It seems that that the EA world (see? using it like a native!) is very heavy with IT Frameworks, and they all come with tons of different jargin. They seem reasonably well thought out and when you speak it enough to start to be able to translate - I did sufficiently well to pass the ITIL exam, and took [some notes][itilnotes]. but I'm also trying to retain a healthy skepticism of the whole endeavour. I can see how it would be essy to get really evangelical about them, but the main thing has to be that they help us to deliver good products. Otherwise, there's no value in them. (they talk a _lot_ about value).
+
+## Learning New Things
+
+I've always been super lucky to be supported and encouraged to learn new things, and all this new stuff has ramped that us this year. I've had the chance to delve into some designing with data and generally levelling up my skills. Turns out that there's quite a lot of different steps to take to get to the showy bit of a nicely designed chart or dashboard, and it's been great to get into spreadsheets. No, really it has. My skills are still pretty basic, but it's been great to see how far I can get with pretty rudimentary spreadsheet-fu.
+
+Especially fun has been the opportunity to explore Data dashboards, and my design background means I get a bit of a head start with some it it, though it was great to have a comprehensive [primer][dashboards] to get up to speed. It will be interesting to see how this develops across the organisation.
+
+## Next steps
+
+As usual, I'm running out of steam trying to round up a whole year in one post so, I'll resolve to make it easier by resumning weeknotes this year. I thought I would last year - but the nature of the work I've been doing recently seems to lend itself to that format - so here's hoping.
+
+Carry meeting loads of new (and nice) people this year - I seemed to really get out of the office a lot more this year, and I think that was a good thing. It actually had the unexpected benefit of better focus when actually in the office.
+
+[else]: /blog/todo-system.html
+[todo]: http://todotxt.org/
+[he]: https://www.ucisa.ac.uk/representation/activities/cap_model
+[itilnotes]: /sketchnotes/itil-training.html
+[dashboards]: /sketchnotes/powerbi-training.html
+
+*[EA]: Enterprise Architecture
+*[ITIL]: Information Technology Infrastructure Library

@@ -9,7 +9,7 @@ tags:
 
 meta: "Article outlining my todo.txt method."
 ---
-
+How I use the TODO.txt 'system' to get things done.
 
 ## A Simple idea
 
