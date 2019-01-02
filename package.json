@@ -1,6 +1,8 @@
 {
   "name": "mearso-jekyll-site",
   "version": "1.0.0",
+  "license": "UNLICENSED",
+
   "devDependencies": {
     "datatables.net": "^1.10.15",
     "datatables.net-dt": "^1.10.15",

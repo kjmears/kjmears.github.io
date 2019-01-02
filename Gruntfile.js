@@ -92,11 +92,13 @@ module.exports = function(grunt) {
       resize: {
           options: {
             width: 200,
+            height: 200,
+            crop: true,
             overwrite: true
           },
           files: [{
             expand: true,
-            cwd: 'images/',
+            cwd: 'images/training',
             src: ['**/*.{png,jpg,gif}'],
             dest: 'test',
           }]
