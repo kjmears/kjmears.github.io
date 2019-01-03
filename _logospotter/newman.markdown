@@ -18,6 +18,10 @@ website: www.newman.ac.uk
 image: newman.gif
 id: newman
 ---
+## Update
+
+https://www.newman.ac.uk/news/newman-university-birmingham-launches-new-brand-mark-50th-anniversary/
+
 A very curious mish mash of effects and ideas are evident on this odd effort.
 
 I'm at a loss to understand what the radial gradients in the leaf shapes are trying to achieve. Perhaps some nostalgia for the early nineties when people discovered the horrors they could create with gradients? The existence of the a red one is also inexplicable. I have to confess that I could only see the 'leaves' until I saw this black and white version of the logo.

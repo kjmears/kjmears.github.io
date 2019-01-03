@@ -18,6 +18,9 @@ image: solent.gif
 brand: http://portal.solent.ac.uk/support/services/external-relations/guidelines-and-procedures/guidelines-and-procedures.aspx
 
 ---
+## Update
+
+http://portal.solent.ac.uk/support/services/external-relations/guidelines-and-procedures/guidelines-and-procedures.aspx
 
 I couldn't see anything in the  guidelines explaining what the graphic element of this logo is all about. It looks like a scribbled starburst - perhaps signifying energy and dynamism in that oblique and abstract way that logos often claim to.
 

@@ -22,7 +22,7 @@ id: ucs
 
 ## Updated
 
-Very thorough [write up][brandnew]on [the Brand New Blog][bn]. Much better than the old logo, and the brand guidelines go to town to showcase the brand. Very much in the a new University mold, and refreshing to see one being bold and confident without trying to be too clever.
+Very thorough [write up][brandnew]on [the Brand New Blog][bn]. Much better than the old logo, and the brand guidelines go to town to showcase the brand. Very much in the a new University mold, and refreshing to see one being bold and confident without trying to be too clever. More reflections from the [agency][case] involved
 
 ## Older Review
 
@@ -32,3 +32,5 @@ Very thorough [write up][brandnew]on [the Brand New Blog][bn]. Much better than 
 
 [brandnew]: https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_university_of_suffolk_by_only_studio.php
 [bn]: https://www.underconsideration.com/brandnew
+
+[case]: https://onlystudio.co.uk/journal/lessons-successful-university-rebrand-project
