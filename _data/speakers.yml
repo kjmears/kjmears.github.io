@@ -425,6 +425,11 @@
   twitter: rumyra
   url: rumyrashead.com
 
+- id: joysyj
+  name: Joysy John
+  twitter: joysyj
+  url: joysyjohn.com
+
 - id: jukesie
   name: Matt Jukes
   twitter: jukesie
@@ -613,6 +618,10 @@
   twitter: markpower
   name: Mark Power
   url: about.me/marklpower
+
+- id: Andrew_Proctor
+  twitter: Andrew_Proctor
+  name: Andrew Proctor
 
 - name: Richard Prowse
   id: richprowse

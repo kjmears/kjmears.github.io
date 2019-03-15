@@ -3,7 +3,7 @@ layout: post
 title: "2018 Reflections"
 date: "2019-01-01"
 category: blog
-published: true
+published: false
 tags:
   - thoughts
   - data
