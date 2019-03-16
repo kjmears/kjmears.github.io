@@ -3,7 +3,7 @@ layout: post
 title: "Logospotting roundup"
 date: "2019-01-03"
 category: blog
-published: true
+published: false
 tags:
   - thoughts
   - data
