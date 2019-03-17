@@ -3,8 +3,6 @@
 title: "University of Plymouth"
 date: 2014-03-13 22:17:47 +0000
 last_modified_at: 2019-03-17
-comments: false
-
 tags:
 - english
 - ua

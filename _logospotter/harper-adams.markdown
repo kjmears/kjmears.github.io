@@ -2,7 +2,7 @@
 
 title: "Harper Adams University"
 date: 2016-06-05
-last-modified: 2019-03-17
+last_modified_at: 2019-03-17
 published: true
 
 tags:
