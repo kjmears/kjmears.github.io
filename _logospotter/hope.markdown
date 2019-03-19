@@ -19,7 +19,7 @@ image: hope.gif
 id: hope
 ---
 
-The new logo is a departure from the curious previous logo - back to the safer ground of a crest. In this case, no taking of elements as is so common, but a wholesale inclusion. The crest is reasonably drawn, but I can't help feeling that there's way too much detail. The text stays as it was, in a [Eurostyle](euro)-a-like sans serif that adds to a sparse overall feel - a bit of variety in the strokes of that type would've been nice.
+The new logo is a departure from the curious previous logo - back to the safer ground of a crest. In this case, no taking of elements as is so common, but a wholesale inclusion. The crest is reasonably drawn, but I can't help feeling that there's way too much detail. The text stays as it was, in a [Eurostyle](euro)-a-like sans serif that adds to a sparse overall feelnew - a bit of variety in the strokes of that type would've been nice.
 
 ## Old Review
 
