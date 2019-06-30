@@ -5,10 +5,10 @@ layout: post
 type: pages
 title: IWMW19 Plenary Talks 5 and 6
 date: 2019-06-25
-image: /iwmw18/iwmw18-alison-kerwin.jpg
-image-original: /iwmw18/iwmw18-alison-kerwin.jpg
+image: /iwmw19/p1.jpg
+image-original: /iwmw19/p1.jpg
 image-thumb: /iwmw19/iwmw19-thumb.jpg
-image-caption: "Things I wish I'd known"
+image-caption: "IWMW plenary talks"
 category: sketchnotes
 event: iwmw.org/iwmw2019
 info: "https://iwmw.org/iwmw2019/talks/"

@@ -3,11 +3,11 @@ code: iwmw19
 published: true
 layout: post
 type: pages
-title: IWMW19 Plenary Talks Eleven - Fourteen
+title: IWMW19 Plenary Talks 11 to 14
 date: 2019-06-27
-image: /iwmw18/iwmw18-alison-kerwin.jpg
-image-original: /iwmw18/iwmw18-alison-kerwin.jpg
-image-thumb: /iwmw18/iwmw18-alison-kerwin-thumb.jpg
+image: /iwmw19/p1.jpg
+image-original: /iwmw19/p1.jpg
+image-thumb: /iwmw19/iwmw19-thumb.jpg
 image-caption: "Things I wish I'd known"
 category: sketchnotes
 event: iwmw.org/iwmw2019
