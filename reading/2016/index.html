@@ -1,0 +1,38 @@
+---
+layout: page
+title: Read in 2016
+published: true
+sitemap: false
+---
+
+<h2>Read in 2016</h2>
+
+
+<ol reversed class="watched">
+	{% assign sorted = site.data.books.books2016 %} {% for book in sorted %}
+	<li>
+		{% if book.amazon != null %}
+
+		<strong>
+			<a href="{{ book.amazon }}">{{ book.title }}</a>
+		</strong>
+		<em>{{ book.author }}</em>
+
+		{% else %}
+
+		<strong>{{ book.title }}</strong>
+
+		{% endif %} {% if book.notes %}
+		<p>
+			{{ book.notes }}
+		</p>
+
+		{% endif %}
+
+
+	</li>
+	{% endfor %}
+
+</ol>
+
+
