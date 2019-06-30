@@ -10,43 +10,27 @@ It's just over a year since I last wrote a Weeknote, but for some reason the ide
 
 A lot has happened in work in the last 12 months and particularly in the last 4 months. I think the stuff I'm now doing would make for pretty interesting weeknotes, as I'm doing a lot of things that are unfamiliar to me, so I'll be wrestling with that and laying it all out in weeknotes will help to make sense of it all.
 
-Monday started well with a meeting with two lecturers answering my niave questions about what technology they use to deliver teaching and learning. It was useful to identify gaps where the specific needs of their subject area aren't currently catered for that well, and great to get ideas on future directions. It was also very energising to meet commited, clever and ethusiastic people.
+2019-01-07 2019-01-07 complete survey about attendence monitoring +att-monitoring @research
+2019-01-07 2019-01-07 reply to Miguel about Bosch CCTV system +triage @comms
+2019-01-07 2019-01-07 contact Susanne about engagement activity and plans +planning @comms
+2019-01-07 2019-01-07 get steup up Pluralsight +learning @learning
+2019-01-07 2019-01-07 fix access to printers +setup @admin
 
-Another meeting - this time a more specific task at hand and more of a watching brief - not really part of the future role, but in this case I was stepping in in the absence of anyone else in the right role
+Summary of today from todo file. Mainly admin jobs, clearing tasks that have been hanging around and getting ready to pick up some work on setting up a PMO. 
 
-Afternoon RAG rating session to complete with developers and that worked pretty well - especially that we finally found a use for the big touchscreen in the room.
+Also discussions about doing the next level of ITIL - Service Design.
 
-Tuesday 
 
-Long session of with Academic registry (part two)
 
-I was reasonably pleased with my contribution - asking how many people in the room had actually used the sytem we were all discussing and planning.
+2019-01-08 2019-01-07 read ucisa pmo document +pmo @research
+2019-01-08 2019-01-08 watch https://www.qa.com/training-courses/itil-and-it-service-management-training/itil/itil-overview/polestar-it-service-management-in-action-simulation +pmo @research
+2019-01-08 2019-01-07 do pluralsight assessments +learning @learning
+2019-01-08 2019-01-08 ask RAG rating for desktop systems +rag @com
 
-Had Digital Roadmap Meeting
+More researching for activity to come and talking honestly about a feeling of uncertainty about the next steps are for my current work. I'm fairly confident that things will start moving again soon, and in the meantime it's good to try to clear the decks and get some learning done in preparation.
 
-The purpose of which was to discuss what contributions I needed to provide to some slides for an important presentation. Slightly frustrating in that I thought I had a reasonable ide of what was required, but as is often the case, when one gets down to the work, it throws up questions. In the end I relied on the trusty technique of do every option I think is relevant and let the recipient choose what they need. Not that efficient, and a good motivation to get better at getting things clearer
+Felt good to makes some progress on a spreadsheet that has been hanging around for a while - it will be useful, but the process of filling it in is pretty labourious as it involved quite a lot of chasing people up, and even tracking down who to even ask.
 
-Wednesday : 2018-12-05
-==========================
-x 2018-12-05 2018-11-30 get spreadsheet of business plan programmes +businessplan @comms
-x 2018-12-05 2018-12-03 tidy rag results +capability @writing
-x 2018-12-05 2018-12-03 prepare for Registry roadmap meeting +roadmap @meeting
-x 2018-12-05 2018-12-05 work on the away day write up +awayday @design
-x 2018-12-05 2018-12-05 create ecosystem RAG slides for Nath +roadmap @design
-x 2018-12-05 2018-12-05 create ecosystem PowerBI reports +roadmap @design
-x 2018-12-05 2018-12-05 create vague message slides +roadmap @design
-x 2018-12-05 2018-12-05 meet Nath and Susanne +roadmap @meeting
-==========================
-Thursday : 2018-12-06 
-==========================
-x 2018-12-06 2018-12-05 finish awayday write up +awayday @writing
-==========================
-Saturday : 2018-12-08 
-==========================
-x 2018-12-08 2018-12-08 goto Trefforest Away day +awayday @meeting
+2019-01-09 2019-01-09 check unilife collection failures +funnnelback @support
+2019-01-09 2019-01-08 enter RAG rating for desktop systems +rag @comms
 
-trying out new mechanical keyboard to see how i get on - bit noisy, but I can see how i might get faster with a bit of practice. Not sure how it would go down in a communal office. Guess I'll find out soon enough when I take it back into work.
-
-Reflections on the new year.
-
-~

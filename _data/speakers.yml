@@ -3,6 +3,12 @@
   twitter: daveaddey
   url: daveaddey.com
 
+- id: pamelaagar
+  name: Pamela Agar
+  twitter: pamelaagar
+  url: www.pamelaagar.com
+  linkedin: https://www.linkedin.com/in/pamelaagar
+
 - name: Jenni Allen
   id: jenniallen
   url: uk.linkedin.com/pub/jenni-allen/27/533/610
@@ -90,10 +96,21 @@
   twitter: markboulton
   url: markboulton.co.uk
 
+- id: pb1uk
+  name: Pete Briers
+  twitter: pb1uk
+  linkedin: https://www.linkedin.com/in/peter-briers-b69485a6/
+
+
 - id: brandnatter
   name: Russell Britton
   twitter: brandnatter
   url: russell-britton.com
+
+- id: NickBuck
+  name: Nick Buckingham
+  linkedin: https://www.linkedin.com/in/nick-buckingham/
+  url: www.deeson.com
 
 - id: andybudd
   name: Andy Budd
@@ -149,6 +166,12 @@
   twitter: littlehelli
   url: www.clarkcx.com/
 
+- id: gavincolborne
+  name: Gavin Colbourne
+  twitter: gavincolborne
+  url: www.littleforest.co.uk
+  linkedin: https://www.linkedin.com/in/gavincolborne/
+
 - id: dc86
   name: David Cornforth
   twitter: dc86
@@ -163,6 +186,11 @@
   name: Adam Curtis
   twitter: AdamCurtisBlog
   url: www.bbc.co.uk/blogs/adamcurtis
+
+- id: alandargan
+  name: Alam Dargan
+  linkedin: https://www.linkedin.com/mynetwork/invite-sent/alandargan/
+  url: www.terminalfour.com
 
 - id: andydavies
   name: Andy Davies
@@ -221,8 +249,27 @@
   name: Gareth Edwards
   twitter: garius
 
+- id: Martyn_HE
+  name: Martyn Edwards
+  twitter: Martyn_HE
+
+- id: pledwards
+  name: Peter Edwards
+  linkedin: https://www.linkedin.com/in/peter-lewis-edwards/
+
 - id: dawnellis
   name: Dawn Ellis
+
+- id: KjellEldor-Evans
+  name: Kjell Eldor-Evans
+  twitter: ManifestoLondon
+  url: www.manifesto.co.uk
+
+- id: oliveremberton
+  name: Oliver Emberton
+  twitter: oliveremberton
+  linkedin: https://www.linkedin.com/in/oliveremberton/
+  url: silktide.com
 
 - id: emmottion
   name: Stephen Emmott
@@ -270,6 +317,11 @@
   name: Nathan Ford
   twitter: nathan_ford
   url: artequalswork.com/
+
+- id: robjf88
+  name: Rob Fowles
+  twitter: robjf88
+  url: digital.wp.derby.ac.uk
 
 - id: Jack_Franklin
   name: Jack Franklin
@@ -374,7 +426,6 @@
   twitter: Hicksdesign
   url: hicksdesign.co.uk/
 
-
 - id: davidhieatt
   name: David Hieatt
   twitter:  davidhieatt
@@ -405,6 +456,18 @@
   twitter: supertastycake
   url: zengenti.com
 
+- id: KatHusbands
+  name: Kat Husbands
+  twitter: KatHusbands
+  linkedin: https://www.linkedin.com/in/kathusbands/
+  url: medium.com/uofg-ux
+  
+- id: madebymagnolia
+  name: Paul Jackson
+  twitter: madebymagnolia
+  linkedin: https://www.linkedin.com/in/paullloydjackson
+  url: www.madebymagnolia.com
+
 - id: denisejacobs
   name: Denise Jacobs
   twitter: denisejacobs
@@ -434,6 +497,11 @@
   name: Matt Jukes
   twitter: jukesie
   url: medium.com/@jukesie
+
+- id: marianne_ua
+  name: Marianne Kay
+  twitter: marianne_ua
+  url: mariannekay.com
 
 - name: Laura Kalbag
   id: laurakalbag
@@ -477,6 +545,11 @@
   id: alaurika
   linkedin: https://www.linkedin.com/pub/anna-laurika/4a/93b/4aa
 
+- id: marcus67
+  name: Marcus Lillington
+  twitter: marcus67
+  url: headscape.co.uk
+
 - id: seb_ly
   name: Seb Lee-Delisle
   twitter: seb_ly
@@ -490,6 +563,9 @@
   name: Paul Lloyd
   twitter: paulrobertlloyd
   url: paulrobertlloyd.com
+
+- id: clockhart
+  name: Chris Lockhart
 
 - id: eddiemachado
   name: Eddie Machado
@@ -629,6 +705,10 @@
   url: contentbear.co.uk/
   linkedin: https://www.linkedin.com/in/richprowse
 
+- id: anna-radley
+  name: Anna Radley
+  linkedin: https://www.linkedin.com/in/anna-radley-3ab4582b/
+
 - id: MelaRead
   name: Melanie Read
   twitter: MelaRead
@@ -702,6 +782,10 @@
   linkedin: https://uk.linkedin.com/in/markssimpson
   url: www.mando.agency
 
+- id: dsitner
+  name: Dan Sitner
+  url: www.siteimprove.com
+
 - name: Russell Sneezum
   linkedin: https://www.linkedin.com/in/russell-sneezum-98427486/
   url: www.siteimprove.co.uk
@@ -711,6 +795,11 @@
   name: Andrew Spooner
   twitter: andspo
   url: andrewspooner.com
+
+- id: jill-stephens
+  name: Jill Stephens
+  linkedin: https://www.linkedin.com/in/jill-stephens-87131a60/
+  url: www.click4assistance.co.uk
 
 - id: benjystanton
   name: Benjy Stanton
@@ -771,6 +860,11 @@
   name: Roy Tomeij
   twitter: roy
   url: roy.io/
+
+- id: troutio
+  name: Johnathan Trout
+  twitter: troutio
+  linkedin: https://uk.linkedin.com/in/jonathan-trout-52a7116
 
 - id: LINGsCARS
   name: Ling Valentine
