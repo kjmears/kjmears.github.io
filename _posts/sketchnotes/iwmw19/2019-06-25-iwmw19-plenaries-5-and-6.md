@@ -5,7 +5,7 @@ layout: post
 type: pages
 title: IWMW19 Plenary Talks 5 and 6
 date: 2019-06-25
-image: /iwmw19/p1.jpg
+image: /iwmw19/IWMW19P05P06-small.PNG
 image-original: /iwmw19/p1.jpg
 image-thumb: /iwmw19/iwmw19-thumb.jpg
 image-caption: "IWMW plenary talks"
