@@ -11,3 +11,6 @@ homepage: true
 
 ### Round up of IWMW19
 
+<img src="/images/iwmw19/IWMW19-small.png" />
+
+This was big step up for me.
