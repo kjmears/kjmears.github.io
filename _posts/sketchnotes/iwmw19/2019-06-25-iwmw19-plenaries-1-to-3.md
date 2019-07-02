@@ -25,4 +25,12 @@ cc: BY-SA
 ---
 The opening session of the conference.
 
-PLenary Talks
+## Collective Genius – How to Nurture a Sustainable Creative Culture
+
+We got going with a good session delivered by Martyn From Swansea University, which on the way to talking about how nuture a team served as a useful reminder of why working in a UNiversity can be so rewarding. Education is a purpose that it's pretty easy to get behind. Making it safe for people to take risks was a standout for me, and it would be great to hear more about the operational steps to achieve that.
+
+Coverage for [Collective Genius – How to Nurture a Sustainable Creative Culture][P1]
+
+[P1]: https://iwmw.org/iwmw2019/talks/collective-genius-how-to-nurture-a-sustainable-creative-culture/
+
+## Deceptively Simple – Designing a Voice Experience for an Audience that is Still Learning to Speak
