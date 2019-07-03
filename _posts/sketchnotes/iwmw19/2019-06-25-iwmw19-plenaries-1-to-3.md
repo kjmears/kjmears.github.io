@@ -34,3 +34,18 @@ Coverage for [Collective Genius – How to Nurture a Sustainable Creative Cultur
 [P1]: https://iwmw.org/iwmw2019/talks/collective-genius-how-to-nurture-a-sustainable-creative-culture/
 
 ## Deceptively Simple – Designing a Voice Experience for an Audience that is Still Learning to Speak
+
+Really interesting talk going into fascinating detail about the challenges of designing speech interfaces for a demanding audience. Entertaining and instructive in equal measure. Something that all web teams have to have a plan for, so this is a great starting point. The [BBC Global Experience Language][GEL] is a great resource too.
+
+Coverage for [Deceptively Simple – Designing a Voice Experience for an Audience that is Still Learning to Speak][P2]
+
+[P2]: https://iwmw.org/iwmw2019/talks/deceptively-simple/
+[GEL]: https://www.bbc.co.uk/gel/
+
+## Your Big Digital Transformation Project Has Been Approved, Now What?
+
+Creating the conditions to work wel was one of the slides that resonated with me. Sounds so obvious, but like so many transformation things if it was easy it would have been done already. Ayala ranged over some of the challenges of matching the throry of transformation with the nitty gritty. Basic (but hard)things like being able to recruit the people you need slow everything up and kill momentum. The experiences she talked about tended to confirm my feeling that strategy is the least interesting part of transformation - being operationally capable of delivering it is WAY more important.
+
+Coverage of [Your Big Digital Transformation Project Has Been Approved, Now What?][P3]
+
+[P3]:https://iwmw.org/iwmw2019/talks/your-big-digital-transformation-project-has-been-approved/

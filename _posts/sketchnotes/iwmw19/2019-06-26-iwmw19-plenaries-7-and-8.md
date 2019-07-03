@@ -22,4 +22,11 @@ tags:
     - live
 cc: BY-SA
 ---
-Plenaries on UX and Accessibility
+## Grassroots & Guerrillas: The Beginnings of a UX Revolution
+
+Kat talked about the initial introduction of UX at Glasgow mainly through committment and hard work, which now sounds like it's getting the traction that it needs t make things happen. Sounded like a thankless task at first, but now they are on their way. It was useful to hear how picking targets made things achievable.
+
+## So You Think You Know Accessibility
+
+This session was full of very useful specific information on accessibility. It a hand grenade of a talk, really bringing it home just how much work needs to be done to meet accessibility requirements.
+
