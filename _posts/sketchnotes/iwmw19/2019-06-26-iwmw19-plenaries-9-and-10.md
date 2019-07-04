@@ -34,4 +34,4 @@ I can't remember if Alan touched on the debate about whether even to have images
 
 ## Supporting Institutions in Changing Times
 
-I think all the external aganecies did a good job of pitching by not pitching. Instead the issues they raised were genuine and accompanied by a genuine desire to help (and get paid, obviously).
+I think all the external agencies did a good job of pitching by not pitching. Instead the issues they raised were genuine and accompanied by a genuine desire to help (and get paid, obviously).
