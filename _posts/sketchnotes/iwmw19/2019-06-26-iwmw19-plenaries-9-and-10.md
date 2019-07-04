@@ -26,4 +26,12 @@ tags:
     - live
 cc: BY-SA
 ---
-Plenaries from Sponsors and Suppliers
+## How to train your content- so it doesn’t slow you down…
+
+I enjoyed this delve into how to make your content perform better, and shock, horror! - it's images that are the main issue. Interesting how the take up of better formats has been so slow, but looks likely to change a lot soon with better support.
+
+I can't remember if Alan touched on the debate about whether even to have images on a page is getting enough attention - often the easiest way to improve an experience would be get rid of a pointless hero image.
+
+## Supporting Institutions in Changing Times
+
+I think all the external aganecies did a good job of pitching by not pitching. Instead the issues they raised were genuine and accompanied by a genuine desire to help (and get paid, obviously).

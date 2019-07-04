@@ -28,5 +28,4 @@ Kat talked about the initial introduction of UX at Glasgow mainly through commit
 
 ## So You Think You Know Accessibility
 
-This session was full of very useful specific information on accessibility. It a hand grenade of a talk, really bringing it home just how much work needs to be done to meet accessibility requirements.
-
+This session was full of very useful specific information on accessibility. It a hand grenade of a talk, really bringing it home just how much work needs to be done to meet accessibility requirements. Well worth a look through the slides and video to get the nitty gritty
