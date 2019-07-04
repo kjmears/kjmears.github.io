@@ -5,9 +5,9 @@ layout: post
 type: pages
 title: IWMW19 Plenary Talks 5 and 6
 date: 2019-06-26 16:30
-image: /iwmw19/IWMW19P05P06-small.PNG
+image: /iwmw19/IWMW19P05P06-small.png
 image-original: /iwmw19/IWMW19P05P06-orig.png
-image-thumb: /iwmw19/IWMW19P05P06-thumb.PNG
+image-thumb: /iwmw19/IWMW19P05P06-thumb.png
 image-caption: "IWMW plenary talks 5 and 6"
 category: sketchnotes
 event: iwmw.org/iwmw2019

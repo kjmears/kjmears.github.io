@@ -5,9 +5,9 @@ layout: post
 type: pages
 title: IWMW19 Plenary Talk 4 and Short Talks
 date: 2019-06-27 15:00
-image: /iwmw19/IWMW19P04-small.PNG
+image: /iwmw19/IWMW19P04-small.png
 image-original: /iwmw19/IWMW19P04-orig.png
-image-thumb: /iwmw19/IWMW19P04-thumb.PNG
+image-thumb: /iwmw19/IWMW19P04-thumb.png
 image-caption: "Graphic Recording of Plenary Talk 4 and Short Talks"
 category: sketchnotes
 event: iwmw.org/iwmw2019

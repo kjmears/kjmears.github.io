@@ -5,9 +5,9 @@ layout: post
 type: pages
 title: IWMW19 Plenary Talks 11 to 14
 date: 2019-06-27 16:00
-image: /iwmw19/IWMW19P11P12P13P14-small.PNG
+image: /iwmw19/IWMW19P11P12P13P14-small.png
 image-original: /iwmw19/IWMW19P11P12P13P14-orig.png
-image-thumb: /iwmw19/IWMW19P11P12P13P14-thumb.PNG
+image-thumb: /iwmw19/IWMW19P11P12P13P14-thumb.png
 image-caption: "Things I wish I'd known"
 category: sketchnotes
 event: iwmw.org/iwmw2019
