@@ -13,3 +13,22 @@ layout: default
 			{% include panel.html %}
 	{% endfor %}
 </section>
+
+<div class="cc-meta">
+	{% if page.cc %}
+	{% if page.cc == 'BY' %}
+		{% include CC_BY.html %}
+	{% endif %}
+
+	{% if page.cc == 'BY-SA' %}
+		{% include CC_BY-SA.html %}
+	{% endif %}
+
+	{% if page.cc == 'BY-NC-SA' %}
+		{% include CC_BY-NC-SA.html %}
+	{% endif %}
+
+	{% else %}
+		{% include licence.html %}
+	{% endif %}
+</div>
