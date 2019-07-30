@@ -27,7 +27,7 @@ This was big step up for me. In an echo of last year where I volunteered to do s
 <em>Drawing Setup</em>
 </figure>
 
-I as lucky enough to have a great surface and spot to get to work on, and completely forgot there were loads of people behind me. Lots of people said lovely things about how much they liked the drawings which was very nice, and I hope that they compliment the talks. They still work well for me, and helped me write up the conference.
+I was lucky enough to have a great surface and spot to get to work on, and completely forgot there were loads of people behind me. Lots of people said lovely things about how much they liked the drawings which was very nice, and I hope that they compliment the talks. They still work well for me, and helped me write up the conference.
 
 I really think if you attend an event and don't write it up in some way, you're missing a crucial step in getting the best out of it. I've written up some brief thoughts for each of the sessions, and each page has larger versions of the notes for anyone who'd like them.
 
