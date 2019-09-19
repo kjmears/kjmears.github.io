@@ -44,3 +44,6 @@ Always great to get a talk from someone who actually uses accessibility tools, a
 
 ![Sketchnotes of talk by Richard Morton](/images/ucisa2019/UCISA20190918_Sketchnotes-03.png )
 *Sketchnotes of Richard Morton's talk*
+
+![Sketchnotes of talk by Richard Morton](/images/ucisa2019/UCISA20190918_Sketchnotes-04.png )
+*Sketchnotes of Richard Morton's talk*
