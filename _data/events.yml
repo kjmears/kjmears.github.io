@@ -29,6 +29,23 @@
     - troutio
     - writingprivacy
 
+- title: UCISA Accessibility Event
+  date: 2019-09-18
+  sketchnotes: /sketchnotes/UCISA-accessibility-day.html
+  image: /UCISA20190918_Sketchnotes-thumb.png
+  type: live
+  speaker:
+    - robjf88
+    - troutio
+    - abijames
+    - Cl4ireG
+    - fstrawbridge
+    - access_adi
+    - accessibleweb
+    - msftappman
+    - bellaabramsIT
+    - benwatson
+
 
 - title: Digitfest19
   date: 2019-03-13
@@ -37,6 +54,7 @@
   speaker:
     - joysyj
     - Andrew_Proctor
+
 - title: PowerBI Training
   date: 2018-10-09
   sketchnotes: /sketchnotes/powerbi-training.html
