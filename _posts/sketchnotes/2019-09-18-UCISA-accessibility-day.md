@@ -37,7 +37,10 @@ cc: BY-SA
 
 A brief outline from Fiona about her path to here, touching on some very familiar issues to the room.
 
-![Sketchnotes of talk ful of demos](/images/ucisa2019/UCISA20190918_Sketchnotes-02.png )
+![Sketchnotes of talk of demos](/images/ucisa2019/UCISA20190918_Sketchnotes-02.png )
 *Sketchnotes of Adil's talk*
 
 Always great to get a talk from someone who actually uses accessibility tools, and enlightening. Adil was also a really engaging speaker, and daredevil.
+
+![Sketchnotes of talk by Richard Morton](/images/ucisa2019/UCISA20190918_Sketchnotes-03.png )
+*Sketchnotes of Richard Morton's talk*
