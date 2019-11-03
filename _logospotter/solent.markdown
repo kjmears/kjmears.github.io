@@ -1,14 +1,15 @@
 ---
 
 title: Southampton Solent University
-date: 2013-10-14 19:52:46 +01:00
+date: 2013-10-14
+last_modified_at: 2019-11-03
 
 tags:
 - english
 - sansserif
-- serif
 - red
-- abstract
+- typographic
+- uppercase
 - southwest
 
 id: solent
@@ -18,9 +19,20 @@ image: solent.gif
 brand: http://portal.solent.ac.uk/support/services/external-relations/guidelines-and-procedures/guidelines-and-procedures.aspx
 
 ---
-## Update
+## Updated
 
-http://portal.solent.ac.uk/support/services/external-relations/guidelines-and-procedures/guidelines-and-procedures.aspx
+Apparently,
+
+> We've become brighter, bolder, and more confident, and we refreshed our branding to show it. We also recognised that you, and our students and alumni, overwhelmingly refer to us simply as ‘Solent’. In an increasingly competitive marketplace, that instant recognition and recall are vital.
+
+Hard to argue with that. No messing about - they've gone for a super safe Futura-like affair with little angular flourishes, that doesn't try as hard to be different. Does beg the question if they become more pessimistic and less confident could we expect another interesting variation - I guess not.
+
+<figure>
+  <img src="{{site.url}}/images/logospotter/solent-old.gif" alt="Old Solent Logo"/>
+  <figcaption>Old Solent Logo</figcaption>
+</figure>
+
+## Review 2013
 
 I couldn't see anything in the  guidelines explaining what the graphic element of this logo is all about. It looks like a scribbled starburst - perhaps signifying energy and dynamism in that oblique and abstract way that logos often claim to.
 
