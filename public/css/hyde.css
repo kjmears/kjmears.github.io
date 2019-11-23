@@ -56,12 +56,16 @@ html {
 .sidebar {
   text-align: center;
   padding:    1rem 1rem;
-  color:      #d28445;
   /*background-image: url("/img/pattern-white-grey.gif");*/
   font-family: 'Bangers',"Helvetica Neue", Helvetica, Arial, Gadget, sans-serif;
   font-size: 1.3rem;
   letter-spacing: 0.1rem;
 }
+
+.searchLabel {
+  font-size: 1rem;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
