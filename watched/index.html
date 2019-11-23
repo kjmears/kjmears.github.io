@@ -12,9 +12,7 @@ sitemap: false
 	{% assign sorted = site.data.films2019 | reverse %}
 	{% for film in sorted %}
 		<li>
-			<strong>{{ film.Title }}</strong>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
-
-			<a href="https://letterboxd.com/mearso/film/{{ film.Title | slugify }}">Letterboxd</a>
+				<a href="https://letterboxd.com/mearso/film/{{ film.Title | slugify }}"><strong>{{ film.Title }}</strong></a>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
 		</li>
 	{% endfor %}
 
