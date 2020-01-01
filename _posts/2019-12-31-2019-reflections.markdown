@@ -4,14 +4,13 @@ title: "2019 Reflections"
 date: "2019-12-31"
 category: blog
 published: true
+image-thumb: /iwmw19/IWMW19P01P02P03-thumb.png
 tags:
   - thoughts
   - data
 meta: "Article reflecting on 20189"
 homepage: true
 ---
-
-
 
 I've [previously written][else] about my method of logging tasks, and notwithstanding the limitations of just focusing on tasks, I've found it enlightening to reflect back on what the data is telling me about what I've been spending my time on in 2019. I'm sure reflection is good for you, but like dieting and focus, I struggle to do it. I've enjoyed [others][markweeknotes]' [weeknotes][weeknotes], but have dropped out of the habit - perhaps a more chart based approach might give me a good base to build some narrative on. So here goes.
 
@@ -30,9 +29,9 @@ Most of my work tasks are pretty easy to define in this way - less so for more p
 
 And the final aspect of a task is the most esoteric. Based on the GTD principle, and then adapted over the years, I've tried to categorise tasks into useful groupings. For example, I've defined 'comms' as an activity - which is mainly email, but includes more modern methods like messaging and things like chats. However, as I look through the tasks I've designated as 'comms' then I can see things that on reflection might be in better areas. It's when faced with failures of categorisatiin that It's good to remind myself that this is meant to be a method to get things done, and that I mustn't fall into the trap of 'fixing' the data so that I can come up with some kind of data equivalent of a touched up and filtered selfie.
 
-## So, to the data.
+## So, to the data
 
-![2019 Charts](/images/TaskCharts2019.png)
+{% include figure.html file="/images/TasksCharts2019.png" description="Tasks of 2019 with Meeting tasks highlighted" %}
 
 Of those 707 tasks this year, 217 are meeting related. That sounds a lot at first, but I've been trying to Sounds a lot at first but I've been trying to be more structured remind meetings and so every meeting if you do it properly should probably consist of a task to prepare for the meeting a task to go to the meeting and a task to write up the notes from the meeting.Looking at the tasks related to meetings -  something I need to get better that is myt choice of verb in the task. So for example, if I look at the task and it  starts  'attend' I know the task.  Prepare is another verb i should be using and Record perhaps would be another task verb useful in this context. 
 
@@ -54,11 +53,8 @@ In that vein, it's been tricky to cope with the moving on off my wonderful boss,
 
 Looking back through my sketchbooks I can see that I've been drawing less, which is daft - since I know that I enjoy it, and it's good for me.
 
-I took a conscious decision to read more fiction this year - that was a good decision, but I couldn't help notiocing that I've become very bad at concentrating on reading, so I've decided - no more new books til I make headway on tghe existing pile, and maybe dip my toe into audiobooks.
-
-
+I took a conscious decision to read more fiction this year - that was a good decision, but I couldn't help noticing that I've become very bad at concentrating on reading, so I've decided no more new books until I make headway on the existing pile, and maybe dip my toe into audiobooks.
 
 [markweeknotes]: https://markboulton.co.uk/journal/weeknotes-19/
 [weeknotes]: https://weeknot.es/
 [else]: /blog/todo-system.html
-
