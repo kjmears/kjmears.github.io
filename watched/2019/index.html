@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Watched
+title: Watched in 2019
 published: true
 sitemap: false
 ---
 
-<h2>Watched in 2020</h2>
-
+<h2>Watched in 2019</h2>
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2020 | reverse %}
+	{% assign sorted = site.data.films2019 | reverse %}
 	{% for film in sorted %}
 		<li>
 				<a href="https://letterboxd.com/mearso/film/{{ film.Title | slugify }}"><strong>{{ film.Title }}</strong></a>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
@@ -18,5 +17,3 @@ sitemap: false
 
 </ol>
 
-<hr>
-<h2>Watched in <a href="/watched/2016">2016</a>, <a href="/watched/2017">2017</a>, <a href="/watched/2018">2018</a>, <a href="/watched/2019">2019</a></h2> 	
