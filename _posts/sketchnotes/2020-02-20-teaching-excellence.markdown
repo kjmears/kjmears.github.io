@@ -22,7 +22,7 @@ tags:
 cc: BY-SA
 ---
 
-Sketchnotes from an excellent session with Simon Lancaster, who came all the way to [University of South Wales][USW]from [University of East Anglia][UEA] - the home of the wonderful [Denys Lasdun Building](lasdun).
+Sketchnotes from an excellent session with Simon Lancaster, who came all the way to <abbr title="University of South Wales">USW</abbr>from <abbr title="University of East Anglia">UEA</abbr> - the home of the wonderful [Denys Lasdun Building](lasdun).
 
 Obviously a passionate teacher and chemist Simon evangelised the engagement of Social Media to improve teaching and engagement. Lovely examples, enthusiasm and ideas.
 
