@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Practical Knowledge Management in a Sharepoint List"
+date: "2020-07-07"
+category: blog
+published: false
+image-thumb:
+tags:
+  - thoughts
+
+meta: "Practical Knowledge Management in a Sharepoint List"
+homepage: true
+---
+
+Imagine you have a information on important things that you want to keep up to date. 
+
+A common scenario is list of systems that people are responsible for and should keep up to date. So that sounds simple. Lets put that in a spreadsheet so we can have all the useful columns that we need. It'll be great, we'll have tons of detail about what's on the system, what it does, how it works, where it is and who's responsible for it. Brill, lets use the last one we created.
+
+Oh wait where is it? 
+I'll send you the latest version.
+
+Version
+
+
+
+ The ecosystem is designed to be Authoritative and managed reference information about IT Products.  The information needs to be verified at suitable intervals to check its relevance and accuracy. To share this effort across multiple teams I propose that items in the list have a nominated person as responsible to keeping the information up to date. To make this responsibility as small as possible automated notifications are used to remind a record maintainer that a record needs checking. 
+ 
+An explanation on the how the system is currently setup makes it clearer. 
+ 
+Notification and verification 
+ 
+The intervals for checking records can be altered. Different records will require different verification intervals, to be set in a choice field of the column ' Review Classification'. 
+ 
+Critical 	60 Days 
+Important 	120 Days 
+Baseline 	240 Days 
+ 
+Achieved with the following code in the 'ReviewPeriod' Column as follows - 
+ 
+=IF([Review Classification]="Critical",60,IF([Review Classification]="Important",120,IF([Review Classification]="Baseline",240))) 
+If it was needed to add more options and change the review dates this is the place to make that change. 
+The 'ReviewDate' Column is a calculated column with the following simple calculation. 
+=Modified+ReviewPeriod 
+Which adds the number of days set to the last date the record was modified. This means is the record has been modified during the review period it effectively resets the review period. 
+This gives us a date which we can then check 
+In the column 'RecordStatus' 
+=IF(TODAY()<ReviewDate,"Within Review","Expired") 
+We use this method so that we can check in the flow whether to notify that the records needs review. It might also be useful to sort and filter on record status. 
+Notifications 
+Every week a flow runs that checks the RecordStatus column. If the record is expired and has a record maintainer then a chat message is sent to that person in Teams. 
+Currently set to go directly to the person but could be set to go to a team and/or email. 
+There is a link in the message to the list where that person can then change the record. Once the record has been modified the calculations come into effect and a new review period is in effect. 
+ 
+Flow Documentation 
+ 
+A flow Called 'App Ecosystem Notification Flow' does the heavy lifting. Currently shared with Kevin Mears and Owain Young. 
+Package export of the flow in the docs. 
+Communication 
+ 
+The most important part of this work is to explain the idea of record maintainers and the importance of a little and often approach to information maintenance. 
+ 
+This brings me onto the other calculation in the list. 
+ 
+Data Quality 
+ 
+For the list to be useful as well as being up to date, we also need the information to be as comprehensive as is practical. In an ideal world we would have every column completed for every record, giving a detailed picture of our ecosystem, but we are not there yet. A way to measure the data quality of our records is useful to flag what areas need attention. 
+We can do this by checking for the presence of competed columns. 
+ 
+In the 'Data Completeness Score' column there is a calculation that checks if a column is not empty. 
+=COUNTA([Sensitive Data],[Review Classification],RAGRating,[Product Status])/4 
+You can read more about the function at https://support.office.com/en-gb/article/counta-function-4c35510e-bdce-4135-a20e-23c9698a22ea 
+The first part of the calculation checks if the columns are not empty, and then is divided by 4 (the number of columns being checked) In the options for the column in SharePoint, the option to represent it as a percentage then gives us the score for the Column. 
+There a view of the Data Quality in the list Ecosystem Data Quality View - for convenience. 
+So, for the product '4Risk' the following information is recorded - leading to a percentage of 75%. 
+Sensitive Data 	 
+Review Classification 	Baseline 
+RAGRating 	Amber 
+Product Status 	Operational 
+ 
+As you can see, currently I've chosen the following fields, as four that I think are essential - but that would be open to change. Once you have defined a set of essential information you can check for them and see what records need attention.  
+ 
+References 
+Ecosystem Project Information – Supporting Information during project phase 
+Ecosystem Data Quality View – View focused on the Data Quality Field 
+Documentation on DPO Sharepoint site 
