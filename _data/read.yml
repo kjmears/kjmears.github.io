@@ -20,3 +20,24 @@
       thumbnail: "http://books.google.com/books/content?id=AV9x8XakdV0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Thinking_Fast_and_Slow.html?hl=&id=AV9x8XakdV0C"
+  - isbn: "0007216866"
+    dateFinished: "2020-11-22"
+    title: "Gavin Henson"
+    authors:
+      - "Gavin Henson"
+    publishedDate: "2005"
+    description: "Silver boots, perma-tanned skin, shaven legs and gravity-defying red spikes in his hair - Gavin Henson is Wales's hottest new celeb and rugby's golden boy. This is his story of a momentous year in rugby, starting with an epic Six Nations Grand Slam for Wales, followed by the toughest of all tours, the British Lions in New Zealand."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780007216864"
+      - type: "ISBN_10"
+        identifier: "0007216866"
+    pageCount: 320
+    printType: "BOOK"
+    categories:
+      - "Rugby Union football"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=-Jlzk4SH_JEC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=-Jlzk4SH_JEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Gavin_Henson.html?hl=&id=-Jlzk4SH_JEC"
