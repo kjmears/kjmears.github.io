@@ -1,1 +1,22 @@
 
+  - isbn: "9780141033570"
+    dateFinished: "2020-11-22"
+    title: "Thinking, Fast and Slow"
+    authors:
+      - "Daniel Kahneman"
+    publishedDate: "2012"
+    description: "The New York Times Bestseller, acclaimed by author such as Freakonomics co-author Steven D. Levitt, Black Swan author Nassim Nicholas Taleb and Nudge co-author Richard Thaler, Thinking Fast and Slow offers a whole new look at the way our minds work, and how we make decisions.Why is there more chance we'll believe something if it's in a bold type face? Why are judges more likely to deny parole before lunch? Why do we assume a good-looking person will be more competent? The answer lies in the two ways we make choices: fast, intuitive thinking, and slow, rational thinking. This book reveals how our minds are tripped up by error and prejudice (even when we think we are being logical), and gives you practical techniques for slower, smarter thinking. It will enable to you make better decisions at work, at home, and in everything you do."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780141033570"
+      - type: "ISBN_10"
+        identifier: "0141033576"
+    pageCount: 499
+    printType: "BOOK"
+    categories:
+      - "Psychology"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=AV9x8XakdV0C&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=AV9x8XakdV0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Thinking_Fast_and_Slow.html?hl=&id=AV9x8XakdV0C"
