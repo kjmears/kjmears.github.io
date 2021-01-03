@@ -1,0 +1,12 @@
+
+<div class="panel">
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <img class="panel-img-top" src="{{ site.baseurl }}/images{{ post.image-thumb }}" alt="Image thumbnail">
+
+  <div class="panel-block">
+      <h3 class="panel-title">{{ book.title | truncate:25 }}</h3>
+
+    <p class="panel-text">{{ post.excerpt | strip_html | truncatewords:7 }}</p>
+  </div>
+</a>
+</div>
