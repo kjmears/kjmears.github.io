@@ -1,0 +1,36 @@
+---
+date: "2018-12-03"
+title: Nagging Feeling
+season: 05
+episode: 00
+published: false
+---
+
+It's just over a year since I last wrote a Weeknote, but for some reason the idea to start the pratice up again has taken root.
+
+A lot has happened in work in the last 12 months and particularly in the last 4 months. I think the stuff I'm now doing would make for pretty interesting weeknotes, as I'm doing a lot of things that are unfamiliar to me, so I'll be wrestling with that and laying it all out in weeknotes will help to make sense of it all.
+
+2019-01-07 2019-01-07 complete survey about attendence monitoring +att-monitoring @research
+2019-01-07 2019-01-07 reply to Miguel about Bosch CCTV system +triage @comms
+2019-01-07 2019-01-07 contact Susanne about engagement activity and plans +planning @comms
+2019-01-07 2019-01-07 get steup up Pluralsight +learning @learning
+2019-01-07 2019-01-07 fix access to printers +setup @admin
+
+Summary of today from todo file. Mainly admin jobs, clearing tasks that have been hanging around and getting ready to pick up some work on setting up a PMO. 
+
+Also discussions about doing the next level of ITIL - Service Design.
+
+
+
+2019-01-08 2019-01-07 read ucisa pmo document +pmo @research
+2019-01-08 2019-01-08 watch https://www.qa.com/training-courses/itil-and-it-service-management-training/itil/itil-overview/polestar-it-service-management-in-action-simulation +pmo @research
+2019-01-08 2019-01-07 do pluralsight assessments +learning @learning
+2019-01-08 2019-01-08 ask RAG rating for desktop systems +rag @com
+
+More researching for activity to come and talking honestly about a feeling of uncertainty about the next steps are for my current work. I'm fairly confident that things will start moving again soon, and in the meantime it's good to try to clear the decks and get some learning done in preparation.
+
+Felt good to makes some progress on a spreadsheet that has been hanging around for a while - it will be useful, but the process of filling it in is pretty labourious as it involved quite a lot of chasing people up, and even tracking down who to even ask.
+
+2019-01-09 2019-01-09 check unilife collection failures +funnnelback @support
+2019-01-09 2019-01-08 enter RAG rating for desktop systems +rag @comms
+
