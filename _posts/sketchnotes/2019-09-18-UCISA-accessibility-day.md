@@ -27,7 +27,6 @@ speaker:
     - bellaabramsIT
     - benwatson
 tags:
-    - ucisa
     - live
 cc: BY-SA
 ---

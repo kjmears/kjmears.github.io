@@ -10,7 +10,7 @@ tags:
 
 ---
 
-On this site I created a page where I list all the talks, videos, presentations I've done sketchotes of order by the people in them.
+On this site I created a [page][speakers] where I list all the talks, videos, presentations I've done sketchotes in order by the people in them.
 
 It took me a while to work out how to do it using Jekyll data files so I thought I'd write it up in case any other novices like me might find it helpful.The basic principle is that I have two data files `events.yml` and `speakers.yml` and combine them to display the information I want.
 
@@ -230,3 +230,4 @@ I do a little check for the presence of `twitter` info before displaying it. If 
 
 [kwe]: http://www.mearso.co.uk/sketchnotes/port80-2014-kevin-evans.html
 [data]: https://datatables.net/
+[speakers]: /speakers
