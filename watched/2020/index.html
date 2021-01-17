@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Watched
+title: Watched in 2020
 published: true
 sitemap: false
 ---
 
 <h2>Watched in 2020</h2>
-
 
 <ol reversed class="watched">
 	{% assign sorted = site.data.films2020 | reverse %}
@@ -17,7 +16,4 @@ sitemap: false
 	{% endfor %}
 
 </ol>
-
-
 {% include films.html %}
-

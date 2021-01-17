@@ -1,0 +1,25 @@
+---
+date: "2021-01-17"
+title: 20,000 Rows and counting
+season: 05
+episode: 02
+weekref: 11th - 15th Jan
+published: true
+---
+So once again I forgot to write this week note on the Friday and I'm catching up on Sunday - hopefully next week I'll do better.
+
+This week was heavy duty, elbows deep work  in Spreadsheets with thousands of rows. To some people that might sound like a nightmare but to me I actually enjoyed the process maybe I'll talk a bit about why.
+
+The feeling that we're making progress and the information that we rely is improving bit by bit is a good one. The feedback is immediate as the cells start to fill with info. There is also an element of unfamiliarity with both the data and tools, so it's a bit of a journey to learn more about both. Thinking about ways to structure and organise the information is a puzzle I think I can tackle, and I might have some promising ideas and experiences that will help. I guess all that adds up to a nice feeling of agency over the work – which is always likely to make for a happy human work unit.
+
+A good sign is that it doesn't feel a slog to sit down and attend to it - that's certainly the case here. I’ll have to check if that’s still the case thousands of rows later.
+
+The week what wasn't all about disappearing in spreadsheets; I also had an good meeting developing a policy – that ran longer than expected due to underestimating how much there was to cover. Coming up with definitions that make a policy workable was the main job – and reminds that I still haven’t sent out the summary I did!
+
+I wasn't so successful this week at stopping thinking about work when the day ends. I'd made a little promise to myself to try to let things go at the end of the day and not be mulling things over and over. I found some interesting post on [Twitter][twitter] where [people][cdev] have [been][coyier] outlining [their][danmall] typical [days][saras]. Some good things to try there -  perhaps having a more specific end of the day ritual is something to try?
+
+[twitter]: https://twitter.com/cdevroe/status/1347181529819193344?s=20
+[cdev]: http://cdevroe.com/2021/01/07/my-typical-day/
+[coyier]: https://chriscoyier.net/2021/01/08/my-typical-day/
+[danmall]:http://danmall.me/articles/my-typical-day/
+[saras]: https://www.sarasoueidan.com/desk/typical-day/  
