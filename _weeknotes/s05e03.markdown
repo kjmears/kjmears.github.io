@@ -1,0 +1,17 @@
+---
+date: "2021-01-24"
+title: 
+season: 05
+episode: 03
+weekref: 18th - 22nd Jan
+published: true
+---
+Last week I  hoped that I would be better and write this on the Friday. Here I am writing this on Sunday - so worse.
+
+Achievement unlocked at a new part of my job - pretty simple admin task of getting a box out of storage - made more difficult by COVID restrictions. Notable mainly for kicking off the LEAN Yellow Belt part of my brain that immediately looks for ways to make it better. I'm sure it's possible, but as I've mentioned before - Need to take it slow.
+
+At the start of the week I'd resolved to do more reading around the job and get up to speed on things I think are gloing to be important. I failed dismally at that, so will have to try again this week.
+
+A good week on the ongoing data cleansing, in that it's reached a stage where it's good enough to start throwing things into a Power BI report and getting some helpful insights.
+
+Was slightly better at switching off this week.
