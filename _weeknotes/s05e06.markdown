@@ -7,6 +7,9 @@ weekref: 8th - 12th Feb
 published: true
 ---
 
+![Records Management sketchnotes]({{ base-url }}/images/weeknotes/RecordsManagementSketchnotesFeb2021.png)
+
+
 Meeting about SharePoint and the intricacies making sure only the people you want to see things see them. As usual with those kinds of meetings, the questions often end with plenty of ‘it depends’ answers, where the process influences what is desired with the tech – bit also people need to get a feel for what is possible and sometimes tailor processes. I find that people can be open to changing processes if they feel there’s tangible benefits. A sort of Chicken and Egg conundrum.
 
 Took my first steps into proper admin land by checking some invoices and passing them off for payment. The sort of admin bread and butter that I’ve managed to avoid for most of my working life, so had a little frisson of novelty, that I’m sure will wear off.
