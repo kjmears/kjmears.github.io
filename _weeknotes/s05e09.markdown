@@ -6,7 +6,7 @@ episode: 09
 weekref: 8th - 13th Mar
 published: true
 ---
-This week was the first time I had a day off for a little while and I spent it reading a book - Something which I haven't sat down and done for such a long time and I thought I'd lost the ability to do it. The book was [CheckBook][The Checklist Manifesto] – an interesting little treatise on checklists created by surgeon Atul Gawande. The premise is the checklists are useful as they remind people to do basic things that should be remembered but are often not – sometimes with catastrophic results. For example, the simple act of a surgical team being compelled to introduce themselves and their role led to a big increase in the perceived effectiveness and teamwork.
+This week was the first time I had a day off for a little while and I spent it reading a book - Something which I haven't sat down and done for such a long time and I thought I'd lost the ability to do it. The book was [The Checklist Manifesto][Check] – an interesting little treatise on checklists created by surgeon Atul Gawande. The premise is the checklists are useful as they remind people to do basic things that should be remembered but are often not – sometimes with catastrophic results. For example, the simple act of a surgical team being compelled to introduce themselves and their role led to a big increase in the perceived effectiveness and teamwork.
 As you might expect, a crucial component is that people have the discipline to do them – something aviation is good at. It’s a short and easily digested book with nice examples - from surgery, aviation and construction.
 I expected the book to go into it how to create good checklists. It didn’t do that but did mention the big body of work around aviation checklists – from which I like the first step on one example checklist – ‘FLY THE AEROPLANE’.
 but the general principle seemed to be that you make the checklist and then in a very agile way you keep iterating on it. Have people create it, use it and repeat until it delivers what you need. So, I've been thinking all week on how to create good checklists and what would make a good checklist in the field I’m working in.
@@ -23,4 +23,4 @@ Also seemed to be kicking off some work around collecting of data and records fo
 
 That combination of good reference information and good process seems to be cropping up a lot over the last few years and I think it's one of those things that is quite a difficult nut to crack.
 
-[CheckBook] :https://amzn.to/2ONN9Em
+[Check]: https://amzn.to/2ONN9Em
