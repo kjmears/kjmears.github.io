@@ -1,0 +1,26 @@
+---
+date: "2021-03-13"
+title: Mystery Boxes
+season: 05
+episode: 09
+weekref: 8th - 13th Mar
+published: true
+---
+This week was the first time I had a day off for a little while and I spent it reading a book - Something which I haven't sat down and done for such a long time and I thought I'd lost the ability to do it. The book was [Checkbook][‘The Checklist Manifesto’] – an interesting little treatise on checklists created by surgeon Atul Gawande. The premise is the checklists are useful as they remind people to do basic things that should be remembered but are often not – sometimes with catastrophic results. For example, the simple act of a surgical team being compelled to introduce themselves and their role led to a big increase in the perceived effectiveness and teamwork.
+As you might expect, a crucial component is that people have the discipline to do them – something aviation is good at. It’s a short and easily digested book with nice examples - from surgery, aviation and construction.
+I expected the book to go into it how to create good checklists. It didn’t do that but did mention the big body of work around aviation checklists – from which I like the first step on one example checklist – ‘FLY THE AEROPLANE’.
+but the general principle seemed to be that you make the checklist and then in a very agile way you keep iterating on it. Have people create it, use it and repeat until it delivers what you need. So, I've been thinking all week on how to create good checklists and what would make a good checklist in the field I’m working in.
+I've got a feeling that this is the thought that'll just keep bubbling away in the background until an opportunity to try it out comes along.
+
+As for what I've been working on for the rest of the week it's been finding refining reference information around our retention schedule working through the definitions and the categorizations to try and arrive at something usable practical.
+
+Had some interesting communications and meetings with people around records management and it's gratifying to see there's people are keen get some good guidance and I'm keen to try and provide it so that seems like a good match.
+
+Also seemed to be kicking off some work around collecting of data and records for GDPR compliance. We accumulate lots of information across the organisation and we have obligations under GDPR regulations to know what we're collecting, what we're doing with it etcetera. It’s fair to say that there's work to be done where we could improve.
+
+- The underlying reference information on what we hold.
+- The processes for keeping it accurate and up to date in the future.
+
+That combination of good reference information and good process seems to be cropping up a lot over the last few years and I think it's one of those things that is quite a difficult nut to crack.
+
+[CheckBook] :https://amzn.to/2ONN9Em
