@@ -3,7 +3,8 @@ date: "2021-02-21"
 title: Planning
 season: 05
 episode: 07
-weekref: 15th - 19th Feb
+weekref: 15th - 21st Feb
+weekdate: 2021W07
 published: true
 ---
 

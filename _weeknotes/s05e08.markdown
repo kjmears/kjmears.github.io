@@ -3,7 +3,8 @@ date: "2021-02-28"
 title: Mystery Boxes
 season: 05
 episode: 08
-weekref: 22nd - 27th Feb
+weekref: 22nd - 28th Feb
+weekdate: 2021W08
 published: true
 ---
 Weeknote that I nearly didn’t do, but then read some others which encouraged me.

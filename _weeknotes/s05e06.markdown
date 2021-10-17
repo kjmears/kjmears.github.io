@@ -3,7 +3,8 @@ date: "2021-02-14"
 title: Variety is the spice of Life
 season: 05
 episode: 06
-weekref: 8th - 12th Feb
+weekref: 8th - 14th Feb
+weekdate: 2021W06
 published: true
 ---
 

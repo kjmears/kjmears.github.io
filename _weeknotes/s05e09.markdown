@@ -3,7 +3,8 @@ date: "2021-03-13"
 title: Fly the Aeroplane
 season: 05
 episode: 09
-weekref: 8th - 13th Mar
+weekref: 8th - 14th Mar
+weekdate: 2021W10
 published: true
 ---
 This week was the first time I had a day off for a little while and I spent it reading a book - Something which I haven't sat down and done for such a long time and I thought I'd lost the ability to do it. The book was [The Checklist Manifesto][Check] – an interesting little treatise on checklists created by surgeon Atul Gawande. The premise is the checklists are useful as they remind people to do basic things that should be remembered but are often not – sometimes with catastrophic results. For example, the simple act of a surgical team being compelled to introduce themselves and their role led to a big increase in the perceived effectiveness and teamwork.
