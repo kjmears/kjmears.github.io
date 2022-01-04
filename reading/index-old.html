@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Read in 2021
+title: Reading
 published: true
-sitemap: true
+sitemap: false
 ---
 
-<h2>Read in 2021</h2>
-
+<h2>Read in 2020</h2>
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.books.books2021 | reverse %} {% for book in sorted %}
+	{% assign sorted = site.data.books.books2020 | reverse %} {% for book in sorted %}
 	<li>
-	
-	
 		<strong>{{ book.title }}</strong>
+		<img src="https://images-eu.bookshop.org/product-images/images/{{ book.isbn }}.jpg" alt="bookcover{{book.title}}">
 		<em>{{ book.author_1 }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} {% if book.amazon_link != null %}
 		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}
 		<p>
@@ -21,11 +19,9 @@ sitemap: true
 		</p>
 		{% endif %} {% if book.biblio %}
 		<a href="{{ book.biblio }}">More Info</a>{% endif %}
-	
 	</li>
 	{% endfor %}
-
 </ol>
 
 <hr>
-<h2>Read in <a href="/reading/2016">2016</a>, <a href="/reading/2017">2017</a>, <a href="/reading/2018">2018</a>, <a href="/reading/2019">2019</a></h2>, <a href="/reading/2020">2020</a></h2> 	
+<h2>Read in <a href="/reading/2016">2016</a>, <a href="/reading/2017">2017</a>, <a href="/reading/2018">2018</a>, <a href="/reading/2019">2019</a></h2> 	
