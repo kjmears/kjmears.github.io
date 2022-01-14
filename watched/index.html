@@ -5,14 +5,14 @@ published: true
 sitemap: false
 ---
 
-<h2>Watched in 2020</h2>
+<h2>Watched in 2021</h2>
 
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2020 | reverse %}
+	{% assign sorted = site.data.films2021 | reverse %}
 	{% for film in sorted %}
 		<li>
-			<a href="https://www.themoviedb.org/movie/{{ film.tmdb_id }}"><strong>{{ film.title }}</strong></a>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
+		<strong>{{ film.title }}</strong>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
 		</li>
 	{% endfor %}
 
