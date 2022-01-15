@@ -8,16 +8,16 @@ sitemap: false
 <h2>Watched in 2021</h2>
 
 
+
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2021 | reverse %}
+	{% assign sorted = site.data.films2020 | reverse %}
 	{% for film in sorted %}
 		<li>
-		<strong>{{ film.title }}</strong>, {{ film.release | date: "%Y" }}  <em>{{ film.genre }}</em>
+			<a href="{{ film.URL }}"><strong>{{ film.title }}</strong></a>, <em>{{ film.genre }}</em>
 		</li>
 	{% endfor %}
 
 </ol>
-
-
 {% include films.html %}
+
 
