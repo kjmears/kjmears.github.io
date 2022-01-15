@@ -10,7 +10,7 @@ sitemap: false
 
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2020 | reverse %}
+	{% assign sorted = site.data.films2021 | reverse %}
 	{% for film in sorted %}
 		<li>
 			<a href="{{ film.URL }}"><strong>{{ film.title }}</strong></a>, <em>{{ film.genre }}</em>
