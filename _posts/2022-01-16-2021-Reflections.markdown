@@ -1,0 +1,75 @@
+---
+layout: post
+title: "2021 Reflections"
+date: "2022-01-16"
+category: blog
+published: true
+image-thumb:
+tags:
+  - thoughts
+
+meta: "2021 Reflections"
+homepage: true
+---
+
+## New Job
+
+Working at a new job in the organisation where I’ve spent most of my working life has been a breath of fresh air. Even during a pandemic, with all the new ways of working I’ve found it as interesting as I’d hoped when I saw the advert and thought ‘that sounds like me’. It’s been a nice mix of things I had no idea I would be doing, and things I expected to be doing mixed in with my natural desire to problem solve the how to do things as well
+
+I don’t think I’ll ever leave Web Design and IT fully behind, in fact my background will hopefully continue to be a big help, but feeling like a novice in a new field is pretty cool. It does remind me a little of the frontier times in Web Design many years ago, and if can bring that level of enthusiasm to this job I’ll be happy. One lovely surprise is my growing interest is archives and archiving as a practice.
+
+## Death of a friend
+
+A more sobering and upsetting event of the year was the death of my best friend from school. Very close in age, and even though I wasn’t in close touch, I had resolved to be a better friend and reconnect - when I got the news last year that he was seriously ill. The pandemic restrictions then prevented any meaningful contact, leaving a big sense of regret at my previous inaction. More obviously, it provoked more than a little reflection on what a life is for and a hard reminder to check your perspective on how you live, and what matters. Hardly an original response, but one that’s had me thinking for most of the year.
+
+## New Life
+
+Whilst that reframing was going on the was the background of the build up and arrival of a new member of the family, making me a proud grandparent. Almost too big of an event for me to grok - it takes me a while to process things - it’s been a wonderful counterpoint to the rest of the world’s awfulness at the moment. I’ve never been slow to be grateful for all the things I’ve been lucky enough to do and make it this far, but welcoming a new life has got to be one of the best privileges.
+
+## Looking forward
+
+The distillation of these big events has been a while brewing this year, and I’m not one for big goals or ambitions, but I think I will try to attend a bit better to the life side of the cliche that is work/life balance. 
+
+## Media of the Year
+
+### Books
+
+Reviewing my list of books this year, I notice that I’m a bit more interested in people than I would have suspected, having a total of six books about people or their jobs. In truth, they’re all pretty easy to read, and not weighty biographies, but more memoirs probably about my level.
+
+Then a big chunk of the year’s reading is the rekindling of my SciFi interest, kicked off by the cracking Three Body Problem series. Part of learning how to relax and enjoy that ‘life’ thing people talk about.
+
+What I read this year
+
+- And Away… Bob Mortimer
+- Four Thousand Weeks: Time and How to Use It Oliver Burkeman
+- The No-Nonsense Guide to Archives and Recordkeeping Margaret Crockett
+- Forward the Foundation Isaac Asimov
+- Prelude to Foundation Isaac Asimov
+- Billy Pamela Stephenson
+- Death’s End Cixin Liu
+- The Dark Forest Cixin Liu
+- The Three Body Problem Cixin Liu
+- Something Sensational to Read in the Train: The Diary of a Lifetime Gyles Brandreth
+- This Is Going To Hurt Adam Kay
+- How to Be a Footballer Peter Crouch
+- Airhead Emily Maitlis
+- The Checklist Manifesto Atul Gawand
+- White Teeth Zadie Smith
+
+Special mention for the Burkeman book - one I’ll definitely be coming back to, as I think i was ripe for it.
+
+### Film and TV
+
+Watched less films this, but like the rest of the world, more TV. More Documentaries - even ones as depressing as the [Crime of the Century](https://letterboxd.com/mearso/film/the-crime-of-the-century-2021/)
+
+Highlights that come to mind.
+
+- [The Trip][trip]
+- [The LightHouse][light]
+- [Portrait of a Lady on Fire][lady]
+- [Come to Daddy][daddy]
+
+[trip]: https://boxd.it/sAfm
+[light]: https://boxd.it/icFU
+[lady]: https://boxd.it/jkPq
+[daddy]: https://boxd.it/lAqK

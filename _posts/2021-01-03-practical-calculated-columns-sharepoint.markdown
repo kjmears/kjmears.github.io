@@ -30,7 +30,7 @@ Usually goes like this
 
 "What's that filename 'really_important_spreadsheet_FINAL_SEP_Draft'"
 
-To tackle the basic unsuitability of a spreadsheet to manage information - a SharePoint list looked like a promising candidate - It has the readability and structure that is useful and accessible in a lovely HTML page with some of the filtering and organising benefits of a spreadsheet. Aside from the obvious benefits of presenting information in a Webpage we also need to tackle the process issue of how to make it up to date. The information needs to be verified at suitable intervals to check its relevance and accuracy. Making sure there is a mechanism to keep it up to date is vital and being part of the wider Office 365 Ecosystem really helps us.
+To tackle the basic unsuitability of a spreadsheet to manage information - a SharePoint list looked like a promising candidate - It has the readability and structure that is useful and accessible in a lovely HTML page with some of the filtering and organising benefits of a spreadsheet. Aside from the obvious benefits of presenting information in a Webpage we also need to tackle the process issue of how to make it up to date. The information needs to be verified at suitable intervals to check its relevance and accuracy. Making sure there is a mechanism to keep it up to date is vital and being part of the wider Office 365 Ecosystem really helps us.
 
 Deciding that a missing component of many of these types of systems is the concept of a record maintainer - who is responsible for the information. Once that is  decided you then have a point of contact to remind.
 
@@ -79,7 +79,7 @@ It is a calculated column with the following simple calculation.
 
 Which adds the number of days set by in Review Period to the last date the record was modified. This means is the record has been modified during the review period it effectively resets it. For a little extra convenince I then have a column 'Record Status'. This is handy to quickly see if a record has expired rather than reading a date - it also provides a useful trigger for Notification Flows.
 
-    =IF(TODAY()<ReviewDate,"Within Review","Expired") 
+    =IF(TODAY()<ReviewDate,"Within Review","Expired")
 
 This brings me onto the other calculations in the list.
 
@@ -89,10 +89,10 @@ For the list to be useful as well as being up to date, we also need the informat
 
 In the 'Data Completeness Score' ccolumn there is a calculation that checks if a column is not empty.
 
-    =COUNTA([Sensitive Data],[Review Classification],RAGRating,[Product Status])/4 
+    =COUNTA([Sensitive Data],[Review Classification],RAGRating,[Product Status])/4
 
-You can read more about the function at on [Microsoft's Help Site][Microsoft].The first part of the calculation checks if the columns are not empty, and then is divided by 4 (the number of columns being checked) In the options for the column in SharePoint, the option to represent it as a percentage then gives us the score for the Column.
-So, for a list the following example columns could be
+You can read more about the function at on [Microsoft's Help Site][Microsoft].The first part of the calculation checks if the columns are not empty, and then is divided by 4 (the number of columns being checked) In the options for the column in SharePoint, the option to represent it as a percentage then gives us the score for the Column.
+So, for a list the following example columns could be
 
 * Sensitive Data
 * RAGRating
@@ -107,4 +107,4 @@ All of this work was a development and essentially 'sketching' in a nice protect
 
 Hope you've found this an interesting exploration of the kind of simple things that are possible in SharePoint lists. Allied to some decent processes it can be be pretty powerful.
 
-[microsoft]: https://support.office.com/en-gb/article/counta-function-4c35510e-bdce-4135-a20e-23c9698a22ea 
+[microsoft]: https://support.office.com/en-gb/article/counta-function-4c35510e-bdce-4135-a20e-23c9698a22ea

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Watched in 2020
+title: Watched in 2021
 published: true
 sitemap: false
 ---
@@ -12,7 +12,7 @@ sitemap: false
 	{% assign sorted = site.data.films2021 %}
 	{% for film in sorted %}
 		<li>
-			<a href="https://boxd.it/{{ film.url }}"><strong>{{ film.title }}</strong></a> <em>{{ film.watched | date: "%b %-d" }} </em> - , {{ film.release }}  <em>{{ film.genre }}</em>{% if film.notes %}
+			<a href="https://boxd.it/{{ film.URL }}"><strong>{{ film.title }}</strong></a>, {{ film.release }} <em>Watched: {{ film.watched | date: "%b %-d" }} </em><em>{{ film.genre }}</em>{% if film.notes %}
 			<br> {{ film.notes }} {% endif %}
 			
 		</li>
