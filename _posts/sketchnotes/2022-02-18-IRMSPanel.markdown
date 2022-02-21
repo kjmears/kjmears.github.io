@@ -5,7 +5,7 @@ layout: post
 type: pages
 title: Maximising the Use of Microsoft Teams in Regulated Environments
 date: 2022-02-18
-image: /irmsTeamPanel20220218_sketchnotes
+image: /irmsTeamPanel20220218_sketchnotes.jpg
 image-original: /irmsTeamPanel20220218_sketchnotes_Large.jpg
 image-thumb: /irmsTeamPanel20220218_sketchnotes_thumb.jpg
 image-caption: "Collection of Sketchnotes from IRMS Session on Microsoft Teams"
