@@ -1,0 +1,28 @@
+---
+code: whelf22
+published: true
+layout: post
+type: pages
+title: WHELF Excluded Voices 2022
+date: 2022-06-29
+image: /WHELF2022_sketchnotes.jpg
+image-original: /WHELF2022_sketchnotes_Large.jpg
+image-thumb: /WHELF2022_sketchnotes_thumb.jpg
+image-caption: "Collection of Sketchnotes from WHELF Excluded Voices 2022"
+category: sketchnotes
+event: https://whelf.ac.uk/excluded-voices-29-06-2022-registration-is-open/
+
+keywords:
+    - Sketchnotes
+    - Teaching
+speaker:
+
+tags:
+    - live
+cc: BY-SA
+---
+
+
+Single event run by [WHELF][WHELF]
+
+[WHELF]: https://whelf.ac.uk
