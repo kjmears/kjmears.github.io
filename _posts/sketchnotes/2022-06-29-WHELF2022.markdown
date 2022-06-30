@@ -15,7 +15,6 @@ event: https://whelf.ac.uk/excluded-voices-29-06-2022-registration-is-open/
 keywords:
     - Sketchnotes
     - Teaching
-speaker:
 
 tags:
     - live
@@ -23,6 +22,6 @@ cc: BY-SA
 ---
 
 
-Single event run by [WHELF][WHELF]
+Single day conference event run by [WHELF][WHELF]
 
 [WHELF]: https://whelf.ac.uk
