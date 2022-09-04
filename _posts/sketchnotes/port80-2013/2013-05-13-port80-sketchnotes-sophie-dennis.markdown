@@ -18,4 +18,4 @@ speaker: sophiedennis
 
 Sketchnote of Talk by Paul Sophie Dennis at Port80 conference
 
-Unfortunately, doesn't capture the standing up and the folk dancing. 
+Unfortunately, doesn't capture the standing up and the folk dancing.

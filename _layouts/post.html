@@ -38,15 +38,12 @@ layout: default
 		{% if page.image-caption %}
 			<figure>
 				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-				<em>{{ page.category | capitalize }} : {{ page.image-caption }}</em>
-			</figure>
-		{% else %}
-			<figure>
-				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
 				<figcaption>
-					{{ page.category | capitalize }}
+					{{ page.image-caption }}
 				</figcaption>
 			</figure>
+		{% else %}
+
 		{% endif %}
 		{% if page.image-original %}
 			<a href="{{ site.baseurl }}/images/{{ page.image-original }}" class="download"> Large version for download</a>
