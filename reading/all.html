@@ -1,0 +1,34 @@
+---
+layout: book
+title: All Books
+published: true
+sitemap: false
+---
+
+<h2>All</h2>
+
+<p>All the books Ive logged over the years, on various platforms with varying degrees of effort.</p>
+
+<ol class="watched">
+	{% assign list = site.data.books.all %}
+
+
+	{% for blob in list %}
+	<li>
+		<strong>
+			{{ blob.blue }}
+		</strong>
+		<em>{{ blob.author }}</em> Finished: {{ blob.date_finished | date: "%b %-d %Y" }} 
+		
+		{% if blob.notes %}
+		<p>
+			{{ blob.notes }}
+		</p>
+		{% endif %}
+
+	</li>
+	{% endfor %}
+
+</ol>
+
+{{ list }}

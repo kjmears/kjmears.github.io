@@ -1,0 +1,26 @@
+---
+layout: book
+title: Read in 2011
+published: true
+sitemap: false
+---
+
+<h2>Read in 2011</h2>
+
+
+<ol reversed class="watched">
+	{% assign sorted = site.data.books.books2011 | reverse %} {% for book in sorted %}
+	<li>
+		<strong>{{ book.title }}</strong>
+		<em>{{ book.author }}</em> {{ book.date_finished }} 
+	</li>
+
+	{% if book.notes %}
+		<p>
+			{{ book.notes }}
+		</p>
+		{% endif %}
+	{% endfor %}
+
+</ol>
+

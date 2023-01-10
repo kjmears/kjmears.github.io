@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Read in 2016
 published: true
 sitemap: false
@@ -8,31 +8,22 @@ sitemap: false
 <h2>Read in 2016</h2>
 
 
-<ol reversed class="watched">
+<ol class="watched">
 	{% assign sorted = site.data.books.books2016 %} {% for book in sorted %}
 	<li>
-		{% if book.amazon != null %}
 
-		<strong>
-			<a href="{{ book.amazon }}">{{ book.title }}</a>
-		</strong>
-		<em>{{ book.author }}</em>
-
-		{% else %}
 
 		<strong>{{ book.title }}</strong>
-
-		{% endif %} {% if book.notes %}
+		<em>{{ book.author }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} {% if book.amazon_link != null %}
+		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}
 		<p>
 			{{ book.notes }}
 		</p>
-
-		{% endif %}
-
+		{% endif %} {% if book.biblio %}
+		<a href="{{ book.biblio }}">More Info</a>{% endif %}
 
 	</li>
 	{% endfor %}
 
 </ol>
-
 
