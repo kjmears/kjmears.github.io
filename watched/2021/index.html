@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Watched in 2022
+title: Watched in 2021
 published: true
 sitemap: false
 ---
 
-<h2>Watched in 2022</h2>
+<h2>Watched in 2021</h2>
 
 
 <ol reversed class="watched">
-	{% assign sorted = site.data.films2022 %}
+	{% assign sorted = site.data.films2021 %}
 	{% for film in sorted %}
 		<li>
 			<a href="https://boxd.it/{{ film.URL }}"><strong>{{ film.title }}</strong></a>, {{ film.release }} <em>Watched: {{ film.watched | date: "%b %-d" }} </em><em>{{ film.genre }}</em>{% if film.notes %}
