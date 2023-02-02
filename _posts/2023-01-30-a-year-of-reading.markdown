@@ -13,7 +13,7 @@ meta: "2022 Reflections"
 homepage: true
 ---
 
-Looking back through the books Ive read this year, my pretty random way of arriving at what to read next has delivered some nice surprises, a few slogs, more fiction than normal and several very enjoyable books.
+Looking back through the books I've read this year, my pretty random way of arriving at what to read next has delivered some nice surprises, a few slogs, more fiction than normal and several very enjoyable books.
 
 
 <ol class="watched">
