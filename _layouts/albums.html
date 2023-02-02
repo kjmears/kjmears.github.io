@@ -1,0 +1,82 @@
+---
+layout: default
+---
+{% assign post = page %}
+
+{%
+	include JSON-LD-blog.html
+	headline=page.title
+	genre=page.category
+	keywords=page.keywords
+	content=page.content
+	link=page.permalink
+	date=page.date
+%}
+
+<div class="row">
+<article>
+
+	<header>
+    <h1 class="post-category">
+     <a href="/1001">1001 Albums</a>
+		{{ post.title }}
+   </h1>
+
+    {% include logospotter-posted.html %}
+
+  </header>
+
+  <div id="post-content">
+    <span>
+
+			{% if page.image %}
+					<figure>
+						<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+						<em>{{ page.image-caption }}</em>
+					</figure>
+			{% endif %}
+
+			<h2>{{ page.excerpt }}</h2>
+
+      {{ content }}
+    </span>
+  </div>
+
+</article>
+
+<!-- https://gist.github.com/johnfmorton/6c395361d259b23409ee6559fd909d5c -->
+
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% if page.collection %}
+  {% assign  document = site[the_collection] | sort: 'date'  %}
+{% endif %}
+
+{% for links in document %}
+{% if forloop.first %}
+	{% assign first = links %}
+{% endif %}
+{% if forloop.last %}
+	{% assign last = links %}
+{% endif %}
+  {% if links.title == page.title %}
+	{% unless forloop.first %}
+		{% assign prevurl = prev.url %}
+	{% endunless %}
+	{% unless forloop.last %}
+		{% assign next = document[forloop.index] %}
+		{% assign nexturl = next.url %}
+	{% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+{% assign firsturl = first.url %}
+{% assign lasturl = last.url %}
+
+{% if prevurl %}
+<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}{% endif %}
+
+{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}
+{% endif %}
+
+</div>

@@ -54,24 +54,25 @@ plugins:
 # Collections
 collections:
   project:
-    description: "College Project"
+    name: "College Project"
     output: true
   workshops:
-    description: "Workshops"
+    name: "Workshops"
     output: true
   logospotter:
-    description: "Logospotter"
+    name: "Logospotter"
     output: true
     output_tags: true
   styleguide:
-    description: "Styleguide"
+    name: "Styleguide"
     output: true
   illustration:
-    description: "Illustration"
+    name: "Illustration"
     output: true
   weeknotes:
-    description: "Weeknotes"
+    name: "Weeknotes"
     output: true
+
 # Setting some defaults for collections - layouts, collection information.
 # with more to follow
 
