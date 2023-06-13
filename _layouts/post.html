@@ -43,11 +43,14 @@ layout: default
 				</figcaption>
 			</figure>
 		{% else %}
+		<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+
 
 		{% endif %}
 		{% if page.image-original %}
 			<a href="{{ site.baseurl }}/images/{{ page.image-original }}" class="download"> Large version for download</a>
 		{% endif %}
+
 	{% endif %}
 
 
