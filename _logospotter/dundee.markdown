@@ -10,8 +10,7 @@ tags:
 - shield
 - uppercase
 - scotland
-- serif
-- red
+- sansserif
 - grey
 - blue
 

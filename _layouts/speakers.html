@@ -39,8 +39,6 @@ layout: compress
 <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
 <meta name="theme-color" content="#ffffff">
 
-<script type="text/javascript" src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/public/js/jquery.dataTables.js"></script>
 
 
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
@@ -88,20 +86,18 @@ layout: compress
 </body>
 
 
-<script type="text/javascript">
-$(document).ready(function() {
-    $('#speakertable').DataTable( {
-        "order": [[ 3, "desc" ]],
-        "paging": false,
-        "columnDefs": [
-          { className: "dt-head-left", "targets": [ 0 ]},
-          { className: "dt-head-left", "targets": [ 1 ]},
-          { className: "dt-head-left", "targets": [ 2 ]},
-          { className: "dt-head-left", "targets": [ 3 ]}
 
-        ]
-    } );
-} );
-</script>
+
+        <!-- CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest"></script>
+        <!-- Custom Code -->
+        <script>
+const dataTable = new simpleDatatables.DataTable("#speakertable", {
+	searchable: true,
+	fixedHeight: true,
+  paging: false
+})
+
+        </script>
 
 </html>

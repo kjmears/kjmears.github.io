@@ -39,8 +39,6 @@ date: 2018-02-29
   </div>
 {% endif %}
   
-
 	{% endif %}
 
-	{% endfor %}
-
+ {% endfor %}

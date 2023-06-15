@@ -1,0 +1,9 @@
+
+
+{
+    "markdownlint.config": {
+      "MD033": {
+        "allowed_elements": ["div", "p", "a"]
+      }
+    }
+  }
