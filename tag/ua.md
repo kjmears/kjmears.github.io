@@ -2,7 +2,7 @@
 layout: blog_by_tag
 title: 'Articles by tag: University Alliance'
 tag: ua
-permalink: /logospotter/ua/
+permalink: /unilogos/ua/
 ---
 
 Members of the sinister sounding [University Alliance](https://en.wikipedia.org/wiki/University_Alliance)

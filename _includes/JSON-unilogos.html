@@ -1,0 +1,60 @@
+<div class="content container">
+      <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Review",
+  "headline": "{{ page.title }} Logo Review",
+  "image": "{{ site.url }}/images/unilogos/{{ page.image }}",
+  "thumbnailUrl": "{{ site.url }}/images/unilogos/thumbs/{{ page.image }}",
+  "description": "Review of logo for {{ page.title }}",
+  "keywords": "University Logo Review, Design, Logos, Critique",
+  "author":{
+    "@type":"person",
+      "name":"{{ site.author.name }}"
+      },
+  "publisher":{
+      "@type":"organization",
+      "name": "{{ site.author.name }}",
+      "url": "{{ site.author.url }}",
+      "logo": {
+         "@type": "ImageObject",
+         "url": "http://www.mearso.co.uk/android-chrome-256x256.png",
+         "width": "256px",
+         "height": "256px"
+   },
+   "sameAs": [
+     "{{ site.author.twitter }}",
+     "{{ site.author.linkedin }}",
+     "{{ site.author.instagram }}",
+     "{{ site.author.google }}",
+     "http://staff.southwales.ac.uk/users/952-kjmears"
+   ]
+},
+  "itemReviewed": [
+  {
+    "@type": "creativeWork",
+    "thumbnailUrl": "{{ site.url }}/images/unilogos/thumbs/{{ page.image }}",
+    "publisher": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "{{ page.title }}",
+          "sameAs": [
+            "http://{{ page.website }}",
+            "https://en.wikipedia.org/wiki/{{ page.wiki }}"
+          ]
+        }
+      ],
+      "copyrightHolder": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "{{ page.title }}",
+            "sameAs": [
+              "http://{{ page.website }}",
+              "https://en.wikipedia.org/wiki/{{ page.wiki }}"
+            ]
+          }
+        ]
+    }
+  ]
+}
+</script>

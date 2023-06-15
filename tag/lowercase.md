@@ -2,5 +2,5 @@
 layout: blog_by_tag
 title: 'Articles by tag: Lowercase'
 tag: lowercase
-permalink: /logospotter/lowercase/
+permalink: /unilogos/lowercase/
 ---

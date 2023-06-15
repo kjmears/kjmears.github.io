@@ -72,9 +72,9 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 14rem;
+    width: 18rem;
     text-align: right;
-      font-size: 1.6rem;
+      font-size: 1.5rem;
   }
 }
 
@@ -149,7 +149,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 14rem;
+    margin-left: 18rem;
     margin-right: 2rem;
   }
 }
@@ -157,7 +157,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 74em) {
   .content {
     max-width: 58rem;
-    margin-left: 16rem;
+    margin-left: 18rem;
     margin-right: 4rem;
   }
 }

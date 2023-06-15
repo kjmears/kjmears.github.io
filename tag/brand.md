@@ -2,7 +2,7 @@
 layout: blog_by_tag
 title: 'University Brand Guidelines'
 tag: brand
-permalink: /logospotter/brand/
+permalink: /unilogos/brand/
 date: 2018-02-25
 ---
 

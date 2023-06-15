@@ -2,5 +2,5 @@
 layout: blog_by_tag
 title: 'Articles by tag: Sans serif'
 tag: sansserif
-permalink: /logospotter/sansserif/
+permalink: /unilogos/sansserif/
 ---

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1 class="post-category">
- <a href="/logospotter">Logospotter</a>
+ <a href="/unilogos">Uni Logos</a>
 </h1>
 
 <p>
@@ -61,14 +61,14 @@ layout: default
 
 
 
-    {% assign tags =  site.logospotter | map: 'tags' | join: ','  | split: ',' | uniq %}
+    {% assign tags =  site.unilogos | map: 'tags' | join: ','  | split: ',' | uniq %}
     {% for tag in tags %}
 
-      {% for review in site.logospotter %}
+      {% for review in site.unilogos %}
         {% if review.tags contains tag %}
           {% if tag == page.tag %}
             <div class="Media Media--center">
-              <img class="Media-figure" src="/images/logospotter/thumbs/{{ review.image}}" alt="logo thumbnail">
+              <img class="Media-figure" src="/images/unilogos/thumbs/{{ review.image}}" alt="logo thumbnail">
               <p class="Media-body"><a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a></p>
             </div>
           {% endif %}

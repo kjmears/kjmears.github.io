@@ -2,7 +2,7 @@
 layout: blog_by_tag
 title: 'Crests'
 tag: crest 
-permalink: /logospotter/crest/
+permalink: /unilogos/crest/
 date: 2018-02-26
 ---
 

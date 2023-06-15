@@ -59,8 +59,8 @@ collections:
   workshops:
     name: "Workshops"
     output: true
-  logospotter:
-    name: "Logospotter"
+  unilogos:
+    name: "Uni Logos"
     output: true
     output_tags: true
   styleguide:
@@ -91,10 +91,10 @@ defaults:
       info: Workshops
   - scope:
       path: ""
-      type: logospotter
+      type: unilogos
     values:
-      layout: logospotter
-      info: Logospotter
+      layout: unilogos
+      info: unilogos
   - scope:
       path: ""
       type: styleguide

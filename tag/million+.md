@@ -2,7 +2,7 @@
 layout: blog_by_tag
 title: 'Articles by tag: Million +'
 tag: million+
-permalink: /logospotter/million+/
+permalink: /unilogos/million+/
 ---
 
 Universities that are members of the [Million+](http://www.millionplus.ac.uk/) organisation.

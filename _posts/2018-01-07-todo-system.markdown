@@ -136,7 +136,7 @@ Projects with Open TODOs
 *  90% [========= ] +data-lab (3 todos)
     0% [          ] +loop (7 todos)
    25% [==        ] +designguide (6 todos)
-   50% [=====     ] +logospotter (5 todos)
+   50% [=====     ] +unilogos (5 todos)
     0% [          ] +performance (4 todos)
    92% [========= ] +funnelback (4 todos)
    55% [=====     ] +a11y (4 todos)

@@ -7,7 +7,7 @@ published: false
 tags:
   - thoughts
   - data
-meta: "Logospotter roundup"
+meta: "unilogos roundup"
 homepage: true
 ---
 Open University tidy up
