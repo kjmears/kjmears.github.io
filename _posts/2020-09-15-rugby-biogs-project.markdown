@@ -5,6 +5,7 @@ date: "2020-09-15"
 excerpt: "I read a load of Rugby Biographies on a whim."
 category: blog
 published: true
+image-thumb: /rugbybios/group-thumb.png
 tags:
   - thoughts
   - books

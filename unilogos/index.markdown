@@ -6,7 +6,7 @@ title: About the project
 
 ---
 
-An ongoing project to collect logos used by UK Universities. I thought it would be interesting, educational and enjoyable to gather examples and research a little more about the logos and the particluar demands of designing for this sector. If you're curious about University logos by sector perhaps you'd like to see [view them by region][regions]. If your're looking for Universities that share their Brand guidelines, [I've a list for you.][brand]. Maybe a [Gallery of thumbnails][thumbs] is more your thing.
+An occasional project to collect logos used by UK Universities. I thought it would be interesting, educational and enjoyable to gather examples and research a little more about the logos and the particluar demands of designing for this sector. If you're curious about University logos by sector perhaps you'd like to see [view them by region][regions]. If your're looking for Universities that share their Brand guidelines, [I've a list for you.][brand]. Maybe a [Gallery of thumbnails][thumbs] is more your thing.
 
 Perhaps you're interested in those who have [animals][animals] in their logo? Please have a browse around, and if you have any tips or comments [get in touch on twitter]({{ site.author.twitter }}).
 
@@ -24,7 +24,6 @@ Perhaps you're interested in those who have [animals][animals] in their logo? Pl
   <p class="Media-body">
   <a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a>
      
-
   {% assign d = review.last_modified_at | date: "%-d" %}
   <em>
     Updated
@@ -50,9 +49,6 @@ Perhaps you're interested in those who have [animals][animals] in their logo? Pl
 	{% endif %}
 
 	{% endfor %}
-
-
-
 
 ### A note on Copyright
 
