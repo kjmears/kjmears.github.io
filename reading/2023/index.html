@@ -1,0 +1,26 @@
+---
+layout: book
+title: Read in 2023
+published: true
+sitemap: true
+---
+
+<h2>Read in 2023</h2>
+
+<ol reversed class="watched">
+	{% assign yearbooks = site.data.books.books2023 %}
+	
+	{% for book in yearbooks %}
+	<li>
+		<strong>
+			{{ book.title }}
+		</strong>
+		<em>{{ book.author }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} 
+		
+		{% if book.notes %}
+		<p>{{ book.notes }}</p>
+		{% endif %}
+	
+	</li>
+	{% endfor %}
+</ol>
