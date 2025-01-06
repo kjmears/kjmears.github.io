@@ -1,11 +1,11 @@
-version: '3.4'
 
 services:
-  site:
-    image: jekyll/jekyll:3.8.6
-    command: jekyll serve --livereload --verbose
+  jekyll:
+    image: jekyll-site:latest
+    build:
+      context: .
     ports:
       - 4500:4500
     volumes:
       - .:/srv/jekyll
-      - ./vendor/bundle:/usr/local/bundle
+    command: bundle exec jekyll serve --host 0.0.0.0 --watch
