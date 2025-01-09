@@ -21,7 +21,7 @@ sass:
   style:            :compressed
 
 # About/contact
-author:
+author:             
   name:              Kevin Mears
   url:               "https://www.mearso.co.uk"
   email:             mearso@gmail.com
