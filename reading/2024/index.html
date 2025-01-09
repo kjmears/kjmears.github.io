@@ -1,31 +1,29 @@
 ---
 layout: book
-title: Read in 2011
+title: Read in 2024
 published: true
-sitemap: false
+sitemap: true
 ---
 
-<h2>Read in 2011</h2>
-
+<h2>Read in 2024</h2>
 
 <ol class="watched">
-	{% assign beans = site.data.books.books2011 | reverse %}
+	{% assign beans = site.data.books.books2024 | reverse %}
 		{% for item in beans %}
 
 		<li>
 			<strong>
 		
-				{{ item.title }}
+				{{ item.booktitle }}
 		
 			{% if item.Subtitle %}
 			: {{ item.Subtitle }}
 			{% endif %}
 			</strong>
-			<em>{{ item.author }}</em> - : {{ item.date_finished | date: "%b %-d" }}
+			<em>{{ item.author }}</em> <br />{{ item.status }} : {{ item.date_finished | date: "%b %-d" }}
 			{% if item.notes %}
 			<p>{{ item.notes }}</p>
 			{% endif %}
 		</li>
 		{% endfor %}
 </ol>
-

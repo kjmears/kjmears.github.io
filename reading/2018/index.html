@@ -8,8 +8,10 @@ sitemap: true
 <h2>Read in 2018</h2>
 
 
-<ol reversed class="watched">
-	{% assign sorted = site.data.books.books2018 | reverse %} {% for book in sorted %}
+<ol class="watched">
+	{% assign sorted = site.data.books.books2018 %}
+	
+	{% for book in sorted %}
 	<li>
 	
 	

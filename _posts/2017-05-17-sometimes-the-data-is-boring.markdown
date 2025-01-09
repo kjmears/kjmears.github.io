@@ -5,7 +5,7 @@ date: "2017-05-17"
 tags:
   - data
 category: blog
-published: true
+published: false
 meta: "Diving into very basic data as an exercise in spreadsheets"
 ---
 

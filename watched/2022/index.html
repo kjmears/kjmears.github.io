@@ -8,11 +8,11 @@ sitemap: false
 <h2>Watched in 2022</h2>
 
 
-<ol reversed class="watched">
-	{% assign sorted = site.data.films2022 %}
+<ol class="watched">
+	{% assign sorted = site.data.films2022 | reverse %}
 	{% for film in sorted %}
 		<li>
-			<a href="https://boxd.it/{{ film.URL }}"><strong>{{ film.title }}</strong></a>, {{ film.release }} <em>Watched: {{ film.watched | date: "%b %-d" }} </em><em>{{ film.genre }}</em>{% if film.notes %}
+			<a href="{{ film.URL }}"><strong>{{ film.title }}</strong></a>,<em>Watched: {{ film.watched | date: "%b %-d" }} </em><em>{{ film.genre }}</em>{% if film.notes %}
 			<br> {{ film.notes }} {% endif %}
 			
 		</li>

@@ -1,11 +1,25 @@
-version: '3.4'
 
 services:
-  site:
-    image: jekyll/jekyll:3.8.6
-    command: jekyll serve --livereload --verbose
-    ports:
-      - 4500:4500
+  jekyll:
+    image: bretfisher/jekyll-serve
     volumes:
-      - .:/srv/jekyll
-      - ./vendor/bundle:/usr/local/bundle
+      - .:/site
+    ports:
+      - '4000:4000'
+
+
+
+# services:
+#   jekyll:
+#     image: jekyll-site:latest
+#     container_name: local_jekyll
+#     restart: always
+#     tty: true
+#     volumes:
+#       - .:/srv/jekyll
+#     build:
+#       context: .
+#     ports:
+#       - 4500:4500
+ 
+#     command: bundle exec jekyll serve --watch --incremental

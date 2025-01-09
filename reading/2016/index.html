@@ -9,7 +9,9 @@ sitemap: false
 
 
 <ol class="watched">
-	{% assign sorted = site.data.books.books2016 %} {% for book in sorted %}
+	{% assign sorted = site.data.books.books2016  | reverse %}
+	
+	{% for book in sorted %}
 	<li>
 
 
