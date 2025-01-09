@@ -8,13 +8,16 @@ sitemap: true
 <h2>Read in 2020</h2>
 
 
-<ol reversed class="watched">
-	{% assign sorted = site.data.books.books2020 | reverse %} {% for book in sorted %}
+<ol class="watched">
+	{% assign sorted = site.data.books.books2020 %}
+	
+	{% for book in sorted %}
 	<li>
 	
 	
 		<strong>{{ book.title }}</strong>
-		<em>{{ book.author }}</em> Finished: {{ book.date_finished | date: "%b %-d" }} 
+		<em>{{ book.author }}</em>
+		<br />Finished: {{ book.date_finished | date: "%b %-d" }} 
 		
 		{% if book.amazon_link != null %}
 		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}

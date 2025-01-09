@@ -1,11 +1,25 @@
 
 services:
   jekyll:
-    image: jekyll-site:latest
-    build:
-      context: .
-    ports:
-      - 4500:4500
+    image: bretfisher/jekyll-serve
     volumes:
-      - .:/srv/jekyll
-    command: bundle exec jekyll serve --host 0.0.0.0 --watch
+      - .:/site
+    ports:
+      - '4000:4000'
+
+
+
+# services:
+#   jekyll:
+#     image: jekyll-site:latest
+#     container_name: local_jekyll
+#     restart: always
+#     tty: true
+#     volumes:
+#       - .:/srv/jekyll
+#     build:
+#       context: .
+#     ports:
+#       - 4500:4500
+ 
+#     command: bundle exec jekyll serve --watch --incremental

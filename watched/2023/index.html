@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Watched in 2024
+title: Watched in 2023
 published: true
 sitemap: false
 ---
 
-<h2>Watched in 2024</h2>
+<h2>Watched in 2023</h2>
 
 
 <ol class="watched">
-	{% assign sorted = site.data.films2024 | reverse %}
+	{% assign sorted = site.data.films2023 %}
 	{% for film in sorted %}
 		<li>
 			<a href="{{ film.URL }}"><strong>{{ film.Title }}</strong></a> <em>Watched: {{ film.Watched | date: "%b %-d" }} </em><em>{{ film.Genre }}</em>{% if film.Notes %}
