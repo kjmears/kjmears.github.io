@@ -10,6 +10,23 @@ invisible: 1
  </h1>
 </header>
 
+<h2>Season 06</h2>
+<ol reversed class="watched">
+
+{% assign sorted = site.weeknotes | reverse %}
+{% for weeknote in sorted %}
+
+   {% if weeknote.season == 6 %}
+   <li>
+	<a href="{{ weeknote.url }}">
+		{{ weeknote.title | capitalize }}
+	</a>
+   - {{ weeknote.date | date: "%e %b %Y" }}
+	</li>
+   {% endif %}
+   {% endfor %}
+</ol>
+
  <h2>Season 05</h2>
  <ol reversed class="watched">
 
