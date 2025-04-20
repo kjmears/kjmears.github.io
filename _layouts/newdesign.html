@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-GB" class="no-js js-loading">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<!-- HTML in your document's head -->
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+    <link rel="preload" href="{{ site.baseurl }}/public/css/new.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/new.css" />
+    <link rel="preload" as="script" href="/public/js/toggle.js">
+
+    <title>Content Design London</title>
+ 
+
+    <script>(e => e.className = e.className.replace('no-js', 'has-js'))(document.documentElement);</script>
+
+    <meta name="theme-color" content="#3498da">
+    <meta name="application-name" content="Content Design London">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+</head>
+
+<body>
+    <svg style="display: none;">
+        <symbol id="logo" viewBox="0 0 248 72" width="248" height="72">
+            <title>Kevin Mears' Website</title>
+ 
+        <symbol id="icon-angle-down" viewBox="0 0 10 10" width="10" height="10">
+            <path
+                d="M9.87 2.4a.46.46 0 0 0-.65 0L5 6.63.77 2.4a.45.45 0 0 0-.64.65l4.55 4.54c.17.18.46.18.64 0l4.55-4.54a.45.45 0 0 0 0-.65Z" />
+        </symbol>
+
+    </svg>
+
+
+    <div id="site">
+
+        <header>
+
+            <div class="header">
+                <a class="branding" href="/" title="Content Design London">
+     
+
+                    <span >Kevin's Personal Website</span>
+                </a>
+
+                <a class="navigation-toggle" href="#navigation" aria-label="Toggle navigation">
+                    <svg data-icon="true" aria-hidden="true" width="21" height="16" viewBox="0 0 21 16">
+                        <path d="M20.77 7v2h-20V7zM20.77 14v2h-20v-2zM.77 2V0h20v2z" />
+                    </svg>
+                </a>
+            </div>
+
+            <nav class="navigation" id="navigation">
+
+                <ul class="navigation-menu | mask-links">
+
+                    <li>
+                        <a href="/books">Books</a>
+
+                    </li>
+
+                    <li>
+                        <a href="/courses">Courses</a>
+
+                    </li>
+
+                    <li>
+                        <a href="/t-shirts">Merchandise</a>
+
+                    </li>
+
+                    <li>
+                        <a href="/content-club">Content Club</a>
+
+                    </li>
+
+                    <li>
+                        <a href="/blog">Blog</a>
+
+                    </li>
+
+                </ul>
+
+            </nav>
+
+
+        </header>
+
+        <main>
+
+            <div class="content">
+
+                <h1>{{ page.title }}</h1>
+                <p class="meta">{{ content }}</p>
+
+            </div>
+
+        </main>
+
+
+
+        <footer class="footer">
+
+
+            <hr>
+
+            <ul class="footer-navigation | no-list ">
+
+                <li><a href="/about/accessibility-statement">Accessibility</a></li>
+
+                <li><a href="/about/website-terms-and-conditions">Website terms</a></li>
+
+
+            </ul>
+
+            <small>
+                Website &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
+              </small>
+
+        </footer>
+
+    </div>
+
+    <script src="/public/js/toggle.js"></script>
+    <script>(e => e.className = e.className.replace('js-loading', 'js-ready'))(document.documentElement);</script>
+
+
+</body>
+
+</html>

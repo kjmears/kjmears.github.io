@@ -21,3 +21,4 @@ bower_components
 
 .sass-cache
 *.lock
+.jekyll-metadata
