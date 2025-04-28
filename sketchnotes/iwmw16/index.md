@@ -1,11 +1,12 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: IWMW16
+title: IWMW 2016 Sketchnotes
 tag: iwmw16
-homepage: true
+type: home
 ---
 
+Collected Sketchnotes from the 2016 edition
 
 <img src="/images/iwmw16/iwmw16-panel.jpg" />
 

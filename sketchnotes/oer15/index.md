@@ -2,6 +2,7 @@
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
 title: OER 2015 - Mainstreaming Open Education
+type: home
 tag: oer15
 ---
 

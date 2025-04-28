@@ -3,8 +3,11 @@
 layout: blog_by_tag_sketchnotes
 title: Handheld 13
 tag: handheld13
+type: home
 category: sketchnotes
 ---
+
+My Handheld 2013 conference sketchnotes
 
 Aside from the speakers there were other entertainments - An electric guitar rendition of the Welsh national anthem,[Bruce Lawson][bruce] sang some of his funny web based songs - like a punk, web based, version of [Richard Stilgoe][stilgoe]. - You don't get musically based web satire at many conferences. Also there was a 'letter to the web industry' from a couple of young kids, An acrobat(which I missed) and big finish of a Male voice choir.
 

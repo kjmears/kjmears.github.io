@@ -1,15 +1,13 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: IWMW18
-homepage: true
+title: IWMW 2018 Sketchnotes
+type: home
 tag: iwmw18
 meta: IWMW18 Blog Post and Sketchnotes
 image: /iwmw18/iwmw18-intro-thumb.jpg
 homepage: true
 ---
-
-### Round up of IWMW18
 
 So another year rolls by and another edition of IWMW has come and gone.
 

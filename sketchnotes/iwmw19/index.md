@@ -1,7 +1,7 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: IWMW19
+title: IWMW 2019 Sketchnotes
 homepage: true
 tag: iwmw19
 meta: IWMW19 Blog Post and Sketchnotes
@@ -10,7 +10,7 @@ homepage: true
 cc: BY-SA
 ---
 
-### Round up of IWMW19
+Round up of IWMW19
 
 <figure>
 				<img src="/images/iwmw19/IWMW19-small.png" alt="IWMW19 Drawings of Talks">

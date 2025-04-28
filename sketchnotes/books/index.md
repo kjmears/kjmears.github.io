@@ -1,6 +1,7 @@
 ---
 layout: blog_by_tag_sketchnotes
-title: 'Books'
+title: 'Books Sketchnotes'
+type: home
 tag: books
 category: sketchnotes
 ---
