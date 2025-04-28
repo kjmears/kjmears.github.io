@@ -17,13 +17,13 @@ sitemap: true
 	
 		<strong>{{ book.title }}</strong>
 		<em>{{ book.author }}</em>
-		<br />Finished: {{ book.date_finished | date: "%b %-d" }} 
+		<br />
 		
 		{% if book.amazon_link != null %}
 		<a href="{{ book.amazon_link }}">Amazon</a>{% endif %} {% if book.notes %}
-		<p>
+		
 			{{ book.notes }}
-		</p>
+		
 		{% endif %} {% if book.biblio %}
 		<a href="{{ book.biblio }}">More Info</a>{% endif %}
 	

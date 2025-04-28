@@ -23,18 +23,18 @@ sitemap: true
 			{% endif %}
 			
 		</strong>
-		<em>{{ book.author }}</em> <br />Finished: {{ book.date_finished | date: "%b %-d" }} 
+		<em>{{ book.author }}</em> <br />
 		
 		{% if book.notes %}
-		<p>
+	
 			{{ book.notes }}
-		</p>
+	
 		{% endif %}
 
 		{% if book.biblio %}
-		<p>
+		
 		<a href="{{ book.biblio }}">More Info</a>
-		</p>
+		
 		{% endif %}
 	
 	</li>
