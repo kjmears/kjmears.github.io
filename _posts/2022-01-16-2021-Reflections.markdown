@@ -5,7 +5,7 @@ date: "2022-01-16"
 category: blog
 published: true
 image-thumb:
-excerpt: "Big changes, new starts and endings"
+summary: "Big changes, new starts and endings"
 tags:
   - thoughts
 

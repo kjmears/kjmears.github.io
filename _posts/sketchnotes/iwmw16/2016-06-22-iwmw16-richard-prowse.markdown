@@ -21,7 +21,6 @@ tags:
 cc: BY-SA
 ---
 
-
-## Building a new university website – an agile content case study ##
+Building a new university website – an agile content case study
 
 It stuck me during Rich's talk that because the team at Bath have be so thorough in talking about how they work and the standards they apply that when giving a presentation like this it must be hard to deliver surprises. I liked the  example he gave where accommodation content was improved and the improvement measured. It seems like a very rewarding way to work, and impressive on behalf of the team to stick to their guns and the overall plan when it must be difficult to navigate the political and territorial byways of a university.  Of particular relevance for me was the reminder that there are many people that depend on what web teams produce - bit end users, but also internal users that need supporting - something that I think we've been ok at, but need to do more on.

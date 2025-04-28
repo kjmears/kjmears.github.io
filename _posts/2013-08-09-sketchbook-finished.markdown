@@ -7,7 +7,7 @@ published: true
 image: /spine.jpg
 image-alt: Picture of Sketchbook spine
 image-caption: "Sketchbook Spine"
-excerpt: "Have finished another sketchbook- always a nice feeling"
+summary: "Have finished another sketchbook- always a nice feeling"
 tags:
   - thoughts
 

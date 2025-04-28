@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "A Year of Reading 2022"
+summary: My rather random way of choosing books delivered again.
 date: "2023-01-30"
 category: blog
 published: true
 image-thumb:
-excerpt: "A year of reading"
+summary: "A year of reading"
 tags:
   - thoughts
 
@@ -193,7 +194,7 @@ Looking back through the books I've read this year, my pretty random way of arri
   </strong>
   <em>Richard Wiseman</em> Finished: Nov 1
   <p>
-   Women's personal ads would attract more replies if they were written by a man. The opposite is not true of men's ads.People would rather wear a sweater that has been dropped in dog faces and not washed, than one that has been dry-cleaned but used to belong to a mass murderer. Many more nuggets like that in an enjoyable book.
+   Women's personal ads would attract more replies if they were written by a man. The opposite is not true of men's ads.People would rather wear a sweater that has been dropped in dog faeces and not washed, than one that has been dry-cleaned but used to belong to a mass murderer. Many more nuggets like that in an enjoyable book.
   </p>
  </li>
 

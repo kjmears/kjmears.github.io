@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Todo list system"
+summary: "How I use the TODO.txt 'system' to get things done."
 date: "2018-01-07"
 category: blog
 published: true
@@ -9,9 +10,6 @@ tags:
 
 meta: "Article outlining my todo.txt method."
 ---
-How I use the TODO.txt 'system' to get things done.
-
-## A Simple idea
 
 Before I talk about my use of the the tool, I'd best introduce it. I use [Todo.txt][todo] which is a simple concept.
 

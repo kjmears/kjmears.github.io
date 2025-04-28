@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Media in 2023"
+summary: The year in Media
 date: "2024-01-01"
 category: blog
 published: true
 image-thumb:
-excerpt: "A year of media"
+summary: "A year of media"
 tags:
   - thoughts
 
@@ -15,7 +16,7 @@ meta: "2023 Media"
 
 ## Books
 
-Looking back through the books I've read this year, the randomness of the charity shop has set me on a path of music related biographies and memoirs, and now that santa brought me Bass Guitar for Dummies, I'm obviously about to become a musician. I enjoyed the different styles of each fo the four books listed as they covered what it's like to form a band, survive in one, what it's like to be into music but not a musiscian and also detailed some of the less obvious human costs of that way of life.
+Looking back through the books I've read this year, the randomness of the charity shop has set me on a path of music related biographies and memoirs, and now that santa brought me Bass Guitar for Dummies, I'm obviously about to become a musician. I enjoyed the different styles of each fo the four books listed as they covered what it's like to form a band, survive in one, what it's like to be into music but not a musician and also detailed some of the less obvious human costs of that way of life.
 
 - The Big Midweek
 - Touching from a distance
@@ -32,7 +33,7 @@ What I thought about all the books are over at [read this year][read]
 
 Watched a lot less film this year, and unsurprisingly, more TV. Tended to find a series and binge it, so we did Endeavour - an enjoyable detective series about young Morse, with Roger Allam excelling as Fred Thursday. I did solo watch of Barry, Yellowjackets seemed to go under lots of people's radar, but was good. Was late to the party with Dectorists, but was lovely. I stuck it out to the end of Last of Us, but was just ok by the end.
 
-Notable highlights in film were - a couple of interesting scifi in Lapsis and Vesper, a good run of horror with Bull, Train to Busan, Censor, and the very odd Deerskin, interruppted by Jeepers Creepers - which was dull.  The other big stinker was the hot mess that was The Boondock Saints. Full list over at [Letterboxd][watched]
+Notable highlights in film were - a couple of interesting scifi in Lapsis and Vesper, a good run of horror with Bull, Train to Busan, Censor, and the very odd Deerskin, interrupted by Jeepers Creepers - which was dull.  The other big stinker was the hot mess that was The Boondock Saints. Full list over at [Letterboxd][watched]
 
 ## Music
 

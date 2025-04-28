@@ -22,9 +22,7 @@ tags:
 cc: BY-SA
 ---
 
-
-
-### Building a digital team (almost) from scratch ##
+Building a digital team (almost) from scratch
 
 Special mention has to go to Duncan for coming up with the most enjoyed slide - his 'Wordpress Facebook Twitter'.
 

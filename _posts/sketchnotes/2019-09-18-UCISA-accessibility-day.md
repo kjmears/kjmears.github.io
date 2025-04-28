@@ -2,7 +2,6 @@
 code: ucisaa11y
 published: true
 layout: post
-type: pages
 title: UCISA Event - Preparing for the new digital accessibility requirements
 date: 2019-09-18
 image: /UCISA20190918_Sketchnotes.png
@@ -30,6 +29,8 @@ tags:
     - live
 cc: BY-SA
 ---
+
+Really useful day with experts from across the sector with practical advice and insight in getting to grips with the new Digital Accessibility regulations.
 
 ![Sketchnotes of First Talk](/images/ucisa2019/UCISA20190918_Sketchnotes-01.png )
 *Sketches of first talk*

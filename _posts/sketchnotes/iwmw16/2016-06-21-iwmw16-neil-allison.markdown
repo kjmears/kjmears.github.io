@@ -21,7 +21,7 @@ tags:
 cc: BY-SA
 ---
 
-## Requirements Are Hypotheses: How Lean UX Can Help You Develop Better Products ##
+Requirements Are Hypotheses: How Lean UX Can Help You Develop Better Products
 
 I've seen Neil speak a few times now, and am always impressed at how embedded the UX and User testing activities at Edinburgh seem to be. In this session Neil was open in his admiration for and lessons taken from Jeff Gothelf's [Book](http://www.leanuxbook.com) and the idea of why things exist - to support a business objective - is such a clear and simple idea, but remarkably complicated for an organisation to have clarity about. I suppose the dream for this activity would be to trace everything you produce back to a business goal, and then measure how effective it's been.  I also liked the emphasis that features on their own, are not good measures of success  - [The product death cycle](http://andrewchen.co/this-is-the-product-death-cycle-why-it-happens-and-how-to-break-out-of-it/)
 

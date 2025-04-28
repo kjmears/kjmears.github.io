@@ -4,7 +4,7 @@ published: true
 category: blog
 tags: thoughts
 title: Strategic CSS Managment
-excerpt: ! 'My thoughts on the very interesting @media presentation on the managment
+summary: ! 'My thoughts on the very interesting @media presentation on the managment
   of the css design process. '
 date: 2006-06-20 14:53:00.000000000 +01:00
 ---
