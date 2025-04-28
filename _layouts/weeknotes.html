@@ -15,36 +15,32 @@ layout: default
 
 
 <div class="row">
-<article>
-
+<article class="post">
 	<header>
-    <h1 class="post-category">
-     <a href="/weeknotes">Weeknotes</a>
-		 Season {{ post.season | downcase }} Episode {{ post.episode }}
-   </h1>
 
-    {% include unilogos-posted.html %}
+		<h1 class="post-category">
+			{{ page.title }}
+		</h1>
 
-  </header>
+		<p class="postinfo">
+			Season {{ post.season | downcase }} Episode {{ post.episode }}
+			| Posted: {{ page.date | date: "%a, %b %d, %Y" }}
 
-  <div id="post-content">
-    <span>
+			{% include reading-time.html %}
+		</p>
+	</header>
 
-			{% if page.image %}
-					<figure>
-						<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-						<em>{{ page.image-caption }}</em>
-					</figure>
-			{% endif %}
+	{% if page.image %}
+	<figure>
+		<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
+		<em>{{ page.image-caption }}</em>
+	</figure>
+	{% endif %}
 
-
-			<h2>{{ post.title }}</h2>
-
-      {{ content }}
-    </span>
-  </div>
+	<p>{{ content }}</p>
 
 </article>
+
 
 <!-- https://gist.github.com/johnfmorton/6c395361d259b23409ee6559fd909d5c -->
 
@@ -76,9 +72,11 @@ layout: default
 {% assign lasturl = last.url %}
 
 {% if prevurl %}
-<a href="{{prevurl}}" class="btn btn-default prev">Prev</a>{% else %}{% endif %}
+<a href="{{prevurl}}" class="btn btn-alt prev">Prev</a>{% else %}
+{% endif %}
 
-{% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}
+{% if nexturl %}
+<a href="{{nexturl}}" class="btn btn-alt nxt">Next</a>{% else %}
 {% endif %}
 
 </div>

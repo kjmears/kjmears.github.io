@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-
+published: false
 ---
 
 Hello I'm Kevin Mears

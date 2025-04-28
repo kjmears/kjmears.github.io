@@ -1,38 +1,112 @@
 ---
 layout: default
-#using compress layout to take whitespace out
 ---
 
-<!DOCTYPE html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<!doctype html>
+<html lang="en-GB" class="no-js js-loading">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- HTML in your document's head -->
+    <link rel="preconnect" href="https://rsms.me/">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/new.css" />
+    <link rel="preload" as="script" href="/public/js/toggle.js">
+
+    <script>(e => e.className = e.className.replace('no-js', 'has-js'))(document.documentElement);</script>
+
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.title }} {{ site.tagline }}
+      {% else %}
+        {{ page.title }} | {{ site.tagline }}
+      {% endif %}
+    </title>
+
+    <meta name="theme-color" content="#3498da">
+    <meta name="application-name" content="Personal Website of Kevin Mears">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <header>
+        
+          <div class="header">
+        
+            <a class="branding" href="/" title="{{ site.title }}">
+              <span>{{ site.tagline }}</span>
+            </a>
+        
+            <a class="navigation-toggle" href="#navigation" aria-label="Toggle navigation">
+              <svg data-icon="true" aria-hidden="true" width="21" height="16" viewBox="0 0 21 16">
+                <path d="M20.77 7v2h-20V7zM20.77 14v2h-20v-2zM.77 2V0h20v2z" />
+              </svg>
+            </a>
+          </div>
+        
+          <nav class="navigation" id="navigation">
+          
+            <ul class="navigation-menu | mask-links">
+              <li>
+                <a href="/blog">Blog</a>
+              </li>
+              <li>
+                <a href="/weeknotes">Weeknotes</a>
+              </li>
+              <li>
+                <a href="/reading">Reading</a>
+              </li>
+              <li>
+                <a href="/pocketguide/">Buy my Book</a>
+              </li>
+            </ul>
+          
+          </nav>
+        
+        </header>
+
+        <main>
+            <div class="content">
+              {% if page.type == 'home' %}
+                <h1>{{ page.title }}</h1>
+              {% endif %}
+              
+              {{ content }}
+            </div>
+        </main>
 
 
-{% include head.html %}
+        <footer class="footer">
 
+            <small>
+                Website &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
+              </small>
+        </footer>
 
-<body class="">
+    </div>
 
+    <script src="/public/js/toggle.js"></script>
+    <script>(e => e.className = e.className.replace('js-loading', 'js-ready'))(document.documentElement);</script>
 
-    <!-- {% include sidebar.html %} -->
-
-  <div class="container content">
-
-    <img src="/images/stone.jpg" alt="Rolling a stone - watercolor illustration">
-    <p class="lead">{{ site.tagline }}</p>
-
-      <main>
-          {{ content }}
-      </main>
-
-    <footer class="footer">
-      <small>
-            Website &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
-          </small>
-    </footer>
-
-
-  </div>
-  <!--/div container content -->
 
 </body>
 
