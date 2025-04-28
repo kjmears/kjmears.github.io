@@ -3,7 +3,7 @@
   {% for speaker in page.speaker %}
     {% for person in site.data.speakers %}
       {% if speaker == person.id %}
-        <ul>
+        <ul class="unlist">
             <li>{{ person.name }}</li>
           {% if person.twitter %}
             <li><a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a></li>
