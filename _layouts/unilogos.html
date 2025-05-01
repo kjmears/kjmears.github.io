@@ -3,30 +3,25 @@ layout: default
 ---
 {% assign post = page %}
 
-<div class="row">
 
-
-
-<article>
-
-  <header>
-    <h1 class="post-category">
-     <a href="/unilogos">unilogos</a> Review
-   </h1>
+<main>
+  <div class="content">
+<h1>
+     Uni Logo Review
+  </h1>
 
     {% include unilogos-posted.html %}
 
     <h2 id="post-title">{{ post.title }}</h2>
-  </header>
 
 
   {% assign alt =  page.image | remove: ".gif" %}
 
-  <img src="/images/unilogos/{{ page.image}}" alt="{{ alt }} logo" />
+  <img src="/images/unilogos/{{ page.image}}" class="full" alt="{{ alt }} logo" />
 
 
-  <div id="post-content">
-      {{ content }}
+<p>
+      {{ page.content }}
 
     {% if post.tags.size > 0 %}
         {% capture tags_content %}
@@ -57,13 +52,14 @@ layout: default
         {% assign tags_content = '' %}
     {% endif %}
 
+  </p>
+
     <p id="post-meta"><em>Tagged</em> {{ tags_content }}</p>
 
     {% include unilogos-extras.html %}
 
   </div>
 
-</article>
 
 <!-- https://gist.github.com/johnfmorton/6c395361d259b23409ee6559fd909d5c -->
 
@@ -100,6 +96,6 @@ layout: default
 {% if nexturl %}<a href="{{nexturl}}" class="btn btn-default nxt">Next</a>{% else %}<a href="{{firsturl}}" class="btn btn-default prev">Next</a>
 {% endif %}
 
-</div>
+</main>
 
   {% include JSON-unilogos.html %}

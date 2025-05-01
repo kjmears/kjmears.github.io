@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Red'
+title: 'Logos tagged Red'
 tag: red
 permalink: /unilogos/red/
 ---

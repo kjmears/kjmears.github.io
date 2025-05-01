@@ -27,7 +27,7 @@ The opening session of the conference.
 
 ## Collective Genius – How to Nurture a Sustainable Creative Culture
 
-We got going with a good session delivered by Martyn From Swansea University, which on the way to talking about how nuture a team served as a useful reminder of why working in a UNiversity can be so rewarding. Education is a purpose that it's pretty easy to get behind. Making it safe for people to take risks was a standout for me, and it would be great to hear more about the operational steps to achieve that.
+We got going with a good session delivered by Martyn From Swansea University, which on the way to talking about how nuture a team served as a useful reminder of why working in a University can be so rewarding. Education is a purpose that it's pretty easy to get behind. Making it safe for people to take risks was a standout for me, and it would be great to hear more about the operational steps to achieve that.
 
 Coverage for [Collective Genius – How to Nurture a Sustainable Creative Culture][P1]
 
@@ -44,7 +44,7 @@ Coverage for [Deceptively Simple – Designing a Voice Experience for an Audienc
 
 ## Your Big Digital Transformation Project Has Been Approved, Now What?
 
-Creating the conditions to work wel was one of the slides that resonated with me. Sounds so obvious, but like so many transformation things if it was easy it would have been done already. Ayala ranged over some of the challenges of matching the throry of transformation with the nitty gritty. Basic (but hard)things like being able to recruit the people you need slow everything up and kill momentum. The experiences she talked about tended to confirm my feeling that strategy is the least interesting part of transformation - being operationally capable of delivering it is WAY more important.
+Creating the conditions to work well was one of the slides that resonated with me. Sounds so obvious, but like so many transformation things if it was easy it would have been done already. Ayala ranged over some of the challenges of matching the theory of transformation with the nitty gritty. Basic (but hard)things like being able to recruit the people you need slow everything up and kill momentum. The experiences she talked about tended to confirm my feeling that strategy is the least interesting part of transformation - being operationally capable of delivering it is WAY more important.
 
 Coverage of [Your Big Digital Transformation Project Has Been Approved, Now What?][P3]
 

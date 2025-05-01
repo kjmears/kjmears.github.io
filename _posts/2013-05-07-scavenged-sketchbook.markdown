@@ -7,7 +7,7 @@ published: true
 image: /sketchbook.jpg
 image-alt: "Picture of Sketchbook and pens"
 image-caption: "Sketchbook and Pens"
-excerpt: "It’s always enjoyable when I get to the end of a sketchbook, and this one was no exception."
+summary: "It’s always enjoyable when I get to the end of a sketchbook, and this one was no exception."
 tags:
   - thoughts
 

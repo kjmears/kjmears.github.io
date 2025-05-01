@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Scotland'
+title: 'Logos tagged Scotland'
 tag: scotland
 permalink: /unilogos/scotland/
 ---

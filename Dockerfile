@@ -28,5 +28,5 @@ COPY . .
 # Expose port 4500
 EXPOSE 4500
 
-# Start the Jekyll development server with live reloading
-CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--incremental"]
+# Start the Jekyll development server with live reloading and listening on all interfaces
+CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--incremental", "--host", "0.0.0.0"]

@@ -7,6 +7,7 @@ sitemap: true
 
 <h2>Read in 2022</h2>
 
+<p>Revisited the Foundation series and did a few that weren't published when I last read it. Other highlights were mostly non-fiction</p>
 
 <ol class="watched">
 	{% assign sorted = site.data.books.books2022 | reverse %} {% for book in sorted %}
@@ -20,18 +21,14 @@ sitemap: true
 				{% endif %}
 			
 		</strong>
-		<em>{{ book.author }}</em> <br />Finished: {{ book.date_finished | date: "%b %-d" }} 
+		<em>{{ book.author }}</em> <br />
 		
 		{% if book.notes %}
-		<p>
 			{{ book.notes }}
-		</p>
 		{% endif %}
 
 		{% if book.biblio %}
-		<p>
 		<a href="{{ book.biblio }}">More Info</a>
-		</p>
 		{% endif %}
 	
 	</li>

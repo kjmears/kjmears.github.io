@@ -6,7 +6,7 @@ title: ! ' 2005 drawings'
 author: mearso
 author_login: mearso
 author_email: mearso@mearso.com
-excerpt: ! "!/images/128t.jpg (Drawing of Derek Featherstone at @media2005)!\r\n\r\nThe
+summary: ! "!/images/128t.jpg (Drawing of Derek Featherstone at @media2005)!\r\n\r\nThe
   last of the @media2005 drawings. Molly, Ian and Joe's images (and therefore their
   souls) have been captured for posterity.\r\n"
 wordpress_id: 680

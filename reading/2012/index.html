@@ -10,12 +10,17 @@ sitemap: false
 
 <ol class="watched">
 	{% assign sorted = site.data.books.books2012 %}
+
 	
 	{% for book in sorted %}
 	<li>
-		<strong>{{ book.title }}</strong>
-		<em>{{ book.author }}</em> {{ book.date_finished | date: "%b %-d" }}
-	</li>
+		<strong>
+			{{ book.title }}
+				{% if book.Subtitle %}
+				: {{ book.Subtitle }}
+				{% endif %}
+		</strong>
+		<em>{{ book.author }}</em>
 
 	{% if book.notes %}
 		<p>

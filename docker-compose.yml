@@ -1,25 +1,12 @@
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
-    volumes:
-      - .:/site
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
-      - '4000:4000'
-
-
-
-# services:
-#   jekyll:
-#     image: jekyll-site:latest
-#     container_name: local_jekyll
-#     restart: always
-#     tty: true
-#     volumes:
-#       - .:/srv/jekyll
-#     build:
-#       context: .
-#     ports:
-#       - 4500:4500
- 
-#     command: bundle exec jekyll serve --watch --incremental
+      - '4500:4500' # Or '4000:4000' if you prefer the default Jekyll port
+    volumes:
+      - .:/usr/src/app
+    environment:
+      JEKYLL_ENV: development

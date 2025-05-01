@@ -21,9 +21,7 @@ tags:
 cc: BY-SA
 ---
 
-
-
-## Establishing Digital at the Heart of the University ##
+Establishing Digital at the Heart of the University
 
 Gareth's talk on establishing digital began with some familiar tales of restructuring, then some more and hopefully have settled on a structure that works. More importantly it seems, they have also jumped in  with both feet (or however many feet the collective has) to [DSDM Agile working](https://www.dsdm.org/resources/dsdm-handbooks/the-dsdm-agile-project-framework-2014-onwards) - which excitingly is described as a 'battle hardened approach'.
 

@@ -6,7 +6,7 @@ title: A technical mind
 author: mearso
 author_login: mearso
 author_email: mearso@mearso.com
-excerpt: ! '!(thumb)/images/127t.jpg (Drawing of Douglas Bowman - @media 2005)! After
+summary: ! '!(thumb)/images/127t.jpg (Drawing of Douglas Bowman - @media 2005)! After
   a more than brief hiatus caused by much work and then a holiday, here is the latest
   installment of my @media drawings.'
 wordpress_id: 679

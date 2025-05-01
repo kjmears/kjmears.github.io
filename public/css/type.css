@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* Root Typography Variables */
+:root {
+    --font-primary: Inter, sans-serif;
+    --color-text: #333;
+    --color-link: #00599f;
+    --color-link-hover: #000;
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: clamp(1.125rem, 1.05rem + 0.25vw, 1.25rem);
+    line-height: 1.6;
+    color: var(--color-text);
+}
+
+a {
+    color: var(--color-link);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--color-link-hover);
+}
+
+h3 {
+    color: var(--color-text);
+}
+
+.card-details p {
+    color: #666;
+    font-size: 0.9em;
+}
+
+footer {
+    color: var(--color-header-text);
+    font-size: 0.8em;
+}
+
+/* Utility Classes (Typography) */
+.mask-links a {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+}
+
+.mask-links a:hover {
+    text-decoration: underline;
+}

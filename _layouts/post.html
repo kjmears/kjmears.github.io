@@ -13,121 +13,117 @@ layout: default
 %}
 
 <article class="post">
-	{% if page.category %}
-	 <h1 class="post-category" id="post-title">
-		 <a href="{{ site_url }}/{{ page.category }}">{{ page.category | capitalize }}</a>
+	
+	 <h1 class="post-category">
 		 {{ page.title }}
 	 </h1>
+
+<p class="postinfo">
+	{% if page.tags %}
+	Tagged:
+	{% for tag in page.tags %}
+	<a href="{{ tag }}"> {{ tag | capitalize }} </a>
+	{% endfor %}
+	| Posted: {{ page.date | date: "%a, %b %d, %Y" }}
 	{% endif %}
 
-  <!-- <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time> -->
-<p>
-  {% if page.tags %}
-        Tagged:
-        {% for tag in page.tags %}
-					<a href="{{ tag }}"> {{ tag | capitalize }} </a>
-				{% endfor %}
- | Posted: {{ page.date | date: "%a, %b %d, %Y" }}
-  {% endif %}
-
-  {% include reading-time.html %}
+	{% include reading-time.html %}
 </p>
 
+{% if page.summary %}
+<p class="summary">{{ page.summary }}</p>
+{% endif %}
 
 	{% if page.image %}
 		{% if page.image-caption %}
 			<figure>
 				<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
 				<figcaption>
-					{{ page.image-caption }}
+					Caption - {{ page.image-caption }}
 				</figcaption>
 			</figure>
 		{% else %}
 		<img src="{{ site.baseurl }}/images{{ page.image }}" alt="{{ page.title }}">
-
-
 		{% endif %}
 		{% if page.image-original %}
 			<a href="{{ site.baseurl }}/images/{{ page.image-original }}" class="download"> Large version for download</a>
 		{% endif %}
-
 	{% endif %}
 
+		<p>{{ content }}</p>
 
 
-		{{ content }}
-
-		<div class="Previous-next">
 			{% if page.previous.url %}
-			  <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+			<a class="btn btn-alt prev" href="{{page.previous.url}}">Previous</a>
 			{% endif %}
+
 			{% if page.next.url %}
-			  <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+			<a class="btn btn-alt nxt" href="{{page.next.url}}">Next</a>
 			{% endif %}
-		  </div>
+
 
 </article>
 
 <aside class="related">
-	  {% if page.event %}
-			<div class="event-meta">
-				<h3>About the Event</h3>
-				<ul>
-		      {% if page.event %}
-		        <li>
-							<a href="http://{{ page.event }}">Event Website</a>
-						</li>
-					{% endif %}
+	{% if page.event %}
+	<div class="event-meta">
+		<h3>About the Event</h3>
+		<ul clas="unlist">
+			{% if page.event %}
+			<li>
+				<a href="http://{{ page.event }}">Event Website</a>
+			</li>
+			{% endif %}
 
-					{% if page.info %}
-		        <li>
-							<a href="{{ page.info }}">Event Info</a>
-						</li>
-		      {% endif %}
+			{% if page.info %}
+			<li>
+				<a href="{{ page.info }}">Event Info</a>
+			</li>
+			{% endif %}
 
-		      {% if page.video %}
-		        <li>
-							<a href="http://{{ page.video }}">Event Video</a>
-						</li>
-		      {% endif %}
+			{% if page.video %}
+			<li>
+				<a href="http://{{ page.video }}">Event Video</a>
+			</li>
+			{% endif %}
 
-					{% if page.lanyrd %}
-						<li>
-							<a href="http://lanyrd.com{{ page.lanyrd }}">Lanyrd</a>
-						</li>
-					{% endif %}
+			{% if page.lanyrd %}
+			<li>
+				<a href="http://lanyrd.com{{ page.lanyrd }}">Lanyrd</a>
+			</li>
+			{% endif %}
 
-		      {% if page.slides %}
-		        <li>
-							<a href="http://{{ page.slides }}">Slides</a>
-						</li>
-		      {% endif %}
-				</ul>
+			{% if page.slides %}
+			<li>
+				<a href="http://{{ page.slides }}">Slides</a>
+			</li>
+			{% endif %}
+		</ul>
 
-		  </div>
+	</div>
 	{% endif %}
 
 	{% if page.speaker %}
-		{% include speaker-info.html %}
+	{% include speaker-info.html %}
 	{% endif %}
 
 
 	<div class="cc-meta">
 		{% if page.cc %}
 		{% if page.cc == 'BY' %}
-			{% include CC_BY.html %}
+		{% include CC_BY.html %}
 		{% endif %}
 
 		{% if page.cc == 'BY-SA' %}
-			{% include CC_BY-SA.html %}
+		{% include CC_BY-SA.html %}
 		{% endif %}
 
 		{% if page.cc == 'BY-NC-SA' %}
-			{% include CC_BY-NC-SA.html %}
+		{% include CC_BY-NC-SA.html %}
 		{% endif %}
 
 		{% else %}
-			{% include licence.html %}
+		{% include licence.html %}
 		{% endif %}
 	</div>
 

@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Green'
+title: 'Logos tagged Green'
 tag: green
 permalink: /unilogos/green/
 ---

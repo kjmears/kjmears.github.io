@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Rugby Biographies Lockdown Project"
+summary: A roundup of 9 Rugby biographies
 date: "2020-09-15"
-excerpt: "I read a load of Rugby Biographies on a whim."
+summary: "I read a load of Rugby Biographies on a whim."
 category: blog
 published: true
 image-thumb: /rugbybios/group-thumb.png
@@ -23,9 +24,9 @@ Seeing the big pile of books, and being a confirmed arm chair fan (is there any 
 
 ## What did I learn?
 
-There are conventions.
-There are scores to settle.
-There are People to thank.
+- There are conventions.
+- There are scores to settle.
+- There are People to thank.
 
 Some of the books feel like they fit with the persona more than others which I would guess is a function of how good the ghost writer is.
 
@@ -34,7 +35,7 @@ Some of the books feel like they fit with the persona more than others which I w
 
 ## Gavin Henson: My Grand Slam Year
 
-I can sort of see how it was controversial, but also seems a bit quaint 15 years on. Hardly a revelation that Clive Woodward was an odd fish, Alastair Campbell was controlling and Work can sometimes be baffling. Essentially someone moaning about office politics - where the office happens to be a Rugby pitch.
+I can sort of see how it was controversial, but also seems a bit quaint 15 years on. Hardly a revelation that Clive Woodward was an odd fish, Alastair Campbell was controlling, and work can sometimes be baffling. Essentially someone moaning about office politics - where the office happens to be a Rugby pitch.
 
 ![Bateman]({{ base-url }}/images/rugbybios/bateman.png)
 
@@ -62,15 +63,15 @@ Slows up a bit in the inevitable 'state of the game' passages, and surprised (an
 
 ## Gareth Edwards : The Autobiography
 
-For a start it's not an autobiography. It's not auto, and there's precious little biography. Seems like a nice enough chap, but a collection of rambling opinions about the past and future of rugby made this a bit of a slog. Felt very much like a cashing in on his reliable status as one of the greatest every rugby players.
+For a start it's not an autobiography. It's not auto, and there's precious little biography. Seems like a nice enough chap, but a collection of rambling opinions about the past and future of rugby made this a bit of a slog. Felt very much like a cashing in on his reliable status as one of the greatest ever rugby players.
 
 ![Davies]({{ base-url }}/images/rugbybios/davies.png)
 
 ## Jonathan Davies: An Autobiography
 
-Better written than the last two, and with a curious turns approach where the journo has a go at descibing an episode and then you get Jonathan's version. It works ok - Peter Corrigan's bits are a bit more flowery as you'd expect and there's a nagging feeling it's a way to pad things out a bit.
+Better written than the last two, and with a curious turns approach where the journo has a go at describing an episode and then you get Jonathan's version. It works ok - Peter Corrigan's bits are a bit more flowery as you'd expect and there's a nagging feeling it's a way to pad things out a bit.
 
-Strangest thing is that it was written in the middle of a still active career, and turned mainly on the big talking point of his (then) recent convert to league.
+Strangest thing is that it was written in the middle of a still active career, and turned mainly on the big talking point of his (then) recent conversion to league.
 
 So very of it's time, but interesting.
 
@@ -78,7 +79,7 @@ So very of it's time, but interesting.
 
 ## Codes of Misconduct - Adrian Hadley
 
-His mum was briefly my English teacher, so I was intruiged. Hilariously grumpy. He's always pissed off (his words) about something or someone. Dressed up as 'telling it like it is, it's classic modern sportball bio - plenty of score settling, and explanations of workplace shenanigans. Mostly not that interesting, but occasionally laugh out loud funny - often for the wrong reasons - For example, Adrian really hates the French. Coming out when it did it seems to be and example of a newer breed of 'explosive' biogs, with a pretty broad definition of explosive. Explosive like a fart not a bomb.
+His mum was briefly my English teacher, so I was intrigued. Hilariously grumpy. He's always pissed off (his words) about something or someone. Dressed up as 'telling it like it is, it's classic modern sportball bio - plenty of score settling, and explanations of workplace shenanigans. Mostly not that interesting, but occasionally laugh out loud funny - often for the wrong reasons - For example, Adrian really hates the French. Coming out when it did it seems to be and example of a newer breed of 'explosive' biogs, with a pretty broad definition of explosive. Explosive like a fart not a bomb.
 
 ![Jenkins]({{ base-url }}/images/rugbybios/jenkins.png)
 
@@ -90,7 +91,7 @@ Standard sports autobiography. Sort of interesting inside baseball nuggets, few 
 
 ## My Pride of Lions
 
-Pedestrian. The opening chapter being a dull round up of the RFU reaction to Rugby Uninon going professional. Everything got slightly better once that was off Fran's chest.
+Pedestrian. The opening chapter being a dull round up of the RFU reaction to Rugby Union going professional. Everything got slightly better once that was off Fran's chest.
 
 Back to familiar sport book territory. 
 

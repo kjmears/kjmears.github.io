@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: North East'
+title: 'Logos tagged North East'
 tag: northeast
 permalink: /unilogos/northeast/
 ---

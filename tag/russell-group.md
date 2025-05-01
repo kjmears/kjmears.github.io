@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Russell Group'
+title: 'Logos tagged Russell Group'
 tag: russell-group
 permalink: /unilogos/russell-group/
 ---

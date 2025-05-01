@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Circle'
+title: 'Logos tagged Circle'
 tag: circle
 permalink: /unilogos/circle/
 ---

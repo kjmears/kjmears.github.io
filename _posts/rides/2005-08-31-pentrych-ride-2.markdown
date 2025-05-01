@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Pentrych Ride
 date: 2005-08-31 12:46:00.000000000 +01:00
 category: rides

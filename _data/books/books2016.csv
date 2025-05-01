@@ -1,20 +1,20 @@
-isbn,amazon,title,author,date_finished,notes,author/0,author/1
-1488973,http://amzn.to/2iqFgjo,Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Cathy O'Neil,28-12-2016,Sobering introduction to the ways that algorithms affect people's lives - especially poor people. Very good on explaining how and why the seemingly neutral models are anything but and can quickly run out of control because of a lack of oversight. Also good ideas and suggestions for ways forward since the models are only likely to become more pervasive.,,
-034091940X,http://amzn.to/2hy9BhT,Alex Ferguson:My Autobiography,Alex Ferguson,18-12-2016," Picked up it up on a whim in a charity shop, where I read a bit and it was quite interesting to get some insight and honest opinions. Read it very quickly as it's there's minimal structure and it wanders all over the place. Amazed that anyone would pay the cover price for what is in effect a transcript of some long rambling conversation.",,
-1846684579,http://amzn.to/2hsRc6V,Natural Born Heroes,Christopher McDougall,11-12-2016,"Felt like there were two books in one, and found that a bit frustrating. The breathless war story telling was intruiging,but the found the some of the tracing back to ancient greek a bit tenuous. The exercise and diet stuff was more interesting, if not especially new, and better for being a bit drier. Think I would have enjoyed a shorter and more direct book.",,
-56726897,http://amzn.to/2eVwHOa,Blood Meridian or the Evening Redness in the West,Cormac McCarthy,12-10-2016,"Found it pretty hard going. If his sentences were designed to replicate the feeling of crossing barren, brutal deserts - they succeeded. There was something about the story that made me want to carry on, but I won't be tackling another of his any time soon.",,
-1954791,http://amzn.to/2dGeCjC,Back Story,David Mitchell,03-10-2016,I like David Mitchell and picked this up cheap in a charity shop. It seems I'm developing a taste for enjoyable if undemanding memoirs. It was amusing with some interesting insights into a performer who I like.,,
-1849833605,http://amzn.to/2aWtXze,Unknown Pleasures: Inside Joy Division,Peter Hook,17-08-2016,"Suprised myself with this one. I picked it up cheap as something to read on hols and really enjoyed it. I got inyto Joy Division after New Order, and it was Hooky's Basslines that drew me in, so it was cool to learn more about how it all happened.",,
-1405918837,http://amzn.to/2bk8DEz,More Fool Me,Stephen Fry,15-08-2016,"Bought as an enjoyable holiday diversion, and as expected, enjoyed it. Fascinating insight to hard work (whcih doesn't seem like work since he loves it) and equally hard (chemically assisted) play.",,
-1844085538,http://amzn.to/2b36MzL,The Comforters,Muriel Spark,10-08-2016,A nice book to get back into reading fiction with. An interesting collection of characters with the added literary device of one of the characters having self awareness of being in a novel.,,
-2371,http://amzn.to/2avDw9k,"Frank Skinner on the Road: Love, Stand-up Comedy and The Queen Of The Night",Frank Skinner,11-07-2016,,,
-25440708,http://amzn.to/2aPeQY4,Superfreakonomics,,19-06-2016,,Stephen J. Dubner,Steven D. Levitt
-1840236272,http://amzn.to/2b3JUAq,Charley's War 1,,09-06-2016,,Pat Mills,Joe Colquhoun
-787232,http://amzn.to/2b3JNoQ,Aesthetics: A memoir,Ivan Brunetti,02-06-2016,,,
-40103921,http://amzn.to/2aufrf5,How to think about exercise,Damon Young,15-05-2016,,,
-5012541,http://amzn.to/2aCZSkH,How to connect with nature,Tristan Gooley,25-04-2016,,,
-128899702,http://amzn.to/2aj7I6l,Essentialism: The Disciplined Pursuit of Less,Greg McKeown,03-04-2016,,,
-009947896X,http://amzn.to/2aPcW9W,Voodoo Histories,David Aaronovitch,29-03-2016,,,
-1545724,http://amzn.to/2aCXpq7,I can make you hate,Charlie Brooker,09-03-2016,,,
-3179731,http://www.amazon.co.uk/gp/product/0141029323/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0141029323&linkCode=as2&tag=mearso-21,The Book of Other People,Penguin,13-02-2016,,,
-014103095X,http://www.amazon.co.uk/gp/product/014103095X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=014103095X&linkCode=as2&tag=mearso-21,The Ghost Road,Pat Barker,09-01-2016,,,
+amazon,title,author,notes
+"http://amzn.to/2iqFgjo","Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","Cathy O'Neil","Sobering introduction to the ways that algorithms affect people's lives - especially poor people. Very good on explaining how and why the seemingly neutral models are anything but and can quickly run out of control because of a lack of oversight. Also good ideas and suggestions for ways forward since the models are only likely to become more pervasive."
+"http://amzn.to/2hy9BhT","Alex Ferguson:My Autobiography","Alex Ferguson"," Picked up it up on a whim in a charity shop, where I read a bit and it was quite interesting to get some insight and honest opinions. Read it very quickly as it's there's minimal structure and it wanders all over the place. Amazed that anyone would pay the cover price for what is in effect a transcript of some long rambling conversation."
+"http://amzn.to/2hsRc6V","Natural Born Heroes","Christopher McDougall","Felt like there were two books in one, and found that a bit frustrating. The breathless war story telling was intriguing,but the found the some of the tracing back to ancient greek a bit tenuous. The exercise and diet stuff was more interesting, if not especially new, and better for being a bit drier. Think I would have enjoyed a shorter and more direct book."
+"http://amzn.to/2eVwHOa","Blood Meridian or the Evening Redness in the West","Cormac McCarthy","Found it pretty hard going. If his sentences were designed to replicate the feeling of crossing barren, brutal deserts - they succeeded. There was something about the story that made me want to carry on, but I won't be tackling another of his any time soon."
+"http://amzn.to/2dGeCjC","Back Story","David Mitchell","I like David Mitchell and picked this up cheap in a charity shop. It seems I'm developing a taste for enjoyable if undemanding memoirs. It was amusing with some interesting insights into a performer who I like."
+"http://amzn.to/2aWtXze","Unknown Pleasures: Inside Joy Division","Peter Hook","Suprised myself with this one. I picked it up cheap as something to read on hols and really enjoyed it. I got into Joy Division after New Order, and it was Hooky's Basslines that drew me in, so it was cool to learn more about how it all happened."
+"http://amzn.to/2bk8DEz","More Fool Me","Stephen Fry","Bought as an enjoyable holiday diversion, and as expected, enjoyed it. Fascinating insight to hard work (which doesn't seem like work since he loves it) and equally hard (chemically assisted) play."
+"http://amzn.to/2b36MzL","The Comforters","Muriel Spark","A nice book to get back into reading fiction with. An interesting collection of characters with the added literary device of one of the characters having self awareness of being in a novel."
+"http://amzn.to/2avDw9k","Frank Skinner on the Road: Love, Stand-up Comedy and The Queen Of The Night","Frank Skinner",
+"http://amzn.to/2aPeQY4","Superfreakonomics","Steven D. Levitt, Stephen J. Dubner",
+"http://amzn.to/2b3JUAq","Charley's War 1","Pat Mills",
+"http://amzn.to/2b3JNoQ","Aesthetics: A memoir","Ivan Brunetti",
+"http://amzn.to/2aufrf5","How to think about exercise","Damon Young",
+"http://amzn.to/2aCZSkH","How to connect with nature","Tristan Gooley",
+"http://amzn.to/2aj7I6l","Essentialism: The Disciplined Pursuit of Less","Greg McKeown",
+"http://amzn.to/2aPcW9W","Voodoo Histories","David Aaronovitch",
+"http://amzn.to/2aCXpq7","I can make you hate","Charlie Brooker",
+"http://www.amazon.co.uk/gp/product/0141029323/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0141029323&linkCode=as2&tag=mearso-21","The Book of Other People","Penguin",
+"http://www.amazon.co.uk/gp/product/014103095X/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=014103095X&linkCode=as2&tag=mearso-21","The Ghost Road","Pat Barker",

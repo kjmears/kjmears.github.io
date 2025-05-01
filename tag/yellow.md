@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Yellow'
+title: 'Logos tagged Yellow'
 tag: yellow
 permalink: /unilogos/yellow/
 ---

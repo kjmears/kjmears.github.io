@@ -3,10 +3,10 @@ layout: blog_by_tag
 meta: A roundup of University logos
 date: 2018-12-30
 title: About the project
-
 ---
+An occasional project to collect logos used by UK Universities. 
 
-An occasional project to collect logos used by UK Universities. I thought it would be interesting, educational and enjoyable to gather examples and research a little more about the logos and the particluar demands of designing for this sector. If you're curious about University logos by sector perhaps you'd like to see [view them by region][regions]. If your're looking for Universities that share their Brand guidelines, [I've a list for you.][brand]. Maybe a [Gallery of thumbnails][thumbs] is more your thing.
+I thought it would be interesting, educational and enjoyable to gather examples and research a little more about the logos and the particular demands of designing for this sector. If you're curious about University logos by sector perhaps you'd like to see [view them by region][regions]. If your're looking for Universities that share their Brand guidelines, [I've a list for you.][brand]. Maybe a [Gallery of thumbnails][thumbs] is more your thing.
 
 Perhaps you're interested in those who have [animals][animals] in their logo? Please have a browse around, and if you have any tips or comments [get in touch on twitter]({{ site.author.twitter }}).
 
@@ -19,9 +19,8 @@ Perhaps you're interested in those who have [animals][animals] in their logo? Pl
 	{% if review.invisible == null %}
 
       {% if review.last_modified_at %}
-  <div class="Media Media--center">
-  <img class="Media-figure" src="/images/unilogos/thumbs/{{ review.image}}" alt="logo thumbnail">
-  <p class="Media-body">
+  <ul class="unlist">
+  <li>
   <a href="{{ site.baseurl }}{{ review.url }}">{{ review.title }}</a>
      
   {% assign d = review.last_modified_at | date: "%-d" %}
@@ -41,8 +40,8 @@ Perhaps you're interested in those who have [animals][animals] in their logo? Pl
     {{ review.last_modified_at | date: "%b" }}
     {{ review.last_modified_at | date: "%Y" }}
     </em>
-    </p>
-  </div>
+    </li>
+  </ul>
 {% endif %}
   
 

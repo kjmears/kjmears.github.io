@@ -2,12 +2,11 @@
 layout: post
 published: true
 title: Slow! Project ahead
-excerpt: "Mulling over, with the help of some alcohol, the process of building websites."
+summary: "Mulling over, with the help of some alcohol, the process of building websites."
 category: blog
 tag: thoughts
 date: 2007-12-21
 ---
-Mulling over, with the help of some alcohol, the process of building websites.
 
 It often seems that things that should be easy (or at least easier) are hard.
 

@@ -1,8 +1,9 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: Training
+title: Sketchnotes from Training
 tag: training
+type: home
 ---
 
-Sketchnotes done in meetings - occasionally I can share them
+Sketchnotes done in training sessions. They tend to be a bit more disorganised, but they usually makes sense to me.

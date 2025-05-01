@@ -3,6 +3,7 @@ code: teachex
 published: true
 layout: post
 type: pages
+summary: "My first ever IRMS conference."
 title: IRMS Conference 2024
 date: 2024-05-12
 image: /irms2024_sketchnotes.jpg
@@ -20,6 +21,8 @@ tags:
 cc: BY-SA
 ---
 
-My first ever IRMS conference. Was interesting. Beyond the usual variations of SharePoint migrations, which all had things to teach, I enjoyed the broader talks that place Records Management in a broader Information Governance context. Feels like RM can feel a bit neglected in comparison to the more necessarily reactive things like Data Protection, Security and FOI.
+The annual conference of the Information and Records Management Society
 
-As always really useful to talk specifics with people in similar situattions and organisations, though hope next year I'll be less ranty and have more achievements under my belt. This conference will hopefully help with that focus.
+Beyond the usual variations of SharePoint migrations, which all had things to teach, I enjoyed the broader talks that placed Records Management in a broader Information Governance context. Feels like RM can feel a bit neglected in comparison to the more necessarily reactive things like Data Protection, Security and FOI.
+
+As always really useful to talk specifics with people in similar situations and organisations, though hope next year I'll be less ranty and have more achievements under my belt. This conference will hopefully help with that focus.

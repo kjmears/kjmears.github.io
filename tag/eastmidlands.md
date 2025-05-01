@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: East Midlands'
+title: 'Logos tagged East Midlands'
 tag: eastmidlands
 permalink: /unilogos/eastmidlands/
 ---

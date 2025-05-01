@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Abercynon through the trees
 image-thumb: /rides/abercynon-thumb.jpg
 date: 2005-08-25 09:27:00.000000000 +01:00

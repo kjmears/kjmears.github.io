@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Uppercase'
+title: 'Logos tagged Uppercase'
 tag: uppercase
 permalink: /unilogos/uppercase/
 ---

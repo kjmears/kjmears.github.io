@@ -1,11 +1,22 @@
 ---
-layout: book
+layout: default
 title: Read in 2023
 published: true
 sitemap: true
 ---
 
-<h2>Read in 2023</h2>
+<h1>Read in 2023</h1>
+
+<p>These are the books I managed to finish this year. I got a bit more ruthless, and bailed on a few when I found them impenetrable, boring or just not what I expected. </p>
+
+<p>
+	The randomness of the charity shop has set me on a path of music related biographies and memoirs. I enjoyed the different approaches of the books I found, as they covered what it’s like to form a band, survive in one, what it’s like to be into music but not a musician, and  detailed some of the less obvious human costs of that way of life.
+</p>
+<p>
+	Beyond the music biographies, I also read some thought-provoking non-fiction. The Status Game was one that I felt
+	deserved its own notes, and Black Box Thinking was particularly interesting when it compared how aviation and
+	healthcare approach mistakes. Plus, I managed to read a good variety of fiction throughout the year.
+</p>
 
 <ol class="watched">
 	{% assign yearbooks = site.data.books.books2023 | reverse %}
@@ -15,10 +26,11 @@ sitemap: true
 		<strong>
 			{{ book.title }}
 		</strong>
-		<em>{{ book.author }}</em> <br />Finished: {{ book.date_finished | date: "%b %-d" }} 
+		<em>{{ book.author }}</em>
+		<br />
 		
 		{% if book.notes %}
-		<p>{{ book.notes }}</p>
+		{{ book.notes }}
 		{% endif %}
 	
 	</li>

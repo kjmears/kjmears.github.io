@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Million +'
+title: 'Logos tagged Million +'
 tag: million+
 permalink: /unilogos/million+/
 ---

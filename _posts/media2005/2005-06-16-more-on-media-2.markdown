@@ -6,7 +6,7 @@ title: More on @media
 author: mearso
 author_login: mearso
 author_email: mearso@mearso.com
-excerpt: Whilst at the event, there was an intriguing moment when one of the presenters
+summary: Whilst at the event, there was an intriguing moment when one of the presenters
   enquired about the makeup of the audience, and about a third of the audience claimed
   to come from public bodies or organisations.
 wordpress_id: 675

@@ -1,7 +1,7 @@
 ---
 layout: post
 status: pending
-published: true
+published: false
 title: Merthyr Common
 image-thumb: /rides/merthyr-thumb.jpg
 date: 2004-05-24 09:33:00.000000000 +01:00

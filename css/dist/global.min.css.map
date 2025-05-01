@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,MAAM,CACL,UAAU,CAAE,2BAA2B,CC6CvC,2BAAgC,CAC/B,YAAY,CAAE,CAAC,CACf,UAAU,CAAE,IAAI,CAKlB,cAAe,CACd,YAAY,CAAE,CAAC,CACf,UAAU,CAAI,IAAI",
-"sources": ["../../_sass/_cards.scss","../../_sass/global.scss"],
-"names": [],
-"file": "global.min.css"
-}

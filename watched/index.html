@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Watched in 2024
-published: true
+published: false
 sitemap: false
 ---
 
@@ -12,7 +12,7 @@ sitemap: false
 	{% assign sorted = site.data.films2024 | reverse %}
 	{% for film in sorted %}
 		<li>
-			<a href="{{ film.URL }}"><strong>{{ film.Title }}</strong></a> <em>Watched: {{ film.Watched | date: "%b %-d" }} </em><em>{{ film.Genre }}</em>{% if film.Notes %}
+			<a href="{{ film.URL }}"><strong>{{ film.Title }}</strong></a> <em>{{ film.Genre }}</em>{% if film.Notes %}
 			<br> {{ film.Notes }} {% endif %}
 			
 		</li>

@@ -7,7 +7,7 @@ image-alt: start before you're ready
 image-thumb: /start-before-youre-ready-thumb.png
 category: blog
 tags: thoughts
-excerpt: "Reading Levelling up by Ashely Baxter"
+summary: "Reading Levelling up by Ashely Baxter"
 ---
 
 I recently read [Levelling up][level] by <a href="https://twitter.com/iamashley">@iamashely</a>, and thought it might be nice to write about it's effect on me.

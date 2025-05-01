@@ -5,11 +5,17 @@ published: true
 sitemap: true
 ---
 
-<h2>Read in 2024</h2>
+<h1>Read in 2024</h1>
+
+<p>There were a few fairly chunky books this year. </p>
+
+<p>You can see what I thought under each one, but looking back I'd forgotten how many good ones there were. Plenty of good fiction got consumed too.</p>
 
 <ol class="watched">
 	{% assign beans = site.data.books.books2024 | reverse %}
 		{% for item in beans %}
+
+
 
 		<li>
 			<strong>
@@ -20,9 +26,9 @@ sitemap: true
 			: {{ item.Subtitle }}
 			{% endif %}
 			</strong>
-			<em>{{ item.author }}</em> <br />{{ item.status }} : {{ item.date_finished | date: "%b %-d" }}
+			<em>{{ item.author }}</em> <br />{{ item.status }}
 			{% if item.notes %}
-			<p>{{ item.notes }}</p>
+			{{ item.notes }}
 			{% endif %}
 		</li>
 		{% endfor %}

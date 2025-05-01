@@ -1,16 +1,16 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: IWMW19
+title: IWMW 2019 Sketchnotes
 homepage: true
 tag: iwmw19
 meta: IWMW19 Blog Post and Sketchnotes
 image: /iwmw19/iwmw19-intro-thumb.jpg
-homepage: true
+type: home
 cc: BY-SA
 ---
 
-### Round up of IWMW19
+This was big step up for me. In an echo of last year where I volunteered to do something and then thought 'What have I committed to?' I offered to take my little sketchbook efforts onto a big sheet of paper and draw out in front.
 
 <figure>
 				<img src="/images/iwmw19/IWMW19-small.png" alt="IWMW19 Drawings of Talks">
@@ -20,7 +20,7 @@ cc: BY-SA
 
 <a href="/images/iwmw19/IWMW19-orig.png">Larger Version for download</a>
 
-This was big step up for me. In an echo of last year where I volunteered to do something and then thought 'What have I commited to?' I offered to take my little sketchbook efforts onto a big sheet of paper and draw out in front.
+
 
 <figure>
 <img src="/images/iwmw19/drawingWall.jpg" alt="Drawing Station">

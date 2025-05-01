@@ -1,5 +1,6 @@
 ---
-layout: blog
+layout: default
+type: home
 title: Blog
 meta: "Blog - Mainly writing about Drawing, Data and Design"
 keywords:
@@ -30,59 +31,23 @@ keywords:
       {% endif %}
     </p>
 
-      <p>{{ post.excerpt | strip_html }}</p>
+      <p>{{ post.summary }}</p>
 
   {% endfor %}
 
 
-  <div class="pagination">
-    <ul>
+
       {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-          <li>
-            <a href="/">&laquo;</a>
-          </li>
-        {% else %}
-          <li>
-            <a href="/blog/page{{paginator.previous_page}}">&laquo;</a>
-          </li>
-        {% endif %}
+          <a href="{{ paginator.previous_page_path }}" class="btn btn-alt prev">&laquo; Previous</a>
       {% else %}
-        <li class="disabled">
-          <a href="#">&laquo;</a>
-        </li>
+          <a href="#" class="btn btn-alt prev disabled">&laquo; Previous</a>
       {% endif %}
-      {% if paginator.page == 1 %}
-        <li class="active">
-          <a href="#">1</a>
-        </li>
-      {% else %}
-        <li>
-          <a href="/">1</a>
-        </li>
-      {% endif %}
-      {% for count in (2..paginator.total_pages) %}
-        {% if count == paginator.page %}
-          <li class="active">
-            <a href="#">{{count}}</a>
-          </li>
-        {% else %}
-          <li>
-            <a href="/blog/page{{count}}">{{count}}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
+  
       {% if paginator.next_page %}
-        <li>
-          <a href="/blog/page{{paginator.next_page}}">&raquo;</a>
-        </li>
+          <a href="{{ paginator.next_page_path }}" class="btn btn-alt nxt" >Next &raquo;</a>
       {% else %}
-        <li class="disabled">
-          <a href="#">&raquo;</a>
-        </li>
+          <a href="#" class="btn btn-alt nxt disabled">Next &raquo;</a>
       {% endif %}
-    </ul>
-  </div>
 
 
 </div>

@@ -5,7 +5,7 @@ date: "2023-02-02"
 category: blog
 published: true
 image-thumb:
-excerpt: "Listening to 1001 Albums"
+summary: "Listening to 1001 Albums"
 tags:
   - music
 

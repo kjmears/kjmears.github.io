@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: A Pocket guide to Sketchnoting
 meta: "A cheap introduction to the exciting world of Sketchnoting fromm UK based Sketchnoter and Graphic Facilitator."
 tags:

@@ -10,18 +10,16 @@ sitemap: false
 
 <ol class="watched">
 	{% assign beans = site.data.books.books2011 | reverse %}
+
+
 		{% for item in beans %}
 
 		<li>
 			<strong>
 		
 				{{ item.title }}
-		
-			{% if item.Subtitle %}
-			: {{ item.Subtitle }}
-			{% endif %}
 			</strong>
-			<em>{{ item.author }}</em> - : {{ item.date_finished | date: "%b %-d" }}
+			<em>{{ item.author }}</em>
 			{% if item.notes %}
 			<p>{{ item.notes }}</p>
 			{% endif %}

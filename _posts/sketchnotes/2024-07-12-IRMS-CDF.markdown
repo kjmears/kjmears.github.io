@@ -2,7 +2,7 @@
 code: IRMSCDF
 published: true
 layout: post
-type: pages
+summary: A day of talks on a range of Info Governance related topics.
 title: IRMS Day Cardiff 2024
 date: 2024-07-12
 image: /IRMS-CDF-2024_sketchnotes.jpg
@@ -20,4 +20,4 @@ tags:
 cc: BY-SA
 ---
 
-An interesting day at an IRMS day in Cardiff. Nice nix of speakers - Jody got me very interested in the range of work that Records Managers can get involved in and was fascinating on the wider field of Knowledge and Information Management. Liz Taylor then talked about the her long history in the field of Data Protection with some scars and an an ongoing enthusiasm - again showing the range of things 'Records work' gets to cover. Finished off by Paul on Digital Preservation - some sobering ideas, and I think the room was collectively gulping at the scale of things - but it did also feel that slight overwhelm at the scale of the job in hand does seem to come with the territory.
+Nice mix of speakers - Jody got me very interested in the range of work that Records Managers can get involved in and was fascinating on the wider field of Knowledge and Information Management. Liz Taylor then talked about the her long history in the field of Data Protection with some scars and an an ongoing enthusiasm - again showing the range of things 'Records work' gets to cover. Finished off by Paul on Digital Preservation - some sobering ideas, and I think the room was collectively gulping at the scale of things - but it did also feel that slight overwhelm at the scale of the job in hand does seem to come with the territory.

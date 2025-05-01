@@ -1,53 +1,52 @@
 ---
-layout: speakers
+layout: default
 title: Speakers
+type: home
 
 ---
 
-<div class="row">
-  <p>I've collected a (long) list of speakers whose talks, videos, audio , lectures and presentations that I've done sketchnotes for, sorted by year. Play around with the table and the search to find what your'e looking for. For any errors, omissions or changes <a href="https://www.twitter.com/@mearso">Twitter is probably your best bet.</a></p>
 
-</div>
-
-
+  <p>I've collected a (long) list of speakers whose talks, videos, audio, lectures and presentations that I've done sketchnoted, sorted by year. </p>
+  
+  <p>I find it useful as a reference - perhaps you will too. For any errors, omissions or changes <a href="https://www.twitter.com/@mearso">Twitter</a> used to be a good bet, but now who knows? </p>
 
 
 <div class="row">
-  <table id="speakertable" class=" table row-border" cellspacing="0" width="100%">
+  <table id="speakertable" class=" table">
     <thead>
         <tr>
           <th>Name <em>(and link to twitter)</em></th>
           <th>Sketchnotes</th>
-          <th>Type</th>
           <th>Year</th>
         </tr>
     </thead>
 
     <tbody>
       {% for speaker in site.data.speakers %}
-        {% for event in site.data.events %}
-          {% if event.speaker != empty %}
-            {% for multiple in event.speaker %}
-              {% if speaker.id == multiple %}
-              <tr>
-                <td>
-                    {{ speaker.name }}
-                    {% if speaker.twitter %}
-                       (<a href="https://twitter.com/@{{ speaker.twitter }}">{{ speaker.twitter }}</a>)
-                    {% endif %}
-                  </ul>
-
-
-                </td>
-                <td><a href="..{{ event.sketchnotes }}">{{ event.title }}</a></td>
-                <td>{{ event.type }}</td>
-                <td>{{ event.date | date: "%Y" }}</td>
-              </tr>
-              {% endif %}
-            {% endfor %}
+      {% for event in site.data.events %}
+      {% if event.speaker != empty %}
+      {% for multiple in event.speaker %}
+      {% if speaker.id == multiple %}
+      <tr>
+        <td>
+          {% if speaker.url %}
+          <a href="https://{{ speaker.url }}">{{ speaker.name }}</a>
+          {% else %}
+          {{ speaker.name }}
           {% endif %}
-        {% endfor %}
+    
+          {% if speaker.twitter %}
+          (<a href="https://twitter.com/@{{ speaker.twitter }}">{{ speaker.twitter }}</a>)
+          {% endif %}
+        <td>
+        <td><a href="..{{ event.sketchnotes }}">{{ event.title }}</a></td>
+        <td>{{ event.date | date: "%Y" }}</td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
       {% endfor %}
     </tbody>
-  </table>
-</div>
+    </table>
+    </div>
