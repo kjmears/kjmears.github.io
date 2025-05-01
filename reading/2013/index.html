@@ -15,7 +15,12 @@ sitemap: false
 	
 	{% for book in sorted %}
 	<li>
-		<strong>{{ book.title }}</strong>
+		<strong>
+			{{ book.title }}
+				{% if book.Subtitle %}
+				: {{ book.Subtitle }}
+				{% endif %}
+		</strong>
 		<em>{{ book.author }}</em>
 	</li>
 	{% endfor %}
