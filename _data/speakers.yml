@@ -35,12 +35,10 @@
 
 - id: k-anagnostopoulou
   name: Kyriaki Anagnostopoulou
-  url: www.bath.ac.uk
 
 - id: kevingashley
   name: Kevin Ashley
   twitter: kevingashley
-  url: www.dcc.ac.uk
 
 - name: Dan Babington
   id: DanBabington
@@ -50,7 +48,6 @@
 - id: pbacsich
   twitter: pbacsich
   name: Paul Bacsich
-  url: www.mendeley.com/profiles/paul-bacsich/
 
 - id: dajbelshaw
   name: Doug Belshaw
@@ -64,7 +61,6 @@
 
 - name: Adrian Binzaru
   linkedin: https://www.linkedin.com/in/adrian-binzaru-91133530/
-  url: www.geckoengage.com
   id: abinzaru
 
 - id: mrgrahambird
@@ -79,11 +75,10 @@
 - id: tomwbond
   name: Tom Bond
   twitter: tomwbond
-  url: tombond.co.uk
+  url: tombond.uk
 
 - id: sboneham
   twitter: sboneham
-  url: sboneham.com/blog
   name: Steve Boneham
 
 - id: bobscape
@@ -101,11 +96,9 @@
   twitter: pb1uk
   linkedin: https://www.linkedin.com/in/peter-briers-b69485a6/
 
-
 - id: brandnatter
   name: Russell Britton
   twitter: brandnatter
-  url: russell-britton.com
 
 - id: NickBuck
   name: Nick Buckingham
@@ -117,15 +110,10 @@
   twitter: andybudd
   url: andybudd.com
 
-- id: sueburnett
-  name: Sue Burnett
-  twitter: sueburnett
-  url: about.me/sueburnett
-
 - id: Phishtitz
   name: David Burton
   twitter: Phishtitz
-  url: www.blurredfocus.co.uk/
+  url: https://www.phishtitz.ink
 
 - name: Ben Butchart
   id: bbutchart
@@ -136,7 +124,6 @@
   id: paddycallaghan
   twitter: paddycallaghan
   linkedin: https://uk.linkedin.com/pub/matthew-callaghan/10/a19/8b7
-  url: www.bradford.ac.uk/
 
 - name: Ben Calvert
   id: bencalvert
@@ -145,7 +132,7 @@
 - id: LornaMCampbell
   twitter: LornaMCampbell
   name: Lorna M Campbell
-  url: lornamcampbell.wordpress.com
+  url: https://lornamcampbell.org
 
 - id: MCastle_OUITS
   name: Matthew Castle
@@ -174,8 +161,7 @@
 
 - id: dc86
   name: David Cornforth
-  twitter: dc86
-  url: dc86.co.uk
+  linkedin: https://www.linkedin.com/in/davidcornforth/
 
 - id: jrcryer
   name: James Cryer
@@ -190,7 +176,6 @@
 - id: alandargan
   name: Alam Dargan
   linkedin: https://www.linkedin.com/mynetwork/invite-sent/alandargan/
-  url: www.terminalfour.com
 
 - id: andydavies
   name: Andy Davies
@@ -220,30 +205,28 @@
 - id: NeilDenny
   name: Neil Denny
   twitter: NeilDenny
-  url: www.linkedin.com/in/neildenny
+  linkedin: www.linkedin.com/in/neildenny
 
 - id: ldodds
   name: Leigh Dodds
   twitter: ldodds
-  url: www.ldodds.com/
+  url: https://www.ldodds.com/
 
 - id: hereinthehive
   name: Dan Donald
   twitter: hereinthehive
-  url: hereinthehive.com/
 
 - id: eadraffan
   name: E A Draffan
 
 - id: MarkJanDrenth
   name: Mark Jan Drenth
-  url: www.onyourmark.nl/
   linkedin: https://www.linkedin.com/in/markjandrenth/
 
 - id: de
   name: Dan Edwards
   twitter: de
-  url: nodividestudio.com
+  url: https://danedwards.com
 
 - id: garius
   name: Gareth Edwards
@@ -293,7 +276,7 @@
 - id: feather
   name: Derek Featherstone
   twitter: feather
-  url: simplyaccessible.com
+  url: https://feather.ca
 
 - id: unikentwebdev
   name: Mark Fendley
@@ -307,7 +290,7 @@
 - id: rossferg
   name: Ross Ferguson
   twitter: rossferg
-  url: rossferguson.com
+  url: https://basiccraft.wordpress.com
 
 - id: stratosf1
   name: Stratos Filalithis
@@ -335,12 +318,12 @@
 - id: josiefraser
   name: Josie Fraser
   twitter: josiefraser
-  url: www.josiefraser.com
+  linkedin: https://www.linkedin.com/in/josiefraser/
 
 - id: brad_frost
   name: Brad Frost
   twitter: brad_frost
-  url: bradfrostweb.com
+  url: https://bradfrost.com
 
 - id: Cl4ireG
   name: Claire Gardener
@@ -376,7 +359,6 @@
 - id: PlanetClaire
   name: Claire Gibbons
   twitter: PlanetClaire
-  url: blogs.brad.ac.uk/web-team/
 
 - name: Padma Gillen
   id: padmasaysblah
@@ -393,7 +375,6 @@
 
 - id: daigriffiths
   name: Dai Griffiths
-  url: www.bolton.ac.uk/IEC
 
 - id: owen
   name: Owen Gregory
@@ -403,7 +384,7 @@
 - id: cgutteridge
   name: Chris Gutteridge
   twitter: cgutteridge
-  url: users.ecs.soton.ac.uk/cjg/
+  bluesky: https://t.co/JZvJSbel7t
 
 - id: mariekeguy
   name: Marieke Guy
@@ -445,12 +426,11 @@
 - id: FredAtBootstrap
   name: Fred Heath
   twitter: FredAtBootstrap
-  url: www.bootstrap.me.uk/
 
 - id: dhh
   name: David Heinemeier Hansson
   twitter: dhh
-  url: david.heinemeierhansson.com
+  url: https://dhh.dk
 
 - id: Hicksdesign
   name: Jon Hicks
@@ -471,6 +451,7 @@
   name: Carley Hollis
   twitter: thisgirl32
   linkedin: https://www.linkedin.com/in/carley-hollis-1ab66733/
+  url: https://about.me/carleyhollis
 
 - id: BenjaminHollway
   name: Benjamin Hollway
@@ -479,13 +460,10 @@
 
 - id: mollydotcom
   name: Molly E. Holzschlag
-  twitter: mollydotcom
-  url: molly.com
 
 - id: supertastycake
   name: Louise Howells
   twitter: supertastycake
-  url: zengenti.com
 
 - id: KatHusbands
   name: Kat Husbands
@@ -507,7 +485,7 @@
 - id: sjenkinson
   name: Sally Jenkinson
   twitter: sjenkinson
-  url: sallyjenkinson.co.uk
+  url: https://sallylait.com
 
 - id: scottjenson
   name: Scott Jenson
@@ -517,7 +495,7 @@
 - id: rumyra
   name: Ruth John
   twitter: rumyra
-  url: rumyrashead.com
+  url: https://ruthjohn.com
 
 - id: joysyj
   name: Joysy John
@@ -613,7 +591,6 @@
 - id: craigmarvelley
   twitter: craigmarvelley
   name: Craig Marvelly
-  url: marvelley.com/
 
 - id: tmaslen
   name: Tom Maslen
@@ -637,12 +614,10 @@
 - id: sheilmcn
   name: Sheila MacNeill
   twitter: sheilmcn
-  url: howsheilaseesit.wordpress.com/
+  url: https://howsheilaseesit.net
 
 - name: Mike McConnell
   id: mike_mcconnell
-  twitter: mike_mcconnell
-  url: www.abdn.ac.uk
   linkedin: https://www.linkedin.com/profile/view?id=38138344
 
 - name: Megan McFarlane
@@ -651,7 +626,6 @@
 
 - id: HannaMiet
   name: Hannah Miettinen
-  twitter: HannaMiet
 
 - id: millaraj
   name: Andrew Millar
@@ -659,8 +633,6 @@
 
 - id: RobertMills
   name: Robert Mills
-  twitter: RobertMills
-  url: www.robertmills.me/book
 
 - id: traceymilnes
   name: Tracey Milnes
@@ -688,12 +660,12 @@
 - id: fehler
   name: Chris Murphy
   twitter: fehler
-  url: monographic.org
+  url: https://fsck.mrmurphy.com
 
 - id: davemusson
   name: Dave Musson
   twitter: davemusson
-  url: davemusson.com
+  url: https://linktr.ee/davemusson
 
 - id: AshNolan_
   name: Ashley Nolan
@@ -703,7 +675,7 @@
 - id: MikeNolan
   name: Mike Nolan
   twitter: MikeNolan
-  url: blogs.edgehill.ac.uk/webservices/
+  url: http://www.michaelnolan.co.uk
   linkedin: https://www.linkedin.com/in/mjnolan
 
 - id: aroakley
@@ -741,8 +713,6 @@
 
 - name: Richard Prowse
   id: richprowse
-  twitter: richprowse
-  url: contentbear.co.uk/
   linkedin: https://www.linkedin.com/in/richprowse
 
 - id: anna-radley
@@ -753,11 +723,9 @@
   name: Melanie Read
   twitter: MelaRead
 
-
 - id: BenjaminReid
   name: Benjamin Reid
   twitter: BenjaminReid
-  url: benjaminreid.me
 
 - id: csswizardry
   name: Harry Roberts
@@ -776,13 +744,10 @@
 
 - id: vivienrolfe
   name: Vivien Rolfe
-  twitter: vivienrolfe
-  url: www.vivrolfe.com
 
 - id: sharif_salah
   name: Sharif Salah
   twitter: sharif_salah
-  url: plus.google.com/103057053147910473099/about
 
 - name: Sam Sanders
   id: ssanders
@@ -808,28 +773,23 @@
 
 - id: missrachilli
   name: Rachel Shillcock
-  twitter: missrachilli
-  url: www.rachil.li
 
 - id: rssidhu
   name: Ranjit Sidhu
   twitter: rssidhu
-  url: sidspace.info
 
 - id: markosimpson
   name: Mark Simpson
   twitter: markosimpson
   linkedin: https://uk.linkedin.com/in/markssimpson
-  url: www.mando.agency
 
 - id: dsitner
   name: Dan Sitner
   url: www.siteimprove.com
 
-- name: Russell Sneezum
+- id: rsneezum 
+  name: Russell Sneezum
   linkedin: https://www.linkedin.com/in/russell-sneezum-98427486/
-  url: www.siteimprove.co.uk
-  id: rsneezum
 
 - id: andspo
   name: Andrew Spooner
@@ -839,7 +799,6 @@
 - id: jill-stephens
   name: Jill Stephens
   linkedin: https://www.linkedin.com/in/jill-stephens-87131a60/
-  url: www.click4assistance.co.uk
 
 - id: benjystanton
   name: Benjy Stanton
@@ -849,12 +808,11 @@
 - id: DuncanBSS
   name: Duncan Stephen
   twitter: DuncanBSS
-  url: duncanstephen.co.uk
+  url: https://duncanstephen.net
 
 - id: garethstrange
   name: Gareth Strange
   twitter: garethstrange
-  url: strangelove.me
 
 - id: JamFactory
   name: Gavin Strange
@@ -882,8 +840,6 @@
 
 - id: kimberleytew
   name: Kimberley Tew
-  twitter: kimberleytew
-  url: kimberleytew.com
 
 - id: ambrouk
   name: Amber Thomas
@@ -893,7 +849,6 @@
 - id: pierotintori
   name: Piero Tintori
   twitter: pierotintori
-  url: www.terminalfour.com
   linkedin: https://www.linkedin.com/in/tintori
 
 - id: roy
@@ -918,13 +873,9 @@
 
 - id: paulwalk
   name: Paul Walk
-  twitter: paulwalk
-  url: blog.paulwalk.net
 
 - id: mweller
   name: Martin Weller
-  twitter: mweller
-  url: edtechie.net
 
 
 - id: olliewells
@@ -955,17 +906,14 @@
 
 - name: Michael Webb
   id: michaeldwebb
-  twitter: michaeldwebb
-  url: www.jisc.ac.uk
   linkedin: https://www.linkedin.com/profile/view?id=27670425
 
 - name: Jane Van de Ban
   id: jane-van-de-ban
   linkedin: https://www.linkedin.com/in/jane-van-de-ban-3304612b/
 
-- name: Richard West
-  id: rvwest
-  twitter: rvwest
+- id: rvwest
+  name: Richard West
   linkedin: https://www.linkedin.com/in/rvwest
   url: www.jisc.ac.uk
 

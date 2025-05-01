@@ -9,42 +9,43 @@ type: home
   <p>I find it useful as a reference - perhaps you will too. For any errors, omissions or changes <a href="https://www.twitter.com/@mearso">Twitter</a> used to be a good bet, but now who knows? </p>
 
 
-<div class="row">
-  <table id="speakertable" class=" table">
+  <table id="speakertable" class="table">
     <thead>
-        <tr>
-          <th>Name <em>(and link to twitter)</em></th>
-          <th>Sketchnotes</th>
-          <th>Year</th>
-        </tr>
+      <tr>
+        <th>Name <em>(and links)</em></th>
+        <th>Event</th>
+        <th>Year</th>
+      </tr>
     </thead>
-
     <tbody>
       {% for speaker in site.data.speakers %}
-      {% for event in site.data.events %}
-      {% if event.speaker != empty %}
-      {% for multiple in event.speaker %}
-      {% if speaker.id == multiple %}
-      <tr>
-        <td>
-          {% if speaker.url %}
-          <a href="https://{{ speaker.url }}">{{ speaker.name }}</a>
-          {% else %}
-          {{ speaker.name }}
+        {% for event in site.data.events %}
+          {% if event.speaker != empty %}
+            {% for multiple in event.speaker %}
+              {% if speaker.id == multiple %}
+                <tr>
+                  <td>
+                    {% if speaker.url %}
+                      <a href="https://{{ speaker.url }}">{{ speaker.name }}</a>
+                    {% else %}
+                      {{ speaker.name }}
+                    {% endif %}
+  
+                    {% if speaker.twitter %}
+                      (<a href="https://twitter.com/@{{ speaker.twitter }}">Twitter</a>)
+                    {% endif %}
+  
+                    {% if speaker.linkedin %}
+                      (<a href="{{ speaker.linkedin }}">LinkedIn</a>)
+                    {% endif %}
+                  </td>
+                  <td><a href="..{{ event.sketchnotes }}">{{ event.title }}</a></td>
+                  <td>{{ event.date | date: "%Y" }}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
           {% endif %}
-    
-          {% if speaker.twitter %}
-          (<a href="https://twitter.com/@{{ speaker.twitter }}">{{ speaker.twitter }}</a>)
-          {% endif %}
-        <td>
-        <td><a href="..{{ event.sketchnotes }}">{{ event.title }}</a></td>
-        <td>{{ event.date | date: "%Y" }}</td>
-      </tr>
-      {% endif %}
-      {% endfor %}
-      {% endif %}
-      {% endfor %}
+        {% endfor %}
       {% endfor %}
     </tbody>
-    </table>
-    </div>
+  </table>
