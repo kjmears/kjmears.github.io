@@ -313,7 +313,7 @@ h1~p:first-of-type:not(blockquote+p) {
 }
 
 h1~p:first-of-type:not(blockquote+p) {
-    margin-bottom: var(--space-md-lg)
+    margin-bottom: var(--space-md)
 }
 
 h1~p:first-of-type:not(blockquote+p)+p.media {
@@ -356,7 +356,7 @@ blockquote {
 
 blockquote {
     margin: 1.5em 0;
-    --content-wrap: 27ch
+
 }
 
 blockquote:before {
@@ -647,14 +647,7 @@ main>:last-child[data-block-flush] {
     --btn-text: #000
 }
 
-
-.btns {
-    gap: 1em;
-    display: flex;
-    flex-wrap: wrap
-}
-
-.btns .btn {
+ .btn {
     min-width: 200px
 }
 
@@ -843,9 +836,6 @@ thead td {
     font-weight: 700
 }
 
-.size-3\/4 {
-    font-size: .75em
-}
 
 .size-sm {
     font-size: clamp(1rem, .925rem + .25vw, 1.125rem);
@@ -875,26 +865,42 @@ thead td {
     line-height: 1.1
 }
 
-.flow>* {
-    margin: 0
-}
 
-.flow>*+* {
-    margin-top: 1rem;
-    margin-top: var(--flow, 1rem)
-}
+.link-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .link-list li {
+    display: inline-block;
+    margin: 0.2em 0;
+  }
+  
+  .link-list li:last-child {
+    margin-right: 0;
+  }
+  
+  .link-list a {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: var(--btn-color, transparent);
+    border: 2px solid #000;
+    color: var(--btn-text, #000);
+    text-align: center;
+    -webkit-text-decoration: underline;
+    text-decoration: underline;
+    transition: .3s;
+    transition-property: background, border, color;
+    min-width: 5em; /* Set your desired minimum width */
+  }
+  
+  .link-list a:hover {
+    background-color: #000;
+    color: #fff;
+  }
 
-.flow-sm {
-    --flow: var(--space-sm)
-}
-
-.flow-sm-md {
-    --flow: var(--space-sm-md)
-}
-
-.flow-md {
-    --flow: var(--space-md)
-}
 
 .space-sm-md-t,
 .space-sm-md {
