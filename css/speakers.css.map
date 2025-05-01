@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,KAAM;EACJ,OAAO,EAAE,IAAI;;;AAGf,UAAW;EACT,IAAI,EAAE,CAAC",
-"sources": ["../_sass/speakers.scss"],
-"names": [],
-"file": "speakers.css"
-}
