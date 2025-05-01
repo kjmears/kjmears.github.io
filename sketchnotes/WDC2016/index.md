@@ -1,10 +1,12 @@
 ---
 layout: blog_by_tag_sketchnotes
 category: sketchnotes
-title: WDC2016
+title: WDC2016 Sketchnotes
 homepage: true
 tag: WDC2016
+meta: WDC2016 Bristol Sketchnotes
 type: home
+cc: BY-SA
 ---
 
 Sketchnotes from my visit to Bristol for the WDC2016 conference.
