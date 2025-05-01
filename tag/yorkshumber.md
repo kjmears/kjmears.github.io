@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Yorkshire and the Humber'
+title: 'Logos tagged Yorkshire and the Humber'
 tag: yorkshumber
 permalink: /unilogos/yorkshumber/
 ---

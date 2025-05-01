@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: South West'
+title: 'Logos tagged South West'
 tag: southwest
 permalink: /unilogos/southwest/
 ---

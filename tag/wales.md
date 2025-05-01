@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Wales'
+title: 'Logos tagged Wales'
 tag: wales
 permalink: /unilogos/wales/
 ---

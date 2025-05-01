@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Eastern Academic Research Consortium'
+title: 'Logos tagged Eastern Academic Research Consortium'
 tag: earc
 permalink: /unilogos/earc/
 ---

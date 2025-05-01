@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Bi-lingual'
+title: 'Logos tagged Bi-lingual'
 tag: bi
 permalink: /unilogos/bi/
 ---

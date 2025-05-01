@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Shield'
+title: 'Logos tagged Shield'
 tag: shield
 permalink: /unilogos/shield/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: South East'
+title: 'Logos tagged South East'
 tag: southeast
 permalink: /unilogos/southeast/
 ---

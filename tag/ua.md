@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: University Alliance'
+title: 'Logos tagged University Alliance'
 tag: ua
 permalink: /unilogos/ua/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Typographic'
+title: 'Logos tagged Typographic'
 tag: typographic
 permalink: /unilogos/typographic/
 ---

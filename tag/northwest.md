@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: North West'
+title: 'Logos tagged North West'
 tag: northwest
 permalink: /unilogos/northwest/
 ---

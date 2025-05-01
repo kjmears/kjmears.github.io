@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: London'
+title: 'Logos tagged London'
 tag: london
 permalink: /unilogos/london/
 ---

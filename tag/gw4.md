@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: GW4'
+title: 'Logos tagged GW4'
 tag: gw4
 permalink: /unilogos/gw4/
 ---
