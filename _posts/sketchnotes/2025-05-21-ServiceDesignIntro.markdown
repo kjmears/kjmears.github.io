@@ -18,6 +18,7 @@ speaker: jocarter
 tags:
     - live
     - training
+
 cc: BY-SA
 ---
 
