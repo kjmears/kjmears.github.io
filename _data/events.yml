@@ -603,3 +603,11 @@
   type: online
   speaker:
     - JoanneCKlein
+
+- title: Introducion to Service Design
+  date: 2025-05-14
+  sketchnotes: /sketchnotes/ServiceDesignIntro.html
+  type: live
+  speaker:
+    - jocarter
+
