@@ -12,7 +12,7 @@ tags:
 ---
 
 
-I've been drawing sketchnotes for several years and have been lucky enough to see lots of fascinating speakers. Taking notes in this way works well for me, and the people I share them with seem to find them useful too.
+I've been drawing sketchnotes for several years and have been lucky enough to see lots of fascinating speakers. Taking notes in this way works well for me, and when I share them people seem to find them useful.
 
 Most of my sketchnotes have been done [live][live], which I've found the most useful for me, though sketchnoting from [videos][video] is also fun. An alternative to browsing the thumbnails is to take a look at the searchable list of [speakers][speakers]
 
