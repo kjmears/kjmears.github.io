@@ -14,9 +14,9 @@ meta: How to use Lists to capture and manage your user stories
 
 ---
 
-Capturing Users in an essential part of capturing users needs [The advice from the Service Manual is great][gov], but I thought I might write a little post on a specific method that might work for people with access to SharePoint.
+Writing User Stories is an essential part of capturing users needs [The advice from the Service Manual is great][gov], but I thought I might write a little post on a specific method that might work for people with access to SharePoint.
 
-Lists are a nice halway house between a spreadsheet and a word document, and are now super easy to use for data collection since they've made the form that updates items a bit more customisable.
+Lists are a nice halfway house between a spreadsheet and a word document, and are now super easy to use for data collection since they've made the form that updates items a bit more customisable.
 
 Open up the lists app in your SharePoint then go to 'Create new'.
 

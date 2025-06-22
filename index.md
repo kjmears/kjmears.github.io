@@ -10,7 +10,7 @@ keywords:
   - Wales
 ---
 
-I've had a varied career in design, development and information management for over 25 years. 
+I've worked in design, web development and information management for over 30 years. 
 
 Many years ago featured in the seminal **[Zen of CSS Design][zen]** book, I also wrote a little book of my own on [Sketchnoting][pocket]
 
