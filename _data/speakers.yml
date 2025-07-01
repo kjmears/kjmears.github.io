@@ -57,7 +57,7 @@
 - id: mr_bingo
   name: Mr Bingo
   twitter: mr_bingo
-  url: https://mr.bingo
+  url: mr.bingo
 
 - name: Adrian Binzaru
   linkedin: https://www.linkedin.com/in/adrian-binzaru-91133530/
@@ -113,7 +113,7 @@
 - id: Phishtitz
   name: David Burton
   twitter: Phishtitz
-  url: https://www.phishtitz.ink
+  url: www.phishtitz.ink
 
 - name: Ben Butchart
   id: bbutchart
@@ -132,11 +132,11 @@
 - id: LornaMCampbell
   twitter: LornaMCampbell
   name: Lorna M Campbell
-  url: https://lornamcampbell.org
+  url: lornamcampbell.org
 
 - id: jocarter
   name: Jo Carter
-  url: https://www.weareserviceworks.com
+  url: www.weareserviceworks.com
   linkedin: https://www.linkedin.com/in/jocarter64/
 
 - id: MCastle_OUITS
@@ -215,7 +215,7 @@
 - id: ldodds
   name: Leigh Dodds
   twitter: ldodds
-  url: https://www.ldodds.com/
+  url: www.ldodds.com/
 
 - id: hereinthehive
   name: Dan Donald
@@ -231,12 +231,12 @@
 - id: rufflemuffin
   name: Sarah Drummond
   linkedin: https://www.linkedin.com/in/sarahelizabethdrummond/
-  url: https://good.services
+  url: good.services
 
 - id: de
   name: Dan Edwards
   twitter: de
-  url: https://danedwards.com
+  url: danedwards.com
 
 - id: garius
   name: Gareth Edwards
@@ -286,7 +286,7 @@
 - id: feather
   name: Derek Featherstone
   twitter: feather
-  url: https://feather.ca
+  url: feather.ca
 
 - id: unikentwebdev
   name: Mark Fendley
@@ -300,7 +300,7 @@
 - id: rossferg
   name: Ross Ferguson
   twitter: rossferg
-  url: https://basiccraft.wordpress.com
+  url: basiccraft.wordpress.com
 
 - id: stratosf1
   name: Stratos Filalithis
@@ -333,7 +333,7 @@
 - id: brad_frost
   name: Brad Frost
   twitter: brad_frost
-  url: https://bradfrost.com
+  url: bradfrost.com
 
 - id: Cl4ireG
   name: Claire Gardener
@@ -394,7 +394,7 @@
 - id: cgutteridge
   name: Chris Gutteridge
   twitter: cgutteridge
-  bluesky: https://t.co/JZvJSbel7t
+  bluesky: t.co/JZvJSbel7t
 
 - id: mariekeguy
   name: Marieke Guy
@@ -440,7 +440,7 @@
 - id: dhh
   name: David Heinemeier Hansson
   twitter: dhh
-  url: https://dhh.dk
+  url: dhh.dk
 
 - id: Hicksdesign
   name: Jon Hicks
@@ -461,7 +461,6 @@
   name: Carley Hollis
   twitter: thisgirl32
   linkedin: https://www.linkedin.com/in/carley-hollis-1ab66733/
-  url: https://about.me/carleyhollis
 
 - id: BenjaminHollway
   name: Benjamin Hollway
@@ -495,7 +494,7 @@
 - id: sjenkinson
   name: Sally Jenkinson
   twitter: sjenkinson
-  url: https://sallylait.com
+  url: sallylait.com
 
 - id: scottjenson
   name: Scott Jenson
@@ -505,7 +504,7 @@
 - id: rumyra
   name: Ruth John
   twitter: rumyra
-  url: https://ruthjohn.com
+  url: ruthjohn.com
 
 - id: joysyj
   name: Joysy John
@@ -554,7 +553,7 @@
 
 - name: Joanne C Klein
   id: JoanneCKlein
-  url: https://joannecklein.com
+  url: joannecklein.com
   twitter: JoanneCKlein
 
 - id: S_J_Lancaster
@@ -624,7 +623,7 @@
 - id: sheilmcn
   name: Sheila MacNeill
   twitter: sheilmcn
-  url: https://howsheilaseesit.net
+  url: howsheilaseesit.net
 
 - name: Mike McConnell
   id: mike_mcconnell
@@ -670,12 +669,12 @@
 - id: fehler
   name: Chris Murphy
   twitter: fehler
-  url: https://fsck.mrmurphy.com
+  url: fsck.mrmurphy.com
 
 - id: davemusson
   name: Dave Musson
   twitter: davemusson
-  url: https://linktr.ee/davemusson
+  url: linktr.ee/davemusson
 
 - id: AshNolan_
   name: Ashley Nolan
@@ -818,7 +817,7 @@
 - id: DuncanBSS
   name: Duncan Stephen
   twitter: DuncanBSS
-  url: https://duncanstephen.net
+  url: duncanstephen.net
 
 - id: garethstrange
   name: Gareth Strange

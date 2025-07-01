@@ -29,4 +29,4 @@ COPY . .
 EXPOSE 4500
 
 # Start the Jekyll development server with live reloading and listening on all interfaces
-CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--watch", "--incremental", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--incremental", "--force_polling", "--host", "0.0.0.0"]
