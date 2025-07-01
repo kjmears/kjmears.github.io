@@ -228,6 +228,11 @@
   name: Mark Jan Drenth
   linkedin: https://www.linkedin.com/in/markjandrenth/
 
+- id: rufflemuffin
+  name: Sarah Drummond
+  linkedin: https://www.linkedin.com/in/sarahelizabethdrummond/
+  url: https://good.services
+
 - id: de
   name: Dan Edwards
   twitter: de
@@ -882,18 +887,10 @@
 - id: mweller
   name: Martin Weller
 
-
 - id: olliewells
   name: Ollie Wells
   twitter: olliewells
   linkedin: https://www.linkedin.com/in/olliewells
-
-- id: hiten-vaghmaria
-  name: Hiten Vaghmaria
-
-- name: Rob van Tol
-  id: R_van_Tol
-  twitter: R_van_Tol
 
 - id: vonprond
   name: Professor Ferdinand von Prondzynski

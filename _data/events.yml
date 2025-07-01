@@ -611,3 +611,10 @@
   speaker:
     - jocarter
 
+- title: Agile Service Design
+  date: 2025-07-01
+  sketchnotes: /sketchnotes/AgileServiceDesign.html
+  type: live
+  speaker:
+    - rufflemuffin
+
