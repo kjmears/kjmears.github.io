@@ -1,0 +1,23 @@
+---
+date: "2025-07-05"
+title: CV struggles
+season: 06
+episode: 03
+published: true
+---
+This week I’ve been trying to knock my CV into shape. I’m finding it hard, since I’m vacillating between different ideas of what it should be, what format works best and how long it should be. Writing that sentence is pretty helpful, as it’s revealing to me that it might be useful to think of the user needs. What does a ‘user’ of my (or indeed any) CV want? Probably to be able to shortlist. To quickly see that this candidate has relevant skills and experience to be worth considered for the next stage? Now we have the spectre of automated shortlisting to contend with and I’ve seen some advice suggesting good old fashioned term stuffing. That just has a code smell to me and feels wrong. Especially if I’m looking for Content or Service design roles. Maybe there’s a germ of a blog post there?
+
+In keeping with week-notes being about what got done and where the time went, I had a lovely 1-2-1 this week with someone who had bags of great advice, ideas and knowledge that left me energised and enthused. What you’d love all of them to be like.
+
+Had probably my final ever catch up with Info Management Pros from the IRMS - it’s still interesting, but time to move one for me I think.
+
+I did manage to not waste my leaving collection money - makes it sound like pocket money - and bought a lovely butterscotch yellow budget Telecaster.
+
+Am enjoying Severance (S2), and 'Shifty' the new Adam Curtis - which always requires a decompression and ponder after watching - definitely not for bingeing. I read the short story - The Loneliness of the Long Distance Runner by Alan Sillitoe. It was a wonderful voice but ended rather abruptly, and I hadn’t realised it was a collection. I’ve read a few others, and they are pretty bleak. I can see why him and contemporaries were called angry young men. But a voice and style that I’m warming to.
+
+All the links I’ve saved this week have mostly been in support of my CV and Personal Statements, but special mention should go to [How to make a career switch into content design][ray] over on LinkedIn by Ray Newman - refreshingly clear and helpful.
+
+And finally, I did manage to find the time to do some procrastination and played in Notion. If someone ever wants to nerd out about Notion then I’ll be up for it.
+
+
+[ray]: https://www.linkedin.com/pulse/how-make-career-switch-content-design-ray-newman-bwaoe/
