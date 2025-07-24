@@ -4,7 +4,7 @@ published: true
 layout: post
 summary: Content Conversations Sketchnotes
 title: Content Conversations Sketchnotes
-date: 2025-06-17
+date: 2025-07-17
 image: /ContentConversationsSketchnotes.jpg
 image-original: /ContentConversationsSketchnotes_large.jpg
 image-thumb: 
