@@ -27,7 +27,7 @@ It has been such a long time since I've been out to a tech/content meetup, so I 
 
 Adrian talked about his journey to Service Design encountering careless design on the way, which neatly segued into taking care of your team to deliver good services.
 
-Heledd game some detail about the team's journey particularly the unglamorous but deep work of taking 'forms' (usually in Word) and turning them in real usable online forms. 
+Heledd went into some detail about the team's journey particularly the unglamorous but deep work of taking 'forms' (usually in Word) and turning them in real usable online forms. 
 
 Nathan had a nice epiphany about service design and involving young users to give some insights and then co-design solutions based on them.
 
