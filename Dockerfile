@@ -1,32 +1,27 @@
-# Use a slim Ruby image as the base
 FROM ruby:3.2-slim
 
-# Set environment variables for UTF-8 encoding and non-interactive package installation
 ENV LANG=C.UTF-8 \
     LC_ALL=C.UTF-8 \
     DEBIAN_FRONTEND=noninteractive
 
-# Install essential build tools and dependencies
+# Install dependencies + Node.js for assets
 RUN apt-get update && apt-get install -y \
     build-essential \
     git \
     curl \
+    nodejs \
     && rm -rf /var/lib/apt/lists/*
 
-# Set the working directory inside the container
 WORKDIR /usr/src/app
 
-# Copy the Gemfile and Gemfile.lock
-COPY Gemfile* ./
-
-# Install Bundler and project dependencies
+# Install gems first for caching layers
+COPY Gemfile Gemfile.lock* ./
 RUN gem install bundler && bundle install
 
-# Copy the rest of the source code
+# Copy the rest of the project
 COPY . .
 
-# Expose port 4500
-EXPOSE 4500
+# Expose Jekyll + LiveReload
+EXPOSE 4500 35729
 
-# Start the Jekyll development server with live reloading and listening on all interfaces
-CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--incremental", "--force_polling", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4500", "--livereload", "--force_polling"]

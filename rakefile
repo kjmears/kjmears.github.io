@@ -1,0 +1,13 @@
+require 'rake'
+
+desc "Clean Jekyll build and cache"
+task :clean do
+  sh "rm -rf _site .jekyll-cache .sass-cache"
+  puts "✅ Cleared _site, .jekyll-cache, and .sass-cache"
+end
+
+desc "Build site fresh"
+task :rebuild => :clean do
+  sh "bundle exec jekyll build"
+  puts "✅ Rebuilt site"
+end

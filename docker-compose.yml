@@ -1,12 +1,14 @@
-
 services:
   jekyll:
     build:
       context: .
       dockerfile: Dockerfile
     ports:
-      - '4500:4500' # Or '4000:4000' if you prefer the default Jekyll port
+      - "4500:4500"
+      - "35729:35729"
     volumes:
       - .:/usr/src/app
+      - /usr/src/app/vendor
     environment:
       JEKYLL_ENV: development
+    command: bundle exec jekyll serve --host 0.0.0.0 --port 4500 --livereload --force_polling
