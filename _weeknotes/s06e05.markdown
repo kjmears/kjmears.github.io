@@ -1,0 +1,25 @@
+---
+date: "2025-09-12"
+title: Discovering Discoveries
+season: 06
+episode: 05
+published: true
+---
+
+My week notes for my second week.
+
+Started the week with looking into some how projects are done and discovered an interesting project management community. Nice to see people coming together to discuss some of the intricacies and challenges of how stuff gets managed and done.
+
+In particular, I watched a recording of some sessions on project closures, questioning whether the theory matches the reality and if not why not?
+
+I also started to acquaint myself with Miro  as a product. Watching tutorials delivered by super enthusiastic advocates of the product, worked pretty well and gave me a good insight into just how ambitious you could be with it. You could do all your work in Miro, but the real question is whether you should and how you make the decisions.
+
+Spent some time looking at an architecture review done some years ago. Solid work and worthwhile to following up on what happened as a result of the review.
+
+Met some more people -  this time in change management and records management. Super impressed with the amount of work done to manage and organise records and really useful to get a picture of how the organisations information works,where it all is and the war stories on how it got done.
+
+One of the things throughout the week mentioned the acronyms, and I thought I would kill two birds with one stone by collecting as many as I could from existing searches and then tried to make them useful by classifying and sharing.
+
+My first introduction to a big discovery board with a stage service blueprint, and I’m looking forward to understanding the work has been done and come up with ideas on how to communicate and refine the blueprint into something usable for a wide variety of users and stakeholders.
+
+And find the rest of the week attending a really enjoyable show and tell by a team from DHCW(Digital Health Care Wales)delivering a nationwide product. Really impressed me was the obvious commitment to agile working and a real sense of momentum and delivery from the team. The demo of the product was really nicely done I got a real sense to all the feedback was making its way into the delivery pretty inspiring stuff.
