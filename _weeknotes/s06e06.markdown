@@ -1,0 +1,17 @@
+---
+date: "2025-09-21"
+title: Rolling up my sleeves
+season: 06
+episode: 06
+published: true
+---
+
+Investigating requirements. Trawling through existing requirements and teasing out how things are aligning with the three flavours of Business, Functional and Non-Functional. BTW I’m not a fan of ‘non-functional’ as a term - it’s a pretty poor description and comes across as quote negative, even superfluous, when in fact ‘support’ or ‘infrastructure’ might be more useful. Anyway, reviewing some of what has been done is proving a good exercise.
+
+Had an interesting meeting around some work on roles and responsibilities. Not an abstract philosophical discussion, but in this case quote focussed on how to get people to engage with the products and services that at some point they requested, and then for whatever reason walked away from. Discussions around terms almost inevitably get quite abstract quite quickly, which whilst intellectually stimulating (if you like that kind of thing) are hard to get actions on. I think we resolved to consider some more and try to canvas more opinions with a view to work what might be achievable and practical. Trying not to let the terminology get in the way of tasks.
+Met a few more people via the ‘book time with me’ method - just to introduce myself and learn what they’re up to. People have been very generous with their time and provided lots of useful info.
+
+Reviewed some proposed digital accessibility guidance and hope I can provide some fresh energy to activity that has stalled a little in the face of competing priorities. My first impressions were that we were trying to do a little too much and perhaps be a little less ambitious with what we can expect from content producers. Almost talking a top three tasks approach and see how far that gets us.
+
+Finally starting to feel a little more at home in Miro, so am making some progress. I can worry less about the interface and how to do stuff and now concentrate on the content of the sticky notes. Still plenty to decide on how to organise to make a useable blueprint.
+And finally, was invited to observe a user testing session of a new product, and they are always interesting to watch. Props to colleague who managed to keep people on the thing to be tested when as is I’m sure normal, the discussions turn to wider underlying processes and issues that are manifest in the delivered product.
