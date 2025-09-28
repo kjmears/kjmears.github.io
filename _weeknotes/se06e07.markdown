@@ -1,0 +1,21 @@
+---
+date: "2025-09-28"
+title: Write stuff down
+season: 06
+episode: 07
+published: true
+---
+
+Big chunk of my thinking this week has been on a Service Blueprint.
+
+Faced with the task of taking lots of really interesting, but quite disparate needs, comments, observations, processes and actors that have been captured. I found it a tricky one to know where to start, so I started at the beginning! One of the chief function of a Service Blueprint is to make visual relationships, so I did the basic stuff of grouping things. That gets things moving, and as things coalesce the heading and ways to group things started to make sense.
+
+I’m reminded often of the quote ‘The map is not the territory’ and one function of  the blueprint is as a guidance to all the other resources you need to deliver the service. That’s a blueprint as a functional resources, but after discussions with my clever colleagues, I also see the communication and engagement function it can serve. Looking forward to chewing over those aspects, while refining the existing prototype.
+
+Met some developers this week, who seem keen to have a BA (me) on board, and I was happy to be metaphorically piped aboard. Still can’t quit believe it’s only my 4th week.
+
+Have a load of dry links on oversight frameworks in various parts of the NHS, though can’t quote remember why I started looking at them.
+
+Paying the price for this week note, of not being efficient at writing daily stuff down, despite spending a good chink of Friday coming up with some ideas on ways of working. Especially since I actually said my ‘thing’ is ‘writing stuff down’
+
+The irony.
