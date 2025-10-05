@@ -1,0 +1,37 @@
+---
+date: "2025-10-05"
+title: Working on working
+season: 06
+episode: 08
+published: true
+---
+
+I started this week by presenting some ideas on how we might manage tasks and work as we’re scaling up from a team of two to a team of three. I scribbled down my ideas on the differences between Planner and to-do lists, which I found as useful as an audit on a good old-fashioned whiteboard.
+
+I found a good use of AI - using it to clean the pic of the whiteboard, and tasks that would’ve been a pain to do. I then dropped that into a Miro board and further refined my thinking. 
+
+ It was a challenge to not be prescriptive and understand how others might want to work, whilst acknowledging that the tools make some assumptions. It’s not the first time I’ve seen the potential of planners, but also some of the cognitive load required to commit to a discipline, an unstructured system. 
+
+Amazingly, for the first time, it’s occurred to me that my desire to be so interested in methods of getting work done might be a coping mechanism for my fragile attention. I think it works.
+
+I found it really useful to have Gruff walk me through a Miro board rather than have to work it out on my own. It was eye-opening just how much is being captured about complex processes and services. 
+
+I met another interesting person; this time talking about a web transformation project. Haven’t everybody got one? I think we bonded over a familiar dislike of the ‘welcome to this website’ paragraph.
+
+I went up a little cul-de-sac, looking at the Business Model Canvas as a way to represent a service. I didn’t think it was a good idea in the end because it’s very geared towards business and quite packed with jargon that I don’t think is particularly helpful, especially when you consider it’s meant to be for communication and clarification.
+
+So far I’ve been impressed with how much stuff is in the Miro boards, but am still figuring out the etiquette and culture around their use. Some naming conventions might be useful, starting with a system to help people work out which boards are active, which are stale, and what they are being used for. Coming with fresh eyes to Miro and its use has been interesting and illuminating. Monika showed a great example of a board that had been well designed for a clear communication task, and I think it will serve as a great benchmark.
+
+I’m trying to get a picture of how the boards are being used and at what point the things captured on them are turned into actions and outputs that people can use. I haven’t come across anyone who lives entirely in a Miro board yet. I have to be honest, they think I’d drive me mad if I did.
+
+A new line of thought is to create a halfway house with some gentle etiquette and suggestions to tidy things up.
+
+Had a long session working through some challenges around digital roles and responsibilities across the organisation and how that relates to projects and service delivery. It was a bit of a ball of wool, but it was related to how people work and how you go from activity to outputs to outcomes. All helped with some basic but helpful diagrams, now that I feel more confident in Miro. Starting to feel like I’m getting Miro Match fit.
+
+## Media highlights this week 
+
+- One Day in the Life of Ivan Denisovich - Strangely uplifting tale of survival in the political camps of Soviet Russia. Human-scale story against inhuman context.
+- The Assassin - Enjoyably knockabout action with Keeley Hawes ably supported.
+- The Guest - Four episodes seemed about right - decent, not brilliant.
+
+And of course the ongoing regular watch of Cagney and Lacey - series 4. Holding up really well.
