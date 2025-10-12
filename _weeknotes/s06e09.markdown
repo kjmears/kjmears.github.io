@@ -1,5 +1,5 @@
 ---
-date: "2025-10-02"
+date: "2025-10-12"
 title: Short optimistic week
 season: 06
 episode: 09
