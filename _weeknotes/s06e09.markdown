@@ -6,7 +6,7 @@ episode: 09
 published: true
 ---
 
-Started the short 3 day week working on a spreadsheet that’s being used to track work and collect updates. Trying to understand the conventions and see what I can figure out from the document alone. I find this stage pretty useful, as yougo in cold, and so much doesn’t make immediate sense. You have to assume someone else will be in the same position for whatever change we come up with. A useful reminder.
+Started the short 3 day week working on a spreadsheet that’s being used to track work and collect updates. Trying to understand the conventions and see what I can figure out from the document alone. I find this stage pretty useful, as you go in cold, and so much doesn’t make immediate sense. You have to assume someone else will be in the same position for whatever change we come up with. A useful reminder.
 
 Then an Intro to another clever, friendly person - this time on the Data Science side of the org, doing all sorts of fascinating work with data, and wrestling with how to communicate it to a very varied audience.
 
