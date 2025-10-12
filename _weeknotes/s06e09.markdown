@@ -1,0 +1,21 @@
+---
+date: "2025-10-02"
+title: Short optimistic week
+season: 06
+episode: 09
+published: true
+---
+
+Started the short 3 day week working on a spreadsheet that’s being used to track work and collect updates. Trying to understand the conventions and see what I can figure out from the document alone. I find this stage pretty useful, as yougo in cold, and so much doesn’t make immediate sense. You have to assume someone else will be in the same position for whatever change we come up with. A useful reminder.
+
+Then an Intro to another clever, friendly person - this time on the Data Science side of the org, doing all sorts of fascinating work with data, and wrestling with how to communicate it to a very varied audience.
+
+A day in the office, and a chance to work together in person. Helped a little on user journey in progress - reminded me of pair programming - which was fun. Also getting into a discovery around an internal method of reporting.(the aforementioned spreadsheet) Asking some of the people - lets call them users - who have to do the reporting and work with the outputs from a regular meeting. The purpose of the meeting is probably assumed, but possibly not totally clarified. Hoping to help with that. Was funny that I’d had a a discussion where we talked about trying to avoid ‘solutioning’, and then proceeded to do a bit of it in the next meeting that was meant to be more of a discovery. In my defence I do think a little solutioning does help to provide something to talk about as long as you consider it a sketch on the way to something else.
+
+Then I had some leave.
+
+## Media this week
+
+Enjoying W1A on iPlayer - spectacularly late to the party, but enjoying the short bursts of absurdity
+
+Spent a big chunk of the week Reading ‘Human Kind’ by Rutger Bregman - one of those that I’ll be picking nuggets from a lot. It did follow the familiar path of talking examples and debunking them, but more than that I really enjoyed the overall optimistic tone. I works for me, and gave me a little support for my generally optimistic outlook, evn though the world seem pretty grim right now.
