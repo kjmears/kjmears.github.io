@@ -1,0 +1,27 @@
+---
+date: "2025-10-31"
+title: Awkward carry
+season: 06
+episode: 11
+published: true
+---
+I missed my Notes last week, which was a shame since I ended the week on a pretty nice event where I dusted off the markers and did some graphic recording, which is always fun to do and more importantly pretty useful.
+
+As for this week,a good friend and ex colleague came up with a good analogy that I've used frequently.Sometimes work feels like the awkward carry event at the worlds strongest man. You’re aware of the job and that it looks heavy, but when you go to tackle it, you can’t quite get a hold of it. I think you get the idea. It's a sort of helpful reminder that I should not overthink it, and some brute force begets some progress.
+
+This week has been a little like that for me. I managed to make some progress on some accessibility guidance, getting over the dart-itis and releasing some simple, hopefully practical guidance with an eye on continuous improvement of it.
+
+More frustrating has been to work on requirements that I seem to be getting making progress on Which were no longer what was needed. Not wasted Effort, because i can apply a similar approach on the next requirements that are coming up soon. I'm looking forward to that exercise since there are some pretty well defined flowcharts that people have already done, and will make a a good running start.
+
+Writing these notes on a Friday afternoon is also a win, since I've promised myself to start that routine for about 2 months.
+
+## What I've been consuming.
+
+I've been following links in the excellent Russell Davies book - Everything I Know about Life I learned From Powerpoint, -  [The McChrystal Afghanistan PowerPoint slides][stan] and the Fascinating [Inventor of PowerPoint][bob]. I read with interest, Nia's [piece on Digital in Wles][nia] that is gratifyingly getting lots of attention.
+
+I finished one of those books that comes up on the list of classics - [The Master and Margarita][master] - which was very enjoyable, pretty funny even if I'm always a bit slow on the uptake for allegories.
+
+[stan]: https://www.theguardian.com/news/datablog/2010/apr/29/mcchrystal-afghanistan-powerpoint-slide
+[bob]: https://www.robertgaskins.com/
+[nia]: https://transform.wales/blog/2025/practicing-the-language-of-digital/
+[master]: https://en.wikipedia.org/wiki/The_Master_and_Margarita
