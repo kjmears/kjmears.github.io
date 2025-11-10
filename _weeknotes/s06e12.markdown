@@ -1,0 +1,24 @@
+---
+date: "2025-11-09"
+title: IRL FTW
+season: 06
+episode: 12
+published: true
+---
+
+As usual I've left it til the last minute, and consequently will probably poorly summarize the week, because I'm tired. A little annual leave at the start if the week meant it was just 4 days, but managed to pack in 2 large in-person events and a few handy meetings to work out some details for more involved User sessions next week.
+
+As a new member of the organisation i’ve been gradually absorbing the structure, and a day of meeting people from my directorate was pretty handy - I always like an in-person event. The theme of the day was ‘change’. A bit broad in my opinion, and consequently the talks people delivered were a little hamstrung by the open brief. I think everyone tried to do a little too much, and didn’t really end with an ‘ask’. (an idea I’ve just learned from Russell’s Book). Probably the best bit of the day was the Q&A, which worked well with some good questions (and Answers). The questions were anonymously posted in real time, and were better than the often softball ones that can happen at these events. 
+
+On Friday it was the long awaited [GovCamp Cymru][govcamp]. I’ve made some contribution as one of the core team of organisers this year, but was struck by how well the rest of the team did so much, and got enough of an insight into organising an event to get an even greater appreciation of the work that goes into it. It felt good to have the day finally arrive. The event was at the impressive Welsh Government buildings, and being a Campmaker was a great way to keep busy and be involved. I think it was one of the biggest yet, with a nice range of attendees.  I was assigned as a notetaker for 3 sessions, and enjoyed that randomness. I managed to catch up with old colleagues and some online acquaintances - and met some new people. Look forward to the debrief where we’ll start to get an idea of the notes from the sessions and what actions might result. The transform wales initiative was a pretty great outcome of last year.
+
+So, a busy but energising week.
+
+## Media
+
+Very special mention has to go to Russell Davies and his extravagantly titled book - [Everything I Know about Life I learned From Powerpoint][power]. Favourite book of the year in a strong field, and I’ve been recommending it to as many people as possible. A cracking history of PowerPoint, with great opinions on why a history of PowerPoint is interesting. Then a smorgasbord of useful, creative and practical ideas on how to use it. A joy to read - hence the desire to recommend so much  - I want others to get that out of it. And so many things to follow up on.
+
+Celebrity Traitors - good fun, and a throwback to olden times when lots of people watched the same thing and the same time and talked about it.
+
+[power]: https://amzn.to/49HM1t1
+[govcamp]: https://www.govcamp.cymru

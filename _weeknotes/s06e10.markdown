@@ -6,7 +6,7 @@ episode: 10
 published: true
 ---
 Frustrating start of the week, overthinking of my tasks, where they live and how to manage them - Did a diagram of how we are using planner, to get it out my head. Quite how to make changes and be opinionated is a challenge. So some output at least. 
- 
+
 Met a product manager who as you might expect had some ideas and options of how things are like they are and plenty more on how to move things along. Was a good meeting at a good time to get out of my overthinking funk and hear a new voice. One to remember for next time. Also a simple change in scenery by gong in to the office seems to help.
 
 More discovery around a collab tool, which it turns out there needs to be some due diligence around. A small example of scope creep from my initial task, but it won’t all be down to me, and after the meeting to discuss some more, turns out there’s some solid things to clarify.
