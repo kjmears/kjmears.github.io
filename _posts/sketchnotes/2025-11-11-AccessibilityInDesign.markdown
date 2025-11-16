@@ -24,7 +24,7 @@ cc: BY-SA
 
 Two varied talks put on by [Centre for Digital Public Services][cdps]
 
-Thr first was in three parts from Dr Evangelia Chrysikou, who comes from an architecture background, and has researched how Accessibility is too often left out of plans. Calling for digital literacy from architects. She also covered the challenges of tele-medicine and how siple things such as the environment of a healthcare professional on a call can affect trust in the person. Simple things  like good lighting and tidy environment. The last section was looking at the reality of robots in homes - challenges around psychology, logistics and infrastructure.
+The first was in three parts from Dr Evangelia Chrysikou, who comes from an architecture background, and has researched how Accessibility is too often left out of plans. Calling for digital literacy from architects. She also covered the challenges of tele-medicine and how siple things such as the environment of a healthcare professional on a call can affect trust in the person. Simple things  like good lighting and tidy environment. The last section was looking at the reality of robots in homes - challenges around psychology, logistics and infrastructure.
 
 The next talk was a change of gear, and had Harold talking very candidly above his health conditions and the subsequent challenges. Things like finding a clean surface in public toilets to attend to his medical needs, navigating digital interfaces during a medical emergency, and also positive experiences of finding a community, unusually through the manufacturer that responded really well to user needs.
 
@@ -35,7 +35,6 @@ Also with a nice mnemonic to deliver a talk. A pirate talk
 - Route
 - Remember
 - Reflect - (I missed one).
-
 
 Turns out there's a [paper][paper] by Harold
 

@@ -1,0 +1,23 @@
+---
+date: "2025-11-16"
+title: Productive Meetings - Surely not!
+season: 06
+episode: 13
+published: true
+---
+
+More meetings and events than usual - and good ones too.
+
+Had my first meeting as a member of the ‘Coffee Roulette’ scheme - a lovely initiative created by a new starter to the organisation to encourage people to meet. As it turns out I was tasked with arranging a meeting with someone I’ve already met, but was a great excuse to meet, and boy did we talk. I don’t think it was meant to be about work directly - more about getting to know people, with the idea that people work with people. I guess that can sound a little wooly, but no consultant coming into an organisation ever said - “your communication is exemplary, nothing to improve” - so I think it’s good that time to communicate is made, and with the freedom to properly connect. It helps that I’m not shy of straight out asking people things. Some might say that is nosy, I prefer curious.
+
+I went to an Accessibility event - for which I did some [sketchnotes][notes]
+
+Did some basic training on Risk, talking about some concepts. One thing for me to remember is  Risk is now defined as the “effect of uncertainty on objectives”, which focuses on the effect of incomplete knowledge of events or circumstances on an organization's decision making. A definition that I hadn’t heard before, and one that I will have to ponder to see if I can absorb the implications. Handy to consider since later in the week I was part of a User Research session looking for input on what might be needed to help people move to a new system (and potentially processes) to manage risk. Was great that many of the users were new to Miro, and the idea of the session, and got on really well with both. Due in no small part to my colleague Gruff’ expert handling of it. Some good stuff to dig into next week.
+
+Went to a brief  Community of Practice: ‘Agility in Action’ meeting that moved beyond the all to common discussions of Waterfall v Agile. Notably through the insight that maybe the org wasn't in fact going from a structured method to a more fluid method, but from no method at all.  One thing that came out that I thought was great was people from different teams having the boldness to attend each other’s stand ups, and realise that they were each doing them quite differently.  A great way to sense check your own practice, and get fresh eyes.
+
+Ended the week with a fascinating session, in the early stages of trying to understand a complex but very established process with strong record keeping requirements. Took me back to my old job which seems an age away. Made all the more interesting and live, by the fact that the kind person explaining it all had to occasionally answer emergency calls and a pager.
+
+I probably could pulled out some more insightful things had I started earlier. If I keep noticing the last minute of my notes, here’s hoping I’ll eventually give myself a bit more time.
+
+[notes]:/sketchnotes/AccessibilityInDesign.html
