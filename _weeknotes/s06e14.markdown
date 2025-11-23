@@ -1,0 +1,32 @@
+---
+date: "2025-11-23"
+title: Short and sweet
+season: 06
+episode: 13
+published: true
+---
+
+Welcomed a new team member - who will be taking on a pretty large and focused BA job. Nice to have them aboard.
+
+After a period of tweaking and nervousness before releasing I got over the hump and release a proposed solution to a process. Not a formal piece of work, but one of those instances where everyone knows there’s some friction and perhaps could be addressed. Sort of a between the cracks sort of thing - that it might be a good idea to do more of - provided one can fit it in. I say solution, it really is just a rethinking and restructuring of some information, but aren’t lots of things? 
+
+Presented some accessibility guidance for content people. Working on some existing guidance with the aim to reduce it to essentials that people can act on. During the meeting the question why people don’t use the Microsoft Accessibility checker came up (for the second time in as many weeks) - So I promised to make start in finding out why that is.
+
+Went to an interesting meeting with people from [Health Innovation Manchester][man] - hearing about their ideas on getting digital innovation into Clinical Safety practice.  Some of the familar issues - building good teams, of the right people, persevering and (One i particularly liked) bolt on to existing things.
+
+Had a long. energising session with a product manager on how to communicate processes and progress. Right up my street, and I think we reached some useful conclusions on what to do next. I just need to make sure I do it soon before the momentum and memory fades on what we actually worked out. I wrote some notes, but fully expect the prototyping process to be where it really works (or doesn’t).
+
+Went to an event for New Starters, which was well organised and great to meet people from disparate teams - emphasising how much there is to learn about the organisation, but really good to make connections in the virtual rolodex.
+
+## Media 
+
+Rather enjoying the BBC show ‘Riot Women’ - farily rattling through some issues.  A stark contrast to other ‘Silo’ that unfolds in a very leisurely way. I forgo to mention that I finished a book on the Lockheed Skunk Works.  I’d mentioned Skunk Works in a meeting with a limited knowledge of it and then a trip to the charity shop  - and there it was - so I fiugured I was compelled to buy it
+
+Best bit was at the start. talking specifics on the development of the stealth fighter. Then wandered back and forth through different periods on the technical problems they solved along the way, building incredible aircraft. Reading between the lines, it was a tough schooling, but produced great results. Takeaways from the final more reflective chapters - 
+- Build Prototypes
+- Plan for Improvements in Production
+
+Also curious anecdote that I think he just shoehorned in there because he liked it.
+Noah to wife “Make sure the elephants can’t see what the rabbits are doing”
+
+[man]: https://healthinnovationmanchester.com
