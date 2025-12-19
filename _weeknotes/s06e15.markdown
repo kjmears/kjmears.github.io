@@ -1,6 +1,4 @@
-
 ---
-
 date: "2025-12-19"
 title: "Capturing needs and writing stuff down"
 season: 06
