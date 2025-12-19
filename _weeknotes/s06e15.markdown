@@ -1,0 +1,38 @@
+
+---
+
+date: "2025-12-19"
+title: "Capturing needs and writing stuff down"
+season: 06
+episode: 15
+published: true
+---
+
+## Highlights
+
+Two standout sessions this week, around a project to understand the needs of users of a risk management system. Different perspectives in the sessions as the users had different needs and roles. It's always a fascinating ball of wool to unravel what is a need related to the system or the underlying policies and processes. My colleague, Gruff did a great job of moving everything along, while I typed away, treating everyone to a view of my sparsely thatched head. Since a recent training session on 'AI in the Workplace', I've been trying to do do a bit more, so gave it the task of cleaning my notes. Exactly the kind of thing it should be good at, and it was handy. Hardly a groundbreaking revelation, but you gotta start somewhere.
+
+Later in the I used it more to take notes from a transcription of a meeting, which did save a lot of work - but doesn't remove the need to take notes - which I use the keep myself on track in the meeting. I am finding it interesting that just going to a session, has given me the impetus to start trying things. The write up of the session is still languishing in the ToDo list, but I have an incentive to get it done.
+
+Elsewhere, I wrote up outputs from the sessions on our continued used of Miro - covering Governance and Compliance angles, and shared session notes with people from previous weeks. The task feels incomplete until I've shared session notes, and it's an important step to avoid a Rashomon style variation in recollections.
+
+Went as a newbie on another project - this time around the use of SMS for reminders. A tight timeframe for that one, and something that is likely to grow - I liked Monika's desire to abstract the processes into wider service patterns, since it seems like it will be replicated across lots of services in the future.
+
+And finally, a meeting getting read for more sessions digging into user needs for a new screening program next year.
+
+I think I'm ready for a break now.
+
+Off to mash away on the new old typewriter I was possessed to buy. Already had some great value by taking it apart and fixing it.
+
+## Media
+
+Not much to report on the media front - starting to get warmed up with [Will Self's memoir][will]
+
+## Elsewhere
+
+Enjoying Matt's [Series of Posts][matt] and glad to see the appearance of [Digital Respurces][cd]- coming out of GovCamp Cymru chats.
+
+---
+[will]: https://amzn.to/4pNoFrt
+[matt]: https://digitalbydefault.com/2025/12/15/imho-the-art-of-effective-agile/
+[cd]: https://cymruddigidol.github.io/
