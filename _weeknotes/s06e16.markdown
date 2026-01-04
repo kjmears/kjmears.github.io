@@ -42,7 +42,7 @@ Finally, after I write these things I have to remind myself that if I enjoy read
 [jo]: https://www.weareserviceworks.com
 [good]: https://good.services
 [nia]: https://medium.com/@niacampbell
-[heledd]: [https://www.linkedin.com/in/heledd-quaeck-0799071b/
+[heledd]: https://www.linkedin.com/in/heledd-quaeck-0799071b/
 [nrw]: https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-how-we-created-then-iterated-a-form-so-it-better-meets-user-needs-and-organisation-goals/?lang=en
 [slack]: https://contentdesign.london/content-club
 [films]: https://letterboxd.com/mearso/diary/films/for/2025/
