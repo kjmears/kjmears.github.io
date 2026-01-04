@@ -12,7 +12,7 @@ History will tell, but seems like 2025 was a big year for me. I left the Univers
 
 First quarter of the year was a kind of phoney war, waiting for the final fall of the axe, and then I had the opportunity to plan my exit during a period of gardening leave. I was lucky enough to attend some Service Design training, first an introduction with Jo from [We Are Service Works][jo] and then Sarah from [The School of Good Services][good]. At this point in the year I was considering how to package up my own bundle of skills and finesse them into more career and interview friendly package, so these courses were great in placing my experience (I have a bit) in a new context and gave me some confidence that a pivot of sorts was not only possible but desirable.
 
-Special mention should go here to Heledd's [blog post][heledd] early in the year that came at a perfect time to rekindle my enthusiasm for design - working in the open, going into detail and talking about results.
+Special mention should go here to [Heledd][https://www.linkedin.com/in/heledd-quaeck-0799071b/] wo shared a [blog post][nrw] early in the year that came at a perfect time to rekindle my enthusiasm for design - working in the open, going into detail and talking about results.
 
 Also, [Nia][nia], Tom and the [Content Club][slack] I met on Slack - I was rewarded with my new found activity with super useful advice, entertaining content related chat, and a chance to contribute here and there I found that also super helpful to clarify what to do next and acknowledge that I have managed to pick up some things over the years.
 
@@ -42,7 +42,7 @@ Finally, after I write theses things I have to remind myself that if I enjoy rea
 [jo]: https://www.weareserviceworks.com
 [good]: https://good.services
 [nia]: https://medium.com/@niacampbell
-[heledd]: https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-how-we-created-then-iterated-a-form-so-it-better-meets-user-needs-and-organisation-goals/?lang=en
+[nrw]: https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-how-we-created-then-iterated-a-form-so-it-better-meets-user-needs-and-organisation-goals/?lang=en
 [slack]: https://contentdesign.london/content-club
 [films]: https://letterboxd.com/mearso/diary/films/for/2025/
 [round]: /reading/2025/
