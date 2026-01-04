@@ -1,0 +1,48 @@
+---
+date: "2026-01-04"
+title: "A Yearnote"
+season: 06
+episode: 16
+published: true
+---
+
+## A big year
+
+History will tell, but seems like 2025 was a big year for me. I left the University after 30 years of working in various jobs, finally being designed out in one of the regular restructures that Universities seem addicted to. I survived a few over the years, but this one got me, and turns out it wasn't quite as bad as maybe I might have imagined.
+
+First quarter of the year was a kind of phoney war, waiting for the final fall of the axe, and then I had the opportunity to plan my exit during a period of gardening leave. I was lucky enough to attend some Service Design training, first an introduction with Jo from [We Are Service Works][jo] and then Sarah from [The School of Good Services][good]. At this point in the year I was considering how to package up my own bundle of skills and finesse them into more career and interview friendly package, so these courses were great in placing my experience (I have a bit) in a new context and gave me some confidence that a pivot of sorts was not only possible but desirable.
+
+Special mention should go here to Heledd's [blog post][heledd] early in the year that came at a perfect time to rekindle my enthusiasm for design - working in the open, going into detail and talking about results.
+
+Also, [Nia][nia], Tom and the [Content Club][slack] I met on Slack - I was rewarded with my new found activity with super useful advice, entertaining content related chat, and a chance to contribute here and there I found that also super helpful to clarify what to do next and acknowledge that I have managed to pick up some things over the years.
+
+Once I'd knocked a CV and Statement into shape good enough to get me shortlisted, I managed to get a couple of offers, and plumped for a job slightly more in on the start of something at PHW. I've been there 4 months now, and feel pretty energized by a new environment. Even though people who've left assured me that this would be the case, and many people thrive when they leave, it's very different to feeling for one self.
+
+I contributed a little to the organizing of GovCamp Cymru, and enjoyed being active and easily extracted as much energy out as I contributed. That was fun. And again met loads of clever commited people. Throughout the year, so many people gave their time, expertise and knowledge to chat, offer help nd advice for free in a way that still blows me away. I think I thanked them at the time, but would like to thank them again. Outstanding.
+
+It sounds straightforward, but the occasional surprise has been when emotional stuff catches me unawares. The anniversary of my redundancy notification was a wobbly moment, but I think I'm on an even keel now and looking forward to some exciting work coming up.
+
+I did try to feed my structured weekly information to an AI agent to generate this blog post, and it was so bad. Which is gratifying in a way.
+
+## Next year
+
+I don't bother with resolutions, but will endeavour to actually read all the links I'm in the habit of saving for later. 
+
+## The years' media
+
+Completed 3 seasons of Cagney & Lacey - which was our working class teatime TV watch. I first enjoyed it as teenager, and thankfully it held up well, and the supporting characters made more of am impression this time around. Someone should write a LinkedIn post on the leadership style of Lieutenant Samuels - cos I definitely won't be. All the films I watched are over on [Letterboxd][films]. Slow Horses was the weighty watch, and was late to the Severance party.
+
+There's a [round up][round] of this year's elsewhere.
+
+## Who cares?
+
+Finally, after I write theses things I have to remind myself that if I enjoy reading other people's weeknotes, yearnotes and reflections it's not inconceivable they might be interested in mine.
+
+---
+[jo]: https://www.weareserviceworks.com
+[good]: https://good.services
+[nia]: https://medium.com/@niacampbell
+[heledd]: https://naturalresources.wales/footer-links/blog-nrw-digital/blog-post-how-we-created-then-iterated-a-form-so-it-better-meets-user-needs-and-organisation-goals/?lang=en
+[slack]: https://contentdesign.london/content-club
+[films]: https://letterboxd.com/mearso/diary/films/for/2025/
+[round]: /reading/2025/

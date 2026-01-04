@@ -1,0 +1,37 @@
+---
+layout: book
+title: Read in 2025
+published: true
+sitemap: true
+---
+
+<h1>Read in 2025</h1>
+
+<p>Eight biographies, Seven picture books of various lengths, an almost even split of fiction and non-fiction, a few abandonments, and less Sci-Fi than I'd planned. </p>
+
+<p>Looking back, I also collected a lot more work reference books when rethinking career options during the year. Continued my random trawling of charity shops - no way the algorithm would put together this list of books, and I like that. For the fiction I tended to pick from those <a href="https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list">lists</a> that <a href="https://www.penguin.co.uk/discover/articles/100-must-read-classic-books">recommend</a> great books, and unsurprisingly they are usually worth the effort.</p>
+
+<h2>Top three this year </h2>
+
+<ol>
+	<li><a href="https://amzn.to/3YkCiST">Everything I Know about Life I learned From Powerpoint</a> by Russell Davies</li>
+	<li><a href="https://amzn.to/4q7yzUV">Humankind</a> by Rutger Bregman</li>
+	<li><a href="https://amzn.to/3YpNMo5">Flash Boys</a> by Michael Lewis</li>
+</ol>
+
+<h2>In Chronological order</h2>
+
+<ol class="watched">
+	{% assign beans = site.data.books.books2025 | reverse %}
+		{% for item in beans %}
+		<li>
+			<strong>
+				{{ item.booktitle }}
+			</strong>
+			<em>{{ item.author }}</em> <br />{{ item.status }}
+			{% if item.notes %}
+			{{ item.notes }}
+			{% endif %}
+		</li>
+		{% endfor %}
+</ol>
