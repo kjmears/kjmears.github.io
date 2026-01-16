@@ -1,0 +1,35 @@
+---
+date: "2026-01-16"
+title: "Like Buses"
+season: 07
+episode: 01
+published: true
+---
+
+I think I might have a clue why this month seems to be flying by. It's not because I'm old and on the downhill slopes of my [4000 weeks][4k], (though that may be true). I reckon it's because a load of work things are hoving into view over the horizon all at once - like the combined fleet at Trafalgar (I've been listening to History podcasts)
+
+Not necessarily  in the order they happened - Helped out of a couple of User research sessions, one of which was good as we ironed out a few wrinkles from  a previous session, by inviting people into breakout groups to do some in depth work.  The feedback seemed good, and it was a good call. I enjoyed a bit of design work to consider how best to present user stories so that people could validate and work with them.
+
+The second session was a more generative session - with the ubiquitous sticky placement around themes. Think it worked well to capture stuff, and the recording is sitting there quietly reminding me there is more analysis work to do.
+
+I was an attendee on a focus group around communication, which if I'm honest I thought might be a bit dull. I was wrong. Turned out to be pretty interesting to hear how people consume news, and discovered that loads of people seem to be actively avoiding more general news. The good news seems to be that internal comms is pretty good, but with some uncertainties about .'leadership messages'. That might be par for the course in any big org though.  I did enjoy the more specific stuff on how people consume news and what tools and methods. There was even a lamenting of the passing of RSS.
+
+Some more follow up work to get enough requirements together to make a specification to go to market. That sounds unsatisfyingly vague to me, so I'll looking to work backwards from a specification that has worked and take it from there. I often find myself looking for examples of things - something concrete rather than relying on everyone's mental models.
+
+Then some more urgent work to work out how I can hit the ground running to pick up a discovery thread that might prove useful in the short term.
+
+Also did a little prep for a workshop next week, trying to come up with questions that will get people talking without causing an argument.
+
+Been reading [The Radical How][how] - a small book from public Digital, and amongst other things there was this gem "No large failing government program has hit the rocks because it didn't have enough meetings' - can relate.
+
+## Media
+
+I binge-ed most of Series 3 of the Diplomat, Was a bit meh about the latest Knives out offering, and am very much enjoying the wonderful daftness of the meetings in [W1A][w1a].  I also thoroughly enjoyed the discovery of the [UK Library Categories Scheme][scheme] - No YOU'RE geeky. Oh, and rather enjoyed a touch of culture by going to a National Theatre screening of the play '[The Fifth Step[fifth]]' with Martin Freeman and Jack Lowden.
+
+Links
+
+[4k]: https://waitbutwhy.com/2014/05/life-weeks.html
+[how]: https://public.digital/the-radical-how
+[scheme]: https://bic.org.uk/resources/uk-standard-library-categories/
+[w1a]: https://www.bbc.co.uk/iplayer/episode/p05dpbm5/w1a-series-3-episode-1
+[fifth]: https://thefifthstep.ntlive.com/synopsis/
