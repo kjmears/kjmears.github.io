@@ -1,0 +1,31 @@
+---
+date: "2026-02-22"
+title: "Messy thoughts"
+season: 07
+episode: 02
+published: true
+---
+
+It's depressingly easy for this week noting habit to be derailed by a bout of sickness combined with a sudden urgent block of work. Aside from talking in the vaguest terms about the challenges of getting to speak to the right people to find out what is needed, and a dip in confidence when unsure about how much I was actually helping, there's not that much to say.
+
+The last few weeks have been a good [smoke test][smoke] for processes, and a note to self is to find the time to write up what I noticed and how to improve. Exactly the kind of thing a week-note helps with.
+
+A more random thought this week was on the oft used word - Silo. I've seen it come up a lot when people talk about organisations, often as a criticism that seems to identify something to fix.
+
+But I'm not sure that it helps at this point. It's in such common usage that it's become an accepted part of business jargon, that it's no longer (if it ever was) very descriptive or useful.
+
+More often than not the spiky fact is that two people didn't communicate. There might be many reasons why it hasn’t happened - some of them good, some of them reasonable some of them rubbish, but always ascribing that to an organizational deficiency might be letting people off the hook.
+
+I think it’s a example of smoothing out an activity and normalizing it. What do we mean when we say it?
+
+The jagged rock gets rolled down the river and turned into a pebble.
+
+They say some people write to find out what they think - I'm not sure that I have - but I'm getting there.
+
+And at least I can say I've done a week note.
+
+## Media
+
+Finished two rather good and different dramas on iPlayer this week. Small Prophets was a lovely gentle drama, and Waiting for the Out was an at times tense, bit always compelling  six parter.
+
+[smoke]: https://en.wikipedia.org/wiki/Smoke_testing_(software)
