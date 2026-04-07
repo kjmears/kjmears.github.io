@@ -1,0 +1,32 @@
+---
+date: "2026-04-07"
+title: "Overcoming inertia"
+season: 07
+episode: 03
+published: true
+---
+
+
+Experimenting with starting the week with weeknotes, perhaps as a momentum bump into the coming week. I say experimenting, it's just this one. 
+
+
+
+## Media
+
+I finished a really interesting book this week - 'Every Living Thing' by Jason Roberts. A biography of Linneaus and De Buffon, that ranged much wider, and I found myself relating so much back to my enjoyment of classifying and categorizing. Would recommend.
+
+Things I've been reading
+
+[The missing bar, why we need X-shaped people in a digital world][xshape]
+[‘Fracture’ serialisation part 1 – New tech observations from the UK (ntouk)][fracture]
+[Umberto Eco’s The Open Work: Summary and Critical Analysis - A2Z Literature][eco]
+[Start Here – Generalist World][gen]
+[The treadmill got faster - @paulmsmith][treadmill]
+
+
+
+[treadmill]: https://paulsmith.site/weeknotes/2026-03-27/the-treadmill-got-faster/
+[gen]: https://generalist.world/start-here/
+[eco]: https://a2zliterature.com/umberto-ecos-the-open-work-summary-and-critical-analysis/
+[fracture]: https://ntouk.wordpress.com/2026/01/20/fracture-serialisation-part-1/
+[xshape]: https://medium.com/design-bootcamp/the-missing-bar-why-we-need-x-shaped-people-in-a-digital-world-e57845983934?postPublishedType=repub
