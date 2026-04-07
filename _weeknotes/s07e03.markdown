@@ -7,26 +7,26 @@ published: true
 ---
 
 
-Experimenting with starting the week with weeknotes, perhaps as a momentum bump into the coming week. I say experimenting, it's just this one. 
+Experimenting with starting the week with weeknotes, perhaps as a momentum bump into the coming week. I say experimenting, it's just this one. Easing back in by talking about stuff I've consumed.
 
+I finished a really interesting book this week - '[Every Living Thing][book]' by Jason Roberts. A biography of [Linneaus][linneaus] and [De Buffon][buffon], that ranged much wider than just biographical details, though it was great on the widely different outlooks and characters. I found myself relating so much back to my enjoyment of classifying and categorizing. Would recommend.
 
+Things I've read from links I've saved. even though I acknowledge the sisyphean nature of saving links that doesn't stop we doing it. And now I'm adding to the problem by sharing more.
 
-## Media
+- [The missing bar, why we need X-shaped people in a digital world][xshape]
+- [‘Fracture’ serialisation part 1 – New tech observations from the UK][fracture]
+- [Umberto Eco’s The Open Work: Summary and Critical Analysis][eco]
+- [Generalist World][gen]
+- [The treadmill got faster][treadmill]
 
-I finished a really interesting book this week - 'Every Living Thing' by Jason Roberts. A biography of Linneaus and De Buffon, that ranged much wider, and I found myself relating so much back to my enjoyment of classifying and categorizing. Would recommend.
+On the subject of the endless nature of it all, [The Last Quiet Thing][quiet] by Terry Godier was a lovely find on Bluesky - well worth your time.
 
-Things I've been reading
-
-[The missing bar, why we need X-shaped people in a digital world][xshape]
-[‘Fracture’ serialisation part 1 – New tech observations from the UK (ntouk)][fracture]
-[Umberto Eco’s The Open Work: Summary and Critical Analysis - A2Z Literature][eco]
-[Start Here – Generalist World][gen]
-[The treadmill got faster - @paulmsmith][treadmill]
-
-
-
+[book]: https://www.goodreads.com/book/show/13131528-every-living-thing
+[linneaus]: https://en.wikipedia.org/wiki/Carl_Linnaeus
+[buffon]: https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon
 [treadmill]: https://paulsmith.site/weeknotes/2026-03-27/the-treadmill-got-faster/
 [gen]: https://generalist.world/start-here/
 [eco]: https://a2zliterature.com/umberto-ecos-the-open-work-summary-and-critical-analysis/
 [fracture]: https://ntouk.wordpress.com/2026/01/20/fracture-serialisation-part-1/
 [xshape]: https://medium.com/design-bootcamp/the-missing-bar-why-we-need-x-shaped-people-in-a-digital-world-e57845983934?postPublishedType=repub
+[quiet]: https://www.terrygodier.com/the-last-quiet-thing
