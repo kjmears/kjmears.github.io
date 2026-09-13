@@ -1,0 +1,31 @@
+---
+date: "2026-09-13"
+title: "Urgent not urgent"
+season: 07
+episode: 05
+published: true
+---
+
+- Taking my cue from the way that [Alice Bartlett][Bartlett] does weeknotes…
+
+- Finishing writing up a workshop (using the word workshop for everything is something I can't quite get over. Workshopping as a verb - nope). Reasonably happy that it went ok despite giving me stress related eye twitches for a week.
+
+- Then some prep for another workshop not workshop, where it seems the job is taking half formed notions of what people want to achieve and work out how you can help. So I did that.
+
+- Team catch up where they let me ramble on with the latest thoughts on the intractable problem of updates - too many or not enough, too much detail or not enough etc. If you know, you know.
+
+- Early meeting with lots of concerns, slightly problematic with different degrees of understanding in the meeting eventually leading to me chasing up a possible solution, and the accompanying governance work. One good thing about urgent stuff, is there’s less room for distraction and procrastination, so while I wouldn’t want to be always in urgent mode it’s pretty good to have that enforced change of pace
+
+- Sinus headache to start the day, and then chasing more stuff. 
+
+- A meeting where I threw the cat among the pigeons by suggesting that people who raise ITcalls should be the on’es to close the call. Its definitely not a hil I want to die on, but the response from normally quiet people in the meeting was interesting.  People were very quick to explain how I was wrong, but most intriguingly no one suggested we ask the users.
+
+- Long requirements meeting (another ‘workshop’) - This one with a supplier, and despite one urgent issue dominating - yes the same one from earlier in the week - it was useful. But did strike me that it needed less people
+
+- Then some work on an Alpha brief that I guess will grow and contract like a living thing over the next week.
+
+- I wrote some other random notes when I couldn’t sleep - musing at 3 in the morning on how I use CoPilot. To my mind like hitting tennis ball against a wall - not as good as a playing with a real person, but useful to get in the groove as something to react to. A reactive way of thinking seems to suit me - getting something down to then refine and edit helps avoid distractions, and keeps me on task. And as time goes on, the prompts are getting more involved and precise - which again I’m finding a useful thinking focus. Your mileage will obviously vary.
+
+- In Media, have Ludwig, SIlo, Ted Lasso and Sewing Bee all on the go - a pretty eclectic mix.
+
+[Bartlett]: https://alicebartlett.co.uk/
