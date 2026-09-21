@@ -1,0 +1,42 @@
+---
+date: "2026-09-20"
+title: "Talks, Talkers, Talking"
+season: 07
+episode: 06
+published: true
+image: /TransformGovCardiff.jpg
+image-thumb: 
+image-caption: "Drawing from the back of the room"
+---
+
+## Bits
+
+Started the week with mopping up some of the urgent stuff from last week, which in itself is a pretty schizophrenic sentence. Then a Good team chat about week notes and the contrast between a really good meeting and a not. Then the a planned session (it must be a 'session' cos it had a Miro board, right?), with the genius idea of discovering a bit about how we work - not just as an exercise in curiosity, but to work how to do updates, do tasks and all that gritty work _around_ work that everyone does. Turning our own user research and discovery lense on ourselves was handy and useful.
+  
+## Presenting
+
+Had the luxury of getting slides done for my talk on Document Accessibility relatively early so could spend some time tweaking the order and the speaker notes. Going from the multiple bullet points per slide to a more succinct version for each slide took a while, but I think it worked out ok.
+
+I delivered the talk on Wednesday, to a very engaged Community of Practice on Digital EInclusion. As is always the case, I get a bit self conscious with being the centre of attention - bit of a flaw perhaps for a speaker, but people seemed happy with it. I learnt plenty too.
+
+## TransformGov event in Cardiff
+
+Went to the first [TransformGov Talks][tgt] event held in Wales. I had a a little trouble hearing at the back, so didn't do normal sketchnotes, but I got enough to be interested in the contrast between the talks. One was about setting up a new service, so had challenges with lots of unknowns and endeavouring to answer future questions, leading to lots of redesigning as new facts emerged.
+
+The other talk was about re-engineering an existing (big) service and even though the respective teams used similar tools and techniques(User Research, Prototyping, Testing assumptions) - the change in context to iterate on existing stuff brought different challenges. Kudos if the talks were planned to be complementary in that way. Similar approaches in different contexts.
+
+Personal Highlight was reminiscing with online 'elder' [Matt][matt],having been entertained and informed at quite of few of [his][port80] [talks][iwmw], and was fun finally catch up.Also delightful was me asking 'whatever happened to Laura, who was your colleague at one time?' and him saying here she is. Which led to a great catch up and news of fascinating [work][open] you should definitely check out.
+
+[Dafydd][Dafydd] and [Jo][Jo] wrapped it up with a broader strategic talk, which made me wonder what the new gov seems to be doing - wait and see I guess.
+
+## Insipred to experiment
+
+I also managed to catch a long postponed talk from Service Design week entitled 'IA before AI: How information architects are improving GOV.UK for people and machines'. It was a great talk by Dan Howarth and colleagues, and really came at a great time for me with lots of ideas coalescing, and being inspired by the intro to a subject (Ontology) in a practical way. It led to a fun day (and weekend) experimenting with an early sketch of an Enterprise Ontology which I'm currently quite excited about.
+
+[Dafydd]: https://dafyddvaughan.uk/
+[Jo]: https://www.weareserviceworks.com/
+[tgt]: https://www.transformgov.org.uk/
+[matt]: https://digitalbydefault.com/
+[open]: https://www.opensystemslab.io/
+[port80]: /sketchnotes/port80-2014-matt-jukes.html
+[iwmw]: /sketchnotes/iwmw16-matt-jukes.html

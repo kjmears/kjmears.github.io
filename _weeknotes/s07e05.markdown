@@ -26,6 +26,6 @@ published: true
 
 - I wrote some other random notes when I couldn’t sleep - musing at 3 in the morning on how I use CoPilot. To my mind like hitting tennis ball against a wall - not as good as a playing with a real person, but useful to get in the groove as something to react to. A reactive way of thinking seems to suit me - getting something down to then refine and edit helps avoid distractions, and keeps me on task. And as time goes on, the prompts are getting more involved and precise - which again I’m finding a useful thinking focus. Your mileage will obviously vary.
 
-- In Media, have Ludwig, SIlo, Ted Lasso and Sewing Bee all on the go - a pretty eclectic mix.
+- In Media, have Ludwig, Silo, Ted Lasso and Sewing Bee all on the go - a pretty eclectic mix.
 
 [Bartlett]: https://alicebartlett.co.uk/
